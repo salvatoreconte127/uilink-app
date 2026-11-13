@@ -1,6 +1,6 @@
 /* Service worker: dati e grafica sempre aggiornati quando c'è rete, app disponibile anche offline. */
-const CACHE = "uilink-v4";
-const SHELL = ["./", "index.html", "styles.css?v=4", "app.js?v=4", "manifest.webmanifest",
+const CACHE = "uilink-v5";
+const SHELL = ["./", "index.html", "styles.css?v=5", "app.js?v=5", "manifest.webmanifest",
   "icons/logo-round.png", "icons/apple-touch-icon.png", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {
