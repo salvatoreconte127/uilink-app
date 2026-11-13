@@ -1,0 +1,68 @@
+name: Aggiornamento giornaliero
+
+on:
+  schedule:
+    # ogni giorno alle 05:23 UTC (06:23 in inverno, 07:23 in estate, ora italiana)
+    - cron: "23 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggiorna
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Recupera la cache dei dettagli
+        uses: actions/cache@v4
+        with:
+          path: data/.cache.json
+          key: dettagli-${{ github.run_id }}
+          restore-keys: dettagli-
+
+      - name: Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Raccogli i bandi
+        run: python scripts/scrape.py
+
+      - name: Aggiorna i follower
+        env:
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
+          NEW_TIKTOK_REFRESH_FILE: ${{ runner.temp }}/tt_refresh
+        run: python scripts/followers.py
+
+      - name: Salva il nuovo token TikTok (se cambiato)
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          f="${{ runner.temp }}/tt_refresh"
+          if [ -s "$f" ] && [ -n "$GH_TOKEN" ]; then
+            gh secret set TIKTOK_REFRESH_TOKEN --repo "$GITHUB_REPOSITORY" < "$f"
+            echo "Token TikTok aggiornato"
+          fi
+          rm -f "$f"
+
+      - name: Pubblica i dati aggiornati
+        run: |
+          git config user.name "uilink-bot"
+          git config user.email "uilink-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Aggiornamento bandi $(date -u +%Y-%m-%d)"
+          git push

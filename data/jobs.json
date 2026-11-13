@@ -1,0 +1,2013 @@
+{
+ "aggiornato": "2026-11-13T11:52+00:00",
+ "fonti": {
+  "inPA": {
+   "ok": true,
+   "bandi": 55
+  },
+  "ConcorsiPubblici": {
+   "ok": true,
+   "bandi": 28
+  },
+  "Concorsando": {
+   "ok": true,
+   "bandi": 9
+  }
+ },
+ "totale": 59,
+ "nuoviOggi": 59,
+ "bandi": [
+  {
+   "id": "inpa:adaaf7ee56544d428d92adc5a7192de3",
+   "inpaId": "adaaf7ee56544d428d92adc5a7192de3",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Selezione n. 1 unità - ex art. 110, comma 1, del d.lgs. 18 agosto 2000, n. 267 - Area Tecnica",
+   "ente": "Comune di Decollatura",
+   "profilo": "Responsabile Area Tecnica",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-13",
+   "pubblicazione": "2026-11-03",
+   "contratto": "tempo determinato, part time",
+   "descrizione": "selezione di n. 1 unità - ex art. 110, comma 1, del d.lgs. 18 agosto 2000, n. 267, per il conferimento di un incarico a tempo determinato e parziale (50%) di funzionario ed EQ, primo differenziale stipendiale",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/63ba1dd2-e1f3-4136-933e-5a10e5295efa",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=adaaf7ee56544d428d92adc5a7192de3",
+   "linkEnte": "https://comune.decollatura.cz.it/",
+   "key": "inpa:adaaf7ee56544d428d92adc5a7192de3",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "cp:comune-di-petrizzi-concorso-funzionario-amministrativo-contabile-catanzaro-2026",
+   "fonti": [
+    "ConcorsiPubblici"
+   ],
+   "titolo": "Comune di Petrizzi, 1 funzionario amministrativo contabile",
+   "ente": "Comune di Petrizzi",
+   "profilo": "funzionario amministrativo contabile",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": null,
+   "scadenza": "2026-11-13",
+   "pubblicazione": "",
+   "descrizione": "Selezione pubblica ex art. 110, c. 1, D.Lgs. 267/2000 per n. 1 Funzionario amministrativo-contabile, Area E.Q., a tempo determinato (12 mesi) e parziale (18 ore), Responsabile Area Finanziaria.",
+   "link": "https://www.concorsipubblici.com/comune-di-petrizzi-concorso-funzionario-amministrativo-contabile-catanzaro-2026",
+   "inpaId": "abf44e1a53b84a9ca961572f8dd66ea6",
+   "contratto": "tempo determinato",
+   "mansioni": "il Comune di Petrizzi, in esecuzione della propria programmazione organizzativa e del fabbisogno di  personale, intende assicurare la continuità e la regolarità delle funzioni essenziali dell’Area Finanziaria, con  particolare riferimento alle attività di pro grammazione economico-finanziaria, bilancio, ragioneria, gestione  contabile, entrate, spese, rendicontazione, equilibri di bilancio, verifiche contabili e…",
+   "titoliStudio": "a. diploma di laurea conseguito secondo l’ordinamento previgente al decreto ministeriale n. 509/1999, in Economia e commercio o Giurisprudenza, o titolo equipollente secondo la normativa vigente;\nb. laurea specialistica o laurea magistrale equiparata ai titoli di cui alla lettera a), secondo la normativa vigente;\nc. laurea quinquennale coerente con le funzioni oggetto dell’incarico, secondo l’ordinamento…",
+   "requisiti": "È richiesto il possesso di uno dei seguenti titoli di studio, attinente alle funzioni amministrative, economiche e contabili oggetto dell’incarico:\na. diploma di laurea conseguito secondo l’ordinamento previgente al decreto ministeriale n. 509/1999, in Economia e commercio o Giurisprudenza, o titolo equipollente secondo la normativa vigente;\nb. laurea specialistica o laurea magistrale equiparata ai titoli di cui alla lettera a), secondo la normativa vigente;\nc. laurea quinquennale coerente con le funzioni oggetto dell’incarico, secondo l’ordinamento vigente. \nÈ richiesto il possesso di uno…",
+   "prove": "Il colloquio è diretto ad accertare il possesso di adeguate competenze, capacità e attitudini per lo svolgimento delle funzioni oggetto dell’incarico. Il colloquio può riguardare, in particolare: a. ordinamento degli enti locali e funzioni dei responsabili di Area; b. disciplina del bilancio e…",
+   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/AVVISO_DI_SELEZIONE_110_TUEL%20%281%29.pdf",
+   "key": "inpa:abf44e1a53b84a9ca961572f8dd66ea6",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:8c0d797e46a14a86b8e7f1d41d5529bd",
+   "inpaId": "8c0d797e46a14a86b8e7f1d41d5529bd",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CATANZARO. ASSUNZIONE A TEMPO INDETERMINATO E PARZIALE 50% DI N°1 UNITA’ ISTRUTTORE AMMINISTRATIVO-CONTABILE - AREA DI CLASSIFICAZIONE “ISTRUTTORI” DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI DEL 16/11/2022 - MEDIANTE UTILIZZO DI GRADUATORIE DI ALTRI ENTI. MANIFESTAZIONE DI INTERESSE PER…",
+   "ente": "Comune di Catanzaro",
+   "profilo": "Istruttore amministrativo - contabile",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-14",
+   "pubblicazione": "2026-10-31",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il Comune di Catanzaro intende procedere all’acquisizione a tempo indeterminato e parziale 50% (18 ore settimanali) di n°1 Istruttore Amministrativo-contabile, Area degli “Istruttori” del nuovo CCNL del 16/11/2022, mediante utilizzo di graduatorie di concorsi pubblici approvate da altri enti del comparto delle “Funzioni locali”.",
+   "mansioni": "l’esecuzione dei propri compiti di interesse pubblico o comunque connessi all'esercizio dei propri  pubblici poteri di cui è investito il titolare del trattamento (ex art. 6 par.",
+   "titoliStudio": "",
+   "requisiti": "REQUISITI PER LA MANIFESTAZIONE DI INTERESSE\nIl concorso pubblico cui si riferisce la graduatoria che viene segnalata deve aver richiesto oltre ai  requisiti di ordine generale previsti per l’accesso nelle pubbliche amministrazioni, anche il  possesso dell’idoneità fisica all'impiego nelle mansioni specifiche del profilo professionale\nil possesso dei requisiti di idoneità fisica all’impiego e alle mansioni proprie del profilo  professionale ricercato;\nAi soggetti chiamati verrà assegnato un termine non inferiore a tre giorni per confermare la propria  disponibilità in merito all’assunzione ed il possesso dei requisiti previsti dal bando di…",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/8a5b57ff-b5cb-4b38-8331-1231ac0452fb",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8c0d797e46a14a86b8e7f1d41d5529bd",
+   "linkEnte": "",
+   "key": "inpa:8c0d797e46a14a86b8e7f1d41d5529bd",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:18ed045aee7a425ea9c8358776166112",
+   "inpaId": "18ed045aee7a425ea9c8358776166112",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Stabilizzazione ex art. 3, comma 5, d.l. n. 44/2023 – n. 1 Agente di Polizia Locale, Area degli Istruttori – Tempo indeterminato e parziale (30 ore settimanali)",
+   "ente": "Comune di Bagnara Calabra",
+   "profilo": "Agente di Polizia Locale – Area degli Istruttori",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-16",
+   "pubblicazione": "2026-11-05",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Stabilizzazione ai sensi dell’art. 3, comma 5, del d.l. n. 44/2023 per n. 1 Agente di Polizia Locale, Area degli Istruttori, a tempo indeterminato e parziale per 30 ore settimanali, presso il Comune di Bagnara Calabra.",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "Requisiti, modalità di partecipazione e calendario del colloquio sono indicati nell’avviso allegato.",
+   "prove": "Per colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/cbca4d6e-2c27-402d-9bbe-dedf2c22427d",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=18ed045aee7a425ea9c8358776166112",
+   "linkEnte": "",
+   "key": "inpa:18ed045aee7a425ea9c8358776166112",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:c44f0f823cc7408880c87455df3f34bb",
+   "inpaId": "c44f0f823cc7408880c87455df3f34bb",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Procedura di stabilizzazione, art. 8, comma 5 del D. L. 25/2025 convertito dalla L. 69/2025, assunzione a tempo indeterminato e pieno di n. 7 unità di personale, Area dei “Funzionari e dell’Elevata Qualificazione”CCNL Funzioni Locali, di cui n. 5 Funzionario Amministrativo e n. 2 Funzionario…",
+   "ente": "Regione Calabria",
+   "profilo": "5 Funzionari amministrativi e 2 Funzionari tecnici",
+   "sedi": [
+    "Calabria"
+   ],
+   "nazionale": false,
+   "posti": 7,
+   "scadenza": "2026-11-16",
+   "pubblicazione": "2026-10-29",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Procedura di stabilizzazione, ai sensi dell’art. 8, comma 5 del Decreto Legge 14 marzo 2025, n. 25, convertito con modificazioni dalla Legge 9 maggio 2025, n. 69, per l’assunzione a tempo indeterminato e pieno di n. 7 unità di personale, con inquadramento nell’Area dei “Funzionari e dell’Elevata Qualificazione” (ex categoria D) del CCNL Funzioni Locali, di cui n. 5 con il profilo professionale di “Funzionario Amministrativo” e n. 2 con il profilo professionale di “Funzionario Tecnico”.",
+   "mansioni": "Finalità del tratta mento: i dati forniti verranno utilizzati per la gestione del procedimento  nell’ambito dell’esecuzione dei propri compiti di interesse pubblico o comunque connessi  all’esercizio dei propri pubblici poteri, ivi incluse le finalità di archiviazione.",
+   "titoliStudio": "il titolo di studio posseduto richiesto per l’accesso dall’esterno all’Area dei Funzionari e dell’Elevata",
+   "requisiti": "REQUISITI OBBLIGATORI PER L’AMMISSIONE ALLA SELEZIONE\nPer l’ammissione alla selezione è richiesto i l possesso, alla data di scadenza del termine per la  presentazione della domanda di partecipazione, di tutti i requisiti di seguito indicati, generali e  speciali, i quali devono permanere anche al momento dell’assunzione.\n1.1 Requisiti generali.\nI requisiti generali richiesti dalla presente procedura sono:\nI cittadini  dell’Unione Europea e di Paesi terzi devono, avere adeguata conoscenza della lingua italiana e,  fatta eccezione della titolarità della cittadinanza italiana, essere in possesso di tutti gli altri requisiti  previsti per i…",
+   "prove": "Per colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/836d422d-0f3e-42e7-bd93-f2b17eca6a2a",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c44f0f823cc7408880c87455df3f34bb",
+   "linkEnte": "https://www.regione.calabria.it/website/organizzazione/dipartimento3/subsite/concorsieselezioni/index.cfm",
+   "key": "inpa:c44f0f823cc7408880c87455df3f34bb",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi"
+   ],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:f42d0e869a824650904119a9d07dc64a",
+   "inpaId": "f42d0e869a824650904119a9d07dc64a",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI SELEZIONE PER MOBILITA’ VOLONTARIA, AI SENSI DELL’ART. 30 DEL D.LGS. N° 165 DEL 30.03.2001 E SUCCESSIVE MODIFICHE ED INTEGRAZIONI, PER L’ASSUNZIONE DI N.1 ISTRUTTORE AMMINISTRATIVO - AREA DEGLI ISTRUTTORI CCNL 2019/2021 GIA’ CAT. C A TEMPO PIENO ED INDETERMINATO",
+   "ente": "Comune di Tropea",
+   "profilo": "istruttore amministrativo",
+   "sedi": [
+    "Vibo Valentia"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-16",
+   "pubblicazione": "2026-10-17",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "Il comune di Tropea, in attuazione del vigente P.I.A.O. rende noto che è indetto AVVISO DI SELEZIONE PER MOBILITA’ VOLONTARIA, AI SENSI DELL’ART. 30 DEL D.LGS. N° 165 DEL 30.03.2001 E SUCCESSIVE MODIFICHE ED INTEGRAZIONI, PER L’ASSUNZIONE DI N.1 ISTRUTTORE AMMINISTRATIVO - AREA DEGLI ISTRUTTORI CCNL 2019/2021 GIA’ CAT. C A TEMPO PIENO ED INDETERMINATO",
+   "mansioni": "Il colloquio si svolgerà in data 23/11/2026 ore 09:00, in caso di variazione la data e l’orario del colloquio  verranno comunicati dalla Commissione Giudicatrice secondo le modalità previste al successivo art.9.",
+   "titoliStudio": " essere in possesso del titolo di studio richiesto per l’accesso dall’esterno alla categoria cui  appartiene il posto messo a selezione ossia il diploma di scuola secondaria di secondo grado  con consente l’accesso all’università\nIl titolo di studio posseduto, necessario per l’accesso dall’esterno alla categoria cui appartiene il  posto messo a selezione,",
+   "requisiti": "Alla procedura di mobilità di cui all’art. 1, possono partecipare i candidati che, alla data di scadenza  del termine utile per la presentazione delle domande di partecipazione, sono in possesso dei seguenti  requisiti:\n esperienza professionale di almeno un anno delle funzioni relative all’area e  al profilo professionale richiesto;\nLa mancanza anche di uno solo dei requisiti richiesti comporta l’esclusione dalla procedura stessa.\nI candidati dovranno, inoltre, inviare tramite la piattaforma di cui trattasi il proprio curriculum, che  dovrà contenere l’esplicita ed articolata enunciazione delle attività svolte, dell’esperienza …",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/d0778d1d-07ef-4d88-8c29-3c762d75447e",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f42d0e869a824650904119a9d07dc64a",
+   "linkEnte": "https://www.comune.tropea.vv.it/",
+   "key": "inpa:f42d0e869a824650904119a9d07dc64a",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:6bd1a6bb3a314e1eab9b67887ffa45df",
+   "inpaId": "6bd1a6bb3a314e1eab9b67887ffa45df",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI SELEZIONE INTERNA PER PROGRESSIONE TRA AREE “IN DEROGA” DEL PERSONALE DIPENDENTE A TEMPO INDETERMINATO PER LA COPERTURA DI N. 3 POSTI DI OPERATORE ESPERTO – AREA MANUTENZIONE",
+   "ente": "Comune di Praia a Mare",
+   "profilo": "Operatore Esperto",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 3,
+   "scadenza": "2026-11-17",
+   "pubblicazione": "2026-11-02",
+   "contratto": "tempo indeterminato",
+   "descrizione": "AVVISO DI SELEZIONE INTERNA PER PROGRESSIONE TRA AREE “IN DEROGA” DEL PERSONALE DIPENDENTE A TEMPO INDETERMINATO PER LA COPERTURA DI N. 3 POSTI DI OPERATORE ESPERTO – AREA MANUTENZIONE",
+   "mansioni": "Le attività di compilazione e di invio telematico della domanda saranno disponibili a decorrere dalla  data di pubblicazione del presente avviso sul Portale “InPA” e dovranno essere completate entro le  ore 23:59 del 17/11/2026.",
+   "titoliStudio": "Operatori (ex cat. A), tenendo conto anche del periodo maturato nell’ente di provenienza nel  caso in cui l’assunzione sia avvenuta tramite mobilità tra enti;  c) titolo di studio, così come previsto dalla tabella C allegata al CCNL 16/11/2022, denominata\nLa mancanza o l’assoluta indeterminatezza del titolo di studio richiesto, la mancanza dei requisiti di  servizio di cui al punto 1 del presente avviso o la…",
+   "requisiti": "REQUISITI PER L’AMMISSIONE\nPer l’ammissione alla selezione è richiesto il possesso dei seguenti requisiti:  a) essere assunti a tempo indeterminato e in servizio presso il Comune di Praia a Mare (CS) al  momento della scadenza del termine per la presentazione della domanda; sono inclusi i  dipendenti comandati o distaccati presso altri enti nel corso dell ’intero periodo o in parte di  esso;  b) essere inquadrati per l’intero periodo nell’area immediatamente inferiore, ovvero l’Area degli\nTutti i requisiti sopraindicati devono essere posseduti alla data di scadenza del termine utile per la  presentazione delle domande di ammissione alla…",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/2edaa876-fbf8-4757-93a7-2936aefd1cf0",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6bd1a6bb3a314e1eab9b67887ffa45df",
+   "linkEnte": "",
+   "key": "inpa:6bd1a6bb3a314e1eab9b67887ffa45df",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:8182f1d0c0734fc59e5b19ce319db7c8",
+   "inpaId": "8182f1d0c0734fc59e5b19ce319db7c8",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "SELEZIONE RISERVATA PER LA PROGRESSIONE TRA LE AREE “IN DEROGA” DEL PERSONALE DIPENDENTE A TEMPO INDETERMINATO FINALIZZATA ALLA COPERTURA DI N. 2 POSTI NELL’AREA DI INQUADRAMENTO PROFESSIONALE DI ISTRUTTORE – AREA POLIZIA LOCALE",
+   "ente": "Comune di Praia a Mare",
+   "profilo": "istruttore area polizia municipale",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-11-17",
+   "pubblicazione": "2026-11-02",
+   "contratto": "tempo indeterminato",
+   "descrizione": "SELEZIONE RISERVATA PER LA PROGRESSIONE TRA LE AREE “IN DEROGA” DEL PERSONALE DIPENDENTE A TEMPO INDETERMINATO FINALIZZATA ALLA COPERTURA DI N. 2 POSTI NELL’AREA DI INQUADRAMENTO PROFESSIONALE DI ISTRUTTORE – AREA POLIZIA LOCALE.",
+   "mansioni": "Le attività di compilazione e di invio telematico della domanda saranno disponibili a decorrere dalla  data di pubblicazione del presente avviso sul Portale “InPA” e dovranno essere completate entro le  ore 23:59 del 17/11/2026.\nAttribuzione formale di mansioni superiori:\n2 punti per ogni semestre di svolgimento  delle mansioni superiori per un massimo di",
+   "titoliStudio": "Operatori esperti (ex cat. B), tenendo conto anche del periodo maturato nell ’ente di  provenienza nel caso in cui l’assunzione sia avvenuta tramite mobilità tra enti;  c) titolo di studio, così come previsto dalla tabella C) allegata al CCNL 16/11/2022, denominata\ndiploma di scuola secondaria di secondo grado o titolo equipollente, secondo quanto  stabilito, in materia, da norme di legge o di regolamento e almeno…",
+   "requisiti": "REQUISITI PER L’AMMISSIONE\nPer l’ammissione alla selezione è richiesto il possesso dei seguenti requisiti:  a) essere assunti a tempo indeterminato e in servizio presso il Comune di Praia a Mare (CS) al  momento della scadenza del termine per la presentazione della domanda; sono inclusi i  dipendenti comandati o distaccati presso altri enti nel corso dell ’intero periodo o in parte di  esso;  b) essere inquadrati per l’intero periodo nell’area immediatamente inferiore, ovvero l’Area degli\ndiploma di scuola secondaria di secondo grado o titolo equipollente, secondo quanto  stabilito, in materia, da norme di legge o di regolamento e almeno 5…",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/377f0314-ad6f-4eb6-9acf-a5dd3e078b02",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8182f1d0c0734fc59e5b19ce319db7c8",
+   "linkEnte": "",
+   "key": "inpa:8182f1d0c0734fc59e5b19ce319db7c8",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:686a95d55c7742479ba3a36fee4980a1",
+   "inpaId": "686a95d55c7742479ba3a36fee4980a1",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO DI SELEZIONE COMPARATIVA EX ART. 110, COMMA 1, DEL T.U.E.L., PER IL CONFERIMENTO DI UN INCARICO A TEMPO DETERMINATO – 50% (18 ORE SETTIMANALI) - DI RESPONSABILE DEL SETTORE GOVERNO DEL TERRITORIO (FUNZIONARIO DI ELEVATA QUALIFICAZIONE – EX CAT. D)",
+   "ente": "Comune di Parenti",
+   "profilo": "RESPONSABILE DEL SETTORE GOVERNO DEL TERRITORIO (FUNZIONARIO DI ELEVATA QUALIFICAZIONE",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-17",
+   "pubblicazione": "2026-11-02",
+   "contratto": "tempo determinato",
+   "descrizione": "Avviso pubblico di selezione comparativa ex art. 110, comma 1, del t.U.E.L., per il conferimento di un incarico a tempo determinato – 50% (18 ore settimanali) – di responsabile del settore governo del territorio (funzionario di elevata qualificazione – ex cat. D)",
+   "mansioni": " capacità di gestione delle risorse umane: definizione dei ruoli, compiti e obiettivi del personale  assegnato oltre che capacità motivazionale dello stesso;\nNell’espletamento delle attività di controllo effettua sopralluoghi di cantieri, fabbriche ed aree  pubbliche.",
+   "titoliStudio": "1) Essere in possesso di uno dei seguenti diplomi di laurea (DL) dell’ordinamento anteriore alla riforma di cui al D.M. n.509/1999, ovvero delle corrispondenti lauree specialistiche (LS) o Magistrali (LM) di cui agli ordinamenti D.M. n.509/1999 e D.M. n.270/2004 e titoli equipollenti, nonché la relativa abilitazione all’esercizio della professione:\nA. Laurea Specialistica (LS) o Laurea Magistrale (LM)…",
+   "requisiti": "1) Essere in possesso di uno dei seguenti diplomi di laurea (DL) dell’ordinamento anteriore alla riforma di cui al D.M. n.509/1999, ovvero delle corrispondenti lauree specialistiche (LS) o Magistrali (LM) di cui agli ordinamenti D.M. n.509/1999 e D.M. n.270/2004 e titoli equipollenti, nonché la relativa abilitazione all’esercizio della professione:\nA. Laurea Specialistica (LS) o Laurea Magistrale (LM) appartenente a una delle seguenti classi del nuovo ordinamento universitario (D.M. 509/99 o D.M. 270/04):\nclasse 3/S Architettura del paesaggio;\nclasse 4/S – “Architettura e ingegneria…",
+   "prove": "Il colloquio orale sarà finalizzato ad accertare il grado di conoscenza e competenza manageriale del candidato, in relazione a quelle richieste per lo svolgimento delle mansioni proprie del profilo professionale ricercato, e in particolare, in tale occasione procederà alla valutazione complessiva…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Avviso%20%281%29.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=686a95d55c7742479ba3a36fee4980a1",
+   "linkEnte": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-parenti-concorso-funzionario-tecnico-cosenza-2026"
+   ],
+   "key": "inpa:686a95d55c7742479ba3a36fee4980a1",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:e5c5cb95bd5c4f23a85d973150576fde",
+   "inpaId": "e5c5cb95bd5c4f23a85d973150576fde",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI MOBILITA' OBBLIGATORIA EX ART. 34/BIS DEL D.LGS N.165/2001 PER RECLUTAMENTO DI PERSONALE IN DISPONIBILITA’ PRESSO P.A. APPARTENTI AL COMPARTO FUNZIONI LOCALI. AGENTE POLIZIA MUNICIPALE TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTRUTTORI (EX CAT. C)",
+   "ente": "Comune di Cropani",
+   "profilo": "AGENTE POLIZIA MUNICIPALE TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTRUTTORI (EX CAT. C)",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-17",
+   "pubblicazione": "2026-10-28",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO DI MOBILITA' OBBLIGATORIA EX ART. 34/BIS DEL D.LGS N.165/2001 PER RECLUTAMENTO DI PERSONALE IN DISPONIBILITA’ PRESSO P.A. APPARTENTI AL COMPARTO FUNZIONI LOCALI. AGENTE POLIZIA MUNICIPALE TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTRUTTORI (EX CAT. C)",
+   "mansioni": "Appartengono alla categoria ricercata i lavoratori che svolgono attività, come da  declaratoria delle categorie del CCNL del 31.3.1999, confermata dai successivi CCNL\nAvviso svolgerà le mansioni attinenti al proﬁlo professionale nell'ambito delle Aree, dei  settori e servizi di destinazione.\nLa selezione si svolgerà attraverso una veriﬁca delle domande pervenute che dovranno  contenere:",
+   "titoliStudio": "che possono partecipare a detta procedura solo ed esclusivamente il personale in  disponibilità della P.A. Comparto Funzioni Locali, a tempo indeterminato, in disponibilità  inferiore o pari a 24 mesi, che non siano stati destinatari di sanzioni disciplinari nell’ultimo  biennio, assunti a seguito di concorso pubblico e con inquadramento, titolo di studio e  qualiﬁca funzionale, come di seguito riportato:\nCategoria…",
+   "requisiti": "che il dipendente dovrà essere in disponibilità da non più di 24 mesi e non aver riportato  sanzioni disciplinari nel biennio precedente oltre che essere inquadrato nel livello indicato  e nel regime orario richiesto da questo Comune.\nche i l personale, in possesso dei requisiti richiesti ed interessato all’avviso, dovrà  presentare apposita domanda ai sensi della presente procedura.\nREQUISITI DI AMMISSIONE\nI requisiti richiesti per partecipare alla selezione, da possedere alla data di presentazione  della domanda, sono:\ndi non aver riportato condanne penali passate in giudicato;",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/6d884163-f80f-435c-bfd7-8d15b03bb304",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e5c5cb95bd5c4f23a85d973150576fde",
+   "linkEnte": "",
+   "key": "inpa:e5c5cb95bd5c4f23a85d973150576fde",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:83d44ca933e04ac5a18581f69083158a",
+   "inpaId": "83d44ca933e04ac5a18581f69083158a",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Manifestazione di interesse per idonei in graduatorie di concorsi pubblici espletati da altri Enti locali, per la copertura a tempo indeterminato e parziale (12 ore settimanali) di n. 1 posto Area degli Istruttori profilo di Istruttore amministrativo contabile, da destinare all’Area Economico…",
+   "ente": "Comune di Rombiolo",
+   "profilo": "Istruttore amministrativo contabile",
+   "sedi": [
+    "Vibo Valentia"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-18",
+   "pubblicazione": "2026-10-19",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Manifestazione interesse per idonei in graduatorie- Profilo istruttore amministartivo contabile.",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/8421a85e-4dcf-45d6-9f85-e1376d50e9cd",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=83d44ca933e04ac5a18581f69083158a",
+   "linkEnte": "https://portale1.halleysud.it/rombiolo/mc/mc_p_ricerca.php",
+   "key": "inpa:83d44ca933e04ac5a18581f69083158a",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "cd:881",
+   "inpaId": "532fe7d21c6041b6b65545eba9bfa110",
+   "fonti": [
+    "Concorsando"
+   ],
+   "titolo": "622 posti di assistenti gestionali l'Agenzia delle Entrate",
+   "ente": "Agenzia Delle Entrate",
+   "profilo": "",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 622,
+   "scadenza": "2026-11-18",
+   "pubblicazione": "",
+   "contratto": "tempo indeterminato",
+   "descrizione": "Selezione pubblica, ai sensi della legge 12 marzo 1999, n. 68 e del decreto-legge 14 marzo 2025, n. 25, convertito con modificazioni dalla legge 9 maggio 2025, n. 69, per l’assunzione a tempo indeterminato di 622 unità per l’ area assistenti , famiglia professionale di assistente gestionale (Cod. 622 ASS GEST) .",
+   "mansioni": "Attività: fornisce supporto all’attività amministrativa e a quelle di  competenza dell’ufficio di appartenenza; svolge attività di segreteria, flussi  documentali e protocollo ; elabora prospetti e tabulati e collabora alla  consuntivazione delle attività; gestisce gli archivi cartacei e informatici e il relativo  scarto d'archivio; si occupa dell’aggiornamento dei dati negli applicativi.\nCapacità tecniche :…",
+   "titoliStudio": "Diploma",
+   "requisiti": "2 Requisiti di ammissione\n2.1 Alla procedura selettiva possono partecipare coloro che, alla data di scadenza  del termine per la presentazione delle domande, sono in possesso dei requisiti  indicati di seguito:  a) appartenenza a una delle categorie di soggetti indicati dall’articolo 1,  comma 1, lettere a), b), c) e d) della legge 12 marzo 1999, n. 68;\nI requisiti di cui al comma 2.1 devono essere posseduti alla data di scadenza  del termine utile per la presentazione della domanda di partecipazione al  concorso e devono persistere fino alla data di stipula del contratto individuale  di lavoro a tempo indeterminato.\nL’Agenzia delle entrate…",
+   "prove": "",
+   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/387c3b5a-4bc5-4aca-a856-ddb0c550370e",
+   "link": "https://www.concorsando.it/blog/concorsi/622-posti-di-assistenti-gestionali-lagenzia-delle-entrate/",
+   "key": "inpa:532fe7d21c6041b6b65545eba9bfa110",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Agenzia delle Entrate"
+   ],
+   "categoria": "aziende"
+  },
+  {
+   "id": "inpa:7171a14e33654759be85c5a9ad2024db",
+   "inpaId": "7171a14e33654759be85c5a9ad2024db",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "PROCEDURA SELETTIVA PUBBLICA, PER TITOLI RELATIVA ALLA COSTITUZIONE DI UNA GRADUATORIA N. 2 CONTRATTI A TEMPO DETERMINATO PER IL SETTORE ARTISTICO DISCIPLINARE AFAM 037 - PRATICHE D'INSIEME ED ESTEMPORANEE PER I NUOVI LINGUAGGI MUSICALI",
+   "ente": "Conservatorio Musica Vibo Valentia",
+   "profilo": "Docente",
+   "sedi": [
+    "Vibo Valentia"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-11-19",
+   "pubblicazione": "2026-11-04",
+   "contratto": "tempo determinato",
+   "descrizione": "PROCEDURA SELETTIVA PUBBLICA, PER TITOLI RELATIVA ALLA COSTITUZIONE DI UNA GRADUATORIA N. 2 CONTRATTI A TEMPO DETERMINATO PER IL SETTORE ARTISTICO DISCIPLINARE AFAM 037 - PRATICHE D'INSIEME ED ESTEMPORANEE PER I NUOVI LINGUAGGI MUSICALI",
+   "mansioni": "Codice Settore artistico disciplinare  ed eventuale profilo Declaratoria\nredatta in lingua originale con allegata una traduzione in lingua italiana, certificata dalla  competente rappresentanza diplomatico-consolare, attestante che il servizio dichiarato è stato svolto  per attività di docenza nel livello di studio ISCED 6 (Primo ciclo – Bachelor o livello equivalente\nPer le Attività di produzione artistica,…",
+   "titoliStudio": "Diploma Accademico di II livello (Biennio) in qualsiasi disciplina Popular Music o Jazz\n* congiuntamente al possesso di un Diploma di Scuola Secondaria Superiore.\n1) Diploma del previgente ordinamento* o diploma accademico di II  livello rilasciato dalle Istituzioni statali e non statali di cui all ’art. 1",
+   "requisiti": "Requisiti generali e specifici di ammissione\nPer la partecipazione alla procedura selettiva sono richiesti, a pena di esclusione, i seguenti  requisiti generali:\nCittadinanza italiana, con equiparazione ai cittadini , degli italiani non appartenenti alla\nRepubblica, oppure cittadinanza di uno degli stati membri dell ’Unione Europea, oppure  titolarità del permesso di soggiorno UE per soggiornanti di lungo periodo, oppure titolarità  dello status di rifugiato o dello status di protezione sussidiaria, ai sensi dell ’art. 38, comma\n3-bis, D.Lgs. 30 marzo 2001, n. 165; possono partecipare anche cittadini extracomunitari  purché in possesso di…",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/bb8bcd1e-8504-46d3-9677-145bbbe007f4",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7171a14e33654759be85c5a9ad2024db",
+   "linkEnte": "www.convv.it",
+   "key": "inpa:7171a14e33654759be85c5a9ad2024db",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "AFAM – Conservatorio \"F. Torrefranca\" di Vibo Valentia",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:30e19f8bbd784bedaa441ec311c268fe",
+   "inpaId": "30e19f8bbd784bedaa441ec311c268fe",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI FINALIZZATO ALL’ASSUNZIONE A TEMPO PIENO E DETERMINATO PER SEI MESI DI N. 8 ISTRUTTORI DI VIGILANZA_AREA ISTRUTTORI",
+   "ente": "Comune di Lamezia Terme",
+   "profilo": "ISTRUTTORE DI VIGILANZA - AREA DEGLI ISTRUTTORI",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 8,
+   "scadenza": "2026-11-19",
+   "pubblicazione": "2026-11-04",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "AVVISO PUBBLICO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI FINALIZZATO ALL’ASSUNZIONE A TEMPO PIENO E DETERMINATO PER SEI MESI DI N. 8 (otto) ISTRUTTORI DI VIGILANZA – AREA ISTRUTTORI PRESSO IL COMUNE DI LAMEZIA TERME.",
+   "mansioni": "",
+   "titoliStudio": "in possesso di titolo di studio non inferiore al diploma di scuola di secondo grado;\nil titolo di studio posseduto, (con indicazione dell’anno scolastico/accademico di conseguimento e dell’Istituto/Ateneo che lo ha rilasciato con relativa sede);",
+   "requisiti": "La procedura di cui al presente avviso è riservata a coloro che sono: \n- interessati all’assunzione a tempo pieno e determinato (mesi sei) presso il Comune di Lamezia Terme, con la qualifica di Istruttore Agente di Vigilanza – Area degli Istruttori; \n- collocati utilmente in graduatorie in corso di validità, approvate da Enti del Comparto Funzioni Locali, in seguito all’espletamento di concorsi pubblici per la copertura di posti a tempo determinato o indeterminato, pieno o parziale, per l'Area e profilo professionale corrispondenti a quelli che questo Ente deve ricoprire (Istruttore Agente…",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/e5f857c0-06eb-41d8-a640-7763415b9b16",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=30e19f8bbd784bedaa441ec311c268fe",
+   "linkEnte": "https://www.comune.lamezia-terme.cz.it/it",
+   "key": "inpa:30e19f8bbd784bedaa441ec311c268fe",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:80627c4379144fc28c75d6741799e81e",
+   "inpaId": "80627c4379144fc28c75d6741799e81e",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "RIAPERTURA - Agenzia delle Entrate - Selezione pubblica, ai sensi della legge 12 marzo 1999, n. 68 e del decreto-legge 14 marzo 2025, n. 25, convertito con modificazioni dalla legge 9 maggio 2025, n. 69, per l’assunzione a tempo indeterminato di 622 unità per l’area assistenti, famiglia…",
+   "ente": "Agenzia delle Entrate",
+   "profilo": "Assistente gestionale",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 622,
+   "scadenza": "2026-11-19",
+   "pubblicazione": "2026-10-20",
+   "contratto": "tempo indeterminato",
+   "descrizione": "RIAPERTURA - Selezione pubblica, ai sensi della legge 12 marzo 1999, n. 68 e del decreto-legge 14 marzo 2025, n. 25, convertito con modificazioni dalla legge 9 maggio 2025, n. 69, per l’assunzione a tempo indeterminato di 622 unità per l’ area assistenti , famiglia professionale di assistente gestionale (Cod. 622 ASS GEST) .",
+   "mansioni": "Attività: fornisce supporto all’attività amministrativa e a quelle di  competenza dell’ufficio di appartenenza; svolge attività di segreteria, flussi  documentali e protocollo ; elabora prospetti e tabulati e collabora alla  consuntivazione delle attività; gestisce gli archivi cartacei e informatici e il relativo  scarto d'archivio; si occupa dell’aggiornamento dei dati negli applicativi.\nCapacità tecniche :…",
+   "titoliStudio": "",
+   "requisiti": "2 Requisiti di ammissione\n2.1 Alla procedura selettiva possono partecipare coloro che, alla data di scadenza  del termine per la presentazione delle domande, sono in possesso dei requisiti  indicati di seguito:  a) appartenenza a una delle categorie di soggetti indicati dall’articolo 1,  comma 1, lettere a), b), c) e d) della legge 12 marzo 1999, n. 68;\nI requisiti di cui al comma 2.1 devono essere posseduti alla data di scadenza  del termine utile per la presentazione della domanda di partecipazione al  concorso e devono persistere fino alla data di stipula del contratto individuale  di lavoro a tempo indeterminato.\nL’Agenzia delle entrate…",
+   "prove": "Per esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/fec48c49-297d-4a89-9804-6bd205edeabd",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=80627c4379144fc28c75d6741799e81e",
+   "linkEnte": "www.agenziaentrate.gov.it",
+   "key": "inpa:80627c4379144fc28c75d6741799e81e",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Agenzia delle Entrate"
+   ],
+   "categoria": "aziende"
+  },
+  {
+   "id": "inpa:8bcb59c82a394113a21d8bee927fd546",
+   "inpaId": "8bcb59c82a394113a21d8bee927fd546",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "BANDO DI INTERPELLO “ELENCO IDONEI” Per Enti sottoscrittori Accordo aggregato ex art.3-bis DL n.80/2021 COMUNE DI TARSIA (CS) FUNZIONARIO AMMINISTRATIVO CONTABILE (AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE) EX PROFILO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE CAT D",
+   "ente": "Comune di Tarsia",
+   "profilo": "FUNZIONARIO AMMINISTRATIVO CONTABILE (AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE) EX PROFILO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE CAT D",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-20",
+   "pubblicazione": "2026-11-05",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "BANDO DI INTERPELLO “ELENCO IDONEI” \nPer Enti sottoscrittori Accordo aggregato ex art.3-bis DL n.80/2021 \nCOMUNE DI TARSIA (CS) \nFUNZIONARIO AMMINISTRATIVO CONTABILE (AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE) EX PROFILO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE CAT D",
+   "mansioni": "con verbale del 01.03.2024 della Conferenza degli enti sottoscrittori è stato istituito, tra  l'altro, un Comitato Esecutivo con compiti operativi di supporto all'ente capofila;",
+   "titoliStudio": "",
+   "requisiti": "Con la domanda di adesione all’interpello il candidato autorizza l’Amministrazione alla pubblicazione, nell’ambito della procedura, del proprio nominativo sul sito Internet della Comune di Tarsia nel rispetto dei criteri di minimizzazione di legge. Con la sottoscrizione della domanda di adesione il candidato autorizza l’Amministrazione a operazioni di trattamento informatico e manuale dei dati per la gestione della Selezione nonché a operazioni di trasferimento degli stessi ad altre pubbliche amministrazioni per la gestione dell’interpello ai sensi della normativa vigente. I dati saranno…",
+   "prove": "Per colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/eb38792b-ba09-4675-9fc1-0043dfe233be",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8bcb59c82a394113a21d8bee927fd546",
+   "linkEnte": "",
+   "key": "inpa:8bcb59c82a394113a21d8bee927fd546",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:02622680f9514374adde3fe03a1e597a",
+   "inpaId": "02622680f9514374adde3fe03a1e597a",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "BANDO DI INTERPELLO “ELENCO IDONEI” Per Enti sottoscrittori Accordo aggregato ex art.3-bis DL n.80/2021 ISTRUTTORE AMMINISTRATIVO CONTABILE (AREA DEGLI ISTRUTTORI) EX PROFILO DI ISTRUTTORE AMMINISTRATIVO CONTABILE CAT.C1 - COMUNE DI TARSIA (CS)",
+   "ente": "Comune di Tarsia",
+   "profilo": "ISTRUTTORE AMMINISTRATIVO CONTABILE (AREA DEGLI ISTRUTTORI) EX PROFILO DI ISTRUTTORE AMMINISTRATIVO CONTABILE CAT.C1",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-20",
+   "pubblicazione": "2026-11-05",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "BANDO DI INTERPELLO “ELENCO IDONEI” \nPer Enti sottoscrittori Accordo aggregato ex art.3-bis DL n.80/2021 \nCOMUNE DI TARSIA (CS) \nISTRUTTORE AMMINISTRATIVO CONTABILE (AREA DEGLI ISTRUTTORI) EX PROFILO DI ISTRUTTORE AMMINISTRATIVO CONTABILE CAT.C1",
+   "mansioni": "con verbale del 01.03.2024 della Conferenza degli enti sottoscrittori è stato istituito, tra  l'altro, un Comitato Esecutivo con compiti operativi di supporto all'ente capofila;",
+   "titoliStudio": "",
+   "requisiti": "Con la domanda di adesione all’interpello il candidato autorizza l’Amministrazione alla pubblicazione, nell’ambito della procedura, del proprio nominativo sul sito Internet della Comune di Tarsia nel rispetto dei criteri di minimizzazione di legge. Con la sottoscrizione della domanda di adesione il candidato autorizza l’Amministrazione a operazioni di trattamento informatico e manuale dei dati per la gestione della Selezione nonché a operazioni di trasferimento degli stessi ad altre pubbliche amministrazioni per la gestione dell’interpello ai sensi della normativa vigente. I dati saranno…",
+   "prove": "Per colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/f17a08a5-537e-4086-b34a-7d6edecc1d66",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=02622680f9514374adde3fe03a1e597a",
+   "linkEnte": "",
+   "key": "inpa:02622680f9514374adde3fe03a1e597a",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:f3d010db5f5648cf9ab5cb0393088118",
+   "inpaId": "f3d010db5f5648cf9ab5cb0393088118",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "BORSE DI STUDIO “BONALDO STRINGHER”, “GIORGIO MORTARA”, “DONATO MENICHELLA\"",
+   "ente": "Banca D'Italia",
+   "profilo": "Borsista",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 7,
+   "scadenza": "2026-11-20",
+   "pubblicazione": "2026-10-13",
+   "contratto": "",
+   "descrizione": "BORSE DI STUDIO “BONALDO STRINGHER”, “GIORGIO MORTARA”, “DONATO MENICHELLA\" \nLa Banca d’Italia indice il seguente concorso pubblico per l’assegnazione di:\n• 3 borse di studio “Bonaldo Stringher” destinate al perfezionamento degli studi all’estero nel campo dell’economia politica e della politica economica ;\n• 2 borse di studio “Giorgio Mortara” destinate al perfezionamento degli studi all’estero nei campi dell’economia finanziaria, dell’econometria o dei metodi matematici, statistici o informatici (es. intelligenza artificiale, machine learning, FinTech, cyber security) applicati…",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3d010db5f5648cf9ab5cb0393088118",
+   "linkEnte": "",
+   "key": "inpa:f3d010db5f5648cf9ab5cb0393088118",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Banca d'Italia"
+   ],
+   "categoria": "aziende"
+  },
+  {
+   "id": "inpa:8d486dec3de54c3eba9d1d2607940306",
+   "inpaId": "8d486dec3de54c3eba9d1d2607940306",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO per la stabilizzazione, ai sensi dell’art. 3, comma 5, del D.L. 22 aprile 2023, n. 44, convertito con modificazioni dalla Legge 74/2023, di n. 1 unità di personale non dirigenziale, già assunta con contratto di lavoro subordinato a tempo determinato nell’ambito delle misure di…",
+   "ente": "Comune di Falerna",
+   "profilo": "Istruttore Amministrativo Contabile",
+   "sedi": [
+    "Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-21",
+   "pubblicazione": "2026-11-06",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "AVVISO PUBBLICO per la stabilizzazione, ai sensi dell’art. 3, comma 5, del D.L. 22 aprile 2023, n. 44, convertito con modificazioni dalla Legge 21 giugno 2023, n. 74, di n. 1 unità di personale non dirigenziale, già assunta con contratto di lavoro subordinato a tempo determinato nell’ambito delle misure di rafforzamento della capacità amministrativa degli enti locali finalizzate all’attuazione degli interventi del Piano Nazionale di Ripresa e Resilienza (PNRR) ai sensi dell’art. 31-bis del D.L. 6 novembre 2021, n. 152, convertito con modificazioni dalla Legge 29 dicembre 2021, n. 233, da…",
+   "mansioni": "",
+   "titoliStudio": "del diploma di scuola superiore o titolo superiore, comunque equipollente anche se  conseguito all’estero.\nPer i candidati in possesso di titolo di studio conseguito all’estero,  l’assunzione è subordinata al rilascio, da parte delle competenti autorità, del provvedimento  di equivalenza del titolo posseduto a quello richiesto, ai sensi dell’art. 38 del D.lgs. 30  marzo 2001, n. 165.",
+   "requisiti": "REQUISITI GENERALI\nI candidati devono essere in possesso dei requisiti generali previsti dalla normativa vigente per  l’accesso al pubblico impiego e precisamente:\ni cittadini degli Stati membri dell’Unione Europea e i loro familiari non aventi la  cittadinanza di uno Stato membro che siano titolari del diritto di soggiorno o del diritto di  soggiorno permanente;\nil godimento dei diritti civili e politici anche nello Stato di appartenenza o provenienza;\nun’adeguata conoscenza della lingua italiana.",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/9871c94a-65a7-4ce3-8335-abadcc874423",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8d486dec3de54c3eba9d1d2607940306",
+   "linkEnte": "https://comune.falerna.cz.it/",
+   "key": "inpa:8d486dec3de54c3eba9d1d2607940306",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:14a8864e8b514f0a9b45a62bfc70269b",
+   "inpaId": "14a8864e8b514f0a9b45a62bfc70269b",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI DOCENTE A TEMPO INDETERMINATO SETTORE ARTISTICO DISCIPLINARE AFAM070 – REGIA",
+   "ente": "Accademia di Belle Arti di Catanzaro",
+   "profilo": "Docente",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-21",
+   "pubblicazione": "2026-10-22",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "È indetta una selezione pubblica per titoli ed esami, per la copertura di n. 1 posto di personale docente a tempo\nindeterminato con regime di impegno a tempo pieno per l'insegnamento di “AFAM070 – REGIA”. Il settore\ndisciplinare di riferimento ai sensi del D.M. 128/2025",
+   "mansioni": "L’attività didattica potrà svolgersi nell’ambito dei corsi triennali, biennali, master, workshop, laboratori e progetti di",
+   "titoliStudio": "Laurea di secondo livello in Arti applicate ABA, ISIA o DAMS, oppure tre anni accademici di insegnamento (a tempo determinato) nel medesimo settore.\nAccademia Belle Arti",
+   "requisiti": "Laurea di secondo livello in Arti applicate ABA, ISIA o DAMS, oppure tre anni accademici di insegnamento (a tempo determinato) nel medesimo settore.",
+   "prove": "La prova è unica e si articolerà in due parti distinte: una prova pratica e una prova didattica.\nProva pratica:\nLa prova pratica è volta ad accertare le competenze tecniche del candidato in riferimento al SAD oggetto del concorso (AFAM070).\nDurata complessiva della prova: massimo 4 ore.\nPunteggio…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando-AFAM070-Regia-signed.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=14a8864e8b514f0a9b45a62bfc70269b",
+   "linkEnte": "www.abacatanzaro.it ",
+   "altriLink": [
+    "https://www.concorsipubblici.com/accademia-di-belle-arti-di-catanzaro-concorso-docente-catanzaro-2026-3"
+   ],
+   "key": "inpa:14a8864e8b514f0a9b45a62bfc70269b",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Catanzaro",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:d51d2aeeb3b3425db3b0cc4b48ea25fd",
+   "inpaId": "d51d2aeeb3b3425db3b0cc4b48ea25fd",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AVVISO DI SELEZIONE PUBBLICA, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E DETERMINATO PER N. 12 MESI DI N. 8 UNITÀ DI TECNICO SANITARIO DI RADIOLOGIA MEDICA PER L'AZIENDA OSPEDALIERA DI COSENZA",
+   "ente": "Azienda Ospedaliera di Cosenza",
+   "profilo": "TECNICO SANITARIO DI RADIOLOGIA MEDICA - Personale del Comparto-CCNL Comparto sanità",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 8,
+   "scadenza": "2026-11-23",
+   "pubblicazione": "2026-11-09",
+   "contratto": "tempo determinato, tempo pieno",
+   "descrizione": "Con Deliberazione n. 573 del 30.10.2026 è indetto “AVVISO DI SELEZIONE PUBBLICA, PER TITOLI E\nCOLLOQUIO, PER LA COPERTURA A TEMPO PIENO E DETERMINATO PER N. 12 MESI DI N. 8 UNITÀ DI\nTECNICO SANITARIO DI RADIOLOGIA MEDICA PER L'AZIENDA OSPEDALIERA DI COSENZA.”\nL’Avviso pubblico è indetto ed espletato ai sensi della normativa di cui al DPR n. 220 del 27/03/2001, ai\nDecreti Legislativi n. 502/1992 e ss.mm.ii. e n. 165/2001 e ss.mm.ii., al DPR n. 445/2000 e ss.mm.ii. e alla\nLegge n. 127/1997.",
+   "mansioni": "",
+   "titoliStudio": "Iscrizione all’Albo Professionale.\nL’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione all’avviso, fermo restando l’obbligo di iscrizione all’Albo in Italia prima dell’assunzione in servizio.\nProfessioni sanitarie",
+   "requisiti": "Requisiti generali\n1) cittadinanza italiana, salve le equiparazioni stabilite dalle leggi vigenti, o cittadinanza di uno dei Paesi dell’Unione Europea; possono partecipare anche i cittadini degli Stati membri dell’Unione Europea e i loro familiari non aventi la cittadinanza di uno Stato Membro che siano titolari del diritto di soggiorno o del diritto di soggiorno permanente nonché i cittadini di Paesi terzi in possesso del permesso di soggiorno CE per soggiornanti di lungo periodo o essere titolari dello status di rifugiato ovvero dello status di protezione sussidiaria (art. 38 del D. Lgs n.…",
+   "prove": "L’Azienda Ospedaliera di Cosenza indice una selezione pubblica per titoli e colloquio per la copertura a tempo pieno e determinato di 12 mesi di 8 posti di tecnico sanitario di radiologia medica.\nLa selezione prevede la valutazione dei titoli e un colloquio.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/BANDO%20AVVISO%208%20TSRM_signed.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d51d2aeeb3b3425db3b0cc4b48ea25fd",
+   "linkEnte": "https://www.aocosenza.it/",
+   "altriLink": [
+    "https://www.concorsipubblici.com/azienda-ospedaliera-di-cosenza-concorso-tecnico-di-radiologia-cosenza-2026",
+    "https://www.concorsando.it/blog/concorsi/8-posti-di-tecnico-sanitario-di-radiologia-medica-presso-azienda-ospedaliera-di-cosenza/"
+   ],
+   "key": "inpa:d51d2aeeb3b3425db3b0cc4b48ea25fd",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Azienda Ospedaliera di Cosenza"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:abde7f2c715e477c8cacded1451c411a",
+   "inpaId": "abde7f2c715e477c8cacded1451c411a",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Avviso pubblico per la costituzione di un elenco di candidati idonei alla nomina di componente della commissione esaminatrice del concorso per l’assunzione di n. 10 dirigenti amministrativi.",
+   "ente": "Ministero dell'Istruzione e del Merito",
+   "profilo": "Componente commissione",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 9,
+   "scadenza": "2026-11-23",
+   "pubblicazione": "2026-11-06",
+   "contratto": "",
+   "descrizione": "Avviso pubblico per la costituzione di un elenco di candidati idonei alla nomina di componente della commissione esaminatrice del concorso per l’assunzione di n. 10 dirigenti amministrativi.",
+   "mansioni": "L'avviso di convocazione per la prova scritta contenente il diario con l'indicazione della  sede, del giorno e dell'ora in cui si svolgerà e con eventuali indicazioni di dettaglio in merito  al suo svolgimento è pubblicato sul portale «inPA» e sul sito is tituzionale del Ministero ,  almeno quindici giorni prima del suo svolgimento.\nL'avviso di convocazione per la prova orale contenente gli elenchi degli ammessi…",
+   "titoliStudio": "media pari o inferiore a 90 e superiore a 87 (o altro punteggio riparametrato): 3 punti;  b) Valutazione dei titoli professionali, di studio o di specializzazione ulteriori rispetto a  quelli previsti per l’accesso alla qualifica dirigenziale (massimo punti 10):\n1) 0,50 punti per ciascuno dei seguenti titoli, fino ad un massimo di 1 punto: laurea  triennale ulteriore rispetto a quella costituente il presupposto per…",
+   "requisiti": "n. 1 membro aggiuntivo per la valutazione della conoscenza della lingua inglese;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua spagnola;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua francese;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua tedesca;",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/335efea7-10a6-4369-81f1-94a6575defb7",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=abde7f2c715e477c8cacded1451c411a",
+   "linkEnte": " https://www.mim.gov.it/",
+   "key": "inpa:abde7f2c715e477c8cacded1451c411a",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Ministero dell'Istruzione e del Merito"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:f56af62fc1bb46d2990b5fde51cd0c78",
+   "inpaId": "f56af62fc1bb46d2990b5fde51cd0c78",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA AI SENSI DELL’ART. 30 D.LGS. 165/2001 PER IL PASSAGGIO DIRETTO DI PERSONALE TRA AMMINISTRAZIONI DIVERSE PER LA COPERTURA DI N. 1 (UNO) POSTO DI FUNZIONARIO AMMINISTRATIVO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, A TEMPO PARZIALE (18 ORE…",
+   "ente": "Comune di Corigliano-Rossano",
+   "profilo": "Funzionario Amministrativo Part-time",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-23",
+   "pubblicazione": "2026-10-23",
+   "contratto": "tempo indeterminato, part time, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA AI SENSI DELL’ART. 30 D.LGS. 165/2001 PER IL PASSAGGIO DIRETTO DI PERSONALE TRA AMMINISTRAZIONI DIVERSE PER LA COPERTURA DI N. 1 (UNO) POSTO DI FUNZIONARIO AMMINISTRATIVO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, A TEMPO PARZIALE (18 ORE SETTIMANALI) E INDETERMINATO.",
+   "mansioni": "",
+   "titoliStudio": "In particolare il candidato dovrà inserire in maniera dettagliata il possesso dei requisiti richiesti dal  bando di mobilità, i titoli di studio posseduti, i titoli di servizio, attinenti al profilo professionale da  ricoprire (incarichi di responsabilità, partecipazioni a commissioni ect), formazione professionale  (corsi di specializzazione, di formazione, di perfezionamento), le esperienze professionali…",
+   "requisiti": "I requisiti per partecipare alla presente procedura di mobilità sono i seguenti:  a) essere dipendente con contratto di lavoro a tempo indeterminato , parziale o pieno, di altra\nTutti i requisiti dovranno essere posseduti alla data di scadenza del termine per la presentazione  della domanda di partecipazione e dichiarati nella specifica istanza online ai sensi degli artt. 46 e 47  del DPR 445/2000, con consapevolezza delle sanzioni penali ed amministrative previste dagli artt.\nIn particolare il candidato dovrà inserire in maniera dettagliata il possesso dei requisiti richiesti dal  bando di mobilità, i titoli di studio posseduti, i titoli…",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/e85f46bd-464a-4a77-b892-4dd40b4cd6f1",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f56af62fc1bb46d2990b5fde51cd0c78",
+   "linkEnte": "",
+   "key": "inpa:f56af62fc1bb46d2990b5fde51cd0c78",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:8c1852b6819841b2b315526dcdcd094b",
+   "inpaId": "8c1852b6819841b2b315526dcdcd094b",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA AI SENSI DELL’ART. 30 D.LGS. 165/2001 PER IL PASSAGGIO DIRETTO DI PERSONALE TRA AMMINISTRAZIONI DIVERSE PER LA COPERTURA DI N. 1 (UNO) POSTO DI FUNZIONARIO AMMINISTRATIVO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, A TEMPO PIENO E INDETERMINATO.",
+   "ente": "Comune di Corigliano-Rossano",
+   "profilo": "Funzionario Amministrativo",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-23",
+   "pubblicazione": "2026-10-23",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA AI SENSI DELL’ART. 30 D.LGS. 165/2001 PER IL PASSAGGIO DIRETTO DI PERSONALE TRA AMMINISTRAZIONI DIVERSE PER LA COPERTURA DI N. 1 (UNO) POSTO DI FUNZIONARIO AMMINISTRATIVO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, A TEMPO PIENO E INDETERMINATO.",
+   "mansioni": "",
+   "titoliStudio": "Titolo di studio superiori a quello richiesto per l’accesso dall’esterno al profilo da  ricoprire – max punti 2;\nFormazione professionale (corsi di specializzazione, corsi di formazione, perfezionamento,  aggiornamento in materie attinenti alla professionalità del posto messo a bando) – max punti 5;",
+   "requisiti": "d) avere espletato lavoro subordinato a tempo indeterminato alle dipendenze di una stessa e/o  più pubbliche amministrazioni per un minimo di tre anni;  e) non essere stati destinata ri nel biennio precedente di sanzioni disciplinari superiori alla  censura;  f) non aver riportato condanne con sentenza passata in giudicato per reati che costituiscono un  impedimento all’assunzione presso una PA ai sensi dell’art. 4 co.\nTutti i requisiti dovranno essere posseduti alla data di scadenza del termine per la presentazione  della domanda di partecipazione e dichiarati nella specifica istanza online ai sensi degli artt. 46 e 47  del DPR 445/2000,…",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/1594390c-dea7-42c0-bef7-dd2d64e49ee8",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8c1852b6819841b2b315526dcdcd094b",
+   "linkEnte": "",
+   "key": "inpa:8c1852b6819841b2b315526dcdcd094b",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:2115ed9b7c3f4620afc6cfb22a2f6781",
+   "inpaId": "2115ed9b7c3f4620afc6cfb22a2f6781",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO INSEGNANTE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI. RIAPERTURA TERMINI DALLE ORE 00.00 DEL 10/11/2026…",
+   "ente": "Comune di Catanzaro",
+   "profilo": "FUNZIONARIO INSEGNANTE",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-24",
+   "pubblicazione": "2026-10-08",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Comune di Catanzaro – concorso pubblico per esami per l’assunzione a tempo indeterminato e pieno di n. 1 funzionario insegnante – area dei funzionari e delle elevate qualificazioni del nuovo ordinamento del ccnl di comparto delle funzioni locali.",
+   "mansioni": "Le mansioni esigibili, nel rispetto de lla declaratoria di cui all’allegato A) del CCNL del personale  del comparto Funzioni Locali sottoscritto in data 16/11/2022 , riguarderanno lo svolgimento di  attività pedagogico-didattiche finalizzate al raggiungimento degli obiettivi educativi e degli stessi  standard qualitativi, pedagogici e normativi programmati per le scuole dell’infanzia statali.\nIl “Funzionario…",
+   "titoliStudio": "La mancanza del titolo di specializzazione non è causa di esclusione dal presente concorso finalizzato alla copertura di n. 1 posto di “Funzionario Insegnate”.\nScienze della formazione \nliceo socio-psicopedagogico",
+   "requisiti": "Possesso della Laurea Magistrale appartenente ad una delle seguenti classi: Laurea in Scienze della formazione primaria titolo abilitante all’insegnamento, nuovo ordinamento - classe LM 85 bis - (art. 6 Decreto ministeriale 249/2010) ovvero Laurea in Scienze della formazione primaria titolo abilitante all’insegnamento, vecchio ordinamento - indirizzo scuola dell’infanzia (art. 6 Legge 169/2008) ovvero diploma di Istituto Magistrale o di scuola magistrale (solo scuola dell’infanzia) o Diploma di Liceo Socio - Psico - Pedagogico conseguiti entro l’anno scolastico 2001 - 2002 (Decreto…",
+   "prove": "Conoscenze nelle seguenti materie:\nPedagogia: fondamenti teorici e storici dell'educazione infantile.\nPsicopedagogia e Inclusione: psicologia dello sviluppo, dinamiche dell'apprendimento e bisogni educativi speciali (BES/DSA).\nMetodologia didattica e Valutazione: strategie di insegnamento,…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/BANDO%20funzionario%20insegnante_2026_num.firmato_signed.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2115ed9b7c3f4620afc6cfb22a2f6781",
+   "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-catanzaro-concorso-insegnante-catanzaro-2026"
+   ],
+   "key": "inpa:2115ed9b7c3f4620afc6cfb22a2f6781",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:ffd54f7082164ffd955d3ce9d033aeb3",
+   "inpaId": "ffd54f7082164ffd955d3ce9d033aeb3",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI SELEZIONE COMPARATIVA PER LA PROGRESSIONE VERTICALE IN DEROGA TRA AREE DIVERSE, RISERVATA AL PERSONALE DIPENDENTE DEL COMUNE DI GERACE CON RAPPORTO DI LAVORO A TEMPO INDETERMINATO DELL’AREA DEGLI ISTRUTTORI (CATEGORIA C DEL PRECEDENTE SISTEMA DI CLASSIFICAZIONE) PER N. 1 POSTO NELL’AREA…",
+   "ente": "Comune di Gerace",
+   "profilo": "FUNZIONARIO TECNICO",
+   "sedi": [
+    "Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-25",
+   "pubblicazione": "2026-10-26",
+   "contratto": "tempo indeterminato",
+   "descrizione": "AVVISO DI SELEZIONE COMPARATIVA PER LA PROGRESSIONE VERTICALE IN DEROGA TRA AREE DIVERSE, RISERVATA AL PERSONALE DIPENDENTE DEL COMUNE DI GERACE CON RAPPORTO DI LAVORO A TEMPO INDETERMINATO DELL’AREA DEGLI ISTRUTTORI (CATEGORIA C DEL PRECEDENTE SISTEMA DI CLASSIFICAZIONE) PER N. 1 POSTO NELL’AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE (CATEGORIA D1 DEL PRECEDENTE SISTEMA DI CLASSIFICAZIONE) - PROFILO DI FUNZIONARIO TECNICO",
+   "mansioni": "Al personale da assumere nell’Area dei funzionari e dell’elevata qualificazione di cui alla  presente selezione comparativa è richiesto lo svolgimento di compiti e funzioni  caratterizzati da:",
+   "titoliStudio": "Laurea (triennale o magistrale) in ingegneria o architettura e almeno 5 anni di  esperienza maturata nell’area degli istruttori e/o nella corrispondente categoria del  precedente sistema di classificazione\nDiploma di scuola media secondaria di secondo grado (diploma di Geometra ) e  almeno 10 anni di esperienza maturata nell’area degli istruttori e/o nella corrispondente  categoria del precedente sistema di…",
+   "requisiti": "Per l’ammissione alla presente procedura di selezione per la progressione tra le Aree è  richiesto il possesso dei seguenti requisiti alla data di scadenza del termine stabilito nel  presente avviso:\nLaurea (triennale o magistrale) in ingegneria o architettura e almeno 5 anni di  esperienza maturata nell’area degli istruttori e/o nella corrispondente categoria del  precedente sistema di classificazione\nDiploma di scuola media secondaria di secondo grado (diploma di Geometra ) e  almeno 10 anni di esperienza maturata nell’area degli istruttori e/o nella corrispondente  categoria del precedente sistema di classificazione.\nL’esperienza…",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/18b29999-a522-4b11-921f-e9275aecf9aa",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ffd54f7082164ffd955d3ce9d033aeb3",
+   "linkEnte": "https://www.comune.gerace.rc.it/",
+   "key": "inpa:ffd54f7082164ffd955d3ce9d033aeb3",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:6f16a79ab3a147b0b470841173f32902",
+   "inpaId": "6f16a79ab3a147b0b470841173f32902",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per titoli, per l’assunzione di 42 atleti da assegnare ai gruppi sportivi “Polizia di Stato – Fiamme Oro”, che saranno inquadrati nel ruolo degli agenti e assistenti della Polizia di Stato, indetto con decreto del Capo della Polizia – Direttore generale della pubblica sicurezza…",
+   "ente": "Ministero dell'Interno - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio Concorsi",
+   "profilo": "Atleti da assegnare ai gruppi sportivi “Polizia di Stato – Fiamme Oro”, che saranno inquadrati nel ruolo degli agenti e assistenti della Polizia di Stato",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 42,
+   "scadenza": "2026-11-25",
+   "pubblicazione": "2026-10-26",
+   "contratto": "",
+   "descrizione": "Concorso pubblico, per titoli, per l’assunzione di 42 atleti da assegnare ai gruppi sportivi “Polizia di Stato – Fiamme Oro”, che saranno inquadrati nel ruolo degli agenti e assistenti della Polizia di Stato, indetto con decreto del Capo della Polizia – Direttore generale della pubblica sicurezza del 22 ottobre 2026.",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/2933dadf-5c20-4ef1-a0b8-1ed4943d906b",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6f16a79ab3a147b0b470841173f32902",
+   "linkEnte": "https://www.poliziadistato.it/articolo/30616adf17407e0e1297831388",
+   "key": "inpa:6f16a79ab3a147b0b470841173f32902",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Polizia di Stato"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:77f85f1d4e124692954b8994fe50c3a2",
+   "inpaId": "77f85f1d4e124692954b8994fe50c3a2",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per esami, per l’assunzione full time 100% a tempo indeterminato di n. 1 Funzionario Contabile – Area dei Funzionari e dell’Elevata Qualificazione",
+   "ente": "Comune di San Sosti",
+   "profilo": "funzionario contabile",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-25",
+   "pubblicazione": "2026-10-26",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il profilo di Funzionario contabile individuato attraverso la presente procedura sarà ascritto all’Area \ndei Funzionari e dell’Elevata Qualificazione, di cui al vigente sistema di classificazione professionale \ndel CCNL Funzioni Locali (CCNL 2022-2024). \nAppartengono a quest’area i lavoratori strutturalmente inseriti nei processi amministrativi-contabili \ne tecnici e nei sistemi di erogazione dei servizi che nel quadro di indirizzi generali, assicurano il \npresidio di importanti e diversi processi, concorrendo al raggiungimento degli obiettivi stabiliti, \nassicurando la qualità dei servizi e…",
+   "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
+   "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LM-16 Finanza;\nLM-56 Scienze dell'economia;\nLM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 64/S Scienze dell'economia;\nScienze…",
+   "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LM-16 Finanza; LM-56 Scienze dell'economia; LM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 64/S Scienze dell'economia; Finanza; 84/S Scienze economico-aziendali; 19/S diploma di laurea (DL) conseguito secondo il vecchio ordinamento universitario ante D.M. 509/99 in Economia e commercio, Economia…",
+   "prove": "Materie:\nOrdinamento finanziario e contabile degli enti locali (D. Lgs. 267/2000 e s.m.i.) e principi contabili generali e applicati;\nNorme generali sulla contabilità delle Autonomie Locali ed in materia di armonizzazione dei sistemi contabili (D.lgs. n. 118/2011);\nNozioni di diritto tributario e…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concorso%20funzionario%20contabile.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=77f85f1d4e124692954b8994fe50c3a2",
+   "linkEnte": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-contabile-cosenza-2026",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-contabile-presso-il-comune-di-san-sosti/"
+   ],
+   "key": "inpa:77f85f1d4e124692954b8994fe50c3a2",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:2245aa2fcfa245d1992d71b8493e59e3",
+   "inpaId": "2245aa2fcfa245d1992d71b8493e59e3",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per esami, per l’assunzione part time 50% a tempo indeterminato di n. 1 Funzionario Amministrativo – Area dei Funzionari e dell’Elevata Qualificazione – CCNL Funzioni Locali – del Comune di San Sosti",
+   "ente": "Comune di San Sosti",
+   "profilo": "FUNZIONARIO AMMINISTRATIVO",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-25",
+   "pubblicazione": "2026-10-26",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il profilo di Funzionario amministrativo individuato attraverso la presente procedura sarà ascritto \nall’Area dei Funzionari e dell’Elevata Qualificazione, di cui al vigente sistema di classificazione \nprofessionale del CCNL Funzioni Locali (CCNL 2022-2024). \nAppartengono a quest’area i lavoratori strutturalmente inseriti nei processi amministrativi-contabili \ne tecnici e nei sistemi di erogazione dei servizi che nel quadro di indirizzi generali, assicurano il \npresidio di importanti e diversi processi, concorrendo al raggiungimento degli obiettivi stabiliti, \nassicurando la qualità dei…",
+   "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
+   "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LMG/01 Giurisprudenza;\nLM-52 Relazioni internazionali;\nLM-56 Scienze dell'economia;\nGiurisprudenza \nScienze politiche \nScienze Economico Aziendali",
+   "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LMG/01 Giurisprudenza; LM-16 Finanza; LM-52 Relazioni internazionali; LM-56 Scienze dell'economia; LM-62 Scienze della politica; LM-63 Scienze delle pubbliche amministrazioni; LM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 22/S Giurisprudenza; 19/S Finanza; 60/S Relazioni internazionali; 64/S Scienze…",
+   "prove": "Materie:\nNozioni di Diritto Costituzionale e Diritto Amministrativo, con particolare riferimento al diritto di accesso agli atti ed al procedimento amministrativo (Legge 241/1990 e s.m.i.);\nOrdinamento degli Enti Locali (D.Lgs. 267/2000);\nOrdinamento finanziario e contabile degli Enti…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concorso%20funzionario%20amministrativo.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2245aa2fcfa245d1992d71b8493e59e3",
+   "linkEnte": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-amministrativo-cosenza-2026",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-amministrativo-presso-il-comune-di-san-sosti/"
+   ],
+   "key": "inpa:2245aa2fcfa245d1992d71b8493e59e3",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:4685c692cf904e9b8e037186ef41cccb",
+   "inpaId": "4685c692cf904e9b8e037186ef41cccb",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per esami, per l’assunzione part time 50% a tempo indeterminato di n. 1 Funzionario Tecnico – Area dei Funzionari e dell’Elevata Qualificazione – CCNL Funzioni Locali – del Comune di San Sosti",
+   "ente": "Comune di San Sosti",
+   "profilo": "funzionario tecnico",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-25",
+   "pubblicazione": "2026-10-26",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il Comune di San Sosti, in provincia di Cosenza, indice un concorso pubblico per esami per l'assunzione a tempo parziale al 50% e indeterminato di 1 funzionario tecnico, Area dei Funzionari e dell'Elevata Qualificazione.\nPer partecipare serve una laurea magistrale, specialistica o del vecchio ordinamento nelle classi previste dal bando in architettura, ingegneria civile e ambientale e pianificazione territoriale, insieme all'abilitazione all'esercizio della professione di architetto o di ingegnere. Servono inoltre la conoscenza della lingua inglese e dell'informatica. La tassa di ammissione…",
+   "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
+   "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale (D.M. 270/04) appartenente a una delle seguenti classi: LM-3 Architettura del paesaggio;\nLM-4 Architettura e ingegneria edile-architettura;\nLM-23 Ingegneria civile;\narchitettura \nIngegneria civile \nIngegneria…",
+   "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale (D.M. 270/04) appartenente a una delle seguenti classi: LM-3 Architettura del paesaggio; LM-4 Architettura e ingegneria edile-architettura; LM-23 Ingegneria civile; LM-24 Ingegneria dei sistemi edilizi; LM-26 Ingegneria della sicurezza; LM-35 Ingegneria per l'ambiente e il territorio; LM-48 Pianificazione territoriale urbanistica e ambientale; ovvero laurea specialistica (D.M. 509/99) o…",
+   "prove": "Materie:\nConoscenze generali su enti locali, lavori e contratti pubblici, sicurezza, sostenibilità;\nOrdinamento degli enti locali (D.Lgs. 267/2000 e s.m.i.);\nNormativa in materia di urbanistica ed edilizia privata;\nD.Lgs. 36/2023 e s.m.i. - Codice dei contratti pubblici;\nD.P.R. 207/2010 (parti…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concorso%20funzionario%20tecnico.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4685c692cf904e9b8e037186ef41cccb",
+   "linkEnte": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-tecnico-cosenza-2026",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-tecnico-presso-il-comune-di-san-sosti/"
+   ],
+   "key": "inpa:4685c692cf904e9b8e037186ef41cccb",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:f1bc11e4abb8455db5442efa320283cb",
+   "inpaId": "f1bc11e4abb8455db5442efa320283cb",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per esami, per l’assunzione part time 50% a tempo indeterminato di n. 1 Istruttore Tecnico – Area degli Istruttori (ex Cat. C)",
+   "ente": "Comune di San Sosti",
+   "profilo": "istruttore tecnico",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-25",
+   "pubblicazione": "2026-10-26",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il profilo di Istruttore Tecnico individuato attraverso la presente procedura sarà ascritto all’Area degli \nIstruttori (ex Cat. C), di cui al vigente sistema di classificazione professionale del CCNL Funzioni \nLocali (CCNL 2022-2024). \nIl lavoratore sarà strutturalmente inserito nei processi amministrativi-contabili e tecnici e nei sistemi \ndi erogazione dei servizi e ne svolgerà fasi di processo e/o processi, con responsabilità diretta di \nrisultato su prodotti specifici, nell’ambito di direttive di massima e di procedure predeterminate, \nanche attraverso la gestione di strumentazioni…",
+   "mansioni": "di erogazione dei servizi e ne svolgerà fasi di processo e/o processi, con responsabilità diretta di",
+   "titoliStudio": "Per partecipare alla procedura concorsuale è richiesto il possesso del seguente titolo di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: diploma di Geometra o diploma equipollente di durata quinquennale (compreso il diploma di istruzione tecnica del settore tecnologico, indirizzo «Costruzioni, ambiente e territorio», di cui al D.P.R. 15 marzo 2010, n. 88).\nistituto tecnico…",
+   "requisiti": "Per partecipare alla procedura concorsuale è richiesto il possesso del seguente titolo di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: diploma di Geometra o diploma equipollente di durata quinquennale (compreso il diploma di istruzione tecnica del settore tecnologico, indirizzo «Costruzioni, ambiente e territorio», di cui al D.P.R. 15 marzo 2010, n. 88). \nIn alternativa al diploma di Geometra, è ammesso il possesso di qualsiasi diploma di istruzione secondaria superiore di durata quinquennale purché accompagnato da uno dei seguenti titoli di studio…",
+   "prove": "Le prove d'esame consisteranno, in coerenza con l'art. 35-quater del D. Lgs. 165/2001, in una prova scritta e in una prova orale, tendenti ad accertare la maturità e la professionalità dei candidati e il possesso delle competenze, intese come insieme delle conoscenze e delle capacità…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concrso%20istruttore%20tecnico.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f1bc11e4abb8455db5442efa320283cb",
+   "linkEnte": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-istruttore-tecnico-cosenza-2026",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-istruttore-tecnico-presso-il-comune-di-san-sosti/"
+   ],
+   "key": "inpa:f1bc11e4abb8455db5442efa320283cb",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:610e09d07d104209933663e27fc150a4",
+   "inpaId": "610e09d07d104209933663e27fc150a4",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO, PER SOLI TITOLI, PER COPERTURA A TEMPO DETERMINATO PER MESI SEI DI N. 1 POSTO DI TERAPISTA DELLA RIABILITAZIONE NELL’AMBITO DEL PROGETTO PNES – PIANO NAZIONALE EQUITA’ E SALUTE",
+   "ente": "Azienda Sanitaria Provinciale Crotone",
+   "profilo": "TERAPISTA DELLA RIABILITAZIONE",
+   "sedi": [
+    "Crotone"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-26",
+   "pubblicazione": "2026-11-11",
+   "contratto": "tempo determinato",
+   "descrizione": "Si porta a conoscenza che questa Azienda, con atto di delibera n. 569 del 26.10.2026, ha approvato l’indizione del presente Avviso Pubblico per soli Titoli, per procedere all’assunzione a tempo determinato per mesi sei di n. 1 unità con profilo professionale di Terapista della Riabilitazione, nell’ambito del Progetto PNES – Piano Nazionale Equità e Salute. \nLa selezione avverrà per titoli da valutarsi secondo le norme stabilite per i Concorsi e contenute nel D.P.R. n. 220/2001. La data, l’ora e la sede di svolgimento del colloquio verranno comunicate agli interessati, esclusivamente,…",
+   "mansioni": "",
+   "titoliStudio": "Si porta a conoscenza che questa Azienda, con atto di delibera n. 569 del 26.10.2026, ha approvato l’indizione del presente Avviso Pubblico per soli Titoli, per procedere all’assunzione a tempo determinato per mesi sei di n. 1 unità con profilo professionale di Terapista della Riabilitazione, nell’ambito del Progetto PNES – Piano Nazionale Equità e Salute.\na) Diploma di laurea in Professioni Sanitarie della…",
+   "requisiti": "a) Diploma di laurea in Professioni Sanitarie della Riabilitazione o in disciplina equipollente o affine ai sensi di legge;\nb) Iscrizione all’Ordine.",
+   "prove": "Per titoli.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/PNES_signed.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=610e09d07d104209933663e27fc150a4",
+   "linkEnte": "www.asp.crotone.it",
+   "altriLink": [
+    "https://www.concorsipubblici.com/azienda-sanitaria-provinciale-di-crotone-concorso-terapista-della-riabilitazione-crotone-2026-0"
+   ],
+   "key": "inpa:610e09d07d104209933663e27fc150a4",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "ASP Crotone"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:4d9428873d8a48209bc884d262893f58",
+   "inpaId": "4d9428873d8a48209bc884d262893f58",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO PER IL CONFERIMENTO DI UN INCARICO QUINQUENNALE DI DIREZIONE DELLA STRUTTURA COMPLESSA DI TUTELA ANZIANI E DISABILI PRESSO L’AZIENDA SANITARIA PROVINCIALE DI COSENZA",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "Direttore Struttura Complessa",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-26",
+   "pubblicazione": "2026-06-20",
+   "contratto": "",
+   "descrizione": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO PER IL CONFERIMENTO DI UN INCARICO QUINQUENNALE DI DIREZIONE DELLA STRUTTURA COMPLESSA DI TUTELA ANZIANI E DISABILI PRESSO L’AZIENDA SANITARIA PROVINCIALE DI COSENZA",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "L’affidamento dell’incarico di Direttore della Unità Operativa Complessa, tenuto conto delle peculiarità organizzative proprie della realtà in cui dovrà operare, comporta il possesso dell’esperienza e delle capacità di esercitare le competenze professionali e manageriali ritenute necessarie a ricoprire il ruolo oggetto dell’avviso.",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/9631af8d-0090-4df4-af7a-50303d26c705",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4d9428873d8a48209bc884d262893f58",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/13211",
+   "key": "inpa:4d9428873d8a48209bc884d262893f58",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "cp:consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-concorso-ricercatore-0",
+   "fonti": [
+    "ConcorsiPubblici"
+   ],
+   "titolo": "Consiglio Nazionale delle Ricerche - Istituto per la Tecnologia delle Membrane, 1 ricercatore",
+   "ente": "Consiglio Nazionale delle Ricerche - Istituto per la Tecnologia delle Membrane",
+   "profilo": "ricercatore",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": null,
+   "scadenza": "2026-11-26",
+   "pubblicazione": "",
+   "descrizione": "Conferimento di una borsa di ricerca annuale (GU n.86 del 06-11-2026)",
+   "link": "https://www.concorsipubblici.com/consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-concorso-ricercatore-0",
+   "inpaId": null,
+   "contratto": "tempo determinato",
+   "mansioni": "La borsa di ricerca non è compatibile con:  a) altre borse a qualsiasi titolo conferite, ad eccezione di quelle concesse da istituzioni nazionali e  straniere utili ad integrare, con soggiorni all’estero, l’attività di ricerca del borsista;\nI borsisti possono svolgere attività di lavoro autonomo non esercitato abitualmente, previa  comunicazione scritta ai Responsabili scientifici (d’ora in poi Tutor) e a…",
+   "titoliStudio": "a) aver conseguito la laurea specialistica/magistrale in: DM 5/05/2004: 62/S Chimica o 14/S Chimica e Tecnologie Farmaceutiche DM 9/07/2009: LM-54 Chimica o LM-13 Chimica e Tecnologie Farmaceutiche Sono altresì ammessi con riserva i candidati in possesso di un titolo di studio conseguito presso una Università straniera.\nChimica \nScienze chimiche",
+   "requisiti": "La partecipazione alla selezione è libera senza limitazioni in ordine alla cittadinanza. \nPer l’ammissione alla selezione i candidati debbono possedere i seguenti requisiti: \na) aver conseguito la laurea specialistica/magistrale in: DM 5/05/2004: 62/S Chimica o 14/S Chimica e Tecnologie Farmaceutiche DM 9/07/2009: LM-54 Chimica o LM-13 Chimica e Tecnologie Farmaceutiche Sono altresì ammessi con riserva i candidati in possesso di un titolo di studio conseguito presso una Università straniera. \nb) non aver compiuto il trentacinquesimo anno di età alla data di scadenza del termine per la…",
+   "prove": "Colloquio.",
+   "candidatura": "https://selezionionline.cnr.it/\nQualora il termine di presentazione delle domande venga a cadere in un giorno festivo, detto termine si intende protratto al primo giorno non festivo immediatamente seguente.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/files%20%281%29.pdf",
+   "key": "t:consiglio nazionale delle ricerche istit|2026-11-26|",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "CNR"
+   ],
+   "categoria": "aziende"
+  },
+  {
+   "id": "inpa:af6765fb6d5a470eacf6582848f08771",
+   "inpaId": "af6765fb6d5a470eacf6582848f08771",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Marescialli nomina diretta AM 2026",
+   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+   "profilo": "Sottufficiali",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 60,
+   "scadenza": "2026-11-28",
+   "pubblicazione": "2026-10-30",
+   "contratto": "",
+   "descrizione": "concorso pubblico, per titoli ed esami, per il reclutamento, a nomina diretta, di 60 Marescialli di 3^ Cl. da immettere nel Ruolo dei Marescialli dell’Aeronautica Militare in s.p. per la Categoria Supporto, Specialità Sanità/Servizi Tecnici",
+   "mansioni": "Sul po rtale del reclutamento (da ora in poi portale inPA), raggiungibile all’indirizzo  www.inpa.gov.it, verr anno pubblicati il presente bando d i concorso, i termini per la  presentazione delle domande, il reindirizzamento al portal e per le attività di cui ai precedenti  commi 2 e 3; nel portale inPA, inoltre, potranno essere inserite ulteriori informazioni, comprese  quelle relative all’avvenuta pubblicazione…",
+   "titoliStudio": "singole Forze armate, possano essere banditi, nei limiti delle risorse finanziarie  disponibili, concorsi per titoli ed esami per trarre, con il gr ado di maresciallo e  corrispondenti, giovani d i età non superiore a 32 anni alla data indicata nel bando di  concorso e in possesso di laurea definita con Decreto del Ministro della difesa, di  concerto con il Ministro delle infrastrutture e dei trasporti pe r i…",
+   "requisiti": "agli articoli 645 e 681 del c itato Decreto Le gislativo 15 marzo 2010, n. 66, in possesso dei  prescritti requisiti , che abbiano ripor tato il punteggio più alto nell’ordine della relativa  graduatoria di merito .\nI vincitori saranno ammessi qual i Marescialli di 3^ Classe alla frequenza del corso applicativo  con riserva di accertamento, anche successiva all ’ammissione, dei requisiti prescritti e  subordinatamente all ’autorizzazione a effettuare assunzioni eventualmente previste dalla  normativa vigente.\nRequisiti generali di partecipazione\nPer partecipare al concorso di cui al presente bando i concorrenti devono possedere i seguenti …",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/83bad1e8-d94a-492d-b473-dadf485752c9",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=af6765fb6d5a470eacf6582848f08771",
+   "linkEnte": "https://concorsi.difesa.it",
+   "key": "inpa:af6765fb6d5a470eacf6582848f08771",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Esercito Italiano"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:4562979f4dba4d3b80fbe366c436c47d",
+   "inpaId": "4562979f4dba4d3b80fbe366c436c47d",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Marescialli nomina diretta EI 2026",
+   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+   "profilo": "Sottufficiali",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 51,
+   "scadenza": "2026-11-28",
+   "pubblicazione": "2026-10-30",
+   "contratto": "",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per il reclutamento, a nomina diretta, di 62 Marescialli da immettere nel Ruolo dei Marescialli dell’Esercito in servizio permanente",
+   "mansioni": "I concorrenti in s ervizio potranno fruire d ella licenza s traordinaria per esami limitatamente ai  giorni di svolgimento delle fasi concorsuali , nonché al te mpo strettamente necessario per il  raggiungimento della sede ove si svolgeranno tali fasi e per il rientro nella sede di servizio.",
+   "titoliStudio": "corrispondenti, giovani d i età non superiore a 32 anni alla data indicata nel bando di  concorso e in possesso di laurea definita con Decreto del Ministro della difesa, di  concerto con il Ministro delle infras trutture e dei trasporti per i concorsi relativi al\nSpecializzazione Sa nità e co n la Spec ializzazione Comando .\nSono altresì previsti i seguenti requisiti speciali per l ’accesso al ruolo de i…",
+   "requisiti": "645 e 681 del citato D ecreto Legislati vo 1 5 marzo 2010, n. 66, in possesso dei prescritti  requisiti, che abbiano riportato il punteggio più alto nell’ordine della relativa graduatoria finale\nRequisiti generali di partecipazione\nPer partecipare al concorso di cui al presente bando i concorrenti devono possedere i seguenti  requisiti generali:  a) essere cittadini italiani;  b) essere in pos sesso del tito lo di studio indicato tra i re quisiti s peciali di cui al successivo  comma 3 .\nIl requisito di cui al comma 1, lettera d), non è nuovamente accertato nei confronti del personale  militare in servi zio in posse sso dell’idoneità…",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/3fb30d19-7a1a-4c04-aca6-f6e71a20c158",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4562979f4dba4d3b80fbe366c436c47d",
+   "linkEnte": "https://concorsi.difesa.it",
+   "key": "inpa:4562979f4dba4d3b80fbe366c436c47d",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Esercito Italiano"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:4677f52ce26b479ba14ab21da6869c07",
+   "inpaId": "4677f52ce26b479ba14ab21da6869c07",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Marescialli nomina diretta MM 2026",
+   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+   "profilo": "Sottufficiali",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 33,
+   "scadenza": "2026-11-28",
+   "pubblicazione": "2026-10-30",
+   "contratto": "",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per il reclutamento, a nomina diretta, di 33 capi di 3^ cl. da immettere nel Ruolo Marescialli della Marina Militare",
+   "mansioni": "Sul portale del reclutamento (da ora in poi portale inPA), raggiun gibile all’indirizzo  www.inpa.gov.it, verranno pubblicati il presente bando di concorso, i termini per la presentazione  delle domande, il reindirizzamento al portale per le attività di cui ai precedenti commi 2 e 3; nel  portale i nPA, inoltre, potranno essere inser ite ulteriori informazioni, comprese quelle relative  all’avvenuta pubblicazione…",
+   "titoliStudio": "Per partecipare al concorso di cui al presente bando i concorrenti devono possedere i seguenti  requisiti generali:  a) essere cittadini italiani;  b) essere in possesso del titolo di studio indicato tra i requisiti speciali di c ui al succ essivo  comma 3.\nMarina ai sensi dell’art. 682 del Decreto Legislativo 15 marzo 2010, n. 66:  a) essere in possesso di uno dei titoli di studio indicati nell’appendice al…",
+   "requisiti": "Marina Militare, dall’ Opera nazionale per i figli degli a viatori e dall’ Opera nazionale di  assistenza per gli orfani dei m ilitari dell’Arma dei carabinieri di cui agli articoli 645 e 681 del  citato Decreto Legislativo 15 marz o 2010, n. 66, in pos sesso dei prescritti requisiti, che abbiano\nI vincitori saranno ammessi quali Capi di 3^cl. alla frequenza del corso applicativo con riserva di  accertamento, anche successiva all’ammissione, dei requisiti prescritti e subordinatamente  all’autorizzazione a effettuare assunzioni eventualmente previste dalla normativa vigente.\nRequisiti generali di partecipazione\nPer partecipare al concorso…",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/810db08e-2d9f-4501-97c7-3f2d17a75d05",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4677f52ce26b479ba14ab21da6869c07",
+   "linkEnte": "https://concorsi.difesa.it",
+   "key": "inpa:4677f52ce26b479ba14ab21da6869c07",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Esercito Italiano"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:185707173c264876ae6ab5be5da510f9",
+   "inpaId": "185707173c264876ae6ab5be5da510f9",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "Concorsi docenza propedeutico Corigliano Rossano",
+   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+   "profilo": "Docente Propedeutico Violoncello",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-28",
+   "pubblicazione": "2026-10-20",
+   "contratto": "tempo determinato",
+   "descrizione": "Concorsi docenza propedeutico Corigliano Rossano",
+   "mansioni": "",
+   "titoliStudio": "Diploma di conservatorio",
+   "requisiti": "",
+   "prove": "Per titoli.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=185707173c264876ae6ab5be5da510f9",
+   "linkEnte": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-docente-cosenza-2026-1"
+   ],
+   "key": "inpa:185707173c264876ae6ab5be5da510f9",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "AFAM – Altri Conservatori e Accademie in Calabria",
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:be5fd579fadb4c77b8664591ee50c3d5",
+   "inpaId": "be5fd579fadb4c77b8664591ee50c3d5",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CATANZARO - MOBILITÀ VOLONTARIA PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI N° 1 UNITA' DI AREA DEGLI OPERATORI – OPERATORE NEI SERVIZI AUSILIARI - AUTISTA",
+   "ente": "Comune di Catanzaro",
+   "profilo": "AUTISTA",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-29",
+   "pubblicazione": "2026-10-31",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "È indetta procedura pubblica di mobilità volontaria esterna, ai sensi dell’art. 30 del D. Lgs. n. 165/2001 e\nss.mm.ii. e del vigente Regolamento comunale sull’Ordinamento degli Uffici e dei Servizi, per l’assunzione\nnell’organico del Comune di Catanzaro di n. 1 unità di personale del comparto di Area degli “Operatori ” del\nnuovo Ordinamento del CCNL delle Funzioni Locali – profilo professionale di “Operatore nei servizi ausiliari -\nautista”.",
+   "mansioni": "",
+   "titoliStudio": "Nel caso di possesso di titolo di studio conseguito all’estero alla domanda andrà allegato decreto di  equivalenza del titolo di studio conseguito all’estero ovvero dichiarazione di aver attivato la procedura di  emanazione del decreto di equivalenza di cui all’articolo 38, comma 3, del decreto legislativo 30 marzo 2001, n.\n165 (solo per coloro che sono in possesso di un titolo di studio conseguito all’estero).",
+   "requisiti": "Le amministrazioni, fissando preventivamente i requisiti e le competenze  professionali richieste, pubblicano sul proprio sito istituzionale, per un per iodo pari almeno a trenta giorni, un  bando in cui sono indicati i posti che intendono ricoprire attraverso passaggio diretto di personale di altre  amministrazioni, con indicazione dei requisiti da possedere.\";\nLa procedura è riservata ai dipendenti in servizio a tempo indeterminato presso altre pubbliche  amministrazioni anche ad ordinamento autonomo inquadrati in area professionale pari o equivalente al posto  da ricoprire, in possesso dei requisiti indicati al successivo articolo…",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/4f1c4436-52a6-4e50-bc49-d85ded56a6b4",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=be5fd579fadb4c77b8664591ee50c3d5",
+   "linkEnte": "",
+   "key": "inpa:be5fd579fadb4c77b8664591ee50c3d5",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:8e655176736d4d3c94abcf1ae51ffcb8",
+   "inpaId": "8e655176736d4d3c94abcf1ae51ffcb8",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO PER LA MANIFESTAZIONE D’INTERESSE PER L’ASSUNZIONE A TEMPO DETERMINATO AI SENSI DELL’ART. 90 DEL D.LGS 267/2000 (T.U.E.L.) DI N. 2 ISTRUTTORI AMMINISTRATIVI N. 1 A TEMPO PIENO E N. 1 A TEMPO PARZIALE 50% PRESSO L’UFFICIO DI SUPPORTO AGLI ORGANI POLITICI (STAFF SINDACO)",
+   "ente": "Comune di Cosenza",
+   "profilo": "istruttore amministrativo",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-11-30",
+   "pubblicazione": "2026-11-10",
+   "contratto": "tempo determinato, part time",
+   "descrizione": "n. 2 unità di cui n. 1 a tempo pieno e n. 1 a tempo parziale 50% profilo “Istruttore amministrativo” con funzioni di supporto per la gestione dei flussi documentali e delle attività di segreteria dell’Uffi cio di Staff del Sindaco.",
+   "mansioni": "assunzione a tempo determinato, ai sensi dell’art. 90 del D.Lgs. n. 267/2000, di n. 2 unità di cui n. 1 a tempo pieno e n. 1 a tempo parziale 50% profilo “Istruttore amministrativo” con funzioni di supporto per la gestione dei flussi documentali e delle attività di segreteria dell’Uffi cio di Staff del Sindaco.",
+   "titoliStudio": "essere in possesso di un diploma di scuola secondaria di secondo grado di durata quinquennale  (diploma di maturità).\nI candidati in possesso di un titolo di studio conseguito all’estero possono  chiedere l’ammissione alla selezione con riserva in attesa del riconoscimento di equivalenza del titolo  di studio, dichiarando espressamente nella domanda di partecipazione di aver avviato l’iter  procedurale previsto…",
+   "requisiti": "2547, risulta legittimo conferire gli incarichi de quo mediante avviso pubblico di selezione a nulla  rilevando che l’Amministrazione non abbia preventivamente effettuato una ricognizione delle  professionalità interne volta ad accertare la presenza in organico di soggetti cui conferire il medesimo  incarico, ai quali, ovviamente, non è preclusa la partecipazione qualora ne abbiano i requisiti;\nGli incarichi, connotati da carattere fiduciario, sar anno conferiti a soggetti individuati direttamente  dal Sindaco sulla base dei curricula presentati da coloro che, in possesso dei requisiti richiesti al  successivo art. 2, abbiano manifestato…",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/b6c08eeb-c0cb-4fbc-9e1c-a85250eef6fd",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8e655176736d4d3c94abcf1ae51ffcb8",
+   "linkEnte": "https://www.comune.cosenza.it/",
+   "key": "inpa:8e655176736d4d3c94abcf1ae51ffcb8",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:388cf25d4b854fc6bc87e3e5f8c9893f",
+   "inpaId": "388cf25d4b854fc6bc87e3e5f8c9893f",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per esami e titoli , per l'assunzione di n. 1 unità a tempo indeterminato e pieno di personale del profilo di Funzionario amministrativo - gestionale di cui al CCNL Istruzione e Ricerca - comparto AFAM del 18/01/2024",
+   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+   "profilo": "Funzionario amministrativo/gestionale - Area dei Funzionari CCNL Istruzione e Ricerca - sezione AFAM",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-30",
+   "pubblicazione": "2026-10-31",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il Conservatorio di Musica Stanislao Giacomantonio di Cosenza indice un concorso pubblico, per esami e titoli, per la formazione di una graduatoria di istituto finalizzata alla copertura di 1 posto a tempo pieno e indeterminato di funzionario, settore amministrativo-gestionale, Area dei Funzionari.\nPer partecipare serve una laurea, almeno triennale, in ambito economico-aziendale o economia e commercio, nelle classi previste dal bando. L'esame prevede una prova scritta tecnica, un questionario comportamentale a risposta multipla e prove orali.",
+   "mansioni": "Per come previsto nell’Allegato I - “Declaratoria delle aree del sistema di classificazione del personale  tecnico e amministrativo dell’AFAM” del CCNL del comparto AFAM sottoscritto il 18 gennaio 2024, sono  indicate le relative specifiche professionali:\nLa prova scritta di carattere tecnico e la prova comportamentale scritta si svolgerà in modalità digitale,  utilizzando la strumentazione messa a disposizione…",
+   "titoliStudio": "Titolo di studio: Laurea almeno Triennale ovvero diploma di laurea conseguito secondo il previgente ordinamento (ante D.M. 509/1999), in una delle seguenti discipline:\nLaurea equiparata, specialistica o magistrale: Scienze economico-aziendali (84/S – LM/77) - Economia e commercio\nLaurea equiparata, specialistica o magistrale: Scienze dell’economia (64/S – LM-56) – Scienze economico-aziendali (84/S – LM-77)\nEconomia…",
+   "requisiti": "Titolo di studio: Laurea almeno Triennale ovvero diploma di laurea conseguito secondo il previgente ordinamento (ante D.M. 509/1999), in una delle seguenti discipline:\n- Economia aziendale\nLaurea equiparata, specialistica o magistrale: Scienze economico-aziendali (84/S – LM/77) - Economia e commercio\nLaurea equiparata, specialistica o magistrale: Scienze dell’economia (64/S – LM-56) – Scienze economico-aziendali (84/S – LM-77)",
+   "prove": "La prova volta a testare il profilo comportamentale verifica una, più, o tutte le seguenti Aree/competenze trasversali:\nArea: Capire il contesto pubblico, competenza trasversale: soluzione di problemi;\nArea: Interagire nel contesto Pubblico, competenza trasversale: collaborazione, orientamento al…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando%20di%20concorso%20per%20il%20reclutamento%20di%20funzionario%20amministrativo-gestionale%202026-1.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=388cf25d4b854fc6bc87e3e5f8c9893f",
+   "linkEnte": "https://www.conservatoriocosenza.it/amministrazione-trasparente/concorsi/",
+   "altriLink": [
+    "https://www.concorsipubblici.com/conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-funzionario-amministrativo",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-presso-il-conservatorio-di-musica-stanislao-giacomantonio-di-cosenza/"
+   ],
+   "key": "inpa:388cf25d4b854fc6bc87e3e5f8c9893f",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "AFAM – Altri Conservatori e Accademie in Calabria",
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:a47c9fc6b1a749e989ea04170ce4f52b",
+   "inpaId": "a47c9fc6b1a749e989ea04170ce4f52b",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "copertura di n. 1 posto nell’Area dei Funzionari e dell’Elevata Qualificazione, a tempo pieno e indeterminato, per 36 ore settimanali, presso l’Area Amministrativa del Comune di Stalettì.",
+   "ente": "Comune di Staletti'",
+   "profilo": "Area dei funzionari e dell'elevata qualificazione",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-30",
+   "pubblicazione": "2026-10-29",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "Il Comune di Stalettì indice una procedura di mobilità volontaria per la copertura di un posto a tempo pieno e indeterminato di Funzionario amministrativo , nell’Area dei Funzionari e dell’Elevata Qualificazione. La selezione è riservata a dipendenti pubblici in possesso dei requisiti richiesti e avverrà mediante valutazione dei titoli e colloquio. La domanda dovrà essere presentata esclusivamente tramite il portale inPA entro il termine indicato nell’avviso.",
+   "mansioni": "Sono attribuiti fino a 5 punti per servizio prestato, a tempo determinato o indeterminato, presso le pubbliche amministrazioni di cui all’art. 1, comma 2, del D.Lgs. n. 165/2001, nell’area e nel profilo corrispondenti o equivalenti al posto da coprire, con mansioni amministrative attinenti.\nI dati sono trattati, con strumenti informatici e cartacei, per gestire la selezione, verificare le dichiarazioni e…",
+   "titoliStudio": "c) possedere un diploma di laurea del vecchio ordinamento oppure una laurea specialistica o magistrale in discipline giuridiche o economiche, ovvero un titolo equipollente o equiparato secondo la normativa vigente; per titoli esteri, possedere il riconoscimento richiesto dalla legge;\nSono ulteriori titoli valutabili: una seconda laurea autonoma rispetto al percorso utilizzato per l’accesso, dottorato di ricerca,…",
+   "requisiti": "Alla scadenza del termine per la presentazione delle domande i candidati devono possedere i seguenti requisiti, da mantenere sino al trasferimento, salvo quelli riferiti espressamente a un periodo determinato: \na) essere dipendenti a tempo indeterminato di una pubblica amministrazione di cui all’art. 1, comma 2, del D.Lgs. n. 165/2001, con inquadramento nell’Area dei Funzionari e dell’Elevata Qualificazione del Comparto Funzioni Locali, con profilo di Funzionario amministrativo o equivalente per contenuto professionale; per personale di altro comparto, possedere un inquadramento…",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/4d07f44a-e662-4559-93df-e4c87265c634",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a47c9fc6b1a749e989ea04170ce4f52b",
+   "linkEnte": "http://www.comune.staletti.cz.it/",
+   "key": "inpa:a47c9fc6b1a749e989ea04170ce4f52b",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:3e96f65f29134bdb92c78fc19cdd15c9",
+   "inpaId": "3e96f65f29134bdb92c78fc19cdd15c9",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Ruolo Normale Nomina Diretta EI 2026",
+   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+   "profilo": "Ufficiali",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 60,
+   "scadenza": "2026-12-01",
+   "pubblicazione": "2026-11-02",
+   "contratto": "",
+   "descrizione": "Concorso, per titoli ed esami, per la nomina di 60 Tenenti in servizio permanente nei ruoli normali dell’Esercito",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/a299846c-8703-47d0-a3ea-d881ef0e4924",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e96f65f29134bdb92c78fc19cdd15c9",
+   "linkEnte": "https://concorsi.difesa.it",
+   "key": "inpa:3e96f65f29134bdb92c78fc19cdd15c9",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Esercito Italiano"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:b9ebbd89966b4957a08d8af1cd5ed8b3",
+   "inpaId": "b9ebbd89966b4957a08d8af1cd5ed8b3",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Volontari in ferma iniziale (VFI) nell’Aeronautica Militare.",
+   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+   "profilo": "volontari",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 1050,
+   "scadenza": "2026-12-03",
+   "pubblicazione": "2026-11-04",
+   "contratto": "",
+   "descrizione": "Concorso per il reclutamento nell’Aeronautica Militare di 1.050 Volontari in ferma prefissata iniziale (VFI), di cui: \na) 1.000 “ordinari” per categorie varie che saranno assegnate dalla Forza Armata; \nb) 20 per il settore d’impiego “Incursori” e 30 per il settore d’impiego “STOS”.",
+   "mansioni": "Sul portale u nico del reclutame nto (da ora portale InPA), raggiungibil e a ll’indirizzo  www.inpa.gov.it, verrà pubblicato il prese nte bando di concorso, i termini per la presentazione  delle domande, il reindirizzamento al portale dei concorsi on-line del Ministero della Difesa per  le attività di cui ai preceden ti commi 2 e 3.",
+   "titoliStudio": "se in possesso di titolo di studio conse guito all’estero, copia conforme dell’attestazione di  equipollenza del ti tolo stesso rilasciata da un Ateneo, da un U fficio Scolastico Regionale o\nabilitazioni, brevetti e qualifiche di paracadutista sia militari che civili.\nIl candidato è tenuto a fornire l’indirizzo civico e l’indirizzo PEC dell’istituto di istruzione  presso il quale ha conseguito il titolo di studio…",
+   "requisiti": "Requisiti di partecipazione\nDetti requisiti dovranno essere mantenuti , fatta  eccezione per quello dell’età, fino alla data d i effettiva incorporazione, pena l’escl usione dal  reclutamento.\nNella domanda di parte cipazione i conc orrenti d ovranno indicare i loro dati anagrafici,  compresi quelli relativi alla residenz a e al reca pito presso il quale inte ndono ricevere eventuali  comunicazioni relative al concors o, nonché tutte le informazioni at testanti il possesso dei  requisiti di pa rtecipazione al concorso stesso.\nL’invio della domanda secondo le m odalità de scritte conclude la procedura di presentazione  della stessa e si int…",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/e312a93a-5369-4815-8841-8d6608ef725b",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b9ebbd89966b4957a08d8af1cd5ed8b3",
+   "linkEnte": "https://concorsi.difesa.it",
+   "key": "inpa:b9ebbd89966b4957a08d8af1cd5ed8b3",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Esercito Italiano"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:fd67444ea3d24fb9a48188fcf70516e2",
+   "inpaId": "fd67444ea3d24fb9a48188fcf70516e2",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per A.A. 2026/2027 PER IL SETTORE ARTISTICO DISCIPLINARE “PEDAGOGIA MUSICALE E PSICOLOGIA DELLA MUSICA” AFAM053",
+   "ente": "Conservatorio Musica Vibo Valentia",
+   "profilo": "docente",
+   "sedi": [
+    "Vibo Valentia"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-03",
+   "pubblicazione": "2026-11-03",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per A.A. 2026/2027 PER IL SETTORE ARTISTICO DISCIPLINARE “PEDAGOGIA MUSICALE E PSICOLOGIA DELLA MUSICA” AFAM053",
+   "mansioni": "Attività di produzione artistica, pubblicazioni, altri titoli culturali e  professionali attinenti al SAD\nAttività di direzione artistica di enti di rilevanza nazionale ed  internazionale;\nAttività di produzione artistica e professionale  o Attività concertistica con rilevanza pedagogica  (concerti-lezione, laboratori, progetti educativi, ecc.)  o Esperienze professionali coerenti con la pedagogia  musicale.",
+   "titoliStudio": "a) possesso dell’Abilitazione artistica nazionale, di cui all’art. 2 del DPR 83/2024, relativa allo stesso settore artistico disciplinare di cui all’art. 1 del presente bando;\nPer qualsiasi laurea",
+   "requisiti": "Possesso di uno dei seguenti requisiti specifici: \na) possesso dell’Abilitazione artistica nazionale, di cui all’art. 2 del DPR 83/2024, relativa allo stesso settore artistico disciplinare di cui all’art. 1 del presente bando; \nb) essere docenti a tempo indeterminato inquadrati nel medesimo settore artistico-disciplinare per il quale è stata indetta la procedura;\nc) fino alla conclusione della prima procedura di abilitazione di cui al DPR 83/2024, art. 2, alle procedure di reclutamento a tempo indeterminato dei docenti possono partecipare coloro che risultano inseriti a pieno titolo nelle…",
+   "prove": "Le prove di esame consisteranno in due prove:\na) una prova didattica a carattere teorico o pratico in relazione alla tipologia di insegnamento e del settore artistico – disciplinare, che attesta la competenza didattica dei candidati;\nb) un’ulteriore prova pratica o di altra prova, scritta o orale,…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/053_Bando%20reclutamento%20docenti%20TI%202026_pedagogia%20-%202%20%281%29-signed%20%281%29_1.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fd67444ea3d24fb9a48188fcf70516e2",
+   "linkEnte": "www.convv.it",
+   "altriLink": [
+    "https://www.concorsipubblici.com/conservatorio-musica-vibo-valentia-concorso-docente-vibo-valentia-2026-14"
+   ],
+   "key": "inpa:fd67444ea3d24fb9a48188fcf70516e2",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "AFAM – Altri Conservatori e Accademie in Calabria",
+    "AFAM – Conservatorio \"F. Torrefranca\" di Vibo Valentia"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:3e80cc25bad2406d8f2ec946e1f6c21f",
+   "inpaId": "3e80cc25bad2406d8f2ec946e1f6c21f",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI DOCENTE A TEMPO INDETERMINATO SETTORE ARTISTICO DISCIPLINARE AFAM113 (EX ABPR31) – FOTOGRAFIA",
+   "ente": "Accademia di Belle Arti di Catanzaro",
+   "profilo": "Docente",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-04",
+   "pubblicazione": "2026-11-04",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "È indetta una selezione pubblica per titoli ed esami per la copertura di n. 1 posto di personale docente a tempo indeterminato, con regime di impegno a tempo pieno, per il settore artistico-disciplinare AFAM113 – FOTOGRAFIA (ex ABPR31), ai sensi del D.M. 12 febbraio 2025, n. 128.",
+   "mansioni": "Include le tecnologie digitali e generative, la riflessione critica sulla rappresentazione, le pratiche narrative e editoriali, le attività in sala di posa e la sperimentazione in camera oscura, secondo la declaratoria ufficiale dell’allegato A al D.M. n. 128/2025.\nPer la determinazione puntuale dei contenuti e dei profili disciplinari del settore si rinvia alla declaratoria AFAM113 di cui alla tabella A del D.M.…",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/518952c7-23f5-4a13-a736-c68c24173c28",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e80cc25bad2406d8f2ec946e1f6c21f",
+   "linkEnte": "www.abacatanzaro.it ",
+   "key": "inpa:3e80cc25bad2406d8f2ec946e1f6c21f",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Catanzaro",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:2a9070631512432eb92443f92ce79bfd",
+   "inpaId": "2a9070631512432eb92443f92ce79bfd",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "SELEZIONE PUBBLICA PER SOLI TITOLI PER LA COPERTURA DI N. 1 POSTO DI DOCENTE A TEMPO DETERMINATO – SETTORE ARTISTICO-DISCIPLINARE AFAM093 – TECNICHE E TECNOLOGIE DEL PRODOTTO MODA – AI SENSI DELL’ART. 9 DEL D.P.R. N. 83/2024",
+   "ente": "Accademia di Belle Arti di Catanzaro",
+   "profilo": "Docente",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-04",
+   "pubblicazione": "2026-11-04",
+   "contratto": "tempo determinato",
+   "descrizione": "È indetta una selezione pubblica per soli titoli, ai sensi dell’art. 9 del D.P.R. n. 83/2024 e del Regolamento d’Istituto prot. n. 4273/2025, come integrato dall’appendice prot. n. 247/2026, per la formazione di una graduatoria d’istituto finalizzata alla copertura di n. 1 posto di docente a tempo determinato nel settore artistico-disciplinare AFAM093 – Tecniche e tecnologie del prodotto moda",
+   "mansioni": "L’insegnamento riguarda i processi tecnico-produttivi del settore moda, le tecniche di modellistica, realizzazione e prototipazione, i materiali e le tecnologie tradizionali e innovative, nel quadro della declaratoria del settore AFAM093 di cui al D.M. n. 128/2025 e dei profili disciplinari individuati dal D.D. n. 205/2025.\nPer il testo ufficiale integrale della declaratoria si rinvia alla Tabella A allegata al…",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/b5cf70d5-7671-46a6-8d08-8d0eaa3d023c",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2a9070631512432eb92443f92ce79bfd",
+   "linkEnte": "",
+   "key": "inpa:2a9070631512432eb92443f92ce79bfd",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Catanzaro",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:67cdd6d4f2f24922ada35fc99c7ff246",
+   "inpaId": "67cdd6d4f2f24922ada35fc99c7ff246",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO PER LA MOBILITA’ VOLONTARIA",
+   "ente": "Comune di Decollatura",
+   "profilo": "ISTRUTTORE CONTABILE",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-05",
+   "pubblicazione": "2026-11-05",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO PER LA MOBILITA’ VOLONTARIA PER L’ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N°1 UNITA’ DI PERSONALE DELL’AREA DEGLI ISTRUTTORI – PROFILO PROFESSIONALE “ISTRUTTORE CONTABILE”,",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/58fea64a-6eda-46c7-9f0f-83787b92a224",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67cdd6d4f2f24922ada35fc99c7ff246",
+   "linkEnte": "https://decollatura.trasparenza-valutazione-merito.it/web/trasparenza/papca-g/-/papca/display/1813200",
+   "key": "inpa:67cdd6d4f2f24922ada35fc99c7ff246",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:fa8161fcc90141c195e4e90e3cfc516a",
+   "inpaId": "fa8161fcc90141c195e4e90e3cfc516a",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "copertura di N. 1 POSTO A TEMPO PARZIALE (17 ORE SETTIMANALI) E INDETERMINATO, nel profilo professionale di OPERATORE ESPERTO TECNICO-MANUTENTIVO –Area degli Operatori esperti – CCNL Comparto Funzioni Locali",
+   "ente": "Comune di Sant'Onofrio",
+   "profilo": "operatore esperto",
+   "sedi": [
+    "Vibo Valentia"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-07",
+   "pubblicazione": "2026-11-06",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il Comune di Sant’Onofrio, in provincia di Vibo Valentia, indice un concorso pubblico per soli esami per la copertura a tempo parziale (17 ore settimanali) e indeterminato di 1 operatore esperto tecnico-manutentivo (Area degli Operatori esperti, CCNL Funzioni Locali) presso i servizi tecnico-manutentivi.\nPer partecipare servono il diploma di istruzione secondaria di secondo grado, una qualifica professionale in un settore tecnico affine alle mansioni e la patente B. Sono previste una prova scritta e una prova orale, con eventuale preselezione a quesiti a risposta multipla. Il contributo di…",
+   "mansioni": "Per partecipare servono il diploma di istruzione secondaria di secondo grado, una qualifica professionale in un settore tecnico affine alle mansioni e la patente B. Sono previste una prova scritta e una prova orale, con eventuale preselezione a quesiti a risposta multipla.",
+   "titoliStudio": "Per partecipare servono il diploma di istruzione secondaria di secondo grado, una qualifica professionale in un settore tecnico affine alle mansioni e la patente B. Sono previste una prova scritta e una prova orale, con eventuale preselezione a quesiti a risposta multipla.",
+   "requisiti": "Sono richiesti congiuntamente tutti i seguenti requisiti.\n- Diploma di istruzione secondaria di secondo grado.\n- Almeno una qualifica professionale formalmente rilasciata per uno dei seguenti settori: edilizia, segnaletica o toponomastica, manutenzione, impiantistica, comunicazione digitale, arti ausiliari professionali, oppure altro settore tecnico affine alle mansioni di cui all’art. 2. La qualifica deve risultare da un attestato o titolo professionale rilasciato da un istituto scolastico, da un ente di formazione accreditato o da altro soggetto abilitato.\n- Patente di guida di categoria B…",
+   "prove": "Prima prova scritta \nLa prova scritta, Consiste in quesiti a risposta sintetica, quesiti a risposta multipla o nella soluzione di un caso operativo, secondo le modalità definite dalla Commissione. Le materie sono manutenzione di strade, verde, immobili e aree cimiteriali, piccoli lavori edili e…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/BANDO%20CONCORCO%20OPERATORE%20ESPERTO%20%20X%20CAT.B.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fa8161fcc90141c195e4e90e3cfc516a",
+   "linkEnte": "https://www.comune.santonofrio.vv.it/it",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-santonofrio-concorso-operatore-tecnico-vibo-valentia-2026",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-operatore-esperto-tecnico-manutentivo-presso-comune-di-santonofrio/"
+   ],
+   "key": "inpa:fa8161fcc90141c195e4e90e3cfc516a",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:889ca824b9a74f709eed6fe2f46b3a79",
+   "inpaId": "889ca824b9a74f709eed6fe2f46b3a79",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA ESTERNA, AI SENSI DELL’ART. 30 DEL DECRETO LEGISLATIVO 30 MARZO 2001, N. 165, PER TITOLI E COLLOQUIO, PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO AMMINISTRATIVO, AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, A TEMPO PIENO E INDETERMINATO, DA ASSEGNARE…",
+   "ente": "Comune di Sorbo San Basile",
+   "profilo": "Funzionario amministrativo, Area dei Funzionari e dell’Elevata Qualificazione",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-07",
+   "pubblicazione": "2026-11-06",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "procedura di mobilità volontaria esterna, per titoli e colloquio, per la copertura di n. 1 posto di Funzionario amministrativo dell’Elevata Qualificazione - a tempo pieno e indeterminato,",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=889ca824b9a74f709eed6fe2f46b3a79",
+   "linkEnte": "https://sorbo.soluzionipa.it/openweb/albo/albo_dettagli.php?id=1184&CSRF=dea733967f926e01341951d91fbf1629",
+   "key": "inpa:889ca824b9a74f709eed6fe2f46b3a79",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:fd91ac92bd40467d93b48d23ca07f90e",
+   "inpaId": "fd91ac92bd40467d93b48d23ca07f90e",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "SELEZIONE FUNZIONARIO CONTABILE E.Q.",
+   "ente": "Comune di Calopezzati",
+   "profilo": "funzionario contabile",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-09",
+   "pubblicazione": "2026-11-09",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il Comune di Calopezzati, in provincia di Cosenza, indice un concorso pubblico per esami per la copertura a tempo indeterminato e parziale (91,67%, 33 ore settimanali) di 1 funzionario contabile (Area dei Funzionari e dell’Elevata Qualificazione) da assegnare all’Area Finanziaria.\nPer partecipare serve una laurea nelle classi previste dal bando (area economico-statistica), triennale o magistrale. Le prove sono una prova scritta e una prova orale; se le domande sono troppe può essere svolta una preselezione a risposta multipla. La tassa di concorso è di 10 euro.",
+   "mansioni": "Le date e il luogo dove si svolgeranno le prove d ’esame verrà pubblicato almeno quindici giorni prima  dello svolgimento delle stesse, mediante apposito a vviso sul portale INPA e sul sito  www.comune.calopezzati.cs.it nella sezione “Amministrazione Trasparente” – sottosezione “Bandi di  concorso”; tale avviso ha valore di notifica a tutt i gli effetti e non seguirà pertanto nessun’altra  comunicazione al riguardo.",
+   "titoliStudio": "Laurea Magistrale ex D.M. 270/2004 nelle seguenti classi:\n− LM-56 Scienze dell’economia;\n− LM-77 Scienze Economico-Aziendali;\nScienze Economico Aziendali \nScienze statistiche",
+   "requisiti": "Possesso di uno dei seguenti titoli di studio:\nLaurea Magistrale ex D.M. 270/2004 nelle seguenti classi:\n− LM-56 Scienze dell’economia;\n− LM-77 Scienze Economico-Aziendali;\n− LM-82 Scienze Statistiche;\n− Lauree Specialistiche (LS) di cui al D.M. 509/99 e i Diplomi di Laurea vecchio ordinamento (DL) ad esse equiparate unicamente così come previsto dalla Tabella allegata al Decreto Interministeriale 09-07-2009 (09A11795).\nQualora un Diploma di Laurea conseguito secondo il vecchio ordinamento, trovi corrispondenza con più classi di Laurea Specialistiche o Magistrali ai sensi del citato Decreto…",
+   "prove": "Preselezione: la commissione esaminatrice si riserva di sottoporre i candidati ad una prova preselettiva a risposta multipla sulle stesse materie oggetto delle prove d’esame, qualora a seguito di insindacabile giudizio della medesima il numero delle domande pervenute dovesse essere ritenuto…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando-Concorso_FUNZIONARIO-CONTABILE%20_signed.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fd91ac92bd40467d93b48d23ca07f90e",
+   "linkEnte": "https://comune.calopezzati.cs.it/",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-calopezzati-concorso-funzionario-contabile-cosenza-2026",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-contabile-presso-comune-di-calopezzati/"
+   ],
+   "key": "inpa:fd91ac92bd40467d93b48d23ca07f90e",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:aa056c7307894eccb200a32cadd69c11",
+   "inpaId": "aa056c7307894eccb200a32cadd69c11",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO PER IL CONFERIMENTO DI UN INCARICO QUINQUENNALE DI DIREZIONE DELLA UOC DI NEONATOLOGIA E T.I.N. PRESSO AZIENDA OSPEDALIERA “ANNUNZIATA – MARIANO SANTO S. BARBARA” DI COSENZA",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "Direttore Struttura Complessa",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-11",
+   "contratto": "tempo determinato",
+   "descrizione": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO PER IL CONFERIMENTO DI UN INCARICO QUINQUENNALE DI DIREZIONE DELLA UOC DI NEONATOLOGIA E T.I.N. PRESSO AZIENDA OSPEDALIERA “ANNUNZIATA – MARIANO SANTO S. BARBARA” DI COSENZA",
+   "mansioni": "Partecipazione all’attività di rete materno infantile come da nuova indicazione regionale nell’ottica  della presa in carico e continuità delle cure.\n− durata, continuità e rilevanza dell’impegno professionale del candidato.  a.3) Attività di formazione, studio, ricerca e pubblicazioni: max punti 15\n− attività didattica presso corsi di studio per il conseguimento di diploma universitario, di laurea o di …",
+   "titoliStudio": "diploma di laurea in Medicina e Chirurgia;\nanzianità di servizio di sette anni, di cui cinque in Neonatologia o disciplina equipollente, e specializzazione nella disciplina di Neonatologia o in una disciplina equipollente, ovvero anzianità di servizio di dieci anni nella disciplina;\nmedicina e chirurgia",
+   "requisiti": "Requisiti Specifici:\n- diploma di laurea in Medicina e Chirurgia;\n- iscrizione al corrispondente albo professionale debitamente autocertificata;\n- anzianità di servizio di sette anni, di cui cinque in Neonatologia o disciplina equipollente, e specializzazione nella disciplina di Neonatologia o in una disciplina equipollente, ovvero anzianità di servizio di dieci anni nella disciplina;\n- curriculum in cui siano documentate una specifica attività professionale ed un’adeguata esperienza;\n- attestato di formazione manageriale",
+   "prove": "Il colloquio è diretto alla valutazione delle capacità professionali del candidato nella specifica disciplina con riferimento anche alle esperienze professionali documentate, nonché all’accertamento delle capacità gestionali, organizzative e di direzione del medesimo con riferimento all’incarico…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/ALLEGATO%20A%20-%20AVVISO%20DIRETTORE%20NEONATOLOGIA%20E%20TIN.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aa056c7307894eccb200a32cadd69c11",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/21592",
+   "altriLink": [
+    "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-medico-neonatologo"
+   ],
+   "key": "inpa:aa056c7307894eccb200a32cadd69c11",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Azienda Ospedaliera di Cosenza",
+    "Azienda Zero Calabria",
+    "Regione Calabria – Bandi e avvisi"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "cp:universita-mediterranea-di-reggio-calabria-concorso-professore-di-prima-fascia-reggio-calabria-2",
+   "fonti": [
+    "ConcorsiPubblici"
+   ],
+   "titolo": "Universita' degli studi Mediterranea di Reggio Calabria, due professori di prima fascia, vari GSD",
+   "ente": "Università «Mediterranea» di Reggio Calabria",
+   "profilo": "professore di prima fascia",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": null,
+   "scadenza": "2026-12-10",
+   "pubblicazione": "",
+   "descrizione": "Valutazione comparativa, per titoli e discussione pubblica, per la\ncopertura di quattro posti di ricercatore a tempo determinato in\ntenure track, vari GSD. \n(GU n.87 del 10-11-2026)",
+   "link": "https://www.concorsipubblici.com/universita-mediterranea-di-reggio-calabria-concorso-professore-di-prima-fascia-reggio-calabria-2",
+   "inpaId": null,
+   "contratto": "tempo indeterminato",
+   "mansioni": "",
+   "titoliStudio": "Dottorato di ricerca",
+   "requisiti": "titolo di dottore di ricerca o titolo equivalente, conseguito in Italia o all'estero",
+   "prove": "Valutazione dei titoli, del curriculum, della produzione scientifica, conoscenza della lingua straniera",
+   "candidatura": "https://unirc.portaleamministrazionetrasparente.it/pagina640_concorsi-attivi.html\nLa domanda deve essere trasmessa per via telematica al seguente\nindirizzo di posta elettronica certificata:\n[email protected] ; i files allegati al messaggio di posta\nelettronica dovranno essere in formato PDF (la…",
+   "linkBando": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/universita-mediterranea-di-reggio-calabria-concorso-ricercatore-reggio-calabria-2026"
+   ],
+   "key": "t:universita mediterranea di reggio calabr|2026-12-10|",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Università Mediterranea di Reggio Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:17c807671b614eef888d207ea4e5c46a",
+   "inpaId": "17c807671b614eef888d207ea4e5c46a",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - INCARICO QUINQUENNALE DI DIRETTORE DELLA STRUTTURA COMPLESSA CENTRO SALUTE MENTALE (CSM) - BASSO TIRRENO PRESSO L’AZIENDA SANITARIA PROVINCIALE DI REGGIO CALABRIA",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "Direttore Struttura Complessa",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-12",
+   "pubblicazione": "2026-11-13",
+   "contratto": "",
+   "descrizione": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - INCARICO QUINQUENNALE DI DIRETTORE DELLA STRUTTURA COMPLESSA CENTRO SALUTE MENTALE (CSM) - BASSO TIRRENO PRESSO L’AZIENDA SANITARIA PROVINCIALE DI REGGIO CALABRIA",
+   "mansioni": "Il Centro di Salute Mentale (CSM) è un’Unità Operativa Complessa del Dipartimento di Salute Mentale e Dipendenze, deputata alla direzione, al coordinamento e alla gestione delle attività di prevenzione, diagnosi, cura e riabilitazione del disagio e del disturbo psichico.",
+   "titoliStudio": "Il Centro di Salute Mentale (CSM) è un’Unità Operativa Complessa del Dipartimento di Salute Mentale e Dipendenze, deputata alla direzione, al coordinamento e alla gestione delle attività di prevenzione, diagnosi, cura e riabilitazione del disagio e del disturbo psichico.",
+   "requisiti": "il D.P.R. 10 dicembre 1997, n. 484, recante “regolamento recante la determinazione dei  requisiti per l'accesso alla direzione sanitaria aziendale e dei requisiti e dei criteri per  l'accesso al secondo livello dirigenziale per il personale del ruolo sanitario del Servizio  sanitario nazionale.”;",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/11944c69-4fa4-4f8a-bb30-58d1b2cf46f9",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=17c807671b614eef888d207ea4e5c46a",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/21730",
+   "key": "inpa:17c807671b614eef888d207ea4e5c46a",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:57411ee993a54405a13a7ac451447256",
+   "inpaId": "57411ee993a54405a13a7ac451447256",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Avviso pubblico finalizzato all’acquisizione di Manifestazioni di Interesse per il conferimento di n. 2 incarichi libero - professionali a Medici specialisti in Radiodiagnostica per attività di Screening Mammografico e Diagnostica Senologica - Abbattimento delle liste d'attesa in esecuzione del…",
+   "ente": "Azienda Sanitaria Provinciale di Vibo Valentia",
+   "profilo": "Medici specialisti in Radiodiagnostica",
+   "sedi": [
+    "Vibo Valentia"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2027-07-06",
+   "pubblicazione": "2026-07-06",
+   "contratto": "",
+   "descrizione": "Avviso pubblico finalizzato all’acquisizione di Manifestazioni di Interesse per il conferimento di n. 2 incarichi libero - professionali a Medici specialisti in Radiodiagnostica per attività di Screening Mammografico e Diagnostica Senologica",
+   "mansioni": "Avviso pubblico finalizzato all’acquisizione di Manifestazioni di Interesse per il conferimento di n. 2 incarichi libero - professionali a Medici specialisti in Radiodiagnostica per attività di Screening Mammografico e Diagnostica Senologica - Abbattimento delle liste d'attesa in esecuzione del DCA n. 42 del 27.02.2026 e del PAGLA 2026/2027",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/c3b57ded-5ada-4e1d-b346-3243a92a588e",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=57411ee993a54405a13a7ac451447256",
+   "linkEnte": "www.aspvv.it",
+   "key": "inpa:57411ee993a54405a13a7ac451447256",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "ASP Vibo Valentia"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:65252d22b65242d7b4d36883b166dd52",
+   "inpaId": "65252d22b65242d7b4d36883b166dd52",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Volontari in ferma iniziale (VFI) nell'Esercito Italiano-2027",
+   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+   "profilo": "Volontari",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 7000,
+   "scadenza": "2027-07-13",
+   "pubblicazione": "2026-10-13",
+   "contratto": "",
+   "descrizione": "Concorso per il reclutamento nell’Esercito di 7.000 Volontari in ferma prefissata iniziale \n(VFI), ripartiti nei seguenti tre blocchi di incorporamento:\n• 1° blocco, 2.300 posti, di cui:\n• 2.212 per “incarico di impiego che sarà assegnato dalla Forza Armata”;\n• 5 per incarico di impiego “Elettricista Infrastrutturale”;\n• 5 per incarico di impiego “Idraulico Infrastrutturale”;\n• 10 per incarico di impiego “Muratore”;\n• 10 per incarico di impiego “Falegname”;\n• 8 per incarico di impiego “Fabbro”;\n• 10 per incarico di impiego “Meccanico di mezzi e piattaforme”;\n• 10 per incarico di impiego…",
+   "mansioni": "“muratore”, dovra nno predisporre la copia per immagine dell’attestato di formazione  professionale attinente all’attività di o peratore edile-muratore, rilasciato ai sensi della Legge\n“fabbro”, dovranno predisporre la copia per im magine d ell’attestato di formazione  professionale attinente all’attività di operatore fabbro-ferraio, rilasciato ai sensi della Legge 21  dicembre 1978, n. 845 da Enti statali o…",
+   "titoliStudio": "seguito di procedimento disciplinare, ovvero prosciolti, d’autorità o d’ufficio, da precedente  arruolamento nelle Forze Armate o di Polizia, a esclusione dei proscioglimenti a domanda e  per inidoneità psico -fisica e mancato superamento dei corsi di formazione di base di cui  all’articolo 957, comma 1, lettera e -bis del Codice dell’Ordinamento Militare;  f) aver conseguito il diploma di istruzione s econdaria di…",
+   "requisiti": "Per ogni blocco tutti i c andidati parteciperanno per i posti per incarico di impi ego che sarà  assegnato dalla Forza Armata e potranno esprimere il gradimento a concorrere per uno dei posti  previsti per “comparto Forze Speciali” (solo 2° blocco) o, qu alora in possesso dei relativi  requisiti, per i seguenti incarichi (da qui denominati inc arichi “canalizzati”) di “Elettricista\nRequisiti di partecipazione\nI requisiti di cui al co mma 1, lettere h), i), j), k), sono accertati d’uffi cio dall’Amministrazione\nI candidati che intendono accedere ai p osti “canalizzati” devono possedere, oltre ai requisiti di  partecipazione di cui al…",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/a73e694b-dd94-48bd-b09a-c9545c446637",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=65252d22b65242d7b4d36883b166dd52",
+   "linkEnte": "https://concorsi.difesa.it",
+   "key": "inpa:65252d22b65242d7b4d36883b166dd52",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Esercito Italiano"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:a40936042a4d45a798c80c461bb60c83",
+   "inpaId": "a40936042a4d45a798c80c461bb60c83",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI SELEZIONE PUBBLICA PER IL CONFERIMENTO DI INCARICHI LIBERO-PROFESSIONALI A TEMPO DETERMINATO DA ATTRIBUIRE NELLE DISCIPLINE DI PEDIATRIA, IGIENE E MEDICINA PREVENTIVA, ONCOLOGIA MEDICA, MEDICINA INTERNA, GERIATRIA, MEDICINA FISICA E RIABILITAZIONE, E CURE PALLIATIVE _ INTEGRAZIONE DELLA…",
+   "ente": "Azienda Sanitaria Provinciale di Vibo Valentia",
+   "profilo": "Dirigente medico",
+   "sedi": [
+    "Vibo Valentia"
+   ],
+   "nazionale": false,
+   "posti": 10,
+   "scadenza": "2027-11-11",
+   "pubblicazione": "2026-11-11",
+   "contratto": "tempo determinato",
+   "descrizione": "AVVISO DI SELEZIONE PUBBLICA PER IL CONFERIMENTO DI INCARICHI LIBERO-PROFESSIONALI A TEMPO DETERMINATO",
+   "mansioni": "",
+   "titoliStudio": "AVVISO DI SELEZIONE PUBBLICA PER IL CONFERIMENTO DI INCARICHI LIBERO-PROFESSIONALI A TEMPO DETERMINATO DA ATTRIBUIRE NELLE DISCIPLINE DI PEDIATRIA, IGIENE E MEDICINA PREVENTIVA, ONCOLOGIA MEDICA, MEDICINA INTERNA, GERIATRIA, MEDICINA FISICA E RIABILITAZIONE, E CURE PALLIATIVE _ INTEGRAZIONE DELLA DELIBERAZIONE N. 43 DEL 04/02/2026.",
+   "requisiti": "",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/2a563166-3c75-49b5-9b74-869729c0de6d",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a40936042a4d45a798c80c461bb60c83",
+   "linkEnte": "www.aspvv.it",
+   "key": "inpa:a40936042a4d45a798c80c461bb60c83",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "ASP Vibo Valentia"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:f91522355f4c48f4ba510703d860b7a4",
+   "inpaId": "f91522355f4c48f4ba510703d860b7a4",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "D.D. 2575/2023: Concorso docenti scuola secondaria - A001",
+   "ente": "Ministero dell'Istruzione - Ufficio Scolastico Regionale per l'Emilia Romagna",
+   "profilo": "docenti",
+   "sedi": [
+    "Toscana",
+    "Marche",
+    "Campania",
+    "Umbria",
+    "Puglia"
+   ],
+   "nazionale": false,
+   "posti": 60,
+   "scadenza": "2028-12-31",
+   "pubblicazione": "2025-03-21",
+   "contratto": "",
+   "descrizione": "Concorso ordinario per titoli ed esami finalizzato al reclutamento del personale docente della scuola secondaria di primo e secondo grado, su posto comune e di sostegno, così come previsto dal D.D.G. n. 2575 del 6.12.2023.\nSi pubblica di seguito l’ AVVISO prot. n. 11907 del 21.03.2025 inerente all’estrazione della tecnica di realizzazione ai fini della progettazione ed esecuzione della prova pratica – A001 – ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI PRIMO GRADO\nSi pubblica di seguito l’ AVVISO prot. n. 12195 del 24.03.2025 inerente all’ esito dell’estrazione della tecnica di realizzazione…",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/efec582e-e647-42b4-9e43-69a9672a57d0",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f91522355f4c48f4ba510703d860b7a4",
+   "linkEnte": "https://www.miur.gov.it/web/guest/concorso-ordinario-2023-scuola-secondaria-di-primo-e-secondo-grado",
+   "key": "inpa:f91522355f4c48f4ba510703d860b7a4",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Ministero dell'Istruzione e del Merito"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:b9e63c8a6eb34382ba2b480c03b5a3a2",
+   "inpaId": "b9e63c8a6eb34382ba2b480c03b5a3a2",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "USR per il Friuli Venezia Giulia - Concorso per titoli ed esami per l’accesso ai ruoli del personale docente della scuola secondaria di I e di II grado su posto comune e di sostegno, ai sensi dell’articolo 3, comma 7, del Decreto ministeriale 26 ottobre 2023, n. 205, bandito con D.D.G. prot. n.…",
+   "ente": "Ministero dell'Istruzione - Ufficio Scolastico Regionale per il Friuli Venezia Giulia",
+   "profilo": "Docente",
+   "sedi": [
+    "Abruzzo",
+    "Toscana",
+    "Veneto",
+    "Puglia",
+    "Friuli Venezia Giulia",
+    "Lombardia"
+   ],
+   "nazionale": false,
+   "posti": 22,
+   "scadenza": "2035-05-19",
+   "pubblicazione": "2025-05-19",
+   "contratto": "",
+   "descrizione": "CONVOCAZIONE SCELTA TRACCIA LEZIONE SIMULATA E PROVA ORALE CLASSE DI CONCORSO A015 – Discipline sanitarie\nREGIONI DI DESTINAZIONE Abruzzo, Calabria, Friuli Venezia Giulia, Lombardia, Puglia, Veneto, Toscana",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/b3810d36-7c55-4891-805c-fe534865763c",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b9e63c8a6eb34382ba2b480c03b5a3a2",
+   "linkEnte": "https://usrfvg.gov.it/it/home/index.html",
+   "key": "inpa:b9e63c8a6eb34382ba2b480c03b5a3a2",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Ministero dell'Istruzione e del Merito"
+   ],
+   "categoria": "istruzione"
+  }
+ ]
+}

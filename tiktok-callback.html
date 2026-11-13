@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Collega TikTok</title>
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .wrap { max-width: 520px; margin: 0 auto; padding: calc(env(safe-area-inset-top) + 32px) 16px 40px; display: flex; flex-direction: column; gap: 16px; }
+    .card { padding: 20px; }
+    code { display: block; word-break: break-all; background: rgba(255,255,255,.92); color: #15213B; padding: 12px; border-radius: 14px; font-size: 14px; margin: 10px 0; }
+    ol { padding-left: 20px; margin: 8px 0 0; } li { margin: 6px 0; }
+  </style>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span></div>
+  <div class="wrap">
+    <h1 style="margin:0">Collega TikTok</h1>
+    <div class="glass card" id="box"></div>
+    <a class="ghost" href="./" style="text-decoration:none">← Torna all'app</a>
+  </div>
+  <div class="toast" id="toast"></div>
+  <script>
+    const p = new URLSearchParams(location.search);
+    const code = p.get("code"), err = p.get("error");
+    const box = document.getElementById("box");
+    const owner = location.hostname.split(".")[0];
+    const repo = location.pathname.split("/").filter(Boolean)[0] || "";
+    const actions = `https://github.com/${owner}/${repo}/actions/workflows/collega-tiktok.yml`;
+    if (code) {
+      box.innerHTML = `<b>Autorizzazione riuscita!</b> Ultimo passaggio (entro 5 minuti):
+        <ol><li>Copia questo codice:</li></ol>
+        <code id="c"></code>
+        <button class="primary" id="cp" style="width:100%">Copia codice</button>
+        <ol start="2"><li>Apri <a href="${actions}" target="_blank" rel="noopener">GitHub › Actions › Collega TikTok</a></li>
+        <li>Tocca <b>Run workflow</b>, incolla il codice e conferma.</li></ol>`;
+      document.getElementById("c").textContent = code;
+      document.getElementById("cp").onclick = async () => {
+        try { await navigator.clipboard.writeText(code); } catch {}
+        const t = document.getElementById("toast"); t.textContent = "Codice copiato"; t.classList.add("show");
+        setTimeout(() => t.classList.remove("show"), 1600);
+      };
+    } else {
+      box.innerHTML = err ? `<b>TikTok ha rifiutato l'autorizzazione:</b> ${String(p.get("error_description") || err).replace(/</g, "&lt;")}`
+        : "Questa pagina si apre automaticamente dopo l'autorizzazione su TikTok.";
+    }
+  </script>
+</body>
+</html>

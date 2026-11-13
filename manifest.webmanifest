@@ -1,0 +1,17 @@
+{
+  "name": "UILink Concorsi Calabria",
+  "short_name": "UILink",
+  "description": "Opportunità di lavoro e concorsi in Calabria, ogni giorno.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#02275B",
+  "theme_color": "#02275B",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

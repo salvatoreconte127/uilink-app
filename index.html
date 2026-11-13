@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>UILink Concorsi</title>
+  <meta name="description" content="UILink Concorsi Calabria – opportunità di lavoro in Calabria ogni giorno">
+  <meta name="theme-color" content="#02275B">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="UILink">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="icons/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- sfondo animato -->
+  <div class="bg" aria-hidden="true">
+    <span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span><span class="blob b4"></span>
+  </div>
+
+  <main class="app">
+    <!-- SALUTO -->
+    <header class="hello">
+      <p class="hello-date" id="today"></p>
+      <h1>Ciao, <span class="grad">UILink</span></h1>
+    </header>
+
+    <!-- LOGO -->
+    <section class="glass hero">
+      <div class="logo-tile"><img src="icons/logo.jpg" alt="UILink Concorsi Calabria" width="1490" height="935"></div>
+      <p class="tagline">Dove il lavoro incontra le persone</p>
+    </section>
+
+    <!-- CONTATORI SOCIAL -->
+    <section aria-labelledby="social-title">
+      <h2 class="section-title" id="social-title">I tuoi social</h2>
+      <div class="social-grid" id="social"></div>
+    </section>
+
+    <!-- LINKTREE -->
+    <section class="glass link-box">
+      <div class="link-text">
+        <span class="label">Link dei concorsi</span>
+        <a id="linktree" href="https://linktr.ee/uilink_concorsi_calabria" target="_blank" rel="noopener">linktr.ee/uilink_concorsi_calabria</a>
+      </div>
+      <button class="btn-copy" id="copyLink" aria-label="Copia il link negli appunti">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="8" y="8" width="12" height="12" rx="3"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"/></svg>
+        <span>Copia</span>
+      </button>
+    </section>
+
+    <!-- OPPORTUNITÀ -->
+    <section aria-labelledby="jobs-title">
+      <div class="jobs-head">
+        <h2 class="section-title" id="jobs-title">Nuove opportunità</h2>
+        <span class="updated" id="updated"></span>
+      </div>
+      <div class="stats" id="stats"></div>
+      <label class="glass search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Cerca ente, profilo, città…" autocomplete="off">
+      </label>
+      <div class="chips" id="chips" role="tablist"></div>
+      <div class="jobs" id="jobs"><p class="empty">Caricamento opportunità…</p></div>
+    </section>
+
+    <!-- FONTI -->
+    <section class="glass sources">
+      <details>
+        <summary>
+          <span>Enti e fonti monitorate</span>
+          <span class="count" id="srcCount"></span>
+        </summary>
+        <p class="hint">Bandi raccolti ogni mattina da inPA, ConcorsiPubblici e Concorsando e riconosciuti per ente.
+          Per le aziende che pubblicano solo sul proprio sito apri la pagina "Lavora con noi".</p>
+        <div id="sources"></div>
+      </details>
+    </section>
+
+    <footer class="foot">UILink Concorsi Calabria · UIL Calabria</footer>
+  </main>
+
+  <!-- BARRA AZIONE SELEZIONE -->
+  <div class="action-bar" id="actionBar" hidden>
+    <button class="ghost" id="clearSel">Annulla</button>
+    <button class="primary" id="makeText">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20h4L19 9l-4-4L4 16v4z"/><path d="m14 6 4 4"/></svg>
+      Crea testo video <b id="selCount">0</b>
+    </button>
+  </div>
+
+  <!-- FOGLIO TESTO VIDEO -->
+  <div class="sheet-backdrop" id="sheetBg" hidden></div>
+  <section class="sheet" id="sheet" aria-modal="true" role="dialog" aria-labelledby="sheet-title" hidden>
+    <div class="grabber"></div>
+    <div class="sheet-head">
+      <h2 id="sheet-title">Testo per il video</h2>
+      <button class="icon-btn" id="closeSheet" aria-label="Chiudi">✕</button>
+    </div>
+    <p class="hint">Puoi modificare liberamente il testo. Le parti tra [parentesi quadre] sono da completare.</p>
+    <textarea id="script" spellcheck="true"></textarea>
+    <div class="sheet-actions">
+      <button class="ghost" id="regen">↻ Altro titolo</button>
+      <button class="ghost" id="share">Condividi</button>
+      <button class="primary" id="copyScript">Copia</button>
+    </div>
+  </section>
+
+  <!-- MODIFICA FOLLOWER -->
+  <dialog class="glass dlg" id="fDialog">
+    <form method="dialog">
+      <h3 id="fTitle">Follower</h3>
+      <p class="hint" id="fHint"></p>
+      <input id="fInput" type="number" inputmode="numeric" min="0" placeholder="Numero follower">
+      <a class="ghost tt-link" id="ttConnect" href="#" hidden>Collega TikTok per l'aggiornamento automatico</a>
+      <div class="sheet-actions">
+        <button class="ghost" value="cancel">Annulla</button>
+        <button class="primary" value="ok" id="fSave">Salva</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

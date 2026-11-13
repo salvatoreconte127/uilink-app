@@ -1,0 +1,37 @@
+name: Collega TikTok (una tantum)
+
+# Si avvia a mano da GitHub > Actions, incollando il codice mostrato
+# dalla pagina tiktok-callback.html dopo l'autorizzazione su TikTok.
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "Codice di autorizzazione TikTok"
+        required: true
+
+jobs:
+  collega:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scambia il codice con il token e salvalo
+        env:
+          CODE: ${{ inputs.code }}
+          KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          OWNER="${GITHUB_REPOSITORY%%/*}"; NAME="${GITHUB_REPOSITORY#*/}"
+          REDIRECT="https://${OWNER,,}.github.io/${NAME}/tiktok-callback.html"
+          RESP=$(curl -sS -X POST https://open.tiktokapis.com/v2/oauth/token/ \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            --data-urlencode "client_key=$KEY" --data-urlencode "client_secret=$SECRET" \
+            --data-urlencode "code=$CODE" --data-urlencode "grant_type=authorization_code" \
+            --data-urlencode "redirect_uri=$REDIRECT")
+          RT=$(echo "$RESP" | python3 -c "import json,sys;print(json.load(sys.stdin).get('refresh_token',''))")
+          if [ -z "$RT" ]; then
+            echo "Errore: $(echo "$RESP" | python3 -c "import json,sys;d=json.load(sys.stdin);print(d.get('error'),d.get('error_description'))")"
+            exit 1
+          fi
+          echo "::add-mask::$RT"
+          printf '%s' "$RT" | gh secret set TIKTOK_REFRESH_TOKEN --repo "$GITHUB_REPOSITORY"
+          echo "TikTok collegato. Avvia 'Aggiornamento giornaliero' per vedere i follower."
