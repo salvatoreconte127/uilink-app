@@ -1,10 +1,12 @@
-/* Service worker: app disponibile anche offline, dati sempre freschi quando c'è rete. */
-const CACHE = "uilink-v3";
-const SHELL = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest",
+/* Service worker: dati e grafica sempre aggiornati quando c'è rete, app disponibile anche offline. */
+const CACHE = "uilink-v4";
+const SHELL = ["./", "index.html", "styles.css?v=4", "app.js?v=4", "manifest.webmanifest",
   "icons/logo-round.png", "icons/apple-touch-icon.png", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(CACHE)
+    .then((c) => c.addAll(SHELL.map((u) => new Request(u, { cache: "reload" }))))
+    .then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", (e) => {
@@ -15,15 +17,15 @@ self.addEventListener("activate", (e) => {
 self.addEventListener("fetch", (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== "GET" || url.origin !== location.origin) return;
-  // rete prima (dati e codice aggiornati), cache come riserva offline
+  // rete prima, senza usare la memoria HTTP del telefono; la copia salvata serve solo offline
+  const key = url.pathname.includes("/data/") ? new Request(url.pathname) : e.request;
   e.respondWith(
-    fetch(e.request).then((r) => {
+    fetch(e.request, { cache: "no-cache" }).then((r) => {
       if (r.ok) {
         const copy = r.clone();
-        const key = url.pathname.includes("/data/") ? new Request(url.pathname) : e.request;
         caches.open(CACHE).then((c) => c.put(key, copy));
       }
       return r;
-    }).catch(() => caches.match(url.pathname.includes("/data/") ? new Request(url.pathname) : e.request))
+    }).catch(() => caches.match(key).then((m) => m || caches.match(e.request, { ignoreSearch: true })))
   );
 });
