@@ -22,17 +22,16 @@
   </div>
 
   <main class="app">
-    <!-- SALUTO -->
-    <header class="hello">
-      <p class="hello-date" id="today"></p>
-      <h1>Ciao, <span class="grad">UILink</span></h1>
+    <!-- SALUTO + LOGO -->
+    <header class="glass hero-head">
+      <span class="hero-glow" aria-hidden="true"></span>
+      <div class="hello">
+        <p class="hello-date" id="today"></p>
+        <h1>Ciao,<br><span class="grad">UILink</span></h1>
+        <p class="hello-sub">Concorsi Calabria</p>
+      </div>
+      <div class="logo-round"><img src="icons/logo-round.png" alt="Logo UILink Concorsi Calabria" width="300" height="300"></div>
     </header>
-
-    <!-- LOGO -->
-    <section class="glass hero">
-      <div class="logo-tile"><img src="icons/logo.jpg" alt="UILink Concorsi Calabria" width="1490" height="935"></div>
-      <p class="tagline">Dove il lavoro incontra le persone</p>
-    </section>
 
     <!-- CONTATORI SOCIAL -->
     <section aria-labelledby="social-title">
@@ -59,11 +58,18 @@
         <span class="updated" id="updated"></span>
       </div>
       <div class="stats" id="stats"></div>
-      <label class="glass search">
-        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-        <input id="q" type="search" placeholder="Cerca ente, profilo, città…" autocomplete="off">
-      </label>
+      <div class="search-row">
+        <label class="glass search">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="q" type="search" placeholder="Cerca ente o ruolo…" autocomplete="off">
+        </label>
+        <button class="glass filter-btn" id="openFilters" type="button" aria-label="Filtra per enti e città">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h10M18 6h2M4 12h4M12 12h8M4 18h12M20 18h0"/><circle cx="16" cy="6" r="2"/><circle cx="10" cy="12" r="2"/><circle cx="18" cy="18" r="2"/></svg>
+          <span>Filtri</span><b id="fBadge" hidden></b>
+        </button>
+      </div>
       <div class="chips" id="chips" role="tablist"></div>
+      <div class="active-filters" id="activeFilters"></div>
       <div class="jobs" id="jobs"><p class="empty">Caricamento opportunità…</p></div>
     </section>
 
@@ -106,6 +112,29 @@
       <button class="ghost" id="regen">↻ Altro titolo</button>
       <button class="ghost" id="share">Condividi</button>
       <button class="primary" id="copyScript">Copia</button>
+    </div>
+  </section>
+
+  <!-- FILTRI ENTI E CITTÀ -->
+  <section class="sheet fsheet" id="fsheet" aria-modal="true" role="dialog" aria-labelledby="fsheet-title" hidden>
+    <div class="grabber"></div>
+    <div class="sheet-head">
+      <h2 id="fsheet-title">Filtri</h2>
+      <button class="icon-btn" id="closeFilters" aria-label="Chiudi">✕</button>
+    </div>
+    <div class="fsheet-body">
+      <h3 class="facet-title">Città</h3>
+      <div class="facet-chips" id="fCitta"></div>
+      <h3 class="facet-title">Enti</h3>
+      <label class="glass search small">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="fEnteQ" type="search" placeholder="Cerca un ente…" autocomplete="off">
+      </label>
+      <div class="facet-list" id="fEnti"></div>
+    </div>
+    <div class="sheet-actions">
+      <button class="ghost" id="resetFilters">Azzera</button>
+      <button class="primary" id="applyFilters">Mostra risultati</button>
     </div>
   </section>
 

@@ -21,6 +21,9 @@
   const selected = new Set(LS.get("sel", []));
   const open = new Set();
   let hookIdx = 0;
+  const fCitta = new Set(LS.get("fCitta", []));
+  const fEnti = new Set(LS.get("fEnti", []));
+  let enteQ = "";
 
   /* ------------------------------------------------ util */
   function toast(msg) {
@@ -84,7 +87,17 @@
   }
 
   const enteNome = (j) => sentenceCase((j.ente || "").replace(/\s+-\s+.*$/, (m) => m.length > 40 ? "" : m));
-  const sedi = (j) => (j.sedi || []).filter((s) => s && s !== "Calabria" && s !== "Nazionale").join(", ") || (j.nazionale ? "Tutta Italia (anche Calabria)" : "Calabria");
+  const PROVINCE = ["Cosenza", "Catanzaro", "Crotone", "Vibo Valentia", "Reggio Calabria"];
+  const provNorm = (x) => (x === "Reggio di Calabria" ? "Reggio Calabria" : x);
+  const cittaOf = (j) => {
+    const all = (j.sedi || []).map(provNorm);
+    const c = all.filter((x) => PROVINCE.includes(x));
+    if (c.length) return c;
+    const fuori = all.some((x) => x && x !== "Calabria" && !PROVINCE.includes(x));
+    return [j.nazionale || fuori ? "Tutta Italia" : "Calabria"];
+  };
+  const passFacets = (j) => (!fCitta.size || cittaOf(j).some((c) => fCitta.has(c))) && (!fEnti.size || fEnti.has(enteNome(j)));
+  const sedi = (j) => { const c = cittaOf(j); return c[0] === "Tutta Italia" ? "Tutta Italia (anche Calabria)" : c.join(", "); };
 
   /* ------------------------------------------------ social */
   const ICONS = {
@@ -179,7 +192,7 @@
 
   function renderChips() {
     $("#chips").innerHTML = CATS.map(([k, label]) => {
-      const n = JOBS.filter((j) => matches(j, k)).length;
+      const n = JOBS.filter((j) => matches(j, k) && passFacets(j)).length;
       if (!n && !["tutte", filter].includes(k)) return "";
       return `<button class="chip" role="tab" aria-selected="${k === filter}" data-f="${k}">${label}<small>${n}</small></button>`;
     }).join("");
@@ -193,13 +206,13 @@
       <div class="stat"><b>${nuovi}</b><span>nuove oggi</span></div>
       <div class="stat"><b>${JOBS.length}</b><span>bandi</span></div>
       <div class="stat"><b>${fmtN(posti)}</b><span>posti</span></div>
-      <div class="stat"><b>${urg}</b><span>in scadenza</span></div>`;
+      <div class="stat"><b>${urg}</b><span>urgenti</span></div>`;
   }
 
   /* ------------------------------------------------ lista */
   function renderJobs() {
     const q = query.trim().toLowerCase();
-    const list = JOBS.filter((j) => matches(j, filter) && (!q ||
+    const list = JOBS.filter((j) => matches(j, filter) && passFacets(j) && (!q ||
       [j.titolo, j.ente, j.profilo, (j.sedi || []).join(" "), j.descrizione].join(" ").toLowerCase().includes(q)));
     const box = $("#jobs");
     if (!list.length) {
@@ -213,7 +226,7 @@
       const tags = [];
       if (j.primaVista === LATEST) tags.push(`<span class="tag new">NUOVO</span>`);
       if (d !== null) tags.push(`<span class="tag ${d <= 3 ? "hot" : d <= 7 ? "warn" : ""}">⏰ ${d <= 0 ? "scade oggi" : d === 1 ? "scade domani" : "scade " + dataBreve(j.scadenza)}</span>`);
-      tags.push(`<span class="tag">📍 ${esc(sedi(j))}</span>`);
+      cittaOf(j).forEach((c) => tags.push(`<button class="tag tag-btn ${fCitta.has(c) ? "on" : ""}" data-citta="${esc(c)}" aria-label="Filtra per ${esc(c)}">📍 ${esc(c)}</button>`));
       if (j.posti) tags.push(`<span class="tag">👥 ${j.posti} ${j.posti === 1 ? "posto" : "posti"}</span>`);
       if (j.entiMonitorati?.length) tags.push(`<span class="tag watch">★ ${esc(j.entiMonitorati[0].replace(/^AFAM – /, "AFAM · "))}</span>`);
       const more = isOpen ? `<div class="job-more">
@@ -233,7 +246,7 @@
       return `<article class="glass job ${sel ? "sel" : ""}" data-id="${esc(j.id)}">
         <button class="check" data-sel="${esc(j.id)}" aria-pressed="${sel}" aria-label="Seleziona"><svg viewBox="0 0 24 24"><path d="m5 12 5 5 9-10"/></svg></button>
         <h3 class="job-title" data-sel="${esc(j.id)}">${esc(shortTitle(j))}</h3>
-        <p class="job-ente">${esc(enteNome(j))}</p>
+        <button class="job-ente ${fEnti.has(enteNome(j)) ? "on" : ""}" data-ente="${esc(enteNome(j))}" aria-label="Filtra per ${esc(enteNome(j))}">${esc(enteNome(j))}</button>
         <div class="tags">${tags.join("")}</div>
         ${more}
         <button class="toggle" data-open="${esc(j.id)}">${isOpen ? "Mostra meno" : "Dettagli"}</button>
@@ -248,7 +261,56 @@
     $("#actionBar").hidden = selected.size === 0;
   }
 
-  function renderAll() { renderStats(); renderChips(); renderJobs(); renderSelection(); }
+  function renderAll() { renderStats(); renderChips(); renderActiveFilters(); renderJobs(); renderSelection(); }
+
+  /* ------------------------------------------------ filtri enti e città */
+  function saveFacets() {
+    LS.set("fCitta", [...fCitta]);
+    LS.set("fEnti", [...fEnti]);
+  }
+  function toggleFacet(set, v) {
+    set.has(v) ? set.delete(v) : set.add(v);
+    saveFacets();
+  }
+  function refreshAfterFacets() {
+    renderChips(); renderActiveFilters(); renderJobs();
+    if (!$("#fsheet").hidden) renderFilterSheet();
+  }
+  function renderActiveFilters() {
+    const n = fCitta.size + fEnti.size;
+    const badge = $("#fBadge");
+    badge.hidden = !n; badge.textContent = n;
+    $("#openFilters").classList.toggle("on", n > 0);
+    const pills = [...fCitta].map((c) => `<button class="pill" data-rm-citta="${esc(c)}">📍 ${esc(c)} <span aria-hidden="true">✕</span></button>`)
+      .concat([...fEnti].map((e) => `<button class="pill" data-rm-ente="${esc(e)}">🏛️ ${esc(e)} <span aria-hidden="true">✕</span></button>`));
+    if (n > 1) pills.push(`<button class="pill clear" data-rm-all>Azzera filtri</button>`);
+    $("#activeFilters").innerHTML = pills.join("");
+  }
+  const ORDINE_CITTA = ["Cosenza", "Catanzaro", "Reggio Calabria", "Crotone", "Vibo Valentia", "Calabria", "Tutta Italia"];
+  function renderFilterSheet() {
+    const cc = {};
+    JOBS.forEach((j) => cittaOf(j).forEach((c) => { cc[c] = (cc[c] || 0) + 1; }));
+    const citta = Object.keys(cc).sort((a, b) => ((ORDINE_CITTA.indexOf(a) + 1) || 99) - ((ORDINE_CITTA.indexOf(b) + 1) || 99) || a.localeCompare(b));
+    $("#fCitta").innerHTML = citta.map((c) =>
+      `<button class="chip" aria-pressed="${fCitta.has(c)}" data-fc="${esc(c)}">${esc(c)}<small>${cc[c]}</small></button>`).join("");
+    const ce = {};
+    JOBS.filter((j) => !fCitta.size || cittaOf(j).some((c) => fCitta.has(c))).forEach((j) => { const e = enteNome(j); ce[e] = (ce[e] || 0) + 1; });
+    [...fEnti].forEach((e) => { ce[e] = ce[e] || 0; });
+    const q = enteQ.trim().toLowerCase();
+    const enti = Object.keys(ce).filter((e) => !q || e.toLowerCase().includes(q))
+      .sort((a, b) => (fEnti.has(b) - fEnti.has(a)) || ce[b] - ce[a] || a.localeCompare(b));
+    $("#fEnti").innerHTML = enti.length ? enti.map((e) =>
+      `<button class="facet-row" aria-pressed="${fEnti.has(e)}" data-fe="${esc(e)}"><span class="box"><svg viewBox="0 0 24 24"><path d="m5 12 5 5 9-10"/></svg></span><span class="fe-name">${esc(e)}</span><span class="fe-n">${ce[e]}</span></button>`).join("")
+      : `<p class="hint">Nessun ente trovato.</p>`;
+    const tot = JOBS.filter((j) => matches(j, filter) && passFacets(j)).length;
+    $("#applyFilters").textContent = `Mostra ${tot} ${tot === 1 ? "risultato" : "risultati"}`;
+  }
+  function openFilters() {
+    enteQ = ""; $("#fEnteQ").value = "";
+    renderFilterSheet();
+    $("#fsheet").hidden = false; $("#sheetBg").hidden = false;
+    document.body.style.overflow = "hidden";
+  }
 
   /* ------------------------------------------------ fonti */
   function renderSources() {
@@ -286,7 +348,7 @@
     }
     const tot = sel.reduce((a, j) => a + (j.posti || 0), 0);
     const enti = new Set(sel.map(enteNome));
-    const s = [...new Set(sel.flatMap((j) => (j.sedi || []).filter((x) => x !== "Calabria")))];
+    const s = [...new Set(sel.flatMap((j) => cittaOf(j).filter((x) => PROVINCE.includes(x))))];
     if (enti.size === 1) {
       const e = [...enti][0];
       return [
@@ -365,6 +427,7 @@
   }
   function closeSheet() {
     $("#sheet").hidden = true;
+    $("#fsheet").hidden = true;
     $("#sheetBg").hidden = true;
     document.body.style.overflow = "";
   }
@@ -403,6 +466,15 @@
     $("#q").addEventListener("input", (e) => { clearTimeout(t); t = setTimeout(() => { query = e.target.value; renderJobs(); }, 120); });
 
     $("#jobs").addEventListener("click", async (e) => {
+      const fc = e.target.closest("[data-citta]");
+      const fe = e.target.closest("[data-ente]");
+      if (fc || fe) {
+        if (fc) toggleFacet(fCitta, fc.dataset.citta); else toggleFacet(fEnti, fe.dataset.ente);
+        const v = fc ? fc.dataset.citta : fe.dataset.ente;
+        toast(((fc ? fCitta : fEnti).has(v) ? "Filtro attivo: " : "Filtro rimosso: ") + v);
+        refreshAfterFacets();
+        return;
+      }
       const s = e.target.closest("[data-sel]");
       const o = e.target.closest("[data-open]");
       const c = e.target.closest("[data-copylink]");
@@ -418,6 +490,27 @@
         open.has(id) ? open.delete(id) : open.add(id);
         renderJobs();
       }
+    });
+
+    $("#openFilters").addEventListener("click", openFilters);
+    $("#closeFilters").addEventListener("click", closeSheet);
+    $("#applyFilters").addEventListener("click", () => { closeSheet(); $("#jobs-title").scrollIntoView({ behavior: "smooth" }); });
+    $("#resetFilters").addEventListener("click", () => { fCitta.clear(); fEnti.clear(); saveFacets(); refreshAfterFacets(); });
+    $("#fCitta").addEventListener("click", (e) => {
+      const b = e.target.closest("[data-fc]"); if (!b) return;
+      toggleFacet(fCitta, b.dataset.fc); refreshAfterFacets();
+    });
+    $("#fEnti").addEventListener("click", (e) => {
+      const b = e.target.closest("[data-fe]"); if (!b) return;
+      toggleFacet(fEnti, b.dataset.fe); refreshAfterFacets();
+    });
+    $("#fEnteQ").addEventListener("input", (e) => { enteQ = e.target.value; renderFilterSheet(); });
+    $("#activeFilters").addEventListener("click", (e) => {
+      const b = e.target.closest("button"); if (!b) return;
+      if (b.hasAttribute("data-rm-all")) { fCitta.clear(); fEnti.clear(); }
+      else if (b.dataset.rmCitta) fCitta.delete(b.dataset.rmCitta);
+      else if (b.dataset.rmEnte) fEnti.delete(b.dataset.rmEnte);
+      saveFacets(); refreshAfterFacets();
     });
 
     $("#clearSel").addEventListener("click", () => { selected.clear(); renderSelection(); renderJobs(); renderChips(); });
@@ -439,7 +532,7 @@
       if (navigator.share) { try { await navigator.share({ text }); } catch { /* annullato */ } }
       else toast(await copy(text) ? "Testo copiato" : "Condivisione non disponibile");
     });
-    document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("#sheet").hidden) closeSheet(); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeSheet(); });
   }
 
   /* ------------------------------------------------ avvio */
