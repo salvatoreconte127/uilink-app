@@ -1,9 +1,9 @@
 {
- "aggiornato": "2026-11-13T11:52+00:00",
+ "aggiornato": "2026-11-13T12:15+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
-   "bandi": 55
+   "bandi": 57
   },
   "ConcorsiPubblici": {
    "ok": true,
@@ -14,8 +14,8 @@
    "bandi": 9
   }
  },
- "totale": 59,
- "nuoviOggi": 59,
+ "totale": 61,
+ "nuoviOggi": 61,
  "bandi": [
   {
    "id": "inpa:adaaf7ee56544d428d92adc5a7192de3",
@@ -850,7 +850,7 @@
    "descrizione": "AVVISO DI SELEZIONE COMPARATIVA PER LA PROGRESSIONE VERTICALE IN DEROGA TRA AREE DIVERSE, RISERVATA AL PERSONALE DIPENDENTE DEL COMUNE DI GERACE CON RAPPORTO DI LAVORO A TEMPO INDETERMINATO DELL’AREA DEGLI ISTRUTTORI (CATEGORIA C DEL PRECEDENTE SISTEMA DI CLASSIFICAZIONE) PER N. 1 POSTO NELL’AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE (CATEGORIA D1 DEL PRECEDENTE SISTEMA DI CLASSIFICAZIONE) - PROFILO DI FUNZIONARIO TECNICO",
    "mansioni": "Al personale da assumere nell’Area dei funzionari e dell’elevata qualificazione di cui alla  presente selezione comparativa è richiesto lo svolgimento di compiti e funzioni  caratterizzati da:",
    "titoliStudio": "Laurea (triennale o magistrale) in ingegneria o architettura e almeno 5 anni di  esperienza maturata nell’area degli istruttori e/o nella corrispondente categoria del  precedente sistema di classificazione\nDiploma di scuola media secondaria di secondo grado (diploma di Geometra ) e  almeno 10 anni di esperienza maturata nell’area degli istruttori e/o nella corrispondente  categoria del precedente sistema di…",
-   "requisiti": "Per l’ammissione alla presente procedura di selezione per la progressione tra le Aree è  richiesto il possesso dei seguenti requisiti alla data di scadenza del termine stabilito nel  presente avviso:\nLaurea (triennale o magistrale) in ingegneria o architettura e almeno 5 anni di  esperienza maturata nell’area degli istruttori e/o nella corrispondente categoria del  precedente sistema di classificazione\nDiploma di scuola media secondaria di secondo grado (diploma di Geometra ) e  almeno 10 anni di esperienza maturata nell’area degli istruttori e/o nella corrispondente  categoria del precedente sistema di classificazione.\nL’esperienza…",
+   "requisiti": "Per l’ammissione alla presente procedura di selezione per la progressione tra le Aree è richiesto il possesso dei seguenti requisiti alla data di scadenza del termine stabilito nel presente avviso:\nLaurea (triennale o magistrale) in ingegneria o architettura e almeno 5 anni di  esperienza maturata nell’area degli istruttori e/o nella corrispondente categoria del  precedente sistema di classificazione\nDiploma di scuola media secondaria di secondo grado (diploma di Geometra ) e  almeno 10 anni di esperienza maturata nell’area degli istruttori e/o nella corrispondente  categoria del precedente sistema di classificazione.\nL’esperienza…",
    "prove": "Per titoli",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
    "linkBando": "https://portale.inpa.gov.it/api/media/18b29999-a522-4b11-921f-e9275aecf9aa",
@@ -1132,7 +1132,7 @@
    "link": "https://www.concorsipubblici.com/consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-concorso-ricercatore-0",
    "inpaId": null,
    "contratto": "tempo determinato",
-   "mansioni": "La borsa di ricerca non è compatibile con:  a) altre borse a qualsiasi titolo conferite, ad eccezione di quelle concesse da istituzioni nazionali e  straniere utili ad integrare, con soggiorni all’estero, l’attività di ricerca del borsista;\nI borsisti possono svolgere attività di lavoro autonomo non esercitato abitualmente, previa  comunicazione scritta ai Responsabili scientifici (d’ora in poi Tutor) e a…",
+   "mansioni": "I borsisti possono svolgere attività di lavoro autonomo non esercitato abitualmente, previa comunicazione scritta ai Responsabili scientifici (d’ora in poi Tutor) e a condizione che non comporti conflitto di interessi con la specifica attività svolta dal borsista e non rechi pregiudizio al CNR in relazione alle attività svolte.\nTali fattispecie non comporteranno la perdita del diritto a completare l’attività di…",
    "titoliStudio": "a) aver conseguito la laurea specialistica/magistrale in: DM 5/05/2004: 62/S Chimica o 14/S Chimica e Tecnologie Farmaceutiche DM 9/07/2009: LM-54 Chimica o LM-13 Chimica e Tecnologie Farmaceutiche Sono altresì ammessi con riserva i candidati in possesso di un titolo di studio conseguito presso una Università straniera.\nChimica \nScienze chimiche",
    "requisiti": "La partecipazione alla selezione è libera senza limitazioni in ordine alla cittadinanza. \nPer l’ammissione alla selezione i candidati debbono possedere i seguenti requisiti: \na) aver conseguito la laurea specialistica/magistrale in: DM 5/05/2004: 62/S Chimica o 14/S Chimica e Tecnologie Farmaceutiche DM 9/07/2009: LM-54 Chimica o LM-13 Chimica e Tecnologie Farmaceutiche Sono altresì ammessi con riserva i candidati in possesso di un titolo di studio conseguito presso una Università straniera. \nb) non aver compiuto il trentacinquesimo anno di età alla data di scadenza del termine per la…",
    "prove": "Colloquio.",
@@ -1710,7 +1710,7 @@
    "pubblicazione": "2026-11-09",
    "contratto": "tempo indeterminato, part time",
    "descrizione": "Il Comune di Calopezzati, in provincia di Cosenza, indice un concorso pubblico per esami per la copertura a tempo indeterminato e parziale (91,67%, 33 ore settimanali) di 1 funzionario contabile (Area dei Funzionari e dell’Elevata Qualificazione) da assegnare all’Area Finanziaria.\nPer partecipare serve una laurea nelle classi previste dal bando (area economico-statistica), triennale o magistrale. Le prove sono una prova scritta e una prova orale; se le domande sono troppe può essere svolta una preselezione a risposta multipla. La tassa di concorso è di 10 euro.",
-   "mansioni": "Le date e il luogo dove si svolgeranno le prove d ’esame verrà pubblicato almeno quindici giorni prima  dello svolgimento delle stesse, mediante apposito a vviso sul portale INPA e sul sito  www.comune.calopezzati.cs.it nella sezione “Amministrazione Trasparente” – sottosezione “Bandi di  concorso”; tale avviso ha valore di notifica a tutt i gli effetti e non seguirà pertanto nessun’altra  comunicazione al riguardo.",
+   "mansioni": "Le date e il luogo dove si svolgeranno le prove d ’esame verrà pubblicato almeno quindici giorni prima  dello svolgimento delle stesse, mediante apposito a vviso sul portale INPA e sul sito  www.comune.calopezzati.cs.it nella sezione “Amminis trazione Trasparente” – sottosezione “Bandi di  concorso”; tale avviso ha valore di notifica a tutt i gli effetti e non seguirà pertanto nessun’altra  comunicazione al riguardo.",
    "titoliStudio": "Laurea Magistrale ex D.M. 270/2004 nelle seguenti classi:\n− LM-56 Scienze dell’economia;\n− LM-77 Scienze Economico-Aziendali;\nScienze Economico Aziendali \nScienze statistiche",
    "requisiti": "Possesso di uno dei seguenti titoli di studio:\nLaurea Magistrale ex D.M. 270/2004 nelle seguenti classi:\n− LM-56 Scienze dell’economia;\n− LM-77 Scienze Economico-Aziendali;\n− LM-82 Scienze Statistiche;\n− Lauree Specialistiche (LS) di cui al D.M. 509/99 e i Diplomi di Laurea vecchio ordinamento (DL) ad esse equiparate unicamente così come previsto dalla Tabella allegata al Decreto Interministeriale 09-07-2009 (09A11795).\nQualora un Diploma di Laurea conseguito secondo il vecchio ordinamento, trovi corrispondenza con più classi di Laurea Specialistiche o Magistrali ai sensi del citato Decreto…",
    "prove": "Preselezione: la commissione esaminatrice si riserva di sottoporre i candidati ad una prova preselettiva a risposta multipla sulle stesse materie oggetto delle prove d’esame, qualora a seguito di insindacabile giudizio della medesima il numero delle domande pervenute dovesse essere ritenuto…",
@@ -1834,6 +1834,72 @@
     "Azienda Zero Calabria"
    ],
    "categoria": "sanita"
+  },
+  {
+   "id": "inpa:d4ad940ec398418888271afc9587a4cf",
+   "inpaId": "d4ad940ec398418888271afc9587a4cf",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL’ART. 3 DEL D.LGS. N. 165/2001, PER LA COPERTURA DI N. 2 POSTI A TEMPO INDETERMINATO E PARZIALE (50%) NEL PROFILO DI \"ASSISTENTE SOCIALE\" (AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE – EX CATEGORIA D) – DA ASSEGNARE AL SERVIZIO SOCIALE DEL COMUNE DI…",
+   "ente": "Provincia di Crotone",
+   "profilo": "ASSISTENTE SOCIALE",
+   "sedi": [
+    "Crotone"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-12-14",
+   "pubblicazione": "2026-11-13",
+   "contratto": "tempo indeterminato, part time, mobilità",
+   "descrizione": "AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL’ART. 3 DEL D.LGS. N. 165/2001, PER LA COPERTURA DI N. 2 POSTI A TEMPO INDETERMINATO E PARZIALE (50%) NEL PROFILO DI \"ASSISTENTE SOCIALE\" (AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE – EX CATEGORIA D) – DA ASSEGNARE AL SERVIZIO SOCIALE DEL COMUNE DI ROCCA DI NETO – INDIZIONE PROCEDURA DI MOBILITA’ VOLONTARIA",
+   "mansioni": "L’articolo 15 della legge 8 agosto 1990 n. 241 consente alle pubbliche amministrazioni di concludere tra  loro accordi per disciplinare lo svolgimento in collaborazione di attività di interesse comune.",
+   "titoliStudio": "",
+   "requisiti": "Si dà atto che le assunzioni previste sono subordinate al rispetto, da parte di ogni ente coinvolto, dei  requisiti richiesti dalla vigente normativa per poter procedere ad assunzioni, come sopra espresso.",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/9fdaffa5-2f66-4efb-8984-a6ae6c216cc0",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d4ad940ec398418888271afc9587a4cf",
+   "linkEnte": "https://provinciacrotone.contrasparenza.it/trasparenza/contenuto/515/avviso-di-mobilit-volontaria-ai-sensi-dellart-3-del-dlgs-n-165-2001-per-la-copertura-di-n-2-posti-a-tempo-indeterminato-e-parziale-50-nel-profilo-di-assistente-sociale-area-dei-funzionari-e-dellelevata-qualificazione-ex-categoria-d-da-assegnare-al-servizio-sociale-del-comune-di-rocca-di-neto-indizione-procedura-di-mobilita-volontaria-cod-mob-ass-rn",
+   "key": "inpa:d4ad940ec398418888271afc9587a4cf",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:f890e6a66e4a42249d97d9652ccc31dc",
+   "inpaId": "f890e6a66e4a42249d97d9652ccc31dc",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI MOBILITA’ VOLONTARIA AI SENSI DELL’ARTICOLO 30 DEL D.LGS N. 165/2001 PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N.1 POSTO DI AGENTE DI POLIZIA LOCALE – AREA ISTRUTTORI – (EX CATEGORIA C) – DA ASSEGNARE AL SERVIZIO DI POLIZIA LOCALE, COMMERCIO E SUAP DEL COMUNE DI ROCCA DI NETO -…",
+   "ente": "Provincia di Crotone",
+   "profilo": "AGENTE DI POLIZIA LOCALE",
+   "sedi": [
+    "Crotone"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-14",
+   "pubblicazione": "2026-11-13",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO DI MOBILITA’ VOLONTARIA AI SENSI DELL’ARTICOLO 30 DEL D.LGS N. 165/2001 PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N.1 POSTO DI AGENTE DI POLIZIA LOCALE – AREA ISTRUTTORI – (EX CATEGORIA C) – DA ASSEGNARE AL SERVIZIO DI POLIZIA LOCALE, COMMERCIO E SUAP DEL COMUNE DI ROCCA DI NETO - COD. MOB_POL_RN3",
+   "mansioni": "L’articolo 15 della legge 8 agosto 1990 n. 241 consente alle pubbliche amministrazioni di concludere tra  loro accordi per disciplinare lo svolgimento in collaborazione di attività di interesse comune.",
+   "titoliStudio": "",
+   "requisiti": "Si dà atto che le assunzioni previste sono subordinate al rispetto, da parte di ogni  ente coinvolto, dei requisiti richiesti dalla vigente normativa per poter procedere ad assunzioni, come  sopra espresso.",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/4eb47f18-3b63-458b-8134-99bbcc73e45a",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f890e6a66e4a42249d97d9652ccc31dc",
+   "linkEnte": "https://provinciacrotone.contrasparenza.it/trasparenza/contenuto/514/avviso-di-mobilita-volontaria-ai-sensi-dellarticolo-30-del-dlgs-n-165-2001-per-la-copertura-a-tempo-pieno-e-indeterminato-di-n1-posto-di-agente-di-polizia-locale-area-istruttori-ex-categoria-c-da-assegnare-al-servizio-di-polizia-locale-commercio-e-suap-del-comune-di-rocca-di-neto-indizione-procedura-di-mobilita-volontaria",
+   "key": "inpa:f890e6a66e4a42249d97d9652ccc31dc",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
   },
   {
    "id": "inpa:57411ee993a54405a13a7ac451447256",
