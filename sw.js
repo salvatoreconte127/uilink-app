@@ -1,5 +1,5 @@
 /* Service worker: app disponibile anche offline, dati sempre freschi quando c'è rete. */
-const CACHE = "uilink-v1";
+const CACHE = "uilink-v2";
 const SHELL = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest",
   "icons/logo.jpg", "icons/apple-touch-icon.png", "icons/icon-192.png"];
 

@@ -191,9 +191,9 @@
     const urg = JOBS.filter((j) => { const d = daysTo(j.scadenza); return d !== null && d <= 7; }).length;
     $("#stats").innerHTML = `
       <div class="stat"><b>${nuovi}</b><span>nuove oggi</span></div>
-      <div class="stat"><b>${JOBS.length}</b><span>bandi aperti</span></div>
-      <div class="stat"><b>${fmtN(posti)}</b><span>posti totali</span></div>
-      <div class="stat"><b>${urg}</b><span>scadono in 7 gg</span></div>`;
+      <div class="stat"><b>${JOBS.length}</b><span>bandi</span></div>
+      <div class="stat"><b>${fmtN(posti)}</b><span>posti</span></div>
+      <div class="stat"><b>${urg}</b><span>in scadenza</span></div>`;
   }
 
   /* ------------------------------------------------ lista */
