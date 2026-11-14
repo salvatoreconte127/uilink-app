@@ -14,7 +14,7 @@
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="icons/icon-192.png">
   <link rel="manifest" href="manifest.webmanifest">
-  <link rel="stylesheet" href="styles.css?v=1">
+  <link rel="stylesheet" href="styles.css?v=2">
 </head>
 <body>
   <!-- sfondo con l'immagine della tessera aperta, sfocata -->
@@ -131,6 +131,7 @@
       <button role="menuitem" type="button" id="exportBtn">Esporta backup <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15V4M8 8l4-4 4 4M5 13v7h14v-7"/></svg></button>
       <button role="menuitem" type="button" id="importBtn">Importa backup <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M8 11l4 4 4-4M5 13v7h14v-7"/></svg></button>
       <hr>
+      <button role="menuitem" type="button" id="brandAllBtn">Grafica dei negozi <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2 6 6 2-6 2-2 6-2-6-6-2 6-2 2-6Z"/></svg></button>
       <button role="menuitemcheckbox" type="button" id="namesBtn" aria-checked="false">Nomi sulle tessere <span class="check" aria-hidden="true">✓</span></button>
     </div>
   </div>
@@ -177,7 +178,14 @@
     <div class="details-scroll">
       <div class="det-preview">
         <div class="card-face" id="detFace"><img id="detImg" alt=""></div>
-        <button class="glass pill-btn small" id="detChangeImg" type="button">Cambia immagine</button>
+        <div class="look-row">
+          <div class="glass segmented" id="lookSeg" role="group" aria-label="Aspetto della tessera">
+            <button type="button" data-look="photo" aria-pressed="false">Foto</button>
+            <button type="button" data-look="graphic" aria-pressed="false">Grafica negozio</button>
+          </div>
+          <button class="glass pill-btn small" id="detChangeImg" type="button">Cambia foto</button>
+        </div>
+        <p class="brand-hint" id="brandHint"></p>
       </div>
 
       <div class="group glass">
@@ -243,6 +251,6 @@
   <input id="fileImport" type="file" accept="application/json,.json" hidden>
 
   <script src="vendor/zxing-wasm.js?v=3.1.6"></script>
-  <script src="app.js?v=1"></script>
+  <script src="app.js?v=2"></script>
 </body>
 </html>

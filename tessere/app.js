@@ -457,38 +457,268 @@
     return best.q.map(([x, y]) => [Math.max(0, Math.min(src.width, x / s)), Math.max(0, Math.min(src.height, y / s))]);
   }
 
-  /* tessera disegnata (quando non c'è una foto) */
-  function drawGeneratedFace(name, color) {
+  /* ───────────── grafica dei negozi ─────────────
+     Colori e stile ispirati ai negozi più diffusi (non sono i loghi ufficiali).
+     deco: decorazione di sfondo; font: stile della scritta; cat: tipo di negozio (sceglie i disegni). */
+  const BRANDS = [
+    { id: "coop", re: /\b(coop|ipercoop|unicoop|novacoop|coop alleanza)\b/, label: "Coop", c1: "#e2001a", c2: "#b30016", accent: "#ffffff", deco: "wave", font: "rounded", weight: 900, program: "Carta Socio", cat: "food" },
+    { id: "conad", re: /\bconad\b/, label: "Conad", c1: "#e30613", c2: "#f39200", accent: "#ffd200", deco: "sun", font: "sans", weight: 900, italic: true, program: "Carta Insieme", cat: "food" },
+    { id: "esselunga", re: /\besselunga\b|\bfidaty\b|\bfìdaty\b/, label: "esselunga", c1: "#0a4ea2", c2: "#e3001b", accent: "#ffd100", deco: "band", font: "sans", weight: 800, transform: "lower", program: "Carta Fìdaty", cat: "food" },
+    { id: "carrefour", re: /\bcarrefour\b/, label: "Carrefour", c1: "#004e9f", c2: "#e2001a", accent: "#ffffff", deco: "chevrons", font: "sans", weight: 800, program: "Carta Carrefour", cat: "food" },
+    { id: "lidl", re: /\blidl\b/, label: "Lidl", c1: "#0050aa", c2: "#e60a14", accent: "#fff000", deco: "circle", font: "sans", weight: 900, program: "Lidl Plus", cat: "food", textOnAccent: "#0050aa" },
+    { id: "eurospin", re: /\beurospin\b/, label: "Eurospin", c1: "#003da5", c2: "#e30613", accent: "#ffd400", deco: "circle", font: "sans", weight: 900, italic: true, cat: "food" },
+    { id: "despar", re: /\b(despar|eurospar|interspar|spar)\b/, label: "Despar", c1: "#00843d", c2: "#e30613", accent: "#ffffff", deco: "wave", font: "sans", weight: 800, cat: "food" },
+    { id: "penny", re: /\bpenny\b/, label: "PENNY", c1: "#cd1719", c2: "#a3121a", accent: "#ffed00", deco: "band", font: "condensed", weight: 900, cat: "food" },
+    { id: "aldi", re: /\baldi\b/, label: "ALDI", c1: "#1c2a6b", c2: "#00b4dc", accent: "#f7a600", deco: "stripes", font: "sans", weight: 900, cat: "food" },
+    { id: "md", re: /\bmd( discount)?\b/, label: "MD", c1: "#0a3d91", c2: "#e30613", accent: "#ffd200", deco: "band", font: "sans", weight: 900, italic: true, cat: "food" },
+    { id: "pam", re: /\b(pam|panorama)\b/, label: "Pam", c1: "#d7141a", c2: "#009639", accent: "#ffffff", deco: "wave", font: "rounded", weight: 900, program: "Carta Per Te", cat: "food" },
+    { id: "crai", re: /\bcrai\b/, label: "Crai", c1: "#e30613", c2: "#9c0010", accent: "#ffffff", deco: "wave", font: "rounded", weight: 900, cat: "food" },
+    { id: "bennet", re: /\bbennet\b/, label: "Bennet", c1: "#e2001a", c2: "#8f0012", accent: "#ffffff", deco: "circle", font: "sans", weight: 900, cat: "food" },
+    { id: "famila", re: /\bfamila\b/, label: "Famila", c1: "#e30613", c2: "#0b4ea2", accent: "#ffffff", deco: "wave", font: "rounded", weight: 900, cat: "food" },
+    { id: "naturasi", re: /\bnatura ?s[iì]\b/, label: "NaturaSì", c1: "#4f8a2b", c2: "#2f5e17", accent: "#f2b700", deco: "wave", font: "serif", weight: 700, cat: "food" },
+    { id: "decathlon", re: /\bdecathlon\b/, label: "DECATHLON", c1: "#0082c3", c2: "#005a8c", accent: "#ffffff", deco: "wave", font: "condensed", weight: 900, italic: true, cat: "sport" },
+    { id: "ikea", re: /\bikea\b/, label: "IKEA", c1: "#0058a3", c2: "#003f7a", accent: "#ffdb00", deco: "band", font: "sans", weight: 900, program: "IKEA Family", cat: "home" },
+    { id: "mediaworld", re: /\bmedia ?world\b/, label: "MediaWorld", c1: "#df0000", c2: "#1d1d1f", accent: "#ffffff", deco: "chevrons", font: "sans", weight: 900, cat: "tech" },
+    { id: "sephora", re: /\bsephora\b/, label: "SEPHORA", c1: "#111111", c2: "#2a2a2a", accent: "#ffffff", deco: "stripes", font: "sans", weight: 600, tracking: 14, cat: "beauty" },
+    { id: "feltrinelli", re: /\bfeltrinelli\b/, label: "laFeltrinelli", c1: "#e30613", c2: "#a5000f", accent: "#ffffff", deco: "band", font: "serif", weight: 700, cat: "book" },
+  ];
+  const ICONS = {
+    cart: "M3 4h2l2.4 10.2a1.5 1.5 0 0 0 1.5 1.1h8.6a1.5 1.5 0 0 0 1.5-1.1L21 7H6.2M9.5 19.5h.01M17 19.5h.01",
+    apple: "M12 7.5c-1.6-1.3-5-1.4-6.2 1.6-1.3 3.2.8 9 3.2 9.9 1.2.5 2-.3 3-.3s1.8.8 3 .3c2.4-.9 4.5-6.7 3.2-9.9C17 6.1 13.6 6.2 12 7.5ZM12 7.5c0-2 1-3.5 3-4.2",
+    leaf: "M5 19c0-8 5-13 14-14-1 9-6 14-14 14ZM5 19l7-7",
+    bag: "M5 8h14l-1 12H6L5 8ZM9 8V6a3 3 0 0 1 6 0v2",
+    basket: "M3 10h18l-2 9H5l-2-9ZM7 10l4-6M17 10l-4-6M9.5 13.5v3M14.5 13.5v3",
+    carrot: "M14.5 9.5 4.5 19.5M14.5 9.5c-3 3-6.5 7-10 10 3.5-1 8-3.5 11.5-6.5 1.4-1.2 1-3-1.5-3.5ZM15 9c1-2 3.5-3 5-2.5M15 9c-.5-2 .5-4.5 2-5.5",
+    bread: "M4 11c0-3 3.6-5 8-5s8 2 8 5c0 1-.6 1.6-1.5 1.8V19H5.5v-6.2C4.6 12.6 4 12 4 11ZM9 9.5l-1 2M13 9.5l-1 2M17 9.5l-1 2",
+    ball: "M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18ZM12 7.5l4 3-1.5 4.5h-5L8 10.5ZM12 3v4.5M16 10.5l4.5-1.5M14.5 15l2.5 4M9.5 15 7 19M8 10.5 3.5 9",
+    bike: "M6 17.5h.01M6 14a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7ZM18 14a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7ZM6 17.5l4-7h5.5l2.5 7M10 10.5 8.5 7H11M15.5 10.5 14.5 7h2.5",
+    dumbbell: "M4 9v6M7 7v10M17 7v10M20 9v6M7 12h10",
+    house: "M4 11l8-7 8 7v9H4zM10 20v-5h4v5",
+    lamp: "M8 3h8l3 8H5zM12 11v8M8 20h8",
+    sofa: "M4 12v6h16v-6M6 12V8h12v4M4 12h3v3h10v-3h3",
+    book: "M5 4h9a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3V4ZM5 17a3 3 0 0 1 3-3h9",
+    sparkle: "M12 3l2 6 6 2-6 2-2 6-2-6-6-2 6-2 2-6Z",
+    lipstick: "M9 21V12h6v9zM10 12V7l4-3v8",
+    bottle: "M10 3h4v3l2 3v12H8V9l2-3V3ZM8 13h8",
+    bolt: "M13 3 5 14h6l-1 7 8-11h-6l1-7Z",
+    screen: "M3 5h18v11H3zM8 20h8M12 16v4",
+    cross: "M9 3h6v6h6v6h-6v6H9v-6H3V9h6z",
+    pill: "M8.5 15.5l7-7a3.5 3.5 0 0 0-5-5l-7 7a3.5 3.5 0 0 0 5 5ZM7 7l5 5",
+    hanger: "M12 7.5a2 2 0 1 1 2-2M12 7.5V9L3 16h18l-9-7",
+    star: "M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z",
+    gift: "M4 10h16v10H4zM3 7h18v3H3zM12 7v13M12 7c-1-3-5-4-5-1.5S10 7 12 7Zm0 0c1-3 5-4 5-1.5S14 7 12 7Z",
+  };
+  const CAT_ICONS = {
+    food: ["cart", "apple", "leaf", "basket", "carrot", "bread", "bag"],
+    sport: ["ball", "bike", "dumbbell", "star"],
+    home: ["house", "lamp", "sofa", "star"],
+    book: ["book", "star", "leaf"],
+    beauty: ["sparkle", "lipstick", "bottle", "star"],
+    tech: ["bolt", "screen", "star"],
+    pharma: ["cross", "pill", "leaf"],
+    fashion: ["hanger", "bag", "sparkle"],
+    shop: ["bag", "star", "gift", "sparkle"],
+  };
+  const CAT_RE = [
+    ["food", /super|market|mercat|iper|discount|alimentar|spesa|frutta|macelleri|panific|forno|bio\b|gastronom|tigros|todis|sigma|simply|basko|unes|gigante|dec[oò]\b|tuod[iì]|prix|in'?s\b|ard\b|eurospar|carrefour/],
+    ["pharma", /farmac|parafarm|salute|sanitar/],
+    ["sport", /sport|palestr|gym|fitness|bici|cicl|running/],
+    ["book", /libr|book|mondadori|giunti|edicol/],
+    ["beauty", /profum|beauty|cosmet|douglas|tigot[aà]|acqua ?& ?sapone|kiko|estetic|parrucch/],
+    ["tech", /world|unieuro|euronics|expert|trony|elettr|tech|apple store|gamestop/],
+    ["home", /casa|home|leroy|brico|obi\b|mobili|arred|maison|tedi\b|kasanova|coin casa/],
+    ["fashion", /zara|h ?& ?m|ovs|benetton|moda|abbigl|scarpe|calzat|primark|bershka|pull|intimissimi|calzedonia|tezenis/],
+  ];
+  const norm = (s) => (s || "").toLowerCase().replace(/[’']/g, "'");
+  function findBrand(...texts) {
+    const t = norm(texts.filter(Boolean).join(" "));
+    if (!t.trim()) return null;
+    return BRANDS.find((b) => b.re.test(t) || b.re.test(t.normalize("NFD").replace(/[̀-ͯ]/g, ""))) || null;
+  }
+  function guessCategory(name) {
+    const t = norm(name);
+    for (const [cat, re] of CAT_RE) if (re.test(t)) return cat;
+    return "shop";
+  }
+  const NICE = ["#e4572e", "#2e86de", "#10ac84", "#8854d0", "#f7b731", "#eb3b5a", "#0fb9b1", "#3867d6", "#fa8231", "#20bf6b"];
+  function hashColor(s) {
+    let h = 0;
+    for (const ch of s || "x") h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+    return NICE[h % NICE.length];
+  }
+  function mix(hex, to, t) {
+    const a = hexRgb(hex), b = hexRgb(to);
+    return rgbHex(a[0] + (b[0] - a[0]) * t, a[1] + (b[1] - a[1]) * t, a[2] + (b[2] - a[2]) * t);
+  }
+  function seeded(seed) {
+    let s = 0;
+    for (const ch of seed) s = (s * 33 + ch.charCodeAt(0)) >>> 0;
+    return () => { s = (s * 1664525 + 1013904223) >>> 0; return s / 4294967296; };
+  }
+  const FONTS = {
+    sans: '-apple-system, "SF Pro Display", "Helvetica Neue", "Segoe UI", Roboto, Arial, sans-serif',
+    rounded: 'ui-rounded, "SF Pro Rounded", "Arial Rounded MT Bold", "Nunito", -apple-system, "Segoe UI", Roboto, sans-serif',
+    serif: '"New York", ui-serif, Georgia, "Times New Roman", serif',
+    condensed: '"SF Compact Display", "Helvetica Neue", "Arial Narrow", -apple-system, "Segoe UI", Roboto, sans-serif',
+  };
+  function drawIcon(x, name, cx, cy, size, rot = 0) {
+    const d = ICONS[name];
+    if (!d) return;
+    x.save();
+    x.translate(cx, cy); x.rotate(rot);
+    const k = size / 24;
+    x.scale(k, k); x.translate(-12, -12);
+    x.lineWidth = 1.7; x.lineCap = "round"; x.lineJoin = "round";
+    x.stroke(new Path2D(d));
+    x.restore();
+  }
+  function roundRect(x, X, Y, w, h, r) {
+    x.beginPath();
+    x.moveTo(X + r, Y); x.arcTo(X + w, Y, X + w, Y + h, r); x.arcTo(X + w, Y + h, X, Y + h, r);
+    x.arcTo(X, Y + h, X, Y, r); x.arcTo(X, Y, X + w, Y, r); x.closePath();
+  }
+
+  /* disegna la tessera con la grafica del negozio */
+  function drawBrandFace({ name, color, number }) {
+    const W = FACE_W, H = FACE_H;
+    const brand = findBrand(name);
+    const cat = brand?.cat || guessCategory(name);
+    const c1 = color || brand?.c1 || hashColor(name);
+    const c2 = brand?.c2 || mix(c1, "#000000", .35);
+    const accent = brand?.accent || (luminance(c1) > .45 ? mix(c1, "#000000", .55) : mix(c1, "#ffffff", .55));
+    const fg = luminance(c1) > .45 ? "#111114" : "#ffffff";
+    const rnd = seeded((brand?.id || name || "x") + cat);
     const c = document.createElement("canvas");
-    c.width = FACE_W; c.height = FACE_H;
+    c.width = W; c.height = H;
     const x = c.getContext("2d");
-    const [r, g, b] = hexRgb(color);
-    const lighter = rgbHex(Math.min(255, r + 60), Math.min(255, g + 60), Math.min(255, b + 60));
-    const darker = rgbHex(r * .55, g * .55, b * .55);
-    const grad = x.createLinearGradient(0, 0, FACE_W, FACE_H);
-    grad.addColorStop(0, lighter); grad.addColorStop(.55, color); grad.addColorStop(1, darker);
-    x.fillStyle = grad; x.fillRect(0, 0, FACE_W, FACE_H);
-    // cerchi decorativi
-    x.globalAlpha = .14; x.fillStyle = "#fff";
-    x.beginPath(); x.arc(FACE_W * .86, FACE_H * .1, FACE_H * .62, 0, Math.PI * 2); x.fill();
-    x.globalAlpha = .08;
-    x.beginPath(); x.arc(FACE_W * .08, FACE_H * 1.05, FACE_H * .55, 0, Math.PI * 2); x.fill();
-    x.globalAlpha = 1;
-    const fg = textOn(color);
+
+    // sfondo
+    const bg = x.createLinearGradient(0, 0, W, H);
+    bg.addColorStop(0, mix(c1, "#ffffff", .14)); bg.addColorStop(.55, c1); bg.addColorStop(1, mix(c1, "#000000", .22));
+    x.fillStyle = bg; x.fillRect(0, 0, W, H);
+
+    // decorazione nello stile del negozio
+    x.save();
+    switch (brand?.deco || ["wave", "band"][Math.floor(rnd() * 2)]) {
+      case "wave": {
+        x.fillStyle = c2; x.globalAlpha = .9;
+        x.beginPath(); x.moveTo(W * .5, H);
+        x.bezierCurveTo(W * .66, H * .74, W * .78, H * .95, W, H * .45); x.lineTo(W, H); x.closePath(); x.fill();
+        x.globalAlpha = .95; x.strokeStyle = accent; x.lineWidth = 7;
+        x.beginPath(); x.moveTo(W * .44, H * 1.02);
+        x.bezierCurveTo(W * .62, H * .68, W * .78, H * .9, W * 1.02, H * .36); x.stroke();
+        break;
+      }
+      case "sun": {
+        const g = x.createRadialGradient(W * .9, H * .12, 10, W * .9, H * .12, H * .78);
+        g.addColorStop(0, accent); g.addColorStop(.45, c2); g.addColorStop(1, "rgba(0,0,0,0)");
+        x.fillStyle = g; x.fillRect(0, 0, W, H);
+        x.globalAlpha = .22; x.strokeStyle = accent; x.lineWidth = 6;
+        for (let i = 0; i < 12; i++) {
+          const a = Math.PI * (.5 + i / 11);
+          x.beginPath(); x.moveTo(W * .9 + Math.cos(a) * H * .5, H * .12 + Math.sin(a) * H * .5);
+          x.lineTo(W * .9 + Math.cos(a) * H * .78, H * .12 + Math.sin(a) * H * .78); x.stroke();
+        }
+        break;
+      }
+      case "circle": {
+        x.fillStyle = c2; x.beginPath(); x.arc(W * .83, H * .2, H * .5, 0, Math.PI * 2); x.fill();
+        x.fillStyle = accent; x.beginPath(); x.arc(W * .83, H * .2, H * .43, 0, Math.PI * 2); x.fill();
+        x.globalAlpha = .12; x.fillStyle = "#fff"; x.beginPath(); x.arc(W * .05, H * 1.05, H * .5, 0, Math.PI * 2); x.fill();
+        break;
+      }
+      case "band": {
+        x.fillStyle = c2; x.fillRect(0, H * .7, W, H * .3);
+        x.fillStyle = accent; x.fillRect(0, H * .7 - 12, W, 12);
+        break;
+      }
+      case "stripes": {
+        x.translate(W * .74, H); x.rotate(-Math.PI / 5.2);
+        [[accent, 0], [c2, 70], [mix(accent, c2, .5), 140]].forEach(([col, off]) => { x.fillStyle = col; x.globalAlpha = .9; x.fillRect(-W, -off - 46, W * 2, 46); });
+        break;
+      }
+      case "chevrons": {
+        x.globalAlpha = .9;
+        [[c2, 0], [accent, 1]].forEach(([col, i]) => {
+          x.fillStyle = col; x.beginPath();
+          const ox = W * (.66 + i * .12);
+          x.moveTo(ox, H); x.lineTo(ox + W * .2, H * .55); x.lineTo(ox + W * .3, H * .55); x.lineTo(ox + W * .1, H); x.closePath(); x.fill();
+        });
+        break;
+      }
+    }
+    x.restore();
+
+    // disegni legati al tipo di negozio
+    const icons = CAT_ICONS[cat] || CAT_ICONS.shop;
+    x.save();
+    x.strokeStyle = fg; x.globalAlpha = .17;
+    const spots = [[.52, .2], [.66, .47], [.8, .2], [.93, .45], [.58, .75], [.75, .74], [.9, .82], [.45, .5]];
+    spots.forEach(([px, py], i) => {
+      const s = 70 + rnd() * 50;
+      drawIcon(x, icons[(i + Math.floor(rnd() * 3)) % icons.length], W * px + (rnd() - .5) * 30, H * py + (rnd() - .5) * 26, s, (rnd() - .5) * .7);
+    });
+    x.restore();
+
+    // riflesso lucido
+    const gl = x.createRadialGradient(W * .2, -H * .25, 0, W * .2, -H * .25, W * .85);
+    gl.addColorStop(0, "rgba(255,255,255,.22)"); gl.addColorStop(1, "rgba(255,255,255,0)");
+    x.fillStyle = gl; x.fillRect(0, 0, W, H);
+
+    // nome del negozio
+    let label = (brand?.label || name || "Tessera").trim();
+    if (brand?.transform === "lower") label = label.toLowerCase();
+    if (brand?.transform === "upper") label = label.toUpperCase();
+    const fam = FONTS[brand?.font || "sans"];
+    const style = brand?.italic ? "italic " : "";
+    const weight = brand?.weight || 800;
+    let size = 128;
+    const setFont = () => { x.font = `${style}${weight} ${size}px ${fam}`; };
+    setFont();
+    if ("letterSpacing" in x) x.letterSpacing = (brand?.tracking || 0) + "px";
+    while (x.measureText(label).width > W * .6 && size > 46) { size -= 4; setFont(); }
+    x.save();
     x.fillStyle = fg;
-    let size = 100;
-    x.font = `800 ${size}px -apple-system, "SF Pro Display", "Segoe UI", Roboto, Arial, sans-serif`;
-    const label = (name || "Tessera").trim();
-    while (x.measureText(label).width > FACE_W - 150 && size > 44) { size -= 4; x.font = `800 ${size}px -apple-system, "SF Pro Display", "Segoe UI", Roboto, Arial, sans-serif`; }
-    x.textBaseline = "top";
-    x.fillText(label, 70, 58);
-    x.globalAlpha = .72;
-    x.font = `600 36px -apple-system, "SF Pro Text", "Segoe UI", Roboto, Arial, sans-serif`;
+    x.shadowColor = fg === "#ffffff" ? "rgba(0,0,0,.22)" : "rgba(255,255,255,.25)";
+    x.shadowBlur = 14; x.shadowOffsetY = 3;
     x.textBaseline = "alphabetic";
-    x.fillText("TESSERA FEDELTÀ", 72, FACE_H - 66);
+    x.fillText(label, 70, 62 + size * .86);
+    x.restore();
+    if ("letterSpacing" in x) x.letterSpacing = "4px";
+    x.font = `700 32px ${FONTS.sans}`;
+    x.fillStyle = fg; x.globalAlpha = .82;
+    x.fillText((brand?.program || "Carta fedeltà").toUpperCase(), 73, 62 + size * .86 + 58);
     x.globalAlpha = 1;
+
+    // numero della tessera
+    if (number) {
+      if ("letterSpacing" in x) x.letterSpacing = "3px";
+      let ns = 46;
+      x.font = `600 ${ns}px ui-monospace, "SF Mono", Menlo, Consolas, monospace`;
+      while (x.measureText(number).width > W * .62 && ns > 26) { ns -= 2; x.font = `600 ${ns}px ui-monospace, "SF Mono", Menlo, Consolas, monospace`; }
+      x.save();
+      x.fillStyle = (brand?.deco === "band") ? "#ffffff" : fg;
+      if (brand?.deco === "band" && luminance(c2) > .5) x.fillStyle = "#111114";
+      x.shadowColor = "rgba(0,0,0,.25)"; x.shadowBlur = 6; x.shadowOffsetY = 2;
+      x.fillText(number, 72, H - 62);
+      x.restore();
+    }
+    if ("letterSpacing" in x) x.letterSpacing = "0px";
+
+    // tassello di vetro con il simbolo del negozio
+    const ts = 118, tx = W - 70 - ts, ty = H - 58 - ts;
+    x.save();
+    roundRect(x, tx, ty, ts, ts, 30);
+    x.fillStyle = "rgba(255,255,255,.2)"; x.fill();
+    const tg = x.createLinearGradient(0, ty, 0, ty + ts);
+    tg.addColorStop(0, "rgba(255,255,255,.75)"); tg.addColorStop(.35, "rgba(255,255,255,.15)"); tg.addColorStop(1, "rgba(255,255,255,.4)");
+    x.strokeStyle = tg; x.lineWidth = 3; x.stroke();
+    x.strokeStyle = "#ffffff"; x.globalAlpha = .95;
+    drawIcon(x, icons[0], tx + ts / 2, ty + ts / 2, 72);
+    x.restore();
     return c;
   }
+  const drawGeneratedFace = (name, color, number) => drawBrandFace({ name, color, number });
 
   /* ───────────── stato ───────────── */
   let cards = [];
@@ -502,6 +732,14 @@
     return u || "";
   }
   function dropURL(id) { const u = urls.get(id); if (u) { URL.revokeObjectURL(u); urls.delete(id); } }
+  /* look: "photo" = si vede la foto; "graphic" = grafica del negozio (la foto, se c'è, resta in card.photo) */
+  function upgradeCard(c) {
+    if (!c.look) c.look = c.generated ? "graphic" : "photo";
+    if (c.photo === undefined) c.photo = null;
+    return c;
+  }
+  const photoOf = (c) => (c.look === "photo" ? c.image : c.photo) || null;
+  const numberOf = (code, display) => (display || prettyNumber(code) || "").trim();
 
   async function load() {
     try {
@@ -510,6 +748,7 @@
       cards = [];
       toast("Memoria non disponibile: le tessere non verranno salvate");
     }
+    cards.forEach(upgradeCard);
     cards.sort((a, b) => (b.order ?? 0) - (a.order ?? 0));
     buildStack();
   }
@@ -540,7 +779,7 @@
       const tag = document.createElement("span");
       tag.className = "name-tag";
       tag.textContent = card.name || "";
-      if (!card.name || card.generated) tag.hidden = true;
+      if (!card.name || card.look === "graphic") tag.hidden = true;
       face.append(tag);
       el.append(face);
       el.addEventListener("click", () => (openId === card.id ? closeCard() : openId ? closeCard() : openCard(card.id)));
@@ -895,15 +1134,16 @@
       const palette = paletteFrom(face);
       $("#editor").hidden = true;
       if (pickPurpose === "replace" && draft) {
-        draft.image = blob; draft.generated = false; draft.palette = palette;
-        if (!draft.code && found.length) applyScan(found[0]);
+        draft.photo = blob; draft.look = "photo"; draft.lookTouched = true; draft.palette = palette;
+        const hadCode = !!f.code.value.trim();
+        if (!hadCode && found.length) applyScan(found[0]);
         if (!draft.colorTouched) draft.color = color;
         showDraftImage();
         fillDraftColor();
-        if (found.length && !draft.code) scanMsg("ok", "Codice letto dall'immagine");
+        if (found.length && !hadCode) scanMsg("ok", "✓ Codice letto dall'immagine");
         renderDraftCode();
       } else {
-        openDetails({ image: blob, color, palette, generated: false }, found);
+        openDetails({ photo: blob, color, palette }, found);
       }
       ed.src = null;
     } finally {
@@ -925,8 +1165,9 @@
       display: existing?.display || "",
       color: existing?.color || base.color || "#2c6cf6",
       notes: existing?.notes || "",
-      image: existing?.image || base.image || null,
-      generated: existing ? !!existing.generated : !!base.generated,
+      photo: existing ? photoOf(existing) : base.photo || null,
+      look: existing ? existing.look : base.photo ? "photo" : "graphic",
+      lookTouched: !!existing,
       palette: base.palette || existing?.palette || [],
       colorTouched: !!existing,
       order: existing?.order,
@@ -943,8 +1184,9 @@
       applyScan(found[0]);
       scanMsg("ok", "✓ Codice letto: " + (FORMAT_LABEL[draft.format] || draft.format));
     } else if (!existing) {
-      scanMsg("", draft.generated ? "Digita il numero della tessera o inquadra il codice" : "Nessun codice trovato nell'immagine: inquadralo o digitalo");
+      scanMsg("", draft.photo ? "Nessun codice trovato nell'immagine: inquadralo o digitalo" : "Digita il numero della tessera o inquadra il codice");
     }
+    updateBrand(false);
     fillDraftColor();
     showDraftImage();
     renderDraftCode();
@@ -969,17 +1211,52 @@
     if (draftURL) URL.revokeObjectURL(draftURL);
     draftURL = null;
     const img = $("#detImg");
-    if (draft.generated || !draft.image) {
-      const c = drawGeneratedFace(f.name.value || "Tessera", draft.color);
+    if (draft.look === "graphic" || !draft.photo) {
+      const c = drawBrandFace({ name: f.name.value || "Tessera", color: draft.color, number: numberOf(f.code.value, f.display.value) });
       img.src = c.toDataURL("image/jpeg", .85);
     } else {
-      draftURL = URL.createObjectURL(draft.image);
+      draftURL = URL.createObjectURL(draft.photo);
       img.src = draftURL;
     }
     $("#detFace").style.background = draft.color;
     $("#details").style.setProperty("--det-bg", draft.color);
-    $("#detChangeImg").textContent = draft.generated ? "Usa una foto" : "Cambia immagine";
+    $("#detChangeImg").textContent = draft.photo ? "Cambia foto" : "Aggiungi foto";
+    $$("#lookSeg button").forEach((b) => {
+      const on = b.dataset.look === (draft.photo ? draft.look : "graphic");
+      b.classList.toggle("on", on);
+      b.setAttribute("aria-pressed", String(on));
+      if (b.dataset.look === "photo") b.disabled = !draft.photo;
+    });
   }
+  /* riconosce il negozio dal nome (o dalle note) e propone la sua grafica */
+  function updateBrand(fromTyping) {
+    const brand = findBrand(f.name.value, f.notes.value);
+    const hint = $("#brandHint");
+    if (brand) {
+      hint.textContent = "Negozio riconosciuto: " + brand.label.replace(/^la/, "") + " · grafica con i suoi colori";
+      hint.className = "brand-hint ok";
+    } else {
+      hint.textContent = draft.look === "graphic" && f.name.value.trim() ? "Grafica creata dal nome del negozio" : "";
+      hint.className = "brand-hint";
+    }
+    if (fromTyping && !draft.lookTouched && brand) draft.look = "graphic";
+    if (brand && draft.look === "graphic" && !draft.colorTouched) draft.color = brand.c1;
+    if (fromTyping && !draft.colorTouched && !brand && !draft.photo) draft.color = hashColor(f.name.value.trim().toLowerCase());
+    return brand;
+  }
+  function setLook(look) {
+    if (look === "photo" && !draft.photo) return;
+    draft.look = look;
+    draft.lookTouched = true;
+    if (look === "graphic") {
+      const brand = findBrand(f.name.value, f.notes.value);
+      if (brand) { draft.color = brand.c1; draft.colorTouched = false; }
+    }
+    updateBrand(false);
+    fillDraftColor();
+    showDraftImage();
+  }
+  $$("#lookSeg button").forEach((b) => b.addEventListener("click", () => setLook(b.dataset.look)));
   const PRESET = ["#e30613", "#ff8a00", "#ffcc00", "#00a650", "#0a84ff", "#5e2ca5", "#1c1c1e"];
   function fillDraftColor() {
     const sw = $("#swatches");
@@ -1020,7 +1297,14 @@
   }
   f.code.addEventListener("input", () => { clearTimeout(codeTimer); codeTimer = setTimeout(renderDraftCode, 180); });
   f.format.addEventListener("change", () => { draft.formatTouched = true; renderDraftCode(); });
-  f.name.addEventListener("input", () => { if (draft.generated) { clearTimeout(codeTimer); codeTimer = setTimeout(showDraftImage, 150); } });
+  let faceTimer = null;
+  const refreshFace = (typing) => {
+    clearTimeout(faceTimer);
+    faceTimer = setTimeout(() => { if (!draft) return; updateBrand(typing); fillDraftColor(); showDraftImage(); }, 160);
+  };
+  f.name.addEventListener("input", () => refreshFace(true));
+  f.notes.addEventListener("input", () => refreshFace(true));
+  [f.code, f.display].forEach((i) => i.addEventListener("input", () => { if (draft?.look === "graphic" || !draft?.photo) refreshFace(false); }));
   [f.name, f.code, f.display, f.notes].forEach((inp) => inp.addEventListener("keydown", (e) => {
     if (e.key === "Enter") { e.preventDefault(); const order = [f.name, f.code, f.display]; const i = order.indexOf(inp); if (i >= 0 && i < order.length - 1) order[i + 1].focus(); else inp.blur(); }
   }));
@@ -1050,17 +1334,20 @@
     if (code && format !== "none") {
       try { await barcodeSVG(code, format); } catch { toast("Il codice non è valido per il tipo scelto"); return; }
     }
-    let image = draft.image;
-    if (draft.generated || !image) image = await canvasBlob(drawGeneratedFace(name, draft.color), "image/jpeg", .9);
+    const display = f.display.value.trim();
+    const look = draft.photo ? draft.look : "graphic";
+    const image = look === "photo" ? draft.photo
+      : await canvasBlob(drawBrandFace({ name, color: draft.color, number: numberOf(code, display) }), "image/jpeg", .9);
     const now = Date.now();
     const card = {
       id: draft.id || (crypto.randomUUID ? crypto.randomUUID() : String(now) + Math.random().toString(16).slice(2)),
-      name, code, format,
-      display: f.display.value.trim(),
+      name, code, format, display,
       color: draft.color,
       notes: f.notes.value.trim(),
       image,
-      generated: !!draft.generated || !draft.image,
+      look,
+      photo: look === "graphic" ? draft.photo : null,
+      generated: look === "graphic",
       palette: draft.palette || [],
       order: draft.order ?? (cards.reduce((m, c) => Math.max(m, c.order ?? 0), 0) + 1),
       createdAt: draft.createdAt || now,
@@ -1160,7 +1447,7 @@
   $("#manualBtn").addEventListener("click", () => {
     closeSheet($("#addSheet"));
     const color = PRESET[Math.floor(Math.random() * 6)];
-    openDetails({ image: null, color, generated: true, palette: [] });
+    openDetails({ photo: null, color, palette: [] });
   });
   $("#doneBtn").addEventListener("click", () => closeCard());
   $("#codeBox").addEventListener("click", showFull);
@@ -1222,10 +1509,10 @@
   $("#exportBtn").addEventListener("click", async () => {
     closeSheet($("#menu"));
     if (!cards.length) { toast("Non ci sono tessere da salvare"); return; }
-    const out = { app: "tessere", version: 1, exportedAt: new Date().toISOString(), cards: [] };
+    const out = { app: "tessere", version: 2, exportedAt: new Date().toISOString(), cards: [] };
     for (const c of cards) {
-      const { image, ...rest } = c;
-      out.cards.push({ ...rest, image: image ? await blobToDataURL(image) : null });
+      const { image, photo, ...rest } = c;
+      out.cards.push({ ...rest, image: image ? await blobToDataURL(image) : null, photo: photo ? await blobToDataURL(photo) : null });
     }
     const name = `tessere-backup-${new Date().toISOString().slice(0, 10)}.json`;
     const file = new File([JSON.stringify(out)], name, { type: "application/json" });
@@ -1237,6 +1524,30 @@
     a.download = name;
     document.body.append(a); a.click(); a.remove();
     setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+  });
+  /* grafica dei negozi per tutte le tessere riconosciute (le foto restano salvate) */
+  $("#brandAllBtn").addEventListener("click", async () => {
+    closeSheet($("#menu"));
+    const todo = cards.filter((c) => c.look === "photo" && findBrand(c.name, c.notes));
+    if (!todo.length) {
+      toast(cards.some((c) => findBrand(c.name, c.notes)) ? "Le tessere riconosciute hanno già la grafica" : "Nessun negozio riconosciuto tra le tessere");
+      return;
+    }
+    const names = todo.map((c) => c.name).join(", ");
+    if (!confirm(`Creo la grafica del negozio per: ${names}?\n\nLe foto restano salvate: puoi tornare alla foto da Modifica.`)) return;
+    for (const c of todo) {
+      const brand = findBrand(c.name, c.notes);
+      c.photo = c.image;
+      c.look = "graphic";
+      c.generated = true;
+      c.color = brand.c1;
+      c.image = await canvasBlob(drawBrandFace({ name: c.name, color: c.color, number: numberOf(c.code, c.display) }), "image/jpeg", .9);
+      c.updatedAt = Date.now();
+      await DB.put(c).catch(() => {});
+      dropURL(c.id);
+    }
+    buildStack();
+    toast(todo.length === 1 ? "Grafica creata per 1 tessera" : `Grafica creata per ${todo.length} tessere`);
   });
   $("#importBtn").addEventListener("click", () => { closeSheet($("#menu")); $("#fileImport").value = ""; $("#fileImport").click(); });
   $("#fileImport").addEventListener("change", async () => {
@@ -1254,8 +1565,11 @@
           notes: String(c.notes || ""), generated: !!c.generated, palette: Array.isArray(c.palette) ? c.palette.filter((p) => /^#[0-9a-f]{6}$/i.test(p)) : [],
           order: Number(c.order) || 0, createdAt: Number(c.createdAt) || Date.now(), updatedAt: Number(c.updatedAt) || Date.now(),
           image: typeof c.image === "string" && c.image.startsWith("data:image/") ? await dataURLToBlob(c.image) : null,
+          photo: typeof c.photo === "string" && c.photo.startsWith("data:image/") ? await dataURLToBlob(c.photo) : null,
+          look: c.look === "photo" || c.look === "graphic" ? c.look : undefined,
         };
-        if (!card.image) card.image = await canvasBlob(drawGeneratedFace(card.name, card.color), "image/jpeg", .9);
+        upgradeCard(card);
+        if (!card.image) { card.look = "graphic"; card.generated = true; card.image = await canvasBlob(drawGeneratedFace(card.name, card.color, numberOf(card.code, card.display)), "image/jpeg", .9); }
         if (card.format !== "none" && !WRITABLE.has(card.format)) card.format = normalizeFormat(card.format);
         await DB.put(card);
         dropURL(card.id);
@@ -1279,5 +1593,5 @@
   }, 800);
 
   // per i test
-  window.__tessere = { get cards() { return cards; }, layout };
+  window.__tessere = { get cards() { return cards; }, layout, drawFace: drawBrandFace };
 })();
