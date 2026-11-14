@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Tessere</title>
+  <meta name="description" content="Le tue tessere fedeltà, sempre con te: carica una foto o uno screenshot e mostra il codice alla cassa.">
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f2f2f7" media="(prefers-color-scheme: light)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Tessere">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="icons/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css?v=1">
+</head>
+<body>
+  <!-- sfondo con l'immagine della tessera aperta, sfocata -->
+  <div class="ambient" id="ambient" aria-hidden="true"><img alt=""></div>
+  <div class="edge-top" aria-hidden="true"></div>
+
+  <!-- barra in alto: pulsanti di vetro -->
+  <div class="topbar">
+    <button class="glass pill-btn done-btn" id="doneBtn" type="button">Fine</button>
+    <button class="glass icon-btn card-menu-btn" id="cardMenuBtn" type="button" aria-label="Opzioni della tessera" aria-haspopup="menu">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="19" cy="12" r="1.6"/></svg>
+    </button>
+    <div class="glass capsule" id="mainActions">
+      <button class="icon-btn" id="addBtn" type="button" aria-label="Aggiungi tessera">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
+      </button>
+      <span class="capsule-sep" aria-hidden="true"></span>
+      <button class="icon-btn" id="menuBtn" type="button" aria-label="Altre opzioni" aria-haspopup="menu">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="19" cy="12" r="1.6"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <main class="scroller" id="scroller">
+    <header class="large-title">
+      <h1>Tessere</h1>
+      <p class="subtitle" id="countLabel"></p>
+    </header>
+
+    <label class="glass search" id="searchBox" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg>
+      <input id="search" type="search" placeholder="Cerca" autocomplete="off" enterkeyhint="search" aria-label="Cerca tra le tessere">
+    </label>
+
+    <div class="stack" id="stack" aria-label="Le tue tessere"></div>
+
+    <section class="empty" id="empty" hidden>
+      <div class="empty-art" aria-hidden="true">
+        <span class="ea ea1"></span><span class="ea ea2"></span><span class="ea ea3 glass"></span>
+      </div>
+      <h2>Aggiungi la tua prima tessera</h2>
+      <p>Scatta una foto alla tessera oppure carica uno screenshot dell'app del negozio. Il codice viene letto da solo.</p>
+      <div class="empty-actions">
+        <button class="glass big-btn tinted" type="button" data-pick="camera">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h3l2-2.5h6L17 8h3v11H4z"/><circle cx="12" cy="13" r="3.6"/></svg>
+          Scatta una foto
+        </button>
+        <button class="glass big-btn" type="button" data-pick="library">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="3"/><circle cx="9" cy="9.5" r="1.6"/><path d="m4 17 5-5 4 4 2.5-2.5L20 18"/></svg>
+          Carica screenshot o foto
+        </button>
+      </div>
+    </section>
+
+    <p class="footnote" id="footnote" hidden>Le tessere restano solo su questo dispositivo. Ricordati di fare un backup dal menu <b>···</b></p>
+  </main>
+
+  <!-- pannello della tessera aperta -->
+  <section class="pass glass" id="pass" aria-live="polite" hidden>
+    <h2 class="pass-name" id="passName"></h2>
+    <button class="code-box" id="codeBox" type="button" aria-label="Mostra il codice a schermo intero"></button>
+    <p class="pass-number" id="passNumber"></p>
+    <p class="pass-notes" id="passNotes"></p>
+    <p class="pass-hint" id="passHint">Tocca il codice per ingrandirlo</p>
+  </section>
+
+  <!-- menu della tessera aperta -->
+  <div class="menu-wrap" id="cardMenu" hidden>
+    <div class="sheet-dim clear" data-close></div>
+    <div class="menu glass" role="menu">
+      <button role="menuitem" type="button" id="fullBtn">Schermo intero <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+      <button role="menuitem" type="button" id="editBtn">Modifica <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg></button>
+      <button role="menuitem" type="button" id="topBtn">Metti in cima <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V6M7 11l5-5 5 5M5 3h14"/></svg></button>
+      <hr>
+      <button role="menuitem" type="button" id="deleteBtn" class="danger-item">Elimina <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h14M10 7V4.5h4V7M7 7l1 13h8l1-13"/></svg></button>
+    </div>
+  </div>
+
+  <!-- codice a schermo intero -->
+  <section class="fullcode" id="fullcode" hidden>
+    <button class="glass pill-btn close-full" id="closeFull" type="button">Chiudi</button>
+    <img class="full-thumb" id="fullThumb" alt="">
+    <p class="full-name" id="fullName"></p>
+    <div class="full-box" id="fullBox"></div>
+    <p class="full-number" id="fullNumber"></p>
+    <p class="full-hint">Alza la luminosità per una lettura più veloce</p>
+  </section>
+
+  <!-- foglio: aggiungi -->
+  <div class="sheet-wrap" id="addSheet" hidden>
+    <div class="sheet-dim" data-close></div>
+    <div class="sheet glass" role="dialog" aria-modal="true" aria-labelledby="addTitle">
+      <span class="grabber" aria-hidden="true"></span>
+      <h2 id="addTitle">Nuova tessera</h2>
+      <button class="row-btn" type="button" data-pick="camera">
+        <span class="row-ico tint-blue"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h3l2-2.5h6L17 8h3v11H4z"/><circle cx="12" cy="13" r="3.6"/></svg></span>
+        <span><b>Scatta una foto</b><small>Inquadra la tessera vera</small></span>
+      </button>
+      <button class="row-btn" type="button" data-pick="library">
+        <span class="row-ico tint-purple"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="3"/><circle cx="9" cy="9.5" r="1.6"/><path d="m4 17 5-5 4 4 2.5-2.5L20 18"/></svg></span>
+        <span><b>Screenshot o foto</b><small>Scegli un'immagine dalla libreria</small></span>
+      </button>
+      <button class="row-btn" type="button" id="manualBtn">
+        <span class="row-ico tint-orange"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7v10M8 7v10M11 7v10M14 7v10M17 7v10M19 7v10"/></svg></span>
+        <span><b>Inserisci a mano</b><small>Digita il numero o inquadra il codice</small></span>
+      </button>
+    </div>
+  </div>
+
+  <!-- menu -->
+  <div class="menu-wrap" id="menu" hidden>
+    <div class="sheet-dim clear" data-close></div>
+    <div class="menu glass" role="menu">
+      <button role="menuitem" type="button" id="exportBtn">Esporta backup <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15V4M8 8l4-4 4 4M5 13v7h14v-7"/></svg></button>
+      <button role="menuitem" type="button" id="importBtn">Importa backup <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M8 11l4 4 4-4M5 13v7h14v-7"/></svg></button>
+      <hr>
+      <button role="menuitemcheckbox" type="button" id="namesBtn" aria-checked="false">Nomi sulle tessere <span class="check" aria-hidden="true">✓</span></button>
+    </div>
+  </div>
+
+  <!-- editor: ritaglio della tessera -->
+  <section class="editor" id="editor" hidden>
+    <div class="editor-top">
+      <button class="glass pill-btn" id="cropCancel" type="button">Annulla</button>
+      <h2>Ritaglia la tessera</h2>
+      <button class="glass pill-btn primary" id="cropNext" type="button">Avanti</button>
+    </div>
+    <p class="editor-hint" id="editorHint">Trascina i quattro angoli sui bordi della tessera</p>
+    <div class="crop-area" id="cropArea">
+      <canvas id="cropCanvas"></canvas>
+      <svg class="crop-svg" id="cropSvg" aria-hidden="true">
+        <path class="crop-mask" id="cropMask" fill-rule="evenodd"/>
+        <polygon class="crop-line" id="cropLine"/>
+        <line class="crop-top" id="cropTopEdge"/>
+      </svg>
+      <div class="handle" data-i="0"></div><div class="handle" data-i="1"></div>
+      <div class="handle" data-i="2"></div><div class="handle" data-i="3"></div>
+      <canvas class="loupe" id="loupe" width="240" height="240"></canvas>
+    </div>
+    <div class="editor-bottom">
+      <div class="scan-chip glass" id="scanChip"><span class="spinner"></span><span id="scanText">Cerco il codice…</span></div>
+      <div class="editor-row">
+        <canvas class="crop-preview" id="cropPreview" width="320" height="202" aria-label="Anteprima"></canvas>
+        <div class="glass capsule tools">
+          <button class="icon-btn labeled" id="cropFull" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="2"/></svg><span>Intera</span></button>
+          <button class="icon-btn labeled" id="cropRotate" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12a7 7 0 1 0 2.1-5M5 4v4h4"/></svg><span>Ruota</span></button>
+          <button class="icon-btn labeled" id="cropReset" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12a8 8 0 1 0 3-6.2M4 4v4h4"/><path d="M9 12h6"/></svg><span>Ripristina</span></button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- dettagli della tessera -->
+  <section class="details" id="details" hidden>
+    <div class="details-top">
+      <button class="glass pill-btn" id="detCancel" type="button">Annulla</button>
+      <h2 id="detTitle">Nuova tessera</h2>
+      <button class="glass pill-btn primary" id="detSave" type="button">Salva</button>
+    </div>
+    <div class="details-scroll">
+      <div class="det-preview">
+        <div class="card-face" id="detFace"><img id="detImg" alt=""></div>
+        <button class="glass pill-btn small" id="detChangeImg" type="button">Cambia immagine</button>
+      </div>
+
+      <div class="group glass">
+        <label class="field"><span>Nome</span><input id="fName" type="text" placeholder="Es. Conad, Decathlon…" autocomplete="off" autocapitalize="words" enterkeyhint="next"></label>
+        <label class="field"><span>Codice</span><input id="fCode" type="text" placeholder="Numero o contenuto del codice" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="next"></label>
+        <label class="field"><span>Tipo</span>
+          <select id="fFormat">
+            <option value="auto">Automatico</option>
+            <option value="QRCode">QR code</option>
+            <option value="EAN13">Codice a barre EAN-13</option>
+            <option value="EAN8">Codice a barre EAN-8</option>
+            <option value="UPCA">Codice a barre UPC-A</option>
+            <option value="UPCE">Codice a barre UPC-E</option>
+            <option value="Code128">Codice a barre Code 128</option>
+            <option value="Code39">Codice a barre Code 39</option>
+            <option value="Code93">Codice a barre Code 93</option>
+            <option value="Codabar">Codice a barre Codabar</option>
+            <option value="ITF">Codice a barre ITF</option>
+            <option value="PDF417">PDF417</option>
+            <option value="AztecCode">Aztec</option>
+            <option value="DataMatrix">Data Matrix</option>
+            <option value="none">Solo numero, senza codice</option>
+          </select>
+        </label>
+        <label class="field"><span>Numero mostrato</span><input id="fDisplay" type="text" placeholder="Uguale al codice" autocomplete="off" spellcheck="false" enterkeyhint="done"></label>
+      </div>
+
+      <div class="scan-row">
+        <button class="glass pill-btn" id="liveScanBtn" type="button">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8V4h4M20 8V4h-4M4 16v4h4M20 16v4h-4M7 12h10"/></svg> Inquadra il codice
+        </button>
+        <button class="glass pill-btn" id="photoScanBtn" type="button">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="3"/><circle cx="9" cy="9.5" r="1.6"/><path d="m4 17 5-5 4 4 2.5-2.5L20 18"/></svg> Da un'immagine
+        </button>
+      </div>
+      <p class="scan-msg" id="scanMsg"></p>
+
+      <div class="code-preview" id="codePreview" hidden></div>
+
+      <div class="group glass">
+        <label class="field color-field"><span>Colore</span>
+          <span class="swatches" id="swatches"></span>
+          <input id="fColor" type="color" value="#2c6cf6" aria-label="Scegli un colore">
+        </label>
+        <label class="field"><span>Note</span><input id="fNotes" type="text" placeholder="Facoltative" autocomplete="off" enterkeyhint="done"></label>
+      </div>
+    </div>
+  </section>
+
+  <!-- fotocamera dal vivo -->
+  <section class="live" id="live" hidden>
+    <video id="liveVideo" playsinline muted></video>
+    <div class="live-frame" aria-hidden="true"></div>
+    <p class="live-hint glass">Inquadra il codice a barre o il QR della tessera</p>
+    <button class="glass pill-btn live-close" id="liveClose" type="button">Chiudi</button>
+  </section>
+
+  <div class="toast glass" id="toast" role="status" hidden></div>
+
+  <input id="fileCamera" type="file" accept="image/*" capture="environment" hidden>
+  <input id="fileLibrary" type="file" accept="image/*" hidden>
+  <input id="fileScan" type="file" accept="image/*" hidden>
+  <input id="fileImport" type="file" accept="application/json,.json" hidden>
+
+  <script src="vendor/zxing-wasm.js?v=3.1.6"></script>
+  <script src="app.js?v=1"></script>
+</body>
+</html>
