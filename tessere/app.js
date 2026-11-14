@@ -466,20 +466,24 @@
     { id: "esselunga", re: /\besselunga\b|\bfidaty\b|\bfìdaty\b/, label: "esselunga", c1: "#0a4ea2", c2: "#e3001b", accent: "#ffd100", deco: "band", font: "sans", weight: 800, transform: "lower", program: "Carta Fìdaty", cat: "food" },
     { id: "carrefour", re: /\bcarrefour\b/, label: "Carrefour", c1: "#004e9f", c2: "#e2001a", accent: "#ffffff", deco: "chevrons", font: "sans", weight: 800, program: "Carta Carrefour", cat: "food" },
     { id: "lidl", re: /\blidl\b/, label: "Lidl", c1: "#0050aa", c2: "#e60a14", accent: "#fff000", deco: "circle", font: "sans", weight: 900, program: "Lidl Plus", cat: "food", textOnAccent: "#0050aa" },
-    { id: "eurospin", re: /\beurospin\b/, label: "Eurospin", c1: "#003da5", c2: "#e30613", accent: "#ffd400", deco: "circle", font: "sans", weight: 900, italic: true, cat: "food" },
+    { id: "eurospin", re: /\beuro ?spin\b/, label: "Eurospin", c1: "#1f3a6e", c2: "#003da5", accent: "#ffd400", deco: "circle", font: "sans", weight: 900, italic: true, program: "Eurospin Family", cat: "food" },
     { id: "despar", re: /\b(despar|eurospar|interspar|spar)\b/, label: "Despar", c1: "#00843d", c2: "#e30613", accent: "#ffffff", deco: "wave", font: "sans", weight: 800, cat: "food" },
     { id: "penny", re: /\bpenny\b/, label: "PENNY", c1: "#cd1719", c2: "#a3121a", accent: "#ffed00", deco: "band", font: "condensed", weight: 900, cat: "food" },
     { id: "aldi", re: /\baldi\b/, label: "ALDI", c1: "#1c2a6b", c2: "#00b4dc", accent: "#f7a600", deco: "stripes", font: "sans", weight: 900, cat: "food" },
-    { id: "md", re: /\bmd( discount)?\b/, label: "MD", c1: "#0a3d91", c2: "#e30613", accent: "#ffd200", deco: "band", font: "sans", weight: 900, italic: true, cat: "food" },
+    { id: "md", re: /\bmd( discount)?\b|buona spesa card/, label: "MD", c1: "#f6d046", c2: "#1f4e9c", accent: "#e30613", deco: "band", font: "serif", weight: 900, program: "Buona Spesa Card", cat: "food" },
     { id: "pam", re: /\b(pam|panorama)\b/, label: "Pam", c1: "#d7141a", c2: "#009639", accent: "#ffffff", deco: "wave", font: "rounded", weight: 900, program: "Carta Per Te", cat: "food" },
     { id: "crai", re: /\bcrai\b/, label: "Crai", c1: "#e30613", c2: "#9c0010", accent: "#ffffff", deco: "wave", font: "rounded", weight: 900, cat: "food" },
     { id: "bennet", re: /\bbennet\b/, label: "Bennet", c1: "#e2001a", c2: "#8f0012", accent: "#ffffff", deco: "circle", font: "sans", weight: 900, cat: "food" },
     { id: "famila", re: /\bfamila\b/, label: "Famila", c1: "#e30613", c2: "#0b4ea2", accent: "#ffffff", deco: "wave", font: "rounded", weight: 900, cat: "food" },
     { id: "naturasi", re: /\bnatura ?s[iì]\b/, label: "NaturaSì", c1: "#4f8a2b", c2: "#2f5e17", accent: "#f2b700", deco: "wave", font: "serif", weight: 700, cat: "food" },
-    { id: "decathlon", re: /\bdecathlon\b/, label: "DECATHLON", c1: "#0082c3", c2: "#005a8c", accent: "#ffffff", deco: "wave", font: "condensed", weight: 900, italic: true, cat: "sport" },
+    { id: "decathlon", re: /\bdecathlon\b/, label: "DECATHLON", c1: "#3643ba", c2: "#252e8c", accent: "#ffffff", deco: "wave", font: "condensed", weight: 900, italic: true, cat: "sport" },
     { id: "ikea", re: /\bikea\b/, label: "IKEA", c1: "#0058a3", c2: "#003f7a", accent: "#ffdb00", deco: "band", font: "sans", weight: 900, program: "IKEA Family", cat: "home" },
     { id: "mediaworld", re: /\bmedia ?world\b/, label: "MediaWorld", c1: "#df0000", c2: "#1d1d1f", accent: "#ffffff", deco: "chevrons", font: "sans", weight: 900, cat: "tech" },
     { id: "sephora", re: /\bsephora\b/, label: "SEPHORA", c1: "#111111", c2: "#2a2a2a", accent: "#ffffff", deco: "stripes", font: "sans", weight: 600, tracking: 14, cat: "beauty" },
+    { id: "unieuro", re: /\bunieuro\b/, label: "unieuro", c1: "#1d2b45", c2: "#14203a", accent: "#ff6a13", deco: "wave", font: "rounded", weight: 800, transform: "lower", cat: "tech" },
+    { id: "kasanova", re: /\bkasanova\b/, label: "KASANOVA", c1: "#111111", c2: "#2b2b2b", accent: "#ffffff", deco: "stripes", font: "sans", weight: 500, tracking: 10, cat: "home" },
+    { id: "sensation", re: /\bsensation( profumerie)?\b/, label: "Sensation", c1: "#cc0077", c2: "#99005a", accent: "#ffffff", deco: "wave", font: "sans", weight: 700, program: "Profumerie", cat: "beauty" },
+    { id: "splendidi", re: /\bsplendidi( e splendenti)?\b/, label: "Splendidi e Splendenti", c1: "#8fd2f2", c2: "#e9f6fd", accent: "#ffffff", deco: "wave", font: "sans", weight: 800, cat: "beauty" },
     { id: "feltrinelli", re: /\bfeltrinelli\b/, label: "laFeltrinelli", c1: "#e30613", c2: "#a5000f", accent: "#ffffff", deco: "band", font: "serif", weight: 700, cat: "book" },
   ];
   const ICONS = {
@@ -713,7 +717,7 @@
     const tg = x.createLinearGradient(0, ty, 0, ty + ts);
     tg.addColorStop(0, "rgba(255,255,255,.75)"); tg.addColorStop(.35, "rgba(255,255,255,.15)"); tg.addColorStop(1, "rgba(255,255,255,.4)");
     x.strokeStyle = tg; x.lineWidth = 3; x.stroke();
-    x.strokeStyle = "#ffffff"; x.globalAlpha = .95;
+    x.strokeStyle = fg; x.globalAlpha = .9;
     drawIcon(x, icons[0], tx + ts / 2, ty + ts / 2, 72);
     x.restore();
     return c;

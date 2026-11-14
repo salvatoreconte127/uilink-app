@@ -1,6 +1,6 @@
 /* Service worker di Tessere: l'app funziona anche senza rete (alla cassa il segnale spesso manca). */
-const CACHE = "tessere-v2";
-const SHELL = ["./", "index.html", "styles.css?v=2", "app.js?v=2", "manifest.webmanifest",
+const CACHE = "tessere-v3";
+const SHELL = ["./", "index.html", "styles.css?v=2", "app.js?v=3", "manifest.webmanifest",
   "vendor/zxing-wasm.js?v=3.1.6", "vendor/zxing_full.wasm?v=3.1.6",
   "icons/apple-touch-icon.png", "icons/icon-192.png"];
 
