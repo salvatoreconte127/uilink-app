@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-13T12:15+00:00",
+ "aggiornato": "2026-11-14T12:19+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
@@ -7,74 +7,44 @@
   },
   "ConcorsiPubblici": {
    "ok": true,
-   "bandi": 28
+   "bandi": 27
   },
   "Concorsando": {
    "ok": true,
    "bandi": 9
   }
  },
- "totale": 61,
- "nuoviOggi": 61,
+ "totale": 60,
+ "nuoviOggi": 1,
  "bandi": [
   {
-   "id": "inpa:adaaf7ee56544d428d92adc5a7192de3",
-   "inpaId": "adaaf7ee56544d428d92adc5a7192de3",
+   "id": "inpa:4383ed3c94f64723a12017dd88b2c16e",
+   "inpaId": "4383ed3c94f64723a12017dd88b2c16e",
    "fonti": [
     "inPA"
    ],
-   "titolo": "Selezione n. 1 unità - ex art. 110, comma 1, del d.lgs. 18 agosto 2000, n. 267 - Area Tecnica",
-   "ente": "Comune di Decollatura",
-   "profilo": "Responsabile Area Tecnica",
+   "titolo": "Concorso pubblico, per esami, per la copertura di n. 1 posto a tempo pieno e indeterminato, per 36 ore settimanali, nell’Area degli Istruttori, profilo professionale Istruttore amministrativo-contabile, da assegnare al Settore Finanziario-Tributi del Comune di Santa Domenica Talao",
+   "ente": "Comune di Santa Domenica Talao",
+   "profilo": "Istruttore Amministrativo-Contabile",
    "sedi": [
-    "Catanzaro"
+    "Cosenza"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-11-13",
-   "pubblicazione": "2026-11-03",
-   "contratto": "tempo determinato, part time",
-   "descrizione": "selezione di n. 1 unità - ex art. 110, comma 1, del d.lgs. 18 agosto 2000, n. 267, per il conferimento di un incarico a tempo determinato e parziale (50%) di funzionario ed EQ, primo differenziale stipendiale",
+   "scadenza": "2026-12-13",
+   "pubblicazione": "2026-11-13",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Concorso pubblico per soli esami per Istruttore Amministrativo Contabile a tempo indeterminato e pieno (36 ore).",
    "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e colloquio",
+   "titoliStudio": "L-33 – Scienze economiche;lauree magistrali: LM-56 – Scienze dell’economia;\nLM-77 – Scienze economico-aziendali;\nLM-16 – Finanza;lauree del vecchio ordinamento: Economia e commercio e gli altri titoli equipollenti o equiparati ai sensi della normativa vigente.Per i titoli di studio conseguiti all’estero l’ammissione è subordinata al riconoscimento degli stessi al titolo di studio previsto per l’accesso, ai sensi…",
+   "requisiti": "Per la partecipazione al concorso è dovuto il pagamento di una tassa di iscrizione pari a euro 10,00.\n(militari volontari delle FF.AA. congedati senza demerito e a favore degli ufficiali di complemento in ferma biennale e agli ufficiali in ferma prefissata che hanno completato senza demerito la ferma contratta);-di essere in godimento dei diritti civili e politici.",
+   "prove": "Per esami",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/63ba1dd2-e1f3-4136-933e-5a10e5295efa",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=adaaf7ee56544d428d92adc5a7192de3",
-   "linkEnte": "https://comune.decollatura.cz.it/",
-   "key": "inpa:adaaf7ee56544d428d92adc5a7192de3",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "cp:comune-di-petrizzi-concorso-funzionario-amministrativo-contabile-catanzaro-2026",
-   "fonti": [
-    "ConcorsiPubblici"
-   ],
-   "titolo": "Comune di Petrizzi, 1 funzionario amministrativo contabile",
-   "ente": "Comune di Petrizzi",
-   "profilo": "funzionario amministrativo contabile",
-   "sedi": [
-    "Catanzaro"
-   ],
-   "nazionale": false,
-   "posti": null,
-   "scadenza": "2026-11-13",
-   "pubblicazione": "",
-   "descrizione": "Selezione pubblica ex art. 110, c. 1, D.Lgs. 267/2000 per n. 1 Funzionario amministrativo-contabile, Area E.Q., a tempo determinato (12 mesi) e parziale (18 ore), Responsabile Area Finanziaria.",
-   "link": "https://www.concorsipubblici.com/comune-di-petrizzi-concorso-funzionario-amministrativo-contabile-catanzaro-2026",
-   "inpaId": "abf44e1a53b84a9ca961572f8dd66ea6",
-   "contratto": "tempo determinato",
-   "mansioni": "il Comune di Petrizzi, in esecuzione della propria programmazione organizzativa e del fabbisogno di  personale, intende assicurare la continuità e la regolarità delle funzioni essenziali dell’Area Finanziaria, con  particolare riferimento alle attività di pro grammazione economico-finanziaria, bilancio, ragioneria, gestione  contabile, entrate, spese, rendicontazione, equilibri di bilancio, verifiche contabili e…",
-   "titoliStudio": "a. diploma di laurea conseguito secondo l’ordinamento previgente al decreto ministeriale n. 509/1999, in Economia e commercio o Giurisprudenza, o titolo equipollente secondo la normativa vigente;\nb. laurea specialistica o laurea magistrale equiparata ai titoli di cui alla lettera a), secondo la normativa vigente;\nc. laurea quinquennale coerente con le funzioni oggetto dell’incarico, secondo l’ordinamento…",
-   "requisiti": "È richiesto il possesso di uno dei seguenti titoli di studio, attinente alle funzioni amministrative, economiche e contabili oggetto dell’incarico:\na. diploma di laurea conseguito secondo l’ordinamento previgente al decreto ministeriale n. 509/1999, in Economia e commercio o Giurisprudenza, o titolo equipollente secondo la normativa vigente;\nb. laurea specialistica o laurea magistrale equiparata ai titoli di cui alla lettera a), secondo la normativa vigente;\nc. laurea quinquennale coerente con le funzioni oggetto dell’incarico, secondo l’ordinamento vigente. \nÈ richiesto il possesso di uno…",
-   "prove": "Il colloquio è diretto ad accertare il possesso di adeguate competenze, capacità e attitudini per lo svolgimento delle funzioni oggetto dell’incarico. Il colloquio può riguardare, in particolare: a. ordinamento degli enti locali e funzioni dei responsabili di Area; b. disciplina del bilancio e…",
-   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/AVVISO_DI_SELEZIONE_110_TUEL%20%281%29.pdf",
-   "key": "inpa:abf44e1a53b84a9ca961572f8dd66ea6",
-   "primaVista": "2026-11-13",
+   "linkBando": "https://portale.inpa.gov.it/api/media/7dfbfe05-a82e-4f0e-bd0d-6a6657673122",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4383ed3c94f64723a12017dd88b2c16e",
+   "linkEnte": "https://www.halleyweb.com/c078130/mc/mc_p_ricerca.php",
+   "key": "inpa:4383ed3c94f64723a12017dd88b2c16e",
+   "primaVista": "2026-11-14",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
