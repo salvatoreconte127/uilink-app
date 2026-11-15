@@ -39,7 +39,7 @@
 }
 
 * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-html, body { margin: 0; height: 100%; }
+html, body { margin: 0; height: 100%; background: var(--bg); }
 body {
   background: var(--bg);
   color: var(--text);
@@ -151,7 +151,7 @@ body.open #mainActions { opacity: 0; transform: scale(.8); pointer-events: none;
 
 /* ───────── elenco ───────── */
 .scroller {
-  position: fixed; inset: 0;
+  position: fixed; top: 0; left: 0; right: 0; height: var(--app-h, 100%);
   overflow-y: auto; overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
   padding: calc(var(--top) + 64px) 16px calc(var(--bottom) + 40px);
@@ -238,7 +238,7 @@ body.no-names .name-tag, body.open .card.selected .name-tag { opacity: 0; }
 
 /* ───────── tessera aperta ───────── */
 .ambient {
-  position: fixed; inset: -60px; z-index: 0;
+  position: fixed; top: -60px; left: -60px; right: -60px; height: calc(var(--app-h, 100%) + 120px); z-index: 0;
   opacity: 0; transition: opacity .6s ease;
   pointer-events: none;
 }
@@ -291,7 +291,7 @@ body.open .ambient { opacity: 1; }
 
 /* codice a schermo intero */
 .fullcode {
-  position: fixed; inset: 0; z-index: 90;
+  position: fixed; top: 0; left: 0; right: 0; height: var(--app-h, 100%); z-index: 90;
   background: #fff; color: #000;
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   padding: calc(var(--top) + 70px) 22px calc(var(--bottom) + 30px);
@@ -309,7 +309,7 @@ body.open .ambient { opacity: 1; }
 .full-hint { margin-top: auto; font-size: 13px; color: #8a8a8e; }
 
 /* ───────── fogli e menu ───────── */
-.sheet-wrap, .menu-wrap { position: fixed; inset: 0; z-index: 60; }
+.sheet-wrap, .menu-wrap { position: fixed; top: 0; left: 0; right: 0; height: var(--app-h, 100%); z-index: 60; }
 .sheet-dim { position: absolute; inset: 0; background: rgba(0, 0, 0, .3); animation: fadeIn .3s ease; }
 .sheet-dim.clear { background: transparent; }
 .sheet {
@@ -358,7 +358,7 @@ body.open .ambient { opacity: 1; }
 
 /* ───────── editor ritaglio ───────── */
 .editor, .details, .live {
-  position: fixed; inset: 0; z-index: 70;
+  position: fixed; top: 0; left: 0; right: 0; height: var(--app-h, 100%); z-index: 70;
   display: flex; flex-direction: column;
   animation: slideUp .5s var(--ease);
 }
@@ -480,7 +480,7 @@ body.open .ambient { opacity: 1; }
 
 /* ───────── avviso ───────── */
 .toast {
-  position: fixed; z-index: 100; left: 50%; bottom: calc(var(--bottom) + 24px);
+  position: fixed; z-index: 100; left: 50%; bottom: calc(var(--bottom) + 24px - var(--gap, 0px));
   transform: translateX(-50%);
   padding: 12px 18px; border-radius: 999px; font-size: 15px; font-weight: 600;
   max-width: calc(100% - 32px); text-align: center;

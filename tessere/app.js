@@ -724,6 +724,33 @@
   }
   const drawGeneratedFace = (name, color, number) => drawBrandFace({ name, color, number });
 
+  /* ───────────── altezza vera dello schermo ─────────────
+     iOS 26, app aperta dalla Home: lo spazio della pagina risulta più corto della zona
+     della Dynamic Island e i livelli a schermo intero si fermano prima del fondo.
+     Misuro l'altezza vera e la passo al CSS (--app-h) insieme alla differenza (--gap). */
+  let appH = innerHeight;
+  function fixViewport() {
+    // altezza effettiva di un livello fisso "top:0; bottom:0"
+    const probe = document.createElement("div");
+    probe.style.cssText = "position:fixed;top:0;bottom:0;width:0;visibility:hidden;pointer-events:none";
+    document.documentElement.append(probe);
+    const fixedH = probe.getBoundingClientRect().height || innerHeight;
+    probe.remove();
+    const base = Math.min(innerHeight, fixedH);
+    let h = base;
+    const standalone = navigator.standalone === true || matchMedia("(display-mode: standalone)").matches;
+    if (standalone && screen.width && screen.height) {
+      const portrait = innerHeight >= innerWidth;
+      const sh = portrait ? Math.max(screen.width, screen.height) : Math.min(screen.width, screen.height);
+      if (sh > h && sh - h <= 120) h = sh;
+    }
+    appH = h;
+    const st = document.documentElement.style;
+    st.setProperty("--app-h", h + "px");
+    st.setProperty("--gap", h - base + "px");
+  }
+  fixViewport();
+
   /* ───────────── stato ───────────── */
   let cards = [];
   let openId = null;
@@ -823,7 +850,7 @@
     // tessera aperta: in alto; le altre raccolte in fondo allo schermo
     const stackTop = stackEl.getBoundingClientRect().top;
     const targetTop = safeTop() + 60;
-    const vh = innerHeight;
+    const vh = appH;
     const others = els.filter((el) => el.dataset.id !== openId && visIds.has(el.dataset.id));
     const shownOthers = Math.min(others.length, 4);
     const bottomBase = vh - safeBottom() - 14 - shownOthers * 9;
@@ -1120,6 +1147,7 @@
   $("#cropCancel").addEventListener("click", () => { $("#editor").hidden = true; ed.src = null; ed.scanToken++; });
   addEventListener("resize", () => {
     _st = _sb = null;
+    fixViewport();
     if (!$("#editor").hidden && ed.src) { fitEditor(); drawEditor(); }
     layout();
   });
