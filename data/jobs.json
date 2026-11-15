@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-14T12:19+00:00",
+ "aggiornato": "2026-11-15T12:51+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
@@ -11,75 +11,45 @@
   },
   "Concorsando": {
    "ok": true,
-   "bandi": 9
+   "bandi": 10
   }
  },
  "totale": 60,
  "nuoviOggi": 1,
  "bandi": [
   {
-   "id": "inpa:4383ed3c94f64723a12017dd88b2c16e",
-   "inpaId": "4383ed3c94f64723a12017dd88b2c16e",
+   "id": "inpa:25de84d747884932b7c78cb867038ca9",
+   "inpaId": "25de84d747884932b7c78cb867038ca9",
    "fonti": [
     "inPA"
    ],
-   "titolo": "Concorso pubblico, per esami, per la copertura di n. 1 posto a tempo pieno e indeterminato, per 36 ore settimanali, nell’Area degli Istruttori, profilo professionale Istruttore amministrativo-contabile, da assegnare al Settore Finanziario-Tributi del Comune di Santa Domenica Talao",
-   "ente": "Comune di Santa Domenica Talao",
-   "profilo": "Istruttore Amministrativo-Contabile",
+   "titolo": "CONCORSO PUBBLICO, PER ESAMI E TITOLI, PER IL RECLUTAMENTO A TEMPO INDETERMINATO E PIENO DI N. 1 UNITA’ DI PERSONALE DEL PROFILO DI ACCOMPAGNATORE AL PIANOFORTE PER IL CANTO E PER LO STRUMENTO (Area dei Funzionari - Art. 164 del CCNL Istruzione e Ricerca 2019/2021 – sezione Afam del 18/01/2024)",
+   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+   "profilo": "Accompagnatore al pianoforte per il canto e per lo strumento",
    "sedi": [
     "Cosenza"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-12-13",
-   "pubblicazione": "2026-11-13",
+   "scadenza": "2026-12-14",
+   "pubblicazione": "2026-11-14",
    "contratto": "tempo indeterminato, tempo pieno",
-   "descrizione": "Concorso pubblico per soli esami per Istruttore Amministrativo Contabile a tempo indeterminato e pieno (36 ore).",
-   "mansioni": "",
-   "titoliStudio": "L-33 – Scienze economiche;lauree magistrali: LM-56 – Scienze dell’economia;\nLM-77 – Scienze economico-aziendali;\nLM-16 – Finanza;lauree del vecchio ordinamento: Economia e commercio e gli altri titoli equipollenti o equiparati ai sensi della normativa vigente.Per i titoli di studio conseguiti all’estero l’ammissione è subordinata al riconoscimento degli stessi al titolo di studio previsto per l’accesso, ai sensi…",
-   "requisiti": "Per la partecipazione al concorso è dovuto il pagamento di una tassa di iscrizione pari a euro 10,00.\n(militari volontari delle FF.AA. congedati senza demerito e a favore degli ufficiali di complemento in ferma biennale e agli ufficiali in ferma prefissata che hanno completato senza demerito la ferma contratta);-di essere in godimento dei diritti civili e politici.",
-   "prove": "Per esami",
+   "descrizione": "Concorso pubblico per l'assunzione di n. 1 accompagnatore al pianoforte per il canto e per lo strumento presso il Conservatorio di Musica di Cosenza.",
+   "mansioni": "La figura professionale richiesta è risorsa fondamentale per il perseguimento degli obiettivi  istituzionali e opera svolgendo attività di supporto alla didattica.\noperatività nell’ambito degli indirizzi e delle indicazioni fornite dai docenti in relazione al  supporto all’attività didattica, di ricerca e/o di produzion e artistica, sulla base  dell’assegnazione effettuata dal Direttore su indicazione delle…",
+   "titoliStudio": "Diploma accademico di secondo livello in Clavicembalo e tastiere storiche DM 14/18\nDiploma di II livello in Discipline musicali: indirizzo interpretativo-compositivo (Clavicembalo) DM 1/04\nDiploma accademico di secondo livello in Pianoforte storico (Fortepiano) DM 14/18",
+   "requisiti": "I candidati devono essere in possesso dei seguenti requisiti di carattere generale, sia alla data di  scadenza prevista per la presentazione delle domande che al momento della stipula del contratto:\n1) Età non inferiore ad anni 18 e non superiore al limite previsto dalla vigente normativa per il  collocamento a riposo;\n2) Cittadinanza italiana ovvero cittadinanza di uno degli Stati membri dell’Unione Europea o  equiparati ai sensi dell’art. 38 del D. Lgs. 31.03.2001 n. 165 e dell’art. 23 del D. Lgs.\n3) Godimento dei diritti civili e politici.\n4) Idoneità fisica all’impiego;",
+   "prove": "Per titoli e esami",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/7dfbfe05-a82e-4f0e-bd0d-6a6657673122",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4383ed3c94f64723a12017dd88b2c16e",
-   "linkEnte": "https://www.halleyweb.com/c078130/mc/mc_p_ricerca.php",
-   "key": "inpa:4383ed3c94f64723a12017dd88b2c16e",
-   "primaVista": "2026-11-14",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:8c0d797e46a14a86b8e7f1d41d5529bd",
-   "inpaId": "8c0d797e46a14a86b8e7f1d41d5529bd",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "COMUNE DI CATANZARO. ASSUNZIONE A TEMPO INDETERMINATO E PARZIALE 50% DI N°1 UNITA’ ISTRUTTORE AMMINISTRATIVO-CONTABILE - AREA DI CLASSIFICAZIONE “ISTRUTTORI” DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI DEL 16/11/2022 - MEDIANTE UTILIZZO DI GRADUATORIE DI ALTRI ENTI. MANIFESTAZIONE DI INTERESSE PER…",
-   "ente": "Comune di Catanzaro",
-   "profilo": "Istruttore amministrativo - contabile",
-   "sedi": [
-    "Catanzaro"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-14",
-   "pubblicazione": "2026-10-31",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "Il Comune di Catanzaro intende procedere all’acquisizione a tempo indeterminato e parziale 50% (18 ore settimanali) di n°1 Istruttore Amministrativo-contabile, Area degli “Istruttori” del nuovo CCNL del 16/11/2022, mediante utilizzo di graduatorie di concorsi pubblici approvate da altri enti del comparto delle “Funzioni locali”.",
-   "mansioni": "l’esecuzione dei propri compiti di interesse pubblico o comunque connessi all'esercizio dei propri  pubblici poteri di cui è investito il titolare del trattamento (ex art. 6 par.",
-   "titoliStudio": "",
-   "requisiti": "REQUISITI PER LA MANIFESTAZIONE DI INTERESSE\nIl concorso pubblico cui si riferisce la graduatoria che viene segnalata deve aver richiesto oltre ai  requisiti di ordine generale previsti per l’accesso nelle pubbliche amministrazioni, anche il  possesso dell’idoneità fisica all'impiego nelle mansioni specifiche del profilo professionale\nil possesso dei requisiti di idoneità fisica all’impiego e alle mansioni proprie del profilo  professionale ricercato;\nAi soggetti chiamati verrà assegnato un termine non inferiore a tre giorni per confermare la propria  disponibilità in merito all’assunzione ed il possesso dei requisiti previsti dal bando di…",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/8a5b57ff-b5cb-4b38-8331-1231ac0452fb",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8c0d797e46a14a86b8e7f1d41d5529bd",
-   "linkEnte": "",
-   "key": "inpa:8c0d797e46a14a86b8e7f1d41d5529bd",
-   "primaVista": "2026-11-13",
+   "linkBando": "https://portale.inpa.gov.it/api/media/ef5c2539-6cb9-40ae-b40b-f1e6ad71fb36",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=25de84d747884932b7c78cb867038ca9",
+   "linkEnte": "https://www.conservatoriocosenza.it/amministrazione-trasparente/concorsi/#1687428055301-1c692246-940e",
+   "key": "inpa:25de84d747884932b7c78cb867038ca9",
+   "primaVista": "2026-11-15",
    "entiMonitorati": [
-    "Comuni capoluogo, Province e Città Metropolitana RC"
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
    ],
-   "categoria": "calabria"
+   "categoria": "istruzione"
   },
   {
    "id": "inpa:18ed045aee7a425ea9c8358776166112",
@@ -1804,6 +1774,41 @@
     "Azienda Zero Calabria"
    ],
    "categoria": "sanita"
+  },
+  {
+   "id": "inpa:4383ed3c94f64723a12017dd88b2c16e",
+   "inpaId": "4383ed3c94f64723a12017dd88b2c16e",
+   "fonti": [
+    "Concorsando",
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per esami, per la copertura di n. 1 posto a tempo pieno e indeterminato, per 36 ore settimanali, nell’Area degli Istruttori, profilo professionale Istruttore amministrativo-contabile, da assegnare al Settore Finanziario-Tributi del Comune di Santa Domenica Talao",
+   "ente": "Comune di Santa Domenica Talao",
+   "profilo": "Istruttore Amministrativo-Contabile",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-13",
+   "pubblicazione": "2026-11-13",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il Comune di Santa Domenica Talao (CS) indice un concorso pubblico, per esami, per la copertura a tempo pieno (36 ore) e indeterminato di 1 posto di istruttore amministrativo-contabile (Area degli Istruttori), da assegnare al Settore Finanziario-Tributi.\nServe il diploma di scuola superiore di durata quinquennale a indirizzo economico (ad esempio ragioniere o AFM), oppure una laurea economica considerata assorbente. Sono previste una prova scritta, anche con un test di 30 domande a risposta multipla, e una prova orale. La tassa di concorso è di 10 euro.",
+   "mansioni": "",
+   "titoliStudio": "Serve il diploma di scuola superiore di durata quinquennale a indirizzo economico (ad esempio ragioniere o AFM), oppure una laurea economica considerata assorbente.",
+   "requisiti": "Per la partecipazione al concorso è dovuto il pagamento di una tassa di iscrizione pari a euro 10,00.\n(militari volontari delle FF.AA. congedati senza demerito e a favore degli ufficiali di complemento in ferma biennale e agli ufficiali in ferma prefissata che hanno completato senza demerito la ferma contratta);-di essere in godimento dei diritti civili e politici.",
+   "prove": "Sono previste una prova scritta, anche con un test di 30 domande a risposta multipla, e una prova orale.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/7dfbfe05-a82e-4f0e-bd0d-6a6657673122",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4383ed3c94f64723a12017dd88b2c16e",
+   "linkEnte": "https://www.halleyweb.com/c078130/mc/mc_p_ricerca.php",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-istruttore-amministrativo-contabile-presso-il-comune-di-santa-domenica-talao/"
+   ],
+   "key": "inpa:4383ed3c94f64723a12017dd88b2c16e",
+   "primaVista": "2026-11-14",
+   "entiMonitorati": [],
+   "categoria": "comuni"
   },
   {
    "id": "inpa:d4ad940ec398418888271afc9587a4cf",
