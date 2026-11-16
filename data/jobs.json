@@ -1,9 +1,9 @@
 {
- "aggiornato": "2026-11-15T12:51+00:00",
+ "aggiornato": "2026-11-16T13:49+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
-   "bandi": 57
+   "bandi": 65
   },
   "ConcorsiPubblici": {
    "ok": true,
@@ -11,45 +11,329 @@
   },
   "Concorsando": {
    "ok": true,
-   "bandi": 10
+   "bandi": 17
   }
  },
- "totale": 60,
- "nuoviOggi": 1,
+ "totale": 68,
+ "nuoviOggi": 9,
  "bandi": [
   {
-   "id": "inpa:25de84d747884932b7c78cb867038ca9",
-   "inpaId": "25de84d747884932b7c78cb867038ca9",
+   "id": "inpa:9d258876e09e4746a8d7150aec62e5d0",
+   "inpaId": "9d258876e09e4746a8d7150aec62e5d0",
    "fonti": [
     "inPA"
    ],
-   "titolo": "CONCORSO PUBBLICO, PER ESAMI E TITOLI, PER IL RECLUTAMENTO A TEMPO INDETERMINATO E PIENO DI N. 1 UNITA’ DI PERSONALE DEL PROFILO DI ACCOMPAGNATORE AL PIANOFORTE PER IL CANTO E PER LO STRUMENTO (Area dei Funzionari - Art. 164 del CCNL Istruzione e Ricerca 2019/2021 – sezione Afam del 18/01/2024)",
-   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
-   "profilo": "Accompagnatore al pianoforte per il canto e per lo strumento",
+   "titolo": "PROCEDURA COMPARATIVA PUBBLICA PER TITOLI PER L’INDIVIDUAZIONE DI ESPERTI ESTERNI DESTINATARI DI INCARICHI D’INSEGNAMENTO DI PROPEDEUTICA MUSICALE UTILE PER L’APPROCCIO STRUMENTALE SECONDO LE METODOLOGIE PIU’ ADEGUATE PER L’EDUCAZIONE MUSICALE DEI BIMBI",
+   "ente": "Conservatorio Statale di Musica P.I. Tchaikovsky",
+   "profilo": "DOCENTE",
    "sedi": [
-    "Cosenza"
+    "Calabria"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-12-14",
-   "pubblicazione": "2026-11-14",
-   "contratto": "tempo indeterminato, tempo pieno",
-   "descrizione": "Concorso pubblico per l'assunzione di n. 1 accompagnatore al pianoforte per il canto e per lo strumento presso il Conservatorio di Musica di Cosenza.",
-   "mansioni": "La figura professionale richiesta è risorsa fondamentale per il perseguimento degli obiettivi  istituzionali e opera svolgendo attività di supporto alla didattica.\noperatività nell’ambito degli indirizzi e delle indicazioni fornite dai docenti in relazione al  supporto all’attività didattica, di ricerca e/o di produzion e artistica, sulla base  dell’assegnazione effettuata dal Direttore su indicazione delle…",
-   "titoliStudio": "Diploma accademico di secondo livello in Clavicembalo e tastiere storiche DM 14/18\nDiploma di II livello in Discipline musicali: indirizzo interpretativo-compositivo (Clavicembalo) DM 1/04\nDiploma accademico di secondo livello in Pianoforte storico (Fortepiano) DM 14/18",
-   "requisiti": "I candidati devono essere in possesso dei seguenti requisiti di carattere generale, sia alla data di  scadenza prevista per la presentazione delle domande che al momento della stipula del contratto:\n1) Età non inferiore ad anni 18 e non superiore al limite previsto dalla vigente normativa per il  collocamento a riposo;\n2) Cittadinanza italiana ovvero cittadinanza di uno degli Stati membri dell’Unione Europea o  equiparati ai sensi dell’art. 38 del D. Lgs. 31.03.2001 n. 165 e dell’art. 23 del D. Lgs.\n3) Godimento dei diritti civili e politici.\n4) Idoneità fisica all’impiego;",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/ef5c2539-6cb9-40ae-b40b-f1e6ad71fb36",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=25de84d747884932b7c78cb867038ca9",
-   "linkEnte": "https://www.conservatoriocosenza.it/amministrazione-trasparente/concorsi/#1687428055301-1c692246-940e",
-   "key": "inpa:25de84d747884932b7c78cb867038ca9",
-   "primaVista": "2026-11-15",
+   "scadenza": "2026-12-01",
+   "pubblicazione": "2026-11-16",
+   "contratto": "",
+   "descrizione": "PROCEDURA COMPARATIVA PUBBLICA PER TITOLI PER L’INDIVIDUAZIONE DI ESPERTI ESTERNI DESTINATARI DI INCARICHI D’INSEGNAMENTO DI PROPEDEUTICA MUSICALE UTILE PER L’APPROCCIO STRUMENTALE SECONDO LE METODOLOGIE PIU’ ADEGUATE PER L’EDUCAZIONE MUSICALE DEI BIMBI",
+   "mansioni": "attività specifica artistico -professionale attinente all’ambito professionale dell’insegnamento  richiesto: la documentazione artistica sarà valutata con riguardo alla rilevanza performativa, ai  programmi d’insegnamento previsti per la disciplina, al con testo e per la tipologia di Ente nel  quale l’attività dichiarata è stata svolta.",
+   "titoliStudio": "6) diploma di Conservatorio (o Istituto Musicale Pareggiato) ovvero Diploma Accademico di 2°  livello per l'insegnamento cui si riferisce l’incarico;\n7) diploma di abilitazione rilasciato della “European Suzuki Association” – ESA (almeno I° livello);\n Copia del Diploma di abilitazione all’insegnamento (almeno per il Primo Livello) secondo il metodo",
+   "requisiti": "In particolare, per l’ammissione alla selezione è richiesto il possesso dei seguenti requisiti:\n1) cittadinanza italiana o straniera;\n2) età non inferiore agli anni 18;\n3) idoneità fisica all’impiego;\n4) godimento dei diritti civili e politici.",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/70dedc42-6dbb-445e-8ac2-e4f22b0f65f6",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9d258876e09e4746a8d7150aec62e5d0",
+   "linkEnte": "",
+   "key": "inpa:9d258876e09e4746a8d7150aec62e5d0",
+   "primaVista": "2026-11-16",
    "entiMonitorati": [
-    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
+    "AFAM – Conservatorio \"P.I. Tchaikovsky\" di Nocera Terinese",
     "AFAM – Altri Conservatori e Accademie in Calabria"
    ],
    "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:39dad351fc594522bc7ad0831352a050",
+   "inpaId": "39dad351fc594522bc7ad0831352a050",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FL PER SSUNZIONE A TEMPO PARZIALE E INDETERMINATO DI N. 1 \"FUNZIONARIO AMM.VO-CONTABLE.AREA DEI FUNZI. E EQ",
+   "ente": "Comune di Lamezia Terme",
+   "profilo": "FUNZIONARIO AMMINISTRATIVO CONTABILE",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-01",
+   "pubblicazione": "2026-11-16",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "AVVISO PUBBLICO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI FINALIZZATO ALL'ASSUNZIONE A TEMPO PARZIALE E INDETERMINATO DI N. 1 \"FUNZIONARIO AMMINISTRATIVO-CONTABILE\" – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE PRESSO IL COMUNE DI LAMEZIA TERME.",
+   "mansioni": "",
+   "titoliStudio": "· in possesso di titolo di studio specifico previsto per l'assunzione con il ruolo di Funzionario Amministrativo-contabile ;\n· il titolo di studio posseduto, (con indicazione dell’anno accademico di conseguimento e dell’Ateneo che lo ha rilasciato con relativa sede);",
+   "requisiti": "La procedura di cui al presente avviso è riservata a coloro che sono: \n· interessati all’assunzione a tempo parziale e indeterminato presso il Comune di Lamezia Terme, con la qualifica di Funzionario Amministrativo-contabile – Area dei Funzionari e dell'Elevata Qualificazione; \n· collocati utilmente in graduatorie in corso di validità, approvate da Enti del Comparto Funzioni Locali, in seguito all’espletamento di concorsi pubblici per la copertura di posti a tempo determinato o indeterminato, pieno o parziale, per l'Area e profilo professionale corrispondenti a quelli che questo Ente deve…",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/ecad12c5-a5ef-4ba7-9a85-9f97c75fa257",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39dad351fc594522bc7ad0831352a050",
+   "linkEnte": "https://www.comune.lamezia-terme.cz.it/it",
+   "key": "inpa:39dad351fc594522bc7ad0831352a050",
+   "primaVista": "2026-11-16",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:a1d0ba898328481f96369af64be01d38",
+   "inpaId": "a1d0ba898328481f96369af64be01d38",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FL PER ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 \"FUNZIONARIO AMMINISTRATIVO\" – AREA DEI FUNZIONARI E EQ",
+   "ente": "Comune di Lamezia Terme",
+   "profilo": "FUNZIONARIO AMMINISTRATIVO",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-01",
+   "pubblicazione": "2026-11-16",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "AVVISO PUBBLICO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI FINALIZZATO ALL'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 \"FUNZIONARIO AMMINISTRATIVO\" – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE PRESSO IL COMUNE DI LAMEZIA TERME.",
+   "mansioni": "",
+   "titoliStudio": "· in possesso di titolo di studio specifico previsto per l'assunzione con il ruolo di Funzionario Amministrativo ;\n· il titolo di studio posseduto, (con indicazione dell’anno accademico di conseguimento e dell’Ateneo che lo ha rilasciato con relativa sede);",
+   "requisiti": "La procedura di cui al presente avviso è riservata a coloro che sono: \n· interessati all’assunzione a tempo pieno e indeterminato presso il Comune di Lamezia Terme, con la qualifica di Funzionario Amministrativo – Area dei Funzionari e dell'Elevata Qualificazione; \n· collocati utilmente in graduatorie in corso di validità, approvate da Enti del Comparto Funzioni Locali, in seguito all’espletamento di concorsi pubblici per la copertura di posti a tempo determinato o indeterminato, pieno o parziale, per l'Area e profilo professionale corrispondenti a quelli che questo Ente deve ricoprire…",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/c6a2ab3d-5a16-4675-8cd0-4f26b8e603ce",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a1d0ba898328481f96369af64be01d38",
+   "linkEnte": "https://www.comune.lamezia-terme.cz.it/it",
+   "key": "inpa:a1d0ba898328481f96369af64be01d38",
+   "primaVista": "2026-11-16",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:44db8f62413647f58343278827bb4530",
+   "inpaId": "44db8f62413647f58343278827bb4530",
+   "fonti": [
+    "Concorsando",
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO SPECIALISTA IN ATTIVITA' AMMINISTRATIVE E CONTABILI - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
+   "ente": "Comune di Catanzaro",
+   "profilo": "Funzionario specialista in attività Amministrative e Contabili",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-15",
+   "pubblicazione": "2026-11-16",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per soli esami, per l'assunzione a tempo indeterminato e pieno di 1 funzionario specialista in attività amministrative e contabili (Area dei Funzionari e delle Elevate Qualificazioni, CCNL Funzioni Locali).\nServe una laurea nelle classi previste dal bando. Sono previste una prova scritta di 30 quesiti a risposta multipla e una prova orale. La tassa di concorso è di 10 euro.",
+   "mansioni": "Nello specifico, le mansioni esigibili comprendono, a titolo esemplificativo ma non esaustivo, le  seguenti macro-attività:\nIstruttoria e Redazione Atti: Attività di istruzione, predisposizione, redazione e formalizzazione di  atti amministrativi, deliberazioni, determinazioni dirigenziali, contratti, convenzioni e  provvedimenti finali complessi riferiti al settore di assegnazione.\nAnalisi e Ricerca di Settore:…",
+   "titoliStudio": "Serve una laurea nelle classi previste dal bando.",
+   "requisiti": "c) Competenza linguistica: adeguata conoscenza della lingua inglese;  d) Competenza digitale, informatica: padronanza di software comuni (pacchetti applicativi come\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\nI cittadini dell’Unione Europea e di Paesi  terzi devono avere una adeguata conoscenza della lingua italiana che si intende accertata  mediante l’espletamento delle prove d’esame;\n2) età non inferiore ad anni 18 e non superiore ai limiti massimi ordinamentali previsti per il  pensionamento nel pubblico impiego;",
+   "prove": "Sono previste una prova scritta di 30 quesiti a risposta multipla e una prova orale.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/2196ff08-a20e-48c8-85c1-96aeed9888ca",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=44db8f62413647f58343278827bb4530",
+   "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-specialista-in-attivita-amministrative-e-contabili-presso-il-comune-di-catanzaro/"
+   ],
+   "key": "inpa:44db8f62413647f58343278827bb4530",
+   "primaVista": "2026-11-16",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:91615dda4456498fb1ba17619829a7f4",
+   "inpaId": "91615dda4456498fb1ba17619829a7f4",
+   "fonti": [
+    "Concorsando",
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO SPECIALISTA IN ATTIVITA' TECNICHE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
+   "ente": "Comune di Catanzaro",
+   "profilo": "FUNZIONARIO SPECIALISTA IN ATTIVITA' TECNICHE",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-15",
+   "pubblicazione": "2026-11-16",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per soli esami, per l'assunzione a tempo indeterminato e pieno di 1 funzionario specialista in attività tecniche (Area dei Funzionari e delle Elevate Qualificazioni, CCNL Funzioni Locali).\nServe una laurea nelle classi previste dal bando. Sono previste una prova scritta di 30 quesiti a risposta multipla, su appalti, edilizia, urbanistica, ambiente e sicurezza, e una prova orale. La tassa di concorso è di 10 euro.",
+   "mansioni": "Nello specifico, le mansioni esigibili comprendono, a titolo esemplificativo ma non esaustivo, le  seguenti macro-attività:\nProgettazione e Direzione Lavori: Attività di studio, programmazione, progettazione ( Quadro\nPianificazione Territoriale e Urbanistica: Attività di istruttoria, analisi, redazione e gestione degli  strumenti urbanistici generali ed esecutivi, dei piani di settore (es. mobilità, traffico,…",
+   "titoliStudio": "Serve una laurea nelle classi previste dal bando.",
+   "requisiti": "c) Competenza linguistica: adeguata conoscenza della lingua inglese;\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\nI cittadini dell’Unione Europea e di Paesi  terzi devono avere una adeguata conoscenza della lingua italiana che si intende accertata  mediante l’espletamento delle prove d’esame;\n2) età non inferiore ad anni 18 e non superiore ai limiti massimi ordinamentali previsti per il  pensionamento nel pubblico impiego;",
+   "prove": "Sono previste una prova scritta di 30 quesiti a risposta multipla, su appalti, edilizia, urbanistica, ambiente e sicurezza, e una prova orale.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/38d02f7a-0212-4539-a690-13fd75af556c",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=91615dda4456498fb1ba17619829a7f4",
+   "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-specialista-in-attivita-tecniche-presso-il-comune-di-catanzaro/"
+   ],
+   "key": "inpa:91615dda4456498fb1ba17619829a7f4",
+   "primaVista": "2026-11-16",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:90c5e5344f0c411889893f7b51ad251e",
+   "inpaId": "90c5e5344f0c411889893f7b51ad251e",
+   "fonti": [
+    "Concorsando",
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO SPECIALISTA INFORMATICO - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
+   "ente": "Comune di Catanzaro",
+   "profilo": "FUNZIONARIO SPECIALISTA INFORMATICO",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-15",
+   "pubblicazione": "2026-11-16",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per soli esami, per l'assunzione a tempo indeterminato e pieno di 1 funzionario specialista informatico (Area dei Funzionari e delle Elevate Qualificazioni, CCNL Funzioni Locali).\nServe una laurea nelle classi previste dal bando, oppure un diploma di laurea con master o specializzazione post-laurea in informatica. Sono previste una prova scritta di 30 quesiti a risposta multipla e una prova orale con colloquio attitudinale. La tassa di concorso è di 10 euro.",
+   "mansioni": "Nello specifico, le mansioni esigibili comprendono, a titolo esemplificativo ma non esaustivo, le  seguenti macro-attività\nIstruttoria e Redazione Atti: attività di studio, predisposizione e formalizzazione di  provvedimenti amministrativi complessi (deliberazioni di Giunta e Consiglio, determinazioni  dirigenziali, contratti d'appalto IT, convenzioni e capitolati tecnici di gara).\nLa prova si svolgerà in modalità…",
+   "titoliStudio": "Serve una laurea nelle classi previste dal bando, oppure un diploma di laurea con master o specializzazione post-laurea in informatica.",
+   "requisiti": "c) Competenza linguistica: adeguata conoscenza della lingua inglese;  d) Competenza digitale, informatica: padronanza di software comuni (pacchetti applicativi come\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\nI cittadini dell’Unione Europea e di Paesi terzi devono avere  una adeguata conoscenza della lingua italiana che si intende accertata mediante l’espletament o  delle prove d’esame;\n2) età non inferiore ad anni 18 e non superiore ai limiti massimi ordinamentali previsti per il  pensionamento nel pubblico impiego;",
+   "prove": "Sono previste una prova scritta di 30 quesiti a risposta multipla e una prova orale con colloquio attitudinale.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/b3406e5c-28af-4e3a-a860-f90b568420f0",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=90c5e5344f0c411889893f7b51ad251e",
+   "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-specialista-informatico-presso-il-comune-di-catanzaro/"
+   ],
+   "key": "inpa:90c5e5344f0c411889893f7b51ad251e",
+   "primaVista": "2026-11-16",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:0271f927c6f94ec7b0dede3f48517d15",
+   "inpaId": "0271f927c6f94ec7b0dede3f48517d15",
+   "fonti": [
+    "Concorsando",
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 ISTRUTTORE AGENTE DI POLIZIA LOCALE - AREA DEGLI ISTRUTTORI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
+   "ente": "Comune di Catanzaro",
+   "profilo": "ISTRUTTORE AGENTE DI POLIZIA LOCALE",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-15",
+   "pubblicazione": "2026-11-16",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per esami, per l'assunzione a tempo indeterminato e pieno di 1 istruttore agente di polizia locale (Area degli Istruttori, CCNL Funzioni Locali).\nServono il diploma di scuola secondaria di secondo grado, le patenti B e A2, il limite di età di 45 anni e l'idoneità al conferimento della qualità di agente di pubblica sicurezza. Sono previste una prova di efficienza fisica e una prova scritta di 33 quesiti a risposta multipla. La tassa di concorso è di 10 euro.",
+   "mansioni": "L’“Istruttore Agente di Polizia Locale” avrà responsabilità professionale nell'ambito delle proprie  funzioni e svolgerà - in via esemplificativa - le seguenti attività:\nCapacità di conduzione delle indagini, redazione di atti giudiziari (notizie di reato, verbali di  sequestro, perquisizioni) e gestione delle attività di controllo del territorio in sinergia con le\nAutonomia operativa e gestione decisionale:…",
+   "titoliStudio": "Servono il diploma di scuola secondaria di secondo grado, le patenti B e A2, il limite di età di 45 anni e l'idoneità al conferimento della qualità di agente di pubblica sicurezza.",
+   "requisiti": "c) Competenza lingua straniera: adeguata conoscenza della lingua inglese;  d) Competenza digitale e informatica: adeguata conoscenza sull’uso delle apparecchiature e delle  reti informatiche , d ei sistemi di comunicazione elettronica e delle applicazioni informatiche più  diffuse (come Microsoft Office).\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\n2) età non inferiore ad anni 18 e non superiore ai 45 anni di età.\n3) idoneità fisica all'impiego nelle mansioni specifiche del profilo professionale di riferimento, in  particolare:",
+   "prove": "Sono previste una prova di efficienza fisica e una prova scritta di 33 quesiti a risposta multipla.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/e49d450c-9d05-4bc6-9bf3-489dc2916c06",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0271f927c6f94ec7b0dede3f48517d15",
+   "linkEnte": "",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-istruttore-agente-di-polizia-locale-presso-il-comune-di-catanzaro/"
+   ],
+   "key": "inpa:0271f927c6f94ec7b0dede3f48517d15",
+   "primaVista": "2026-11-16",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:774819e027b04076b7e46d9bc2244ad1",
+   "inpaId": "774819e027b04076b7e46d9bc2244ad1",
+   "fonti": [
+    "Concorsando",
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 ISTRUTTORE TECNICO - AREA DEGLI ISTRUTTORI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
+   "ente": "Comune di Catanzaro",
+   "profilo": "ISTRUTTORE TECNICO",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-15",
+   "pubblicazione": "2026-11-16",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per soli esami, per l'assunzione a tempo indeterminato e pieno di 1 istruttore tecnico (Area degli Istruttori, CCNL Funzioni Locali).\nServe il diploma di scuola secondaria di secondo grado ad indirizzo tecnico (costruzioni, ambiente e territorio, manutenzione, meccanica, elettronica ed elettrotecnica, chimica e simili). Il concorso prevede una sola prova scritta, svolta al computer, con 33 quesiti a risposta multipla. La tassa di concorso è di 10 euro.",
+   "mansioni": "L’“Istruttore Tecnico” avrà responsabilità professionale nell'ambito delle proprie funzioni e  svolgerà le seguenti attività:\nRaccolta, rilievo ed elaborazione dati: Attività di rilievo topografico, misurazione, studio,  aggiornamento della cartografia comunale, dei sistemi informativi geografici (GIS) e del  catasto, finalizzate alla pianificazione urbanistica e alla gestione del territorio.\nLa prova si svolgerà…",
+   "titoliStudio": "Serve il diploma di scuola secondaria di secondo grado ad indirizzo tecnico (costruzioni, ambiente e territorio, manutenzione, meccanica, elettronica ed elettrotecnica, chimica e simili).",
+   "requisiti": "c) Competenza lingua straniera: adeguata conoscenza della lingua inglese;  d) Competenza digitale, informatica : padronanza di software comuni (pacchetti applicativi  come Microsoft Office e l'uso di sistemi di comunicazione elettronica e reti), utilizzo delle  banche dati giuridiche, dei motori di ricerca e la capacità di navigare e trovare informazioni.\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\nI cittadini dell’Unione Europea e di Paesi  terzi devono avere una adeguata conoscenza della lingua italiana che si intende accertata  mediante l’espletamento della prova d’esame;\n2) età…",
+   "prove": "Il concorso prevede una sola prova scritta, svolta al computer, con 33 quesiti a risposta multipla.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/346d2d14-0de3-4c5c-9515-64e9605173a1",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=774819e027b04076b7e46d9bc2244ad1",
+   "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-istruttore-tecnico-presso-il-comune-di-catanzaro/"
+   ],
+   "key": "inpa:774819e027b04076b7e46d9bc2244ad1",
+   "primaVista": "2026-11-16",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:b75daa58ec864407aee0e80fd66dae02",
+   "inpaId": "b75daa58ec864407aee0e80fd66dae02",
+   "fonti": [
+    "Concorsando",
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 2 ISTRUTTORI AMMINISTRATIV0 - CONTABILI - AREA DEGLI ISTRUTTORI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
+   "ente": "Comune di Catanzaro",
+   "profilo": "ISTRUTTORE AMMINISTRATIVO - CONTABILE",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-12-15",
+   "pubblicazione": "2026-11-16",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per soli esami, per l'assunzione a tempo indeterminato e pieno di 2 istruttori amministrativo-contabili (Area degli Istruttori, CCNL Funzioni Locali).\nServe il diploma di scuola secondaria di secondo grado. Il concorso prevede una sola prova scritta, svolta al computer, con 33 quesiti a risposta multipla: quesiti situazionali, materie tecniche, inglese e informatica. La tassa di concorso è di 10 euro.",
+   "mansioni": "Le mansioni esigibili, nel rispetto della declaratoria di cui all’allegato A) del CCNL del personale  del comparto Funzioni Locali sottoscritto in data 16/11/2022, riguarderanno lo svolgimento di  attività istruttorie nel campo amministrativo, contabile, economico -finanziario e tributario,  caratterizzate da approfondite conoscenze delle procedure interne e da un grado di  autonomia nell'esecuzione delle…",
+   "titoliStudio": "Serve il diploma di scuola secondaria di secondo grado.",
+   "requisiti": "c) Competenza lingua straniera: adeguata conoscenza della lingua inglese;  d) Competenza digitale, informatica: padronanza di software comuni (pacchetti applicativi come\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\nI cittadini dell’Unione Europea e di Paesi  terzi devono avere una adeguata conoscenza della lingua italiana che si intende accertata  mediante l’espletamento della prova d’esame;\n2) età non inferiore ad anni 18 e non superiore ai limiti massimi ordinamentali previsti per il  pensionamento nel pubblico impiego;",
+   "prove": "Il concorso prevede una sola prova scritta, svolta al computer, con 33 quesiti a risposta multipla: quesiti situazionali, materie tecniche, inglese e informatica.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/fb988cc6-f2c7-4870-bba2-625d28eb1271",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b75daa58ec864407aee0e80fd66dae02",
+   "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/2-posti-di-istruttore-amministrativo-contabile-presso-il-comune-di-catanzaro/"
+   ],
+   "key": "inpa:b75daa58ec864407aee0e80fd66dae02",
+   "primaVista": "2026-11-16",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
   },
   {
    "id": "inpa:18ed045aee7a425ea9c8358776166112",
@@ -113,37 +397,6 @@
    "entiMonitorati": [
     "Regione Calabria – Bandi e avvisi"
    ],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:f42d0e869a824650904119a9d07dc64a",
-   "inpaId": "f42d0e869a824650904119a9d07dc64a",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AVVISO DI SELEZIONE PER MOBILITA’ VOLONTARIA, AI SENSI DELL’ART. 30 DEL D.LGS. N° 165 DEL 30.03.2001 E SUCCESSIVE MODIFICHE ED INTEGRAZIONI, PER L’ASSUNZIONE DI N.1 ISTRUTTORE AMMINISTRATIVO - AREA DEGLI ISTRUTTORI CCNL 2019/2021 GIA’ CAT. C A TEMPO PIENO ED INDETERMINATO",
-   "ente": "Comune di Tropea",
-   "profilo": "istruttore amministrativo",
-   "sedi": [
-    "Vibo Valentia"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-16",
-   "pubblicazione": "2026-10-17",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "Il comune di Tropea, in attuazione del vigente P.I.A.O. rende noto che è indetto AVVISO DI SELEZIONE PER MOBILITA’ VOLONTARIA, AI SENSI DELL’ART. 30 DEL D.LGS. N° 165 DEL 30.03.2001 E SUCCESSIVE MODIFICHE ED INTEGRAZIONI, PER L’ASSUNZIONE DI N.1 ISTRUTTORE AMMINISTRATIVO - AREA DEGLI ISTRUTTORI CCNL 2019/2021 GIA’ CAT. C A TEMPO PIENO ED INDETERMINATO",
-   "mansioni": "Il colloquio si svolgerà in data 23/11/2026 ore 09:00, in caso di variazione la data e l’orario del colloquio  verranno comunicati dalla Commissione Giudicatrice secondo le modalità previste al successivo art.9.",
-   "titoliStudio": " essere in possesso del titolo di studio richiesto per l’accesso dall’esterno alla categoria cui  appartiene il posto messo a selezione ossia il diploma di scuola secondaria di secondo grado  con consente l’accesso all’università\nIl titolo di studio posseduto, necessario per l’accesso dall’esterno alla categoria cui appartiene il  posto messo a selezione,",
-   "requisiti": "Alla procedura di mobilità di cui all’art. 1, possono partecipare i candidati che, alla data di scadenza  del termine utile per la presentazione delle domande di partecipazione, sono in possesso dei seguenti  requisiti:\n esperienza professionale di almeno un anno delle funzioni relative all’area e  al profilo professionale richiesto;\nLa mancanza anche di uno solo dei requisiti richiesti comporta l’esclusione dalla procedura stessa.\nI candidati dovranno, inoltre, inviare tramite la piattaforma di cui trattasi il proprio curriculum, che  dovrà contenere l’esplicita ed articolata enunciazione delle attività svolte, dell’esperienza …",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/d0778d1d-07ef-4d88-8c29-3c762d75447e",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f42d0e869a824650904119a9d07dc64a",
-   "linkEnte": "https://www.comune.tropea.vv.it/",
-   "key": "inpa:f42d0e869a824650904119a9d07dc64a",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
    "categoria": "comuni"
   },
   {
@@ -989,9 +1242,9 @@
     "ConcorsiPubblici",
     "inPA"
    ],
-   "titolo": "AVVISO PUBBLICO, PER SOLI TITOLI, PER COPERTURA A TEMPO DETERMINATO PER MESI SEI DI N. 1 POSTO DI TERAPISTA DELLA RIABILITAZIONE NELL’AMBITO DEL PROGETTO PNES – PIANO NAZIONALE EQUITA’ E SALUTE",
+   "titolo": "AVVISO PUBBLICO, PER SOLI TITOLI, PER COPERTURA A TEMPO DETERMINATO PER MESI SEI DI N. 1 POSTO DI TERAPISTA DELLA RIABILITAZIONE PSICHIATRICA NELL’AMBITO DEL PROGETTO PNES – PIANO NAZIONALE EQUITA’ E SALUTE",
    "ente": "Azienda Sanitaria Provinciale Crotone",
-   "profilo": "TERAPISTA DELLA RIABILITAZIONE",
+   "profilo": "TERAPISTA DELLA RIABILITAZIONE PSICHIATRICA",
    "sedi": [
     "Crotone"
    ],
@@ -1809,6 +2062,44 @@
    "primaVista": "2026-11-14",
    "entiMonitorati": [],
    "categoria": "comuni"
+  },
+  {
+   "id": "inpa:25de84d747884932b7c78cb867038ca9",
+   "inpaId": "25de84d747884932b7c78cb867038ca9",
+   "fonti": [
+    "Concorsando",
+    "inPA"
+   ],
+   "titolo": "CONCORSO PUBBLICO, PER ESAMI E TITOLI, PER IL RECLUTAMENTO A TEMPO INDETERMINATO E PIENO DI N. 1 UNITA’ DI PERSONALE DEL PROFILO DI ACCOMPAGNATORE AL PIANOFORTE PER IL CANTO E PER LO STRUMENTO (Area dei Funzionari - Art. 164 del CCNL Istruzione e Ricerca 2019/2021 – sezione Afam del 18/01/2024)",
+   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+   "profilo": "Accompagnatore al pianoforte per il canto e per lo strumento",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-14",
+   "pubblicazione": "2026-11-14",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il Conservatorio di Musica Stanislao Giacomantonio di Cosenza indice un concorso pubblico, per esami e titoli, per il reclutamento a tempo indeterminato e pieno di 1 accompagnatore al pianoforte per il canto e per lo strumento (Area dei Funzionari, art. 164 CCNL Istruzione e Ricerca, sezione AFAM).\nServe un diploma accademico di secondo livello, o un diploma equivalente, in discipline pianistiche (pianoforte, maestro collaboratore, clavicembalo, organo, jazz). Le prove sono una prova pratica, con esecuzione della parte pianistica di brani estratti a sorte, e la lettura a prima vista di un…",
+   "mansioni": "La figura professionale richiesta è risorsa fondamentale per il perseguimento degli obiettivi  istituzionali e opera svolgendo attività di supporto alla didattica.\noperatività nell’ambito degli indirizzi e delle indicazioni fornite dai docenti in relazione al  supporto all’attività didattica, di ricerca e/o di produzion e artistica, sulla base  dell’assegnazione effettuata dal Direttore su indicazione delle…",
+   "titoliStudio": "Serve un diploma accademico di secondo livello, o un diploma equivalente, in discipline pianistiche (pianoforte, maestro collaboratore, clavicembalo, organo, jazz).",
+   "requisiti": "I candidati devono essere in possesso dei seguenti requisiti di carattere generale, sia alla data di  scadenza prevista per la presentazione delle domande che al momento della stipula del contratto:\n1) Età non inferiore ad anni 18 e non superiore al limite previsto dalla vigente normativa per il  collocamento a riposo;\n2) Cittadinanza italiana ovvero cittadinanza di uno degli Stati membri dell’Unione Europea o  equiparati ai sensi dell’art. 38 del D. Lgs. 31.03.2001 n. 165 e dell’art. 23 del D. Lgs.\n3) Godimento dei diritti civili e politici.\n4) Idoneità fisica all’impiego;",
+   "prove": "Le prove sono una prova pratica, con esecuzione della parte pianistica di brani estratti a sorte, e la lettura a prima vista di un brano; seguono la valutazione dei titoli.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/ef5c2539-6cb9-40ae-b40b-f1e6ad71fb36",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=25de84d747884932b7c78cb867038ca9",
+   "linkEnte": "https://www.conservatoriocosenza.it/amministrazione-trasparente/concorsi/#1687428055301-1c692246-940e",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-accompagnatore-al-pianoforte-presso-il-conservatorio-stanislao-giacomantonio-di-cosenza/"
+   ],
+   "key": "inpa:25de84d747884932b7c78cb867038ca9",
+   "primaVista": "2026-11-15",
+   "entiMonitorati": [
+    "AFAM – Altri Conservatori e Accademie in Calabria",
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza"
+   ],
+   "categoria": "istruzione"
   },
   {
    "id": "inpa:d4ad940ec398418888271afc9587a4cf",
