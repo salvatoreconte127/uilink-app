@@ -1,547 +1,116 @@
 {
- "aggiornato": "2026-11-17T14:42+00:00",
+ "aggiornato": "2026-11-18T14:20+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
-   "bandi": 74
+   "bandi": 71
   },
   "ConcorsiPubblici": {
    "ok": true,
-   "bandi": 27
+   "bandi": 37
   },
   "Concorsando": {
    "ok": true,
    "bandi": 17
   }
  },
- "totale": 77,
- "nuoviOggi": 11,
+ "totale": 75,
+ "nuoviOggi": 3,
  "bandi": [
   {
-   "id": "inpa:93cc698d59df43a680b3684cfd502b81",
-   "inpaId": "93cc698d59df43a680b3684cfd502b81",
+   "id": "inpa:47212609897a485c893f3cc244102eb0",
+   "inpaId": "47212609897a485c893f3cc244102eb0",
    "fonti": [
     "inPA"
    ],
-   "titolo": "PROCEDURA COMPARATIVA PUBBLICA PER TITOLI PER L’INDIVIDUAZIONE DI ESPERTI ESTERNI DESTINATARI DI INCARICHI D’INSEGNAMENTO PER FLAUTO (CORSI NON ACCADEMICI DI FORMAZIONE DI BASE – SEDE DI CROTONE), CHITARRA CLASSICA – (CORSI NON ACCADEMICI DI FORMAZIONE DI BASE - TUTTE LE SEDI DEL CONSERVATORIO)",
-   "ente": "Conservatorio Statale di Musica P.I. Tchaikovsky",
-   "profilo": "DOCENTE",
+   "titolo": "AVVISO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FL PER ASSUNZIONE A TEMPO PIENO E IND.TO DI N 3 \"FUNZIONARIO ASSISTENTE SOCIALE\" AREA DEI FUNZIONARI E EQ",
+   "ente": "Comune di Lamezia Terme",
+   "profilo": "FUNZIONARIO ASSISTENTE SOCIALE - AREA DEI FUNZIONARI E EQ",
    "sedi": [
-    "Calabria"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-02",
-   "pubblicazione": "2026-11-17",
-   "contratto": "",
-   "descrizione": "PROCEDURA COMPARATIVA PUBBLICA PER TITOLI PER L’INDIVIDUAZIONE DI ESPERTI ESTERNI DESTINATARI DI INCARICHI D’INSEGNAMENTO PER FLAUTO (CORSI NON ACCADEMICI DI FORMAZIONE DI BASE – SEDE DI CROTONE), CHITARRA CLASSICA – (CORSI NON ACCADEMICI DI FORMAZIONE DI BASE - TUTTE LE SEDI DEL CONSERVATORIO)",
-   "mansioni": "attività specifica artistico -professionale attinente all’ambito professionale dell’insegnamento  richiesto: la documentazione artistica sarà valutata con riguardo alla rilevanza performativa, ai  programmi d’insegnamento previsti per la disciplina, al con testo e per la tipologia di Ente nel  quale l’attività dichiarata è stata svolta.",
-   "titoliStudio": "",
-   "requisiti": "Per l'ammissione al concorso è richiesto il possesso, pena l’esclusione, dei seguenti requisiti:\n età non inferiore ad anni diciotto;\n cittadinanza italiana o di uno Stato membro dell’Unione Europea;\n idoneità fisica all’impiego;\n godimento dei diritti civili e politici;",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/81fc1e9d-5781-44ca-8729-9f1f9a651b83",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=93cc698d59df43a680b3684cfd502b81",
-   "linkEnte": "",
-   "key": "inpa:93cc698d59df43a680b3684cfd502b81",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [
-    "AFAM – Conservatorio \"P.I. Tchaikovsky\" di Nocera Terinese",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
-   ],
-   "categoria": "istruzione"
-  },
-  {
-   "id": "inpa:6bb023febd8045f4862270d679a8c51d",
-   "inpaId": "6bb023febd8045f4862270d679a8c51d",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AVVISO FL_19-2026 PER IL CONFERIMENTO DI UN INCARICO ESTERNO AI SENSI DELL’ART. 7, COMMA 6 DEL D.L.vo N. 165/2001 NELL’AMBITO DEL PROGETTO \"INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO\" (OB/FU 1.08.99.80.00.A CUP J95D23000070003)",
-   "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
-   "profilo": "1 esperto",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-11",
-   "pubblicazione": "2026-11-16",
-   "contratto": "",
-   "descrizione": "Il CREA-FL nell’ambito del progetto “INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO” ha la necessità di svolgere attività di monitoraggio e attività di laboratorio oltre che di elaborazione e gestione dei dati di laboratorio e di monitoraggio con uso di software dedicati. In questo contesto intende avvalersi della collaborazione di n. 1 esperto",
-   "mansioni": "Il CREA-FL nell’ambito del progetto “INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO” ha la necessità di svolgere attività di monitoraggio e attività di laboratorio oltre che di elaborazione e gestione dei dati di laboratorio e di monitoraggio con uso di software dedicati.",
-   "titoliStudio": "Laurea magistrale in:\nLM-69 Scienze e tecnologie agrarie;\nLM-73 Scienze e tecnologie forestali ed ambientali o titoli equipollenti.",
-   "requisiti": "Requisiti richiesti a pena di esclusione\nElevata esperienza professionale comprovata da ulteriori titoli di formazione post-laurea quali  dottorato di ricerca, master professionali di I e Il livello o corsi certificati sugli argomenti  oggetto dell’incarico e/o da pubblicazioni, progetti o attività didattica in:\na) il proprio nome e cognome;  b) la data ed il luogo di nascita;  c) la propria cittadinanza;  d) la residenza (via, n. civico, comune, provincia, CAP);  e) di godere dei diritti civili e politici;  f) di non aver riportato condanne penali e di non avere procedimenti penali pendenti, ovvero le  eventuali condanne riportate, anche…",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/6e563763-47af-490b-9037-99c1d7670614",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6bb023febd8045f4862270d679a8c51d",
-   "linkEnte": "https://www.crea.gov.it  ",
-   "key": "inpa:6bb023febd8045f4862270d679a8c51d",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [],
-   "categoria": "altro"
-  },
-  {
-   "id": "inpa:800b63421c144beb8c4cebbd417af5ca",
-   "inpaId": "800b63421c144beb8c4cebbd417af5ca",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AVVISO FL_20-2026 PER IL CONFERIMENTO DI UN INCARICO ESTERNO AI SENSI DELL’ART. 7, COMMA 6 DEL D.L.vo N. 165/2001 NELL’AMBITO DEL PROGETTO \"INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO\" (OB/FU 1.08.99.80.00.A CUP J95D23000070003)",
-   "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
-   "profilo": "1 esperto",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-11",
-   "pubblicazione": "2026-11-16",
-   "contratto": "",
-   "descrizione": "Il CREA-FL nell’ambito del progetto “INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO” ha la necessità di avere un supporto per svolgere attività di monitoraggio biologico (lepidotteri notturni), di edificazione aree di saggio in bosco, rilevamento variabili dendrometriche e relative attività di elaborazione e gestione dei dati raccolti con uso di software dedicati e di attività di Geoprocessing. In questo contesto intende avvalersi della collaborazione di n. 1 esperto",
-   "mansioni": "Il CREA-FL nell’ambito del progetto “INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO” ha la necessità di avere un supporto per svolgere attività di monitoraggio biologico (lepidotteri notturni), di edificazione aree di saggio in bosco, rilevamento variabili dendrometriche e relative attività di elaborazione e gestione dei dati raccolti con uso di…",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/14307d7f-0add-4e80-a7c6-d2291c0b4999",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=800b63421c144beb8c4cebbd417af5ca",
-   "linkEnte": "https://www.crea.gov.it  ",
-   "key": "inpa:800b63421c144beb8c4cebbd417af5ca",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [],
-   "categoria": "altro"
-  },
-  {
-   "id": "inpa:0376e4aa99d44d748d7cebaf42e7f5a5",
-   "inpaId": "0376e4aa99d44d748d7cebaf42e7f5a5",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Concorsi docenza accademici",
-   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
-   "profilo": "Docenza Corsi accademici - COMA/03 Viola da gamba",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-16",
-   "pubblicazione": "2026-11-16",
-   "contratto": "",
-   "descrizione": "Concorsi accademici ad ore",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0376e4aa99d44d748d7cebaf42e7f5a5",
-   "linkEnte": "",
-   "key": "inpa:0376e4aa99d44d748d7cebaf42e7f5a5",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [
-    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
-   ],
-   "categoria": "istruzione"
-  },
-  {
-   "id": "inpa:74690c61652845d4a9abb7e0c8995188",
-   "inpaId": "74690c61652845d4a9abb7e0c8995188",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AVVISO MOBILITÀ VOLONTARIA AI SENSI DELL’ART. 30 DEL D.LGS.N.165/2001 PER N.1 UNITÀ -PROFILO OPERATORE ESPERTO SERVIZI AMMINISTRATIVO-INFORMATICI- AREA DEGLI OPERATORI ESPERTI",
-   "ente": "Comune di Reggio Calabria",
-   "profilo": "Operatore Esperto servizi amministrativo-informatici",
-   "sedi": [
-    "Reggio Calabria"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-17",
-   "pubblicazione": "2026-11-17",
-   "contratto": "mobilità",
-   "descrizione": "il Comune di Reggio Calabria intende assumere, tramite l’istituto della mobilità volontaria ai sensi dell’art.30 del D.Lgs.n.165/2001, nel profili e per le unità di seguito indicate , personale appartenente ad altra amministrazione pubblica di cui all’art. 1, comma 2, D. Lgs. N. 165/2001: \nn.1 unità - profilo operatore esperto servizi amministrativo-informatici- Area degli operatori esperti",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/51a5d1c3-578f-4cc2-ac98-196e584367f6",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=74690c61652845d4a9abb7e0c8995188",
-   "linkEnte": "https://trasparenza.reggiocal.it/it/trasparenza/bandi-di-concorso.html",
-   "key": "inpa:74690c61652845d4a9abb7e0c8995188",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [
-    "Comuni capoluogo, Province e Città Metropolitana RC"
-   ],
-   "categoria": "calabria"
-  },
-  {
-   "id": "inpa:a3be528b0b534814a27234f96a18653d",
-   "inpaId": "a3be528b0b534814a27234f96a18653d",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AVVISO MOBILITÀ VOLONTARIA AI SENSI DELL’ART. 30 DEL D.LGS.N.165/2001 PER N.2 UNITÀ -PROFILO PROFILO ISTRUTTORE AMMINISTRATIVO -AREA STRUTTORI",
-   "ente": "Comune di Reggio Calabria",
-   "profilo": "Istruttore Amministrativo",
-   "sedi": [
-    "Reggio Calabria"
-   ],
-   "nazionale": false,
-   "posti": 2,
-   "scadenza": "2026-12-17",
-   "pubblicazione": "2026-11-17",
-   "contratto": "mobilità",
-   "descrizione": "il Comune di Reggio Calabria intende assumere, tramite l’istituto della mobilità volontaria ai sensi dell’art.30 del D.Lgs.n.165/2001, nel profilo e per le unità di seguito indicate , personale appartenente ad altra amministrazione pubblica di cui all’art. 1, comma 2, D. Lgs. N. 165/2001: \n- n.2 unità profilo istruttore amministrativo -Area istruttori",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/c0ab2c5f-3b9d-4543-a295-04c9f71b5d78",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a3be528b0b534814a27234f96a18653d",
-   "linkEnte": "https://trasparenza.reggiocal.it/it/trasparenza/bandi-di-concorso.html",
-   "key": "inpa:a3be528b0b534814a27234f96a18653d",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [
-    "Comuni capoluogo, Province e Città Metropolitana RC"
-   ],
-   "categoria": "calabria"
-  },
-  {
-   "id": "inpa:ea0d7353434d4543973a7a19b2cebc94",
-   "inpaId": "ea0d7353434d4543973a7a19b2cebc94",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Bandi reclutamento a tempo indeterminato Docenti",
-   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
-   "profilo": "Docente AFAM031",
-   "sedi": [
-    "Lombardia",
-    "Cosenza",
-    "Agrigento",
-    "Catania",
-    "Sicilia",
-    "Como"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-17",
-   "pubblicazione": "2026-08-29",
-   "contratto": "tempo indeterminato",
-   "descrizione": "Bandi reclutamento a tempo indeterminato Docenti",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ea0d7353434d4543973a7a19b2cebc94",
-   "linkEnte": "",
-   "key": "inpa:ea0d7353434d4543973a7a19b2cebc94",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [
-    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
-   ],
-   "categoria": "istruzione"
-  },
-  {
-   "id": "inpa:ddce9860e789477ebd4de5e6fee2d4e0",
-   "inpaId": "ddce9860e789477ebd4de5e6fee2d4e0",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Concorso pubblico, per titoli ed esami, di 270 allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze in discipline economiche e aziendali",
-   "ente": "Ministero dell'Interno - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio Concorsi",
-   "profilo": "vice ispettore della polizia di stato con competenze economiche ed aziendali",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 270,
-   "scadenza": "2026-12-17",
-   "pubblicazione": "2026-11-17",
-   "contratto": "",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di 270 allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze in discipline economiche e aziendali, indetto con decreto del 16 novembre 2026.\nLe domande di partecipazione potranno essere presentate dalle ore 00.00 del 18 novembre 2026 alle ore 23.59 del 17 dicembre 2026, utilizzando esclusivamente la procedura informatica disponibile all’indirizzo https://concorsionline.poliziadistato.it (cliccando sull’icona “Concorso pubblico”), cui si può accedere, mediante apposito link, anche dal citato Portale unico…",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/603efc4b-c257-4d69-b393-3828ba56829f",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ddce9860e789477ebd4de5e6fee2d4e0",
-   "linkEnte": "https://www.poliziadistato.it/articolo/1896aface367c94a003837369",
-   "key": "inpa:ddce9860e789477ebd4de5e6fee2d4e0",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [
-    "Polizia di Stato"
-   ],
-   "categoria": "forze"
-  },
-  {
-   "id": "inpa:c01340a876c44b6ebda1c1b1cdea8c81",
-   "inpaId": "c01340a876c44b6ebda1c1b1cdea8c81",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Concorso pubblico, per titoli ed esami, per 200 posti di allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze pubbliche nei processi comunicativi, nell’uso dei media digitali e nella gestione delle relazioni",
-   "ente": "Ministero dell'Interno - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio Concorsi",
-   "profilo": "vice ispettore della polizia di stato con competenze nei processi comunicativi",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 200,
-   "scadenza": "2026-12-17",
-   "pubblicazione": "2026-11-17",
-   "contratto": "",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per 200 posti di allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze nei processi comunicativi, nell’uso dei media digitali e nella gestione delle relazioni pubbliche, DCP 16.11.2026\nLe domande di partecipazione potranno essere presentate dalle ore 00.00 del 18 novembre 2026 alle ore 23.59 del 17 dicembre 2026, utilizzando esclusivamente la procedura informatica disponibile all’indirizzo https://concorsionline.poliziadistato.it (cliccando sull’icona “Concorso pubblico”), cui si può accedere, mediante apposito link, anche…",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/c2af7e4f-d771-413c-91e2-31bfe658f2de",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c01340a876c44b6ebda1c1b1cdea8c81",
-   "linkEnte": "https://www.poliziadistato.it/articolo/1896afacc7454597151368839",
-   "key": "inpa:c01340a876c44b6ebda1c1b1cdea8c81",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [
-    "Polizia di Stato"
-   ],
-   "categoria": "forze"
-  },
-  {
-   "id": "inpa:321aeec94ecd40b58088c73ac8acf1d8",
-   "inpaId": "321aeec94ecd40b58088c73ac8acf1d8",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Concorso pubblico, per titoli ed esami, per 300 allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze in ambito informatico",
-   "ente": "Ministero dell'Interno - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio Concorsi",
-   "profilo": "vice ispettore della polizia di stato con competenze informatiche",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 300,
-   "scadenza": "2026-12-17",
-   "pubblicazione": "2026-11-17",
-   "contratto": "",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di 300 allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze in ambito informatico, DCP 16.11.2026.\nLe domande di partecipazione potranno essere presentate dalle ore 00.00 del 18 novembre 2026 alle ore 23.59 del 17 dicembre 2026, utilizzando esclusivamente la procedura informatica disponibile all’indirizzo https://concorsionline.poliziadistato.it (cliccando sull’icona “Concorso pubblico”), cui si può accedere, mediante apposito link, anche dal citato Portale unico del reclutamento.",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/b469aa6d-15c2-475b-a0e7-692b1341f7e6",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=321aeec94ecd40b58088c73ac8acf1d8",
-   "linkEnte": "https://www.poliziadistato.it/articolo/1896afad1605473d395055075",
-   "key": "inpa:321aeec94ecd40b58088c73ac8acf1d8",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [
-    "Polizia di Stato"
-   ],
-   "categoria": "forze"
-  },
-  {
-   "id": "inpa:f1314188550f423c9da613c5c4e7bcbe",
-   "inpaId": "f1314188550f423c9da613c5c4e7bcbe",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Concorso pubblico, per titoli ed esami, per l’assunzione di 230 allievi vice ispettori della Polizia di Stato in possesso di competenze linguistiche nelle lingue straniere indicate nel bando, indetto con DCP 16.11.2026",
-   "ente": "Ministero dell'Interno - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio Concorsi",
-   "profilo": "vice ispettore della polizia di stato con competenze linguistiche",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 230,
-   "scadenza": "2026-12-17",
-   "pubblicazione": "2026-11-17",
-   "contratto": "",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di 230 allievi vice ispettori della Polizia di Stato in possesso di competenze linguistiche nelle lingue straniere indicate nel bando, indetto con DCP 16.11.2026\nLe domande di partecipazione potranno essere presentate dalle ore 00.00 del 18 novembre 2026 alle ore 23.59 del 17 dicembre 2026, utilizzando esclusivamente la procedura informatica disponibile all’indirizzo https://concorsionline.poliziadistato.it (cliccando sull’icona “Concorso pubblico”), cui si può accedere, mediante apposito link, anche dal citato Portale unico del…",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/9af1bb5d-28f3-4247-84aa-5bc9703a21d9",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f1314188550f423c9da613c5c4e7bcbe",
-   "linkEnte": "https://www.poliziadistato.it/articolo/1896afacf2c0f450549257817",
-   "key": "inpa:f1314188550f423c9da613c5c4e7bcbe",
-   "primaVista": "2026-11-17",
-   "entiMonitorati": [
-    "Polizia di Stato"
-   ],
-   "categoria": "forze"
-  },
-  {
-   "id": "inpa:6bd1a6bb3a314e1eab9b67887ffa45df",
-   "inpaId": "6bd1a6bb3a314e1eab9b67887ffa45df",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AVVISO DI SELEZIONE INTERNA PER PROGRESSIONE TRA AREE “IN DEROGA” DEL PERSONALE DIPENDENTE A TEMPO INDETERMINATO PER LA COPERTURA DI N. 3 POSTI DI OPERATORE ESPERTO – AREA MANUTENZIONE",
-   "ente": "Comune di Praia a Mare",
-   "profilo": "Operatore Esperto",
-   "sedi": [
-    "Cosenza"
+    "Catanzaro"
    ],
    "nazionale": false,
    "posti": 3,
-   "scadenza": "2026-11-17",
-   "pubblicazione": "2026-11-02",
-   "contratto": "tempo indeterminato",
-   "descrizione": "AVVISO DI SELEZIONE INTERNA PER PROGRESSIONE TRA AREE “IN DEROGA” DEL PERSONALE DIPENDENTE A TEMPO INDETERMINATO PER LA COPERTURA DI N. 3 POSTI DI OPERATORE ESPERTO – AREA MANUTENZIONE",
-   "mansioni": "Le attività di compilazione e di invio telematico della domanda saranno disponibili a decorrere dalla  data di pubblicazione del presente avviso sul Portale “InPA” e dovranno essere completate entro le  ore 23:59 del 17/11/2026.",
-   "titoliStudio": "Operatori (ex cat. A), tenendo conto anche del periodo maturato nell’ente di provenienza nel  caso in cui l’assunzione sia avvenuta tramite mobilità tra enti;  c) titolo di studio, così come previsto dalla tabella C allegata al CCNL 16/11/2022, denominata\nLa mancanza o l’assoluta indeterminatezza del titolo di studio richiesto, la mancanza dei requisiti di  servizio di cui al punto 1 del presente avviso o la…",
-   "requisiti": "REQUISITI PER L’AMMISSIONE\nPer l’ammissione alla selezione è richiesto il possesso dei seguenti requisiti:  a) essere assunti a tempo indeterminato e in servizio presso il Comune di Praia a Mare (CS) al  momento della scadenza del termine per la presentazione della domanda; sono inclusi i  dipendenti comandati o distaccati presso altri enti nel corso dell ’intero periodo o in parte di  esso;  b) essere inquadrati per l’intero periodo nell’area immediatamente inferiore, ovvero l’Area degli\nTutti i requisiti sopraindicati devono essere posseduti alla data di scadenza del termine utile per la  presentazione delle domande di ammissione alla…",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/2edaa876-fbf8-4757-93a7-2936aefd1cf0",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6bd1a6bb3a314e1eab9b67887ffa45df",
-   "linkEnte": "",
-   "key": "inpa:6bd1a6bb3a314e1eab9b67887ffa45df",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:8182f1d0c0734fc59e5b19ce319db7c8",
-   "inpaId": "8182f1d0c0734fc59e5b19ce319db7c8",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "SELEZIONE RISERVATA PER LA PROGRESSIONE TRA LE AREE “IN DEROGA” DEL PERSONALE DIPENDENTE A TEMPO INDETERMINATO FINALIZZATA ALLA COPERTURA DI N. 2 POSTI NELL’AREA DI INQUADRAMENTO PROFESSIONALE DI ISTRUTTORE – AREA POLIZIA LOCALE",
-   "ente": "Comune di Praia a Mare",
-   "profilo": "istruttore area polizia municipale",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 2,
-   "scadenza": "2026-11-17",
-   "pubblicazione": "2026-11-02",
-   "contratto": "tempo indeterminato",
-   "descrizione": "SELEZIONE RISERVATA PER LA PROGRESSIONE TRA LE AREE “IN DEROGA” DEL PERSONALE DIPENDENTE A TEMPO INDETERMINATO FINALIZZATA ALLA COPERTURA DI N. 2 POSTI NELL’AREA DI INQUADRAMENTO PROFESSIONALE DI ISTRUTTORE – AREA POLIZIA LOCALE.",
-   "mansioni": "Le attività di compilazione e di invio telematico della domanda saranno disponibili a decorrere dalla  data di pubblicazione del presente avviso sul Portale “InPA” e dovranno essere completate entro le  ore 23:59 del 17/11/2026.\nAttribuzione formale di mansioni superiori:\n2 punti per ogni semestre di svolgimento  delle mansioni superiori per un massimo di",
-   "titoliStudio": "Operatori esperti (ex cat. B), tenendo conto anche del periodo maturato nell ’ente di  provenienza nel caso in cui l’assunzione sia avvenuta tramite mobilità tra enti;  c) titolo di studio, così come previsto dalla tabella C) allegata al CCNL 16/11/2022, denominata\ndiploma di scuola secondaria di secondo grado o titolo equipollente, secondo quanto  stabilito, in materia, da norme di legge o di regolamento e almeno…",
-   "requisiti": "REQUISITI PER L’AMMISSIONE\nPer l’ammissione alla selezione è richiesto il possesso dei seguenti requisiti:  a) essere assunti a tempo indeterminato e in servizio presso il Comune di Praia a Mare (CS) al  momento della scadenza del termine per la presentazione della domanda; sono inclusi i  dipendenti comandati o distaccati presso altri enti nel corso dell ’intero periodo o in parte di  esso;  b) essere inquadrati per l’intero periodo nell’area immediatamente inferiore, ovvero l’Area degli\ndiploma di scuola secondaria di secondo grado o titolo equipollente, secondo quanto  stabilito, in materia, da norme di legge o di regolamento e almeno 5…",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/377f0314-ad6f-4eb6-9acf-a5dd3e078b02",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8182f1d0c0734fc59e5b19ce319db7c8",
-   "linkEnte": "",
-   "key": "inpa:8182f1d0c0734fc59e5b19ce319db7c8",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:686a95d55c7742479ba3a36fee4980a1",
-   "inpaId": "686a95d55c7742479ba3a36fee4980a1",
-   "fonti": [
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "AVVISO PUBBLICO DI SELEZIONE COMPARATIVA EX ART. 110, COMMA 1, DEL T.U.E.L., PER IL CONFERIMENTO DI UN INCARICO A TEMPO DETERMINATO – 50% (18 ORE SETTIMANALI) - DI RESPONSABILE DEL SETTORE GOVERNO DEL TERRITORIO (FUNZIONARIO DI ELEVATA QUALIFICAZIONE – EX CAT. D)",
-   "ente": "Comune di Parenti",
-   "profilo": "RESPONSABILE DEL SETTORE GOVERNO DEL TERRITORIO (FUNZIONARIO DI ELEVATA QUALIFICAZIONE",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-17",
-   "pubblicazione": "2026-11-02",
-   "contratto": "tempo determinato",
-   "descrizione": "Avviso pubblico di selezione comparativa ex art. 110, comma 1, del t.U.E.L., per il conferimento di un incarico a tempo determinato – 50% (18 ore settimanali) – di responsabile del settore governo del territorio (funzionario di elevata qualificazione – ex cat. D)",
-   "mansioni": " capacità di gestione delle risorse umane: definizione dei ruoli, compiti e obiettivi del personale  assegnato oltre che capacità motivazionale dello stesso;\nNell’espletamento delle attività di controllo effettua sopralluoghi di cantieri, fabbriche ed aree  pubbliche.",
-   "titoliStudio": "1) Essere in possesso di uno dei seguenti diplomi di laurea (DL) dell’ordinamento anteriore alla riforma di cui al D.M. n.509/1999, ovvero delle corrispondenti lauree specialistiche (LS) o Magistrali (LM) di cui agli ordinamenti D.M. n.509/1999 e D.M. n.270/2004 e titoli equipollenti, nonché la relativa abilitazione all’esercizio della professione:\nA. Laurea Specialistica (LS) o Laurea Magistrale (LM)…",
-   "requisiti": "1) Essere in possesso di uno dei seguenti diplomi di laurea (DL) dell’ordinamento anteriore alla riforma di cui al D.M. n.509/1999, ovvero delle corrispondenti lauree specialistiche (LS) o Magistrali (LM) di cui agli ordinamenti D.M. n.509/1999 e D.M. n.270/2004 e titoli equipollenti, nonché la relativa abilitazione all’esercizio della professione:\nA. Laurea Specialistica (LS) o Laurea Magistrale (LM) appartenente a una delle seguenti classi del nuovo ordinamento universitario (D.M. 509/99 o D.M. 270/04):\nclasse 3/S Architettura del paesaggio;\nclasse 4/S – “Architettura e ingegneria…",
-   "prove": "Il colloquio orale sarà finalizzato ad accertare il grado di conoscenza e competenza manageriale del candidato, in relazione a quelle richieste per lo svolgimento delle mansioni proprie del profilo professionale ricercato, e in particolare, in tale occasione procederà alla valutazione complessiva…",
+   "scadenza": "2026-12-02",
+   "pubblicazione": "2026-11-17",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "AVVISO PUBBLICO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI FINALIZZATO ALL'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 3 \"FUNZIONARIO ASSISTENTE SOCIALE\" – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE PRESSO IL COMUNE DI LAMEZIA TERME",
+   "mansioni": "",
+   "titoliStudio": "· in possesso di titolo di studio specifico previsto per l'assunzione con il ruolo di Funzionario Assistente Sociale ;\n· il titolo di studio posseduto, (con indicazione dell’anno accademico di conseguimento e dell’Ateneo che lo ha rilasciato con relativa sede);",
+   "requisiti": "La procedura di cui al presente avviso è riservata a coloro che sono: \n· interessati all’assunzione a tempo pieno e indeterminato presso il Comune di Lamezia Terme, con la qualifica di Funzionario Assistente Sociale – Area dei Funzionari e dell'Elevata Qualificazione; \n· collocati utilmente in graduatorie in corso di validità, approvate da Enti del Comparto Funzioni Locali, in seguito all’espletamento di concorsi pubblici per la copertura di posti a tempo indeterminato, pieno o parziale, per l'Area e profilo professionale corrispondenti a quelli che questo Ente deve ricoprire (Funzionario…",
+   "prove": "Per titoli e esami",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Avviso%20%281%29.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=686a95d55c7742479ba3a36fee4980a1",
-   "linkEnte": "",
-   "altriLink": [
-    "https://www.concorsipubblici.com/comune-di-parenti-concorso-funzionario-tecnico-cosenza-2026"
-   ],
-   "key": "inpa:686a95d55c7742479ba3a36fee4980a1",
-   "primaVista": "2026-11-13",
+   "linkBando": "https://portale.inpa.gov.it/api/media/0af84d91-fa04-44d7-8fe9-0d39d1891878",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=47212609897a485c893f3cc244102eb0",
+   "linkEnte": "https://www.comune.lamezia-terme.cz.it/it",
+   "key": "inpa:47212609897a485c893f3cc244102eb0",
+   "primaVista": "2026-11-18",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
   {
-   "id": "inpa:e5c5cb95bd5c4f23a85d973150576fde",
-   "inpaId": "e5c5cb95bd5c4f23a85d973150576fde",
+   "id": "inpa:3fa1620abafa408cb8c559519f37be90",
+   "inpaId": "3fa1620abafa408cb8c559519f37be90",
    "fonti": [
     "inPA"
    ],
-   "titolo": "AVVISO DI MOBILITA' OBBLIGATORIA EX ART. 34/BIS DEL D.LGS N.165/2001 PER RECLUTAMENTO DI PERSONALE IN DISPONIBILITA’ PRESSO P.A. APPARTENTI AL COMPARTO FUNZIONI LOCALI. AGENTE POLIZIA MUNICIPALE TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTRUTTORI (EX CAT. C)",
-   "ente": "Comune di Cropani",
-   "profilo": "AGENTE POLIZIA MUNICIPALE TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTRUTTORI (EX CAT. C)",
+   "titolo": "AVVISO PUBBLICO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI FINALIZZATO ALL'ASSUNZIONE A TEMPO PARZIALE E INDETERMINATO (18 ORE SETT.li) DI N. 1 \"FUNZIONARIO COORDINATORE PEDAGOGICO\" AREA DEI FUNZIONARI E EQ",
+   "ente": "Comune di Lamezia Terme",
+   "profilo": "FUNZIONARIO COORDINATORE PEDAGOGICO",
    "sedi": [
     "Catanzaro"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-11-17",
-   "pubblicazione": "2026-10-28",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "AVVISO DI MOBILITA' OBBLIGATORIA EX ART. 34/BIS DEL D.LGS N.165/2001 PER RECLUTAMENTO DI PERSONALE IN DISPONIBILITA’ PRESSO P.A. APPARTENTI AL COMPARTO FUNZIONI LOCALI. AGENTE POLIZIA MUNICIPALE TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTRUTTORI (EX CAT. C)",
-   "mansioni": "Appartengono alla categoria ricercata i lavoratori che svolgono attività, come da  declaratoria delle categorie del CCNL del 31.3.1999, confermata dai successivi CCNL\nAvviso svolgerà le mansioni attinenti al proﬁlo professionale nell'ambito delle Aree, dei  settori e servizi di destinazione.\nLa selezione si svolgerà attraverso una veriﬁca delle domande pervenute che dovranno  contenere:",
-   "titoliStudio": "che possono partecipare a detta procedura solo ed esclusivamente il personale in  disponibilità della P.A. Comparto Funzioni Locali, a tempo indeterminato, in disponibilità  inferiore o pari a 24 mesi, che non siano stati destinatari di sanzioni disciplinari nell’ultimo  biennio, assunti a seguito di concorso pubblico e con inquadramento, titolo di studio e  qualiﬁca funzionale, come di seguito riportato:\nCategoria…",
-   "requisiti": "che il dipendente dovrà essere in disponibilità da non più di 24 mesi e non aver riportato  sanzioni disciplinari nel biennio precedente oltre che essere inquadrato nel livello indicato  e nel regime orario richiesto da questo Comune.\nche i l personale, in possesso dei requisiti richiesti ed interessato all’avviso, dovrà  presentare apposita domanda ai sensi della presente procedura.\nREQUISITI DI AMMISSIONE\nI requisiti richiesti per partecipare alla selezione, da possedere alla data di presentazione  della domanda, sono:\ndi non aver riportato condanne penali passate in giudicato;",
-   "prove": "Per titoli e colloquio",
+   "scadenza": "2026-12-02",
+   "pubblicazione": "2026-11-17",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "AVVISO PUBBLICO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI FINALIZZATO ALL'ASSUNZIONE A TEMPO PARZIALE E INDETERMINATO (18 ORE SETTIMANALI) DI N. 1 \"FUNZIONARIO COORDINATORE PEDAGOGICO\" – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE PRESSO IL COMUNE DI LAMEZIA TERME.",
+   "mansioni": "",
+   "titoliStudio": "· in possesso di titolo di studio specifico previsto per l'assunzione con il ruolo di Funzionario Amministrativo-contabile ;\n· il titolo di studio posseduto, (con indicazione dell’anno accademico di conseguimento e dell’Ateneo che lo ha rilasciato con relativa sede);",
+   "requisiti": "La procedura di cui al presente avviso è riservata a coloro che sono: \n· interessati all’assunzione a tempo parziale e indeterminato presso il Comune di Lamezia Terme, con la qualifica di Funzionario Coordinatore Pedagogico – Area dei Funzionari e dell'Elevata Qualificazione; \n· collocati utilmente in graduatorie in corso di validità, approvate da Enti del Comparto Funzioni Locali, in seguito all’espletamento di concorsi pubblici per la copertura di posti a tempo indeterminato, pieno o parziale, per l'Area e profilo professionale corrispondenti a quelli che questo Ente deve ricoprire…",
+   "prove": "Per titoli e esami",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/6d884163-f80f-435c-bfd7-8d15b03bb304",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e5c5cb95bd5c4f23a85d973150576fde",
-   "linkEnte": "",
-   "key": "inpa:e5c5cb95bd5c4f23a85d973150576fde",
-   "primaVista": "2026-11-13",
+   "linkBando": "https://portale.inpa.gov.it/api/media/fb43f275-5352-4c05-aaa0-e6f85e7a6213",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3fa1620abafa408cb8c559519f37be90",
+   "linkEnte": "https://www.comune.lamezia-terme.cz.it/it",
+   "key": "inpa:3fa1620abafa408cb8c559519f37be90",
+   "primaVista": "2026-11-18",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
   {
-   "id": "inpa:83d44ca933e04ac5a18581f69083158a",
-   "inpaId": "83d44ca933e04ac5a18581f69083158a",
+   "id": "cp:conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-docente-cosenza-2026-2",
    "fonti": [
-    "inPA"
+    "ConcorsiPubblici"
    ],
-   "titolo": "Manifestazione di interesse per idonei in graduatorie di concorsi pubblici espletati da altri Enti locali, per la copertura a tempo indeterminato e parziale (12 ore settimanali) di n. 1 posto Area degli Istruttori profilo di Istruttore amministrativo contabile, da destinare all’Area Economico…",
-   "ente": "Comune di Rombiolo",
-   "profilo": "Istruttore amministrativo contabile",
+   "titolo": "Conservatorio di Musica ‘Stanislao Giacomantonio’ di Cosenza, 13 docenti",
+   "ente": "Conservatorio di musica «Stanislao Giacomantonio» di Cosenza",
+   "profilo": "docente",
    "sedi": [
-    "Vibo Valentia"
+    "Cosenza"
    ],
    "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-18",
-   "pubblicazione": "2026-10-19",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "Manifestazione interesse per idonei in graduatorie- Profilo istruttore amministartivo contabile.",
+   "posti": null,
+   "scadenza": "2026-12-16",
+   "pubblicazione": "",
+   "descrizione": "Concorsi docenza accademici",
+   "link": "https://www.concorsipubblici.com/conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-docente-cosenza-2026-2",
+   "inpaId": null,
+   "contratto": "tempo determinato",
    "mansioni": "",
-   "titoliStudio": "",
+   "titoliStudio": "Diploma di conservatorio",
    "requisiti": "",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/8421a85e-4dcf-45d6-9f85-e1376d50e9cd",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=83d44ca933e04ac5a18581f69083158a",
-   "linkEnte": "https://portale1.halleysud.it/rombiolo/mc/mc_p_ricerca.php",
-   "key": "inpa:83d44ca933e04ac5a18581f69083158a",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
+   "prove": "",
+   "candidatura": "",
+   "linkBando": "",
+   "key": "t:conservatorio di musica stanislao giacom|2026-12-16|",
+   "primaVista": "2026-11-18",
+   "entiMonitorati": [
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
   },
   {
    "id": "cd:881",
@@ -1601,33 +1170,37 @@
    "id": "inpa:9d258876e09e4746a8d7150aec62e5d0",
    "inpaId": "9d258876e09e4746a8d7150aec62e5d0",
    "fonti": [
+    "ConcorsiPubblici",
     "inPA"
    ],
    "titolo": "PROCEDURA COMPARATIVA PUBBLICA PER TITOLI PER L’INDIVIDUAZIONE DI ESPERTI ESTERNI DESTINATARI DI INCARICHI D’INSEGNAMENTO DI PROPEDEUTICA MUSICALE UTILE PER L’APPROCCIO STRUMENTALE SECONDO LE METODOLOGIE PIU’ ADEGUATE PER L’EDUCAZIONE MUSICALE DEI BIMBI",
    "ente": "Conservatorio Statale di Musica P.I. Tchaikovsky",
    "profilo": "DOCENTE",
    "sedi": [
-    "Calabria"
+    "Catanzaro"
    ],
    "nazionale": false,
    "posti": 1,
    "scadenza": "2026-12-01",
    "pubblicazione": "2026-11-16",
-   "contratto": "",
+   "contratto": "tempo determinato",
    "descrizione": "PROCEDURA COMPARATIVA PUBBLICA PER TITOLI PER L’INDIVIDUAZIONE DI ESPERTI ESTERNI DESTINATARI DI INCARICHI D’INSEGNAMENTO DI PROPEDEUTICA MUSICALE UTILE PER L’APPROCCIO STRUMENTALE SECONDO LE METODOLOGIE PIU’ ADEGUATE PER L’EDUCAZIONE MUSICALE DEI BIMBI",
    "mansioni": "attività specifica artistico -professionale attinente all’ambito professionale dell’insegnamento  richiesto: la documentazione artistica sarà valutata con riguardo alla rilevanza performativa, ai  programmi d’insegnamento previsti per la disciplina, al con testo e per la tipologia di Ente nel  quale l’attività dichiarata è stata svolta.",
-   "titoliStudio": "6) diploma di Conservatorio (o Istituto Musicale Pareggiato) ovvero Diploma Accademico di 2°  livello per l'insegnamento cui si riferisce l’incarico;\n7) diploma di abilitazione rilasciato della “European Suzuki Association” – ESA (almeno I° livello);\n Copia del Diploma di abilitazione all’insegnamento (almeno per il Primo Livello) secondo il metodo",
-   "requisiti": "In particolare, per l’ammissione alla selezione è richiesto il possesso dei seguenti requisiti:\n1) cittadinanza italiana o straniera;\n2) età non inferiore agli anni 18;\n3) idoneità fisica all’impiego;\n4) godimento dei diritti civili e politici.",
-   "prove": "Per titoli",
+   "titoliStudio": "6) diploma di Conservatorio (o Istituto Musicale Pareggiato) ovvero Diploma Accademico di 2° livello per l'insegnamento cui si riferisce l’incarico;\n7) diploma di abilitazione rilasciato della “European Suzuki Association” – ESA (almeno I° livello);\nDiploma di conservatorio",
+   "requisiti": "Possono presentare domanda studiosi o esperti esterni, italiani e stranieri di specifica qualificazione, comprovata dal possesso di titoli artistici/professionali e didattici attinenti alla disciplina oggetto dell’insegnamento cui è destinato il contratto.\nIn particolare, per l’ammissione alla selezione è richiesto il possesso dei seguenti requisiti:\n1) cittadinanza italiana o straniera;\n2) età non inferiore agli anni 18;\n3) idoneità fisica all’impiego;\n4) godimento dei diritti civili e politici. I candidati stranieri devono godere dei diritti civili e politici anche negli Stati di…",
+   "prove": "Per titoli.",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/70dedc42-6dbb-445e-8ac2-e4f22b0f65f6",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/PROC_COMP_NUOVO_signed_prot.pdf",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9d258876e09e4746a8d7150aec62e5d0",
    "linkEnte": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/conservatorio-statale-di-musica-pi-tchaikovsky-concorso-docente-catanzaro-2026-13"
+   ],
    "key": "inpa:9d258876e09e4746a8d7150aec62e5d0",
    "primaVista": "2026-11-16",
    "entiMonitorati": [
-    "AFAM – Conservatorio \"P.I. Tchaikovsky\" di Nocera Terinese",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
+    "AFAM – Altri Conservatori e Accademie in Calabria",
+    "AFAM – Conservatorio \"P.I. Tchaikovsky\" di Nocera Terinese"
    ],
    "categoria": "istruzione"
   },
@@ -1725,6 +1298,44 @@
     "Esercito Italiano"
    ],
    "categoria": "forze"
+  },
+  {
+   "id": "inpa:93cc698d59df43a680b3684cfd502b81",
+   "inpaId": "93cc698d59df43a680b3684cfd502b81",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "PROCEDURA COMPARATIVA PUBBLICA PER TITOLI PER L’INDIVIDUAZIONE DI ESPERTI ESTERNI DESTINATARI DI INCARICHI D’INSEGNAMENTO PER FLAUTO (CORSI NON ACCADEMICI DI FORMAZIONE DI BASE – SEDE DI CROTONE), CHITARRA CLASSICA – (CORSI NON ACCADEMICI DI FORMAZIONE DI BASE - TUTTE LE SEDI DEL CONSERVATORIO)",
+   "ente": "Conservatorio Statale di Musica P.I. Tchaikovsky",
+   "profilo": "DOCENTE",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-02",
+   "pubblicazione": "2026-11-17",
+   "contratto": "tempo determinato",
+   "descrizione": "PROCEDURA COMPARATIVA PUBBLICA PER TITOLI PER L’INDIVIDUAZIONE DI ESPERTI ESTERNI DESTINATARI DI INCARICHI D’INSEGNAMENTO PER FLAUTO (CORSI NON ACCADEMICI DI FORMAZIONE DI BASE – SEDE DI CROTONE), CHITARRA CLASSICA – (CORSI NON ACCADEMICI DI FORMAZIONE DI BASE - TUTTE LE SEDI DEL CONSERVATORIO)",
+   "mansioni": "attività specifica artistico -professionale attinente all’ambito professionale dell’insegnamento  richiesto: la documentazione artistica sarà valutata con riguardo alla rilevanza performativa, ai  programmi d’insegnamento previsti per la disciplina, al con testo e per la tipologia di Ente nel  quale l’attività dichiarata è stata svolta.",
+   "titoliStudio": "Diploma di conservatorio",
+   "requisiti": "Possono presentare domanda di partecipazione alla procedura coloro i quali siano in possesso di un adeguato curriculum professionale attinente all’insegnamento per il quale si concorre. \nPer l'ammissione al concorso è richiesto il possesso, pena l’esclusione, dei seguenti requisiti:\n età non inferiore ad anni diciotto;\n cittadinanza italiana o di uno Stato membro dell’Unione Europea;\n idoneità fisica all’impiego;\n godimento dei diritti civili e politici;\n assenza di situazioni di incompatibilità previste dalla normativa vigente;\n non essere stato destituito o dispensato dall’impiego…",
+   "prove": "Per titoli.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/PROC_COMP_26_27_Non%20Accademici_signed_prot.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=93cc698d59df43a680b3684cfd502b81",
+   "linkEnte": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/conservatorio-statale-di-musica-pi-tchaikovsky-concorso-docente-catanzaro-2026-12"
+   ],
+   "key": "inpa:93cc698d59df43a680b3684cfd502b81",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [
+    "AFAM – Altri Conservatori e Accademie in Calabria",
+    "AFAM – Conservatorio \"P.I. Tchaikovsky\" di Nocera Terinese"
+   ],
+   "categoria": "istruzione"
   },
   {
    "id": "inpa:b9ebbd89966b4957a08d8af1cd5ed8b3",
@@ -2076,6 +1687,76 @@
    "categoria": "istruzione"
   },
   {
+   "id": "inpa:6bb023febd8045f4862270d679a8c51d",
+   "inpaId": "6bb023febd8045f4862270d679a8c51d",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AVVISO FL_19-2026 PER IL CONFERIMENTO DI UN INCARICO ESTERNO AI SENSI DELL’ART. 7, COMMA 6 DEL D.L.vo N. 165/2001 NELL’AMBITO DEL PROGETTO \"INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO\" (OB/FU 1.08.99.80.00.A CUP J95D23000070003)",
+   "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
+   "profilo": "collaboratore",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-11",
+   "pubblicazione": "2026-11-16",
+   "contratto": "tempo determinato",
+   "descrizione": "Il CREA-FL nell’ambito del progetto “INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO” ha la necessità di svolgere attività di monitoraggio e attività di laboratorio oltre che di elaborazione e gestione dei dati di laboratorio e di monitoraggio con uso di software dedicati. In questo contesto intende avvalersi della collaborazione di n. 1 esperto",
+   "mansioni": "Il CREA-FL nell’ambito del progetto “INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO” ha la necessità di svolgere attività di monitoraggio e attività di laboratorio oltre che di elaborazione e gestione dei dati di laboratorio e di monitoraggio con uso di software dedicati.",
+   "titoliStudio": "Laurea magistrale in:\nLM-69 Scienze e tecnologie agrarie;\nLM-73 Scienze e tecnologie forestali ed ambientali o titoli equipollenti.\nScienze Biologiche \nScienze tecnologie agrarie",
+   "requisiti": "Requisiti richiesti a pena di esclusione\n• Laurea magistrale in:\n- LM-6 Biologia;\n- LM-69 Scienze e tecnologie agrarie;\n- LM-73 Scienze e tecnologie forestali ed ambientali o titoli equipollenti.\n• Elevata esperienza professionale comprovata da ulteriori titoli di formazione post-laurea quali dottorato di ricerca, master professionali di I e Il livello o corsi certificati sugli argomenti oggetto dell’incarico e/o da pubblicazioni, progetti o attività didattica in:\n- progettazione e realizzazione di indagini relativamente alla caratterizzazione genetica di specie agrarie e forestali con…",
+   "prove": "Per titoli.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/2_Avviso_esterno_WP5.6_MUZZALUPO_FL_19-2026_v1..pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6bb023febd8045f4862270d679a8c51d",
+   "linkEnte": "https://www.crea.gov.it  ",
+   "altriLink": [
+    "https://www.concorsipubblici.com/consiglio-la-ricerca-agricoltura-e-lanalisi-delleconomia-agraria-concorso-collaboratore-cosenza-0"
+   ],
+   "key": "inpa:6bb023febd8045f4862270d679a8c51d",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [],
+   "categoria": "altro"
+  },
+  {
+   "id": "inpa:800b63421c144beb8c4cebbd417af5ca",
+   "inpaId": "800b63421c144beb8c4cebbd417af5ca",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AVVISO FL_20-2026 PER IL CONFERIMENTO DI UN INCARICO ESTERNO AI SENSI DELL’ART. 7, COMMA 6 DEL D.L.vo N. 165/2001 NELL’AMBITO DEL PROGETTO \"INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO\" (OB/FU 1.08.99.80.00.A CUP J95D23000070003)",
+   "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
+   "profilo": "collaboratore",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-11",
+   "pubblicazione": "2026-11-16",
+   "contratto": "tempo determinato",
+   "descrizione": "Il CREA-FL nell’ambito del progetto “INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO” ha la necessità di avere un supporto per svolgere attività di monitoraggio biologico (lepidotteri notturni), di edificazione aree di saggio in bosco, rilevamento variabili dendrometriche e relative attività di elaborazione e gestione dei dati raccolti con uso di software dedicati e di attività di Geoprocessing. In questo contesto intende avvalersi della collaborazione di n. 1 esperto",
+   "mansioni": "Il CREA-FL nell’ambito del progetto “INNOVATIVE TECNOLOGIE PER LO SVILUPPO AVANZATO DELLA FILIERA FORESTA LEGNO NEL SUD ITALIA - IN.TE.SA.FOR.LEGNO” ha la necessità di avere un supporto per svolgere attività di monitoraggio biologico (lepidotteri notturni), di edificazione aree di saggio in bosco, rilevamento variabili dendrometriche e relative attività di elaborazione e gestione dei dati raccolti con uso di…",
+   "titoliStudio": "Laurea magistrale in:\nLM-69 Scienze e tecnologie agrarie;\nLM-73 Scienze e tecnologie forestali ed ambientali o titoli equipollenti.\nBiologia molecolare \nScienze tecnologie agrarie",
+   "requisiti": "Requisiti richiesti a pena di esclusione\n• Laurea magistrale in:\n- LM-6 Biologia;\n- LM-69 Scienze e tecnologie agrarie;\n- LM-73 Scienze e tecnologie forestali ed ambientali o titoli equipollenti.\n• Elevata esperienza professionale comprovata da ulteriori titoli di formazione post-laurea quali dottorato di ricerca, master professionali di I e Il livello o corsi certificati sugli argomenti oggetto dell’incarico e/o da pubblicazioni, progetti o attività didattica\n• Expertises nell’uso di software statistici (R, SPSS, Jamovi, ecc) e del GIS",
+   "prove": "Per titoli.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/2_Avviso_esterno_WP1.2.3.4_TURCO_FL_20-2026_v1_.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=800b63421c144beb8c4cebbd417af5ca",
+   "linkEnte": "https://www.crea.gov.it  ",
+   "altriLink": [
+    "https://www.concorsipubblici.com/consiglio-la-ricerca-agricoltura-e-lanalisi-delleconomia-agraria-concorso-collaboratore-cosenza"
+   ],
+   "key": "inpa:800b63421c144beb8c4cebbd417af5ca",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [],
+   "categoria": "altro"
+  },
+  {
    "id": "inpa:17c807671b614eef888d207ea4e5c46a",
    "inpaId": "17c807671b614eef888d207ea4e5c46a",
    "fonti": [
@@ -2149,6 +1830,7 @@
    "inpaId": "25de84d747884932b7c78cb867038ca9",
    "fonti": [
     "Concorsando",
+    "ConcorsiPubblici",
     "inPA"
    ],
    "titolo": "CONCORSO PUBBLICO, PER ESAMI E TITOLI, PER IL RECLUTAMENTO A TEMPO INDETERMINATO E PIENO DI N. 1 UNITA’ DI PERSONALE DEL PROFILO DI ACCOMPAGNATORE AL PIANOFORTE PER IL CANTO E PER LO STRUMENTO (Area dei Funzionari - Art. 164 del CCNL Istruzione e Ricerca 2019/2021 – sezione Afam del 18/01/2024)",
@@ -2164,14 +1846,15 @@
    "contratto": "tempo indeterminato, tempo pieno",
    "descrizione": "Il Conservatorio di Musica Stanislao Giacomantonio di Cosenza indice un concorso pubblico, per esami e titoli, per il reclutamento a tempo indeterminato e pieno di 1 accompagnatore al pianoforte per il canto e per lo strumento (Area dei Funzionari, art. 164 CCNL Istruzione e Ricerca, sezione AFAM).\nServe un diploma accademico di secondo livello, o un diploma equivalente, in discipline pianistiche (pianoforte, maestro collaboratore, clavicembalo, organo, jazz). Le prove sono una prova pratica, con esecuzione della parte pianistica di brani estratti a sorte, e la lettura a prima vista di un…",
    "mansioni": "La figura professionale richiesta è risorsa fondamentale per il perseguimento degli obiettivi  istituzionali e opera svolgendo attività di supporto alla didattica.\noperatività nell’ambito degli indirizzi e delle indicazioni fornite dai docenti in relazione al  supporto all’attività didattica, di ricerca e/o di produzion e artistica, sulla base  dell’assegnazione effettuata dal Direttore su indicazione delle…",
-   "titoliStudio": "Serve un diploma accademico di secondo livello, o un diploma equivalente, in discipline pianistiche (pianoforte, maestro collaboratore, clavicembalo, organo, jazz).",
-   "requisiti": "I candidati devono essere in possesso dei seguenti requisiti di carattere generale, sia alla data di  scadenza prevista per la presentazione delle domande che al momento della stipula del contratto:\n1) Età non inferiore ad anni 18 e non superiore al limite previsto dalla vigente normativa per il  collocamento a riposo;\n2) Cittadinanza italiana ovvero cittadinanza di uno degli Stati membri dell’Unione Europea o  equiparati ai sensi dell’art. 38 del D. Lgs. 31.03.2001 n. 165 e dell’art. 23 del D. Lgs.\n3) Godimento dei diritti civili e politici.\n4) Idoneità fisica all’impiego;",
-   "prove": "Le prove sono una prova pratica, con esecuzione della parte pianistica di brani estratti a sorte, e la lettura a prima vista di un brano; seguono la valutazione dei titoli.",
+   "titoliStudio": "Diploma accademico di secondo livello in Clavicembalo e tastiere storiche DM 14/18\nDiploma di II livello in Discipline musicali: indirizzo interpretativo-compositivo (Clavicembalo) DM 1/04\nDiploma accademico di secondo livello in Pianoforte storico (Fortepiano) DM 14/18\nDiploma di conservatorio",
+   "requisiti": "Per la partecipazione alla selezione è richiesto, come requisito specifico, pena l’esclusione, il possesso di almeno uno dei seguenti titoli:\nDiploma accademico di secondo livello in Clavicembalo e tastiere storiche DM 14/18\nDiploma di II livello in Discipline musicali: indirizzo interpretativo-compositivo (Clavicembalo) DM 1/04\nDiploma accademico di secondo livello in Pianoforte storico (Fortepiano) DM 14/18\nDiploma accademico di secondo livello in Maestro collaboratore DM 14/18\nDiploma di II livello in Discipline musicali: (Pianoforte) indirizzo Maestro collaboratore e sostituto DM…",
+   "prove": "Per l’assegnazione del punteggio, la Commissione dispone di complessivamente 90 punti, così suddivisi:\n- Prova pratica di cui alla successiva lettera A: massimo 45 punti\n- Prova di cui alla successiva lettera B: massimo 45 punti\nLa Prova A consisterà in:\na) Esecuzione della parte pianistica (senza…",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/ef5c2539-6cb9-40ae-b40b-f1e6ad71fb36",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/BANDO%20TI%20ACCOMPAGNATORI%20PIANOFORTE%20A.A.2026.2027_signed-prot..pdf",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=25de84d747884932b7c78cb867038ca9",
    "linkEnte": "https://www.conservatoriocosenza.it/amministrazione-trasparente/concorsi/#1687428055301-1c692246-940e",
    "altriLink": [
+    "https://www.concorsipubblici.com/conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-docente-cosenza-2026-3",
     "https://www.concorsando.it/blog/concorsi/1-posto-di-accompagnatore-al-pianoforte-presso-il-conservatorio-stanislao-giacomantonio-di-cosenza/"
    ],
    "key": "inpa:25de84d747884932b7c78cb867038ca9",
@@ -2253,6 +1936,7 @@
    "inpaId": "44db8f62413647f58343278827bb4530",
    "fonti": [
     "Concorsando",
+    "ConcorsiPubblici",
     "inPA"
    ],
    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO SPECIALISTA IN ATTIVITA' AMMINISTRATIVE E CONTABILI - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
@@ -2268,14 +1952,15 @@
    "contratto": "tempo indeterminato, tempo pieno",
    "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per soli esami, per l'assunzione a tempo indeterminato e pieno di 1 funzionario specialista in attività amministrative e contabili (Area dei Funzionari e delle Elevate Qualificazioni, CCNL Funzioni Locali).\nServe una laurea nelle classi previste dal bando. Sono previste una prova scritta di 30 quesiti a risposta multipla e una prova orale. La tassa di concorso è di 10 euro.",
    "mansioni": "Nello specifico, le mansioni esigibili comprendono, a titolo esemplificativo ma non esaustivo, le  seguenti macro-attività:\nIstruttoria e Redazione Atti: Attività di istruzione, predisposizione, redazione e formalizzazione di  atti amministrativi, deliberazioni, determinazioni dirigenziali, contratti, convenzioni e  provvedimenti finali complessi riferiti al settore di assegnazione.\nAnalisi e Ricerca di Settore:…",
-   "titoliStudio": "Serve una laurea nelle classi previste dal bando.",
-   "requisiti": "c) Competenza linguistica: adeguata conoscenza della lingua inglese;  d) Competenza digitale, informatica: padronanza di software comuni (pacchetti applicativi come\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\nI cittadini dell’Unione Europea e di Paesi  terzi devono avere una adeguata conoscenza della lingua italiana che si intende accertata  mediante l’espletamento delle prove d’esame;\n2) età non inferiore ad anni 18 e non superiore ai limiti massimi ordinamentali previsti per il  pensionamento nel pubblico impiego;",
-   "prove": "Sono previste una prova scritta di 30 quesiti a risposta multipla e una prova orale.",
+   "titoliStudio": "Giurisprudenza \nScienze statistiche \ningegneria gestionale \nScienze politiche \nScienze Economico Aziendali",
+   "requisiti": "Possesso del Diploma di Laurea appartenente ad una delle seguenti classi: L-14 Scienze dei servizi giuridici, L-16 Scienze dell’amministrazione e dell’organizzazione, L-18 Scienze dell’economia e della gestione aziendale, L-33 Scienze economiche, L-36 Scienze politiche e delle relazioni internazionali, L-41 Statistica ovvero Laurea Magistrale appartenente ad una delle seguenti classi: LMG/01 Giurisprudenza, LM-16 Finanza, LM-31 Ingegneria gestionale, LM-56 Scienze dell’economia, LM-63 Scienze delle pubbliche amministrazioni, LM- 77 Scienze economico-aziendali, LM-82 Scienze statistiche,…",
+   "prove": "Il concorso si svolge mediante espletamento di una prova scritta e di una prova orale, finalizzate ad accertare il possesso delle competenze tecniche e delle soft skill richieste per rivestire il ruolo del posto a concorso, così come esplicitato nell’art. 1 del presente bando.\nProva scritta\nLa…",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/2196ff08-a20e-48c8-85c1-96aeed9888ca",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/BANDO%20funzionario_Amministrativo_contabile_2026.firmato_signed.pdf",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=44db8f62413647f58343278827bb4530",
    "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
    "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-catanzaro-concorso-funzionario-amministrativo-contabile-catanzaro-2026",
     "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-specialista-in-attivita-amministrative-e-contabili-presso-il-comune-di-catanzaro/"
    ],
    "key": "inpa:44db8f62413647f58343278827bb4530",
@@ -2290,6 +1975,7 @@
    "inpaId": "91615dda4456498fb1ba17619829a7f4",
    "fonti": [
     "Concorsando",
+    "ConcorsiPubblici",
     "inPA"
    ],
    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO SPECIALISTA IN ATTIVITA' TECNICHE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
@@ -2305,14 +1991,15 @@
    "contratto": "tempo indeterminato, tempo pieno",
    "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per soli esami, per l'assunzione a tempo indeterminato e pieno di 1 funzionario specialista in attività tecniche (Area dei Funzionari e delle Elevate Qualificazioni, CCNL Funzioni Locali).\nServe una laurea nelle classi previste dal bando. Sono previste una prova scritta di 30 quesiti a risposta multipla, su appalti, edilizia, urbanistica, ambiente e sicurezza, e una prova orale. La tassa di concorso è di 10 euro.",
    "mansioni": "Nello specifico, le mansioni esigibili comprendono, a titolo esemplificativo ma non esaustivo, le  seguenti macro-attività:\nProgettazione e Direzione Lavori: Attività di studio, programmazione, progettazione ( Quadro\nPianificazione Territoriale e Urbanistica: Attività di istruttoria, analisi, redazione e gestione degli  strumenti urbanistici generali ed esecutivi, dei piani di settore (es. mobilità, traffico,…",
-   "titoliStudio": "Serve una laurea nelle classi previste dal bando.",
-   "requisiti": "c) Competenza linguistica: adeguata conoscenza della lingua inglese;\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\nI cittadini dell’Unione Europea e di Paesi  terzi devono avere una adeguata conoscenza della lingua italiana che si intende accertata  mediante l’espletamento delle prove d’esame;\n2) età non inferiore ad anni 18 e non superiore ai limiti massimi ordinamentali previsti per il  pensionamento nel pubblico impiego;",
-   "prove": "Sono previste una prova scritta di 30 quesiti a risposta multipla, su appalti, edilizia, urbanistica, ambiente e sicurezza, e una prova orale.",
+   "titoliStudio": "Ingegneria civile \nIngegneria ambientale \nIngegneria edile \narchitettura \ningegneria delle Telecomunicazioni \nIngegneria elettrica \nIngegneria meccanica \nIngegneria energetica \nIngegneria elettronica",
+   "requisiti": "Possesso del Diploma di Laurea appartenente ad una delle seguenti classi: L-7 Ingegneria civile e ambientale, L-9 Ingegneria industriale, L-17 Scienze dell’architettura, L-21 Scienze della pianificazione territoriale, urbanistica, paesaggistica e ambientale, L-23 Scienze e tecniche dell’edilizia ovvero Laurea Magistrale appartenente ad una delle seguenti classi: LM-3 Architettura del paesaggio, LM-4 Architettura e ingegneria edile-architettura, LM-23 Ingegneria civile, LM-24 Ingegneria dei sistemi edilizi, LM-25 Ingegneria dell’automazione, LM-26 Ingegneria della sicurezza, LM- 27 Ingegneria…",
+   "prove": "Il concorso si svolge mediante espletamento di una prova scritta e di una prova orale, finalizzate ad accertare il possesso delle competenze tecniche e delle soft skill richieste per rivestire il ruolo del posto a concorso, così come esplicitato nell’art. 1 del presente bando.\nProva scritta\nLa…",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/38d02f7a-0212-4539-a690-13fd75af556c",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/BANDO%20Funzionario%20specialista%20attivit%C3%A0%20tecniche%202026_signed.pdf",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=91615dda4456498fb1ba17619829a7f4",
    "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
    "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-catanzaro-concorso-funzionario-tecnico-catanzaro-2026",
     "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-specialista-in-attivita-tecniche-presso-il-comune-di-catanzaro/"
    ],
    "key": "inpa:91615dda4456498fb1ba17619829a7f4",
@@ -2327,6 +2014,7 @@
    "inpaId": "90c5e5344f0c411889893f7b51ad251e",
    "fonti": [
     "Concorsando",
+    "ConcorsiPubblici",
     "inPA"
    ],
    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO SPECIALISTA INFORMATICO - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
@@ -2343,13 +2031,14 @@
    "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per soli esami, per l'assunzione a tempo indeterminato e pieno di 1 funzionario specialista informatico (Area dei Funzionari e delle Elevate Qualificazioni, CCNL Funzioni Locali).\nServe una laurea nelle classi previste dal bando, oppure un diploma di laurea con master o specializzazione post-laurea in informatica. Sono previste una prova scritta di 30 quesiti a risposta multipla e una prova orale con colloquio attitudinale. La tassa di concorso è di 10 euro.",
    "mansioni": "Nello specifico, le mansioni esigibili comprendono, a titolo esemplificativo ma non esaustivo, le  seguenti macro-attività\nIstruttoria e Redazione Atti: attività di studio, predisposizione e formalizzazione di  provvedimenti amministrativi complessi (deliberazioni di Giunta e Consiglio, determinazioni  dirigenziali, contratti d'appalto IT, convenzioni e capitolati tecnici di gara).\nLa prova si svolgerà in modalità…",
    "titoliStudio": "Serve una laurea nelle classi previste dal bando, oppure un diploma di laurea con master o specializzazione post-laurea in informatica.",
-   "requisiti": "c) Competenza linguistica: adeguata conoscenza della lingua inglese;  d) Competenza digitale, informatica: padronanza di software comuni (pacchetti applicativi come\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\nI cittadini dell’Unione Europea e di Paesi terzi devono avere  una adeguata conoscenza della lingua italiana che si intende accertata mediante l’espletament o  delle prove d’esame;\n2) età non inferiore ad anni 18 e non superiore ai limiti massimi ordinamentali previsti per il  pensionamento nel pubblico impiego;",
-   "prove": "Sono previste una prova scritta di 30 quesiti a risposta multipla e una prova orale con colloquio attitudinale.",
+   "requisiti": "Possesso della Laurea appartenente ad una delle seguenti classi: L-8 Ingegneria dell’informazione, L-31 Scienze e tecnologie informatiche ovvero Laurea Magistrale appartenente ad una delle seguenti classi: LM-18 Informatica, LM-25 Ingegneria dell’automazione, LM-29 Ingegneria elettronica, LM-31 Ingegneria gestionale, LM-32 Ingegneria informatica, LM-66 Sicurezza Informatica, LM-91 Tecniche e metodi per la società dell'informazione ovvero Laurea Specialistica ovvero Diploma di Laurea Vecchio ordinamento universitario equiparati ad una delle classi di laurea con provvedimento del MIUR ovvero…",
+   "prove": "Il concorso si svolge mediante espletamento di una prova scritta e di una prova orale, finalizzate ad accertare il possesso delle competenze tecniche e delle soft skill richieste per rivestire il ruolo del posto a concorso, così come esplicitato nell’art. 1 del presente bando.\nProva scritta:\nLa…",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/b3406e5c-28af-4e3a-a860-f90b568420f0",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/BANDO%20Funzionario_Specialista_Informatico_signed_signed.pdf",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=90c5e5344f0c411889893f7b51ad251e",
    "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
    "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-catanzaro-concorso-funzionario-informatico-catanzaro-2026",
     "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-specialista-informatico-presso-il-comune-di-catanzaro/"
    ],
    "key": "inpa:90c5e5344f0c411889893f7b51ad251e",
@@ -2364,11 +2053,12 @@
    "inpaId": "0271f927c6f94ec7b0dede3f48517d15",
    "fonti": [
     "Concorsando",
+    "ConcorsiPubblici",
     "inPA"
    ],
    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 ISTRUTTORE AGENTE DI POLIZIA LOCALE - AREA DEGLI ISTRUTTORI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
    "ente": "Comune di Catanzaro",
-   "profilo": "ISTRUTTORE AGENTE DI POLIZIA LOCALE",
+   "profilo": "poliziotto municipale , agente polizia locale , agente di polizia municipale",
    "sedi": [
     "Catanzaro"
    ],
@@ -2380,13 +2070,14 @@
    "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per esami, per l'assunzione a tempo indeterminato e pieno di 1 istruttore agente di polizia locale (Area degli Istruttori, CCNL Funzioni Locali).\nServono il diploma di scuola secondaria di secondo grado, le patenti B e A2, il limite di età di 45 anni e l'idoneità al conferimento della qualità di agente di pubblica sicurezza. Sono previste una prova di efficienza fisica e una prova scritta di 33 quesiti a risposta multipla. La tassa di concorso è di 10 euro.",
    "mansioni": "L’“Istruttore Agente di Polizia Locale” avrà responsabilità professionale nell'ambito delle proprie  funzioni e svolgerà - in via esemplificativa - le seguenti attività:\nCapacità di conduzione delle indagini, redazione di atti giudiziari (notizie di reato, verbali di  sequestro, perquisizioni) e gestione delle attività di controllo del territorio in sinergia con le\nAutonomia operativa e gestione decisionale:…",
    "titoliStudio": "Servono il diploma di scuola secondaria di secondo grado, le patenti B e A2, il limite di età di 45 anni e l'idoneità al conferimento della qualità di agente di pubblica sicurezza.",
-   "requisiti": "c) Competenza lingua straniera: adeguata conoscenza della lingua inglese;  d) Competenza digitale e informatica: adeguata conoscenza sull’uso delle apparecchiature e delle  reti informatiche , d ei sistemi di comunicazione elettronica e delle applicazioni informatiche più  diffuse (come Microsoft Office).\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\n2) età non inferiore ad anni 18 e non superiore ai 45 anni di età.\n3) idoneità fisica all'impiego nelle mansioni specifiche del profilo professionale di riferimento, in  particolare:",
-   "prove": "Sono previste una prova di efficienza fisica e una prova scritta di 33 quesiti a risposta multipla.",
+   "requisiti": "Diploma di istruzione secondaria superiore di secondo grado (diploma di maturità di durata quinquennale o quadriennale con anno integrativo).\nPossesso delle patenti di guida di categoria “B” e di categoria “A2” senza limitazioni.",
+   "prove": "Il concorso si svolgerà mediante l’espletamento di una prova di efficienza fisica e di una prova scritta finalizzata ad accertare il possesso delle conoscenze tecniche e delle soft skill richieste per rivestire il ruolo del posto a concorso nonché della conoscenza della lingua inglese e delle…",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/e49d450c-9d05-4bc6-9bf3-489dc2916c06",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/BANDO_ISTR_AG_PL_2026.FIRMATO_signed.pdf",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0271f927c6f94ec7b0dede3f48517d15",
    "linkEnte": "",
    "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-catanzaro-concorso-poliziotto-municipale-agente-polizia-locale-agente-di-polizia",
     "https://www.concorsando.it/blog/concorsi/1-posto-di-istruttore-agente-di-polizia-locale-presso-il-comune-di-catanzaro/"
    ],
    "key": "inpa:0271f927c6f94ec7b0dede3f48517d15",
@@ -2438,6 +2129,7 @@
    "inpaId": "b75daa58ec864407aee0e80fd66dae02",
    "fonti": [
     "Concorsando",
+    "ConcorsiPubblici",
     "inPA"
    ],
    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 2 ISTRUTTORI AMMINISTRATIV0 - CONTABILI - AREA DEGLI ISTRUTTORI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
@@ -2453,14 +2145,15 @@
    "contratto": "tempo indeterminato, tempo pieno",
    "descrizione": "Il Comune di Catanzaro indice un concorso pubblico, per soli esami, per l'assunzione a tempo indeterminato e pieno di 2 istruttori amministrativo-contabili (Area degli Istruttori, CCNL Funzioni Locali).\nServe il diploma di scuola secondaria di secondo grado. Il concorso prevede una sola prova scritta, svolta al computer, con 33 quesiti a risposta multipla: quesiti situazionali, materie tecniche, inglese e informatica. La tassa di concorso è di 10 euro.",
    "mansioni": "Le mansioni esigibili, nel rispetto della declaratoria di cui all’allegato A) del CCNL del personale  del comparto Funzioni Locali sottoscritto in data 16/11/2022, riguarderanno lo svolgimento di  attività istruttorie nel campo amministrativo, contabile, economico -finanziario e tributario,  caratterizzate da approfondite conoscenze delle procedure interne e da un grado di  autonomia nell'esecuzione delle…",
-   "titoliStudio": "Serve il diploma di scuola secondaria di secondo grado.",
-   "requisiti": "c) Competenza lingua straniera: adeguata conoscenza della lingua inglese;  d) Competenza digitale, informatica: padronanza di software comuni (pacchetti applicativi come\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\nI cittadini dell’Unione Europea e di Paesi  terzi devono avere una adeguata conoscenza della lingua italiana che si intende accertata  mediante l’espletamento della prova d’esame;\n2) età non inferiore ad anni 18 e non superiore ai limiti massimi ordinamentali previsti per il  pensionamento nel pubblico impiego;",
-   "prove": "Il concorso prevede una sola prova scritta, svolta al computer, con 33 quesiti a risposta multipla: quesiti situazionali, materie tecniche, inglese e informatica.",
+   "titoliStudio": "Diploma di maturità scuola secondaria di secondo grado ad indirizzo classico o linguistico o scientifico o scienze umane o amministrazione finanza e marketing o altro diploma di maturità equipollente rilasciato da un istituto statale o legalmente riconosciuto dal MIUR.\nistituto tecnico commerciale \nLiceo classico \nLiceo linguistico \nLiceo scientifico",
+   "requisiti": "Diploma di maturità scuola secondaria di secondo grado ad indirizzo classico o linguistico o scientifico o scienze umane o amministrazione finanza e marketing o altro diploma di maturità equipollente rilasciato da un istituto statale o legalmente riconosciuto dal MIUR.",
+   "prove": "La prova scritta consisterà nella soluzione di n. 33 quesiti a risposta multipla entro un tempo massimo di 50 minuti di:\n• 7 (sette) quesiti situazionali\n• 20 (venti) quesiti a risposta multipla vertenti sulle materie di seguito indicate:\n✓ Ordinamento istituzionale, finanziario e contabile degli…",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/fb988cc6-f2c7-4870-bba2-625d28eb1271",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/BANDO%20istruttore_Amministrativo_contabile_2026.firmato_signed.pdf",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b75daa58ec864407aee0e80fd66dae02",
    "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
    "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-catanzaro-concorso-istruttore-amministrativo-contabile-catanzaro-2026",
     "https://www.concorsando.it/blog/concorsi/2-posti-di-istruttore-amministrativo-contabile-presso-il-comune-di-catanzaro/"
    ],
    "key": "inpa:b75daa58ec864407aee0e80fd66dae02",
@@ -2469,6 +2162,277 @@
     "Comuni capoluogo, Province e Città Metropolitana RC"
    ],
    "categoria": "calabria"
+  },
+  {
+   "id": "inpa:0376e4aa99d44d748d7cebaf42e7f5a5",
+   "inpaId": "0376e4aa99d44d748d7cebaf42e7f5a5",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Concorsi docenza accademici",
+   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+   "profilo": "Docenza Corsi accademici - COMA/03 Viola da gamba",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-16",
+   "pubblicazione": "2026-11-16",
+   "contratto": "",
+   "descrizione": "Concorsi accademici ad ore",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0376e4aa99d44d748d7cebaf42e7f5a5",
+   "linkEnte": "",
+   "key": "inpa:0376e4aa99d44d748d7cebaf42e7f5a5",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:74690c61652845d4a9abb7e0c8995188",
+   "inpaId": "74690c61652845d4a9abb7e0c8995188",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO MOBILITÀ VOLONTARIA AI SENSI DELL’ART. 30 DEL D.LGS.N.165/2001 PER N.1 UNITÀ -PROFILO OPERATORE ESPERTO SERVIZI AMMINISTRATIVO-INFORMATICI- AREA DEGLI OPERATORI ESPERTI",
+   "ente": "Comune di Reggio Calabria",
+   "profilo": "Operatore Esperto servizi amministrativo-informatici",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-17",
+   "pubblicazione": "2026-11-17",
+   "contratto": "mobilità",
+   "descrizione": "il Comune di Reggio Calabria intende assumere, tramite l’istituto della mobilità volontaria ai sensi dell’art.30 del D.Lgs.n.165/2001, nel profili e per le unità di seguito indicate , personale appartenente ad altra amministrazione pubblica di cui all’art. 1, comma 2, D. Lgs. N. 165/2001: \nn.1 unità - profilo operatore esperto servizi amministrativo-informatici- Area degli operatori esperti",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/51a5d1c3-578f-4cc2-ac98-196e584367f6",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=74690c61652845d4a9abb7e0c8995188",
+   "linkEnte": "https://trasparenza.reggiocal.it/it/trasparenza/bandi-di-concorso.html",
+   "key": "inpa:74690c61652845d4a9abb7e0c8995188",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:a3be528b0b534814a27234f96a18653d",
+   "inpaId": "a3be528b0b534814a27234f96a18653d",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO MOBILITÀ VOLONTARIA AI SENSI DELL’ART. 30 DEL D.LGS.N.165/2001 PER N.2 UNITÀ -PROFILO PROFILO ISTRUTTORE AMMINISTRATIVO -AREA STRUTTORI",
+   "ente": "Comune di Reggio Calabria",
+   "profilo": "Istruttore Amministrativo",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-12-17",
+   "pubblicazione": "2026-11-17",
+   "contratto": "mobilità",
+   "descrizione": "il Comune di Reggio Calabria intende assumere, tramite l’istituto della mobilità volontaria ai sensi dell’art.30 del D.Lgs.n.165/2001, nel profilo e per le unità di seguito indicate , personale appartenente ad altra amministrazione pubblica di cui all’art. 1, comma 2, D. Lgs. N. 165/2001: \n- n.2 unità profilo istruttore amministrativo -Area istruttori",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/c0ab2c5f-3b9d-4543-a295-04c9f71b5d78",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a3be528b0b534814a27234f96a18653d",
+   "linkEnte": "https://trasparenza.reggiocal.it/it/trasparenza/bandi-di-concorso.html",
+   "key": "inpa:a3be528b0b534814a27234f96a18653d",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:ea0d7353434d4543973a7a19b2cebc94",
+   "inpaId": "ea0d7353434d4543973a7a19b2cebc94",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Bandi reclutamento a tempo indeterminato Docenti",
+   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+   "profilo": "Docente AFAM031",
+   "sedi": [
+    "Lombardia",
+    "Cosenza",
+    "Agrigento",
+    "Catania",
+    "Sicilia",
+    "Como"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-17",
+   "pubblicazione": "2026-08-29",
+   "contratto": "tempo indeterminato",
+   "descrizione": "Bandi reclutamento a tempo indeterminato Docenti",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ea0d7353434d4543973a7a19b2cebc94",
+   "linkEnte": "",
+   "key": "inpa:ea0d7353434d4543973a7a19b2cebc94",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:ddce9860e789477ebd4de5e6fee2d4e0",
+   "inpaId": "ddce9860e789477ebd4de5e6fee2d4e0",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per titoli ed esami, di 270 allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze in discipline economiche e aziendali",
+   "ente": "Ministero dell'Interno - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio Concorsi",
+   "profilo": "vice ispettore della polizia di stato con competenze economiche ed aziendali",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 270,
+   "scadenza": "2026-12-17",
+   "pubblicazione": "2026-11-17",
+   "contratto": "",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di 270 allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze in discipline economiche e aziendali, indetto con decreto del 16 novembre 2026.\nLe domande di partecipazione potranno essere presentate dalle ore 00.00 del 18 novembre 2026 alle ore 23.59 del 17 dicembre 2026, utilizzando esclusivamente la procedura informatica disponibile all’indirizzo https://concorsionline.poliziadistato.it (cliccando sull’icona “Concorso pubblico”), cui si può accedere, mediante apposito link, anche dal citato Portale unico…",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/603efc4b-c257-4d69-b393-3828ba56829f",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ddce9860e789477ebd4de5e6fee2d4e0",
+   "linkEnte": "https://www.poliziadistato.it/articolo/1896aface367c94a003837369",
+   "key": "inpa:ddce9860e789477ebd4de5e6fee2d4e0",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [
+    "Polizia di Stato"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:c01340a876c44b6ebda1c1b1cdea8c81",
+   "inpaId": "c01340a876c44b6ebda1c1b1cdea8c81",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per titoli ed esami, per 200 posti di allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze pubbliche nei processi comunicativi, nell’uso dei media digitali e nella gestione delle relazioni",
+   "ente": "Ministero dell'Interno - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio Concorsi",
+   "profilo": "vice ispettore della polizia di stato con competenze nei processi comunicativi",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 200,
+   "scadenza": "2026-12-17",
+   "pubblicazione": "2026-11-17",
+   "contratto": "",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per 200 posti di allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze nei processi comunicativi, nell’uso dei media digitali e nella gestione delle relazioni pubbliche, DCP 16.11.2026\nLe domande di partecipazione potranno essere presentate dalle ore 00.00 del 18 novembre 2026 alle ore 23.59 del 17 dicembre 2026, utilizzando esclusivamente la procedura informatica disponibile all’indirizzo https://concorsionline.poliziadistato.it (cliccando sull’icona “Concorso pubblico”), cui si può accedere, mediante apposito link, anche…",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/c2af7e4f-d771-413c-91e2-31bfe658f2de",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c01340a876c44b6ebda1c1b1cdea8c81",
+   "linkEnte": "https://www.poliziadistato.it/articolo/1896afacc7454597151368839",
+   "key": "inpa:c01340a876c44b6ebda1c1b1cdea8c81",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [
+    "Polizia di Stato"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:321aeec94ecd40b58088c73ac8acf1d8",
+   "inpaId": "321aeec94ecd40b58088c73ac8acf1d8",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per titoli ed esami, per 300 allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze in ambito informatico",
+   "ente": "Ministero dell'Interno - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio Concorsi",
+   "profilo": "vice ispettore della polizia di stato con competenze informatiche",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 300,
+   "scadenza": "2026-12-17",
+   "pubblicazione": "2026-11-17",
+   "contratto": "",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di 300 allievi vice ispettori della Polizia di Stato in possesso di specifiche competenze in ambito informatico, DCP 16.11.2026.\nLe domande di partecipazione potranno essere presentate dalle ore 00.00 del 18 novembre 2026 alle ore 23.59 del 17 dicembre 2026, utilizzando esclusivamente la procedura informatica disponibile all’indirizzo https://concorsionline.poliziadistato.it (cliccando sull’icona “Concorso pubblico”), cui si può accedere, mediante apposito link, anche dal citato Portale unico del reclutamento.",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/b469aa6d-15c2-475b-a0e7-692b1341f7e6",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=321aeec94ecd40b58088c73ac8acf1d8",
+   "linkEnte": "https://www.poliziadistato.it/articolo/1896afad1605473d395055075",
+   "key": "inpa:321aeec94ecd40b58088c73ac8acf1d8",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [
+    "Polizia di Stato"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:f1314188550f423c9da613c5c4e7bcbe",
+   "inpaId": "f1314188550f423c9da613c5c4e7bcbe",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per titoli ed esami, per l’assunzione di 230 allievi vice ispettori della Polizia di Stato in possesso di competenze linguistiche nelle lingue straniere indicate nel bando, indetto con DCP 16.11.2026",
+   "ente": "Ministero dell'Interno - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio Concorsi",
+   "profilo": "vice ispettore della polizia di stato con competenze linguistiche",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 230,
+   "scadenza": "2026-12-17",
+   "pubblicazione": "2026-11-17",
+   "contratto": "",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di 230 allievi vice ispettori della Polizia di Stato in possesso di competenze linguistiche nelle lingue straniere indicate nel bando, indetto con DCP 16.11.2026\nLe domande di partecipazione potranno essere presentate dalle ore 00.00 del 18 novembre 2026 alle ore 23.59 del 17 dicembre 2026, utilizzando esclusivamente la procedura informatica disponibile all’indirizzo https://concorsionline.poliziadistato.it (cliccando sull’icona “Concorso pubblico”), cui si può accedere, mediante apposito link, anche dal citato Portale unico del…",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/9af1bb5d-28f3-4247-84aa-5bc9703a21d9",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f1314188550f423c9da613c5c4e7bcbe",
+   "linkEnte": "https://www.poliziadistato.it/articolo/1896afacf2c0f450549257817",
+   "key": "inpa:f1314188550f423c9da613c5c4e7bcbe",
+   "primaVista": "2026-11-17",
+   "entiMonitorati": [
+    "Polizia di Stato"
+   ],
+   "categoria": "forze"
   },
   {
    "id": "inpa:57411ee993a54405a13a7ac451447256",
