@@ -1,150 +1,52 @@
 {
- "aggiornato": "2026-11-19T14:32+00:00",
+ "aggiornato": "2026-11-20T14:10+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
-   "bandi": 72
+   "bandi": 69
   },
   "ConcorsiPubblici": {
    "ok": true,
-   "bandi": 40
+   "bandi": 41
   },
   "Concorsando": {
    "ok": true,
    "bandi": 16
   }
  },
- "totale": 75,
+ "totale": 72,
  "nuoviOggi": 1,
  "bandi": [
   {
-   "id": "inpa:036853c3ae4749a094921f3b6919284b",
-   "inpaId": "036853c3ae4749a094921f3b6919284b",
+   "id": "inpa:3007d4f2fde34920a782791f2224bfc3",
+   "inpaId": "3007d4f2fde34920a782791f2224bfc3",
    "fonti": [
     "inPA"
    ],
-   "titolo": "BANDO PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO, DELLA DURATA DI 6 (SEI) MESI, TRAMITE SELEZIONE PUBBLICA PER TITOLI E COLLOQUIO, NELL’AMBITO DEL PROGETTO DI RICERCA “NOVIXGEN\"- NUOVE PROSPETTIVE DI SVILUPPO PER L’OLIVICOLTURA ITALIANA ATTRAVERSO LA VALORIZZAZIONE DELLA BIODIVERSITÀ E LA…",
-   "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
-   "profilo": "Borsista",
+   "titolo": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE A RICOPRIRE L’INCARICO DI COMPONENTI ESTERNI DELLA COMMISSIONE ESAMINATRICE PER IL CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO E PARZIALE (18 ORE SETTIMANALI) DI N. 2 POSTI DI \"COLLABORATORE ESPERTO TECNICO\" – AREA DEGLI…",
+   "ente": "Comune di Rosarno",
+   "profilo": "COMPONENTE DI CONCORSO",
    "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-21",
-   "pubblicazione": "2026-11-19",
-   "contratto": "",
-   "descrizione": "Conferimento di n. 1 borsa di studio, della durata di 6 (sei) mesi, tramite selezione pubblica per titoli e colloquio, nell’ambito del progetto di ricerca “NOVIXGEN - Nuove prospettive di sviluppo per l’olivicoltura italiana attraverso la valorizzazione della biodiversità e la selezione di materiale genetico d’olivo tollerante/resistente a xylella fastidiosa e azioni mirate a prevenire il possibile impatto sulla viticoltura” – (Decreto MUR n. 0664890 del 29/12/2022) con scadenza fissata al 31/12/2027, per lo svolgimento di attività di ricerca sulla tematica “Selezione di geni candidati…",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=036853c3ae4749a094921f3b6919284b",
-   "linkEnte": "https://www.crea.gov.it/borse-di-studio-e-contratti-incarichi-di-ricerca",
-   "key": "inpa:036853c3ae4749a094921f3b6919284b",
-   "primaVista": "2026-11-19",
-   "entiMonitorati": [],
-   "categoria": "altro"
-  },
-  {
-   "id": "inpa:7171a14e33654759be85c5a9ad2024db",
-   "inpaId": "7171a14e33654759be85c5a9ad2024db",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "PROCEDURA SELETTIVA PUBBLICA, PER TITOLI RELATIVA ALLA COSTITUZIONE DI UNA GRADUATORIA N. 2 CONTRATTI A TEMPO DETERMINATO PER IL SETTORE ARTISTICO DISCIPLINARE AFAM 037 - PRATICHE D'INSIEME ED ESTEMPORANEE PER I NUOVI LINGUAGGI MUSICALI",
-   "ente": "Conservatorio Musica Vibo Valentia",
-   "profilo": "Docente",
-   "sedi": [
-    "Vibo Valentia"
+    "Reggio Calabria"
    ],
    "nazionale": false,
    "posti": 2,
-   "scadenza": "2026-11-19",
-   "pubblicazione": "2026-11-04",
-   "contratto": "tempo determinato",
-   "descrizione": "PROCEDURA SELETTIVA PUBBLICA, PER TITOLI RELATIVA ALLA COSTITUZIONE DI UNA GRADUATORIA N. 2 CONTRATTI A TEMPO DETERMINATO PER IL SETTORE ARTISTICO DISCIPLINARE AFAM 037 - PRATICHE D'INSIEME ED ESTEMPORANEE PER I NUOVI LINGUAGGI MUSICALI",
-   "mansioni": "Codice Settore artistico disciplinare  ed eventuale profilo Declaratoria\nredatta in lingua originale con allegata una traduzione in lingua italiana, certificata dalla  competente rappresentanza diplomatico-consolare, attestante che il servizio dichiarato è stato svolto  per attività di docenza nel livello di studio ISCED 6 (Primo ciclo – Bachelor o livello equivalente\nPer le Attività di produzione artistica,…",
-   "titoliStudio": "Diploma Accademico di II livello (Biennio) in qualsiasi disciplina Popular Music o Jazz\n* congiuntamente al possesso di un Diploma di Scuola Secondaria Superiore.\n1) Diploma del previgente ordinamento* o diploma accademico di II  livello rilasciato dalle Istituzioni statali e non statali di cui all ’art. 1",
-   "requisiti": "Requisiti generali e specifici di ammissione\nPer la partecipazione alla procedura selettiva sono richiesti, a pena di esclusione, i seguenti  requisiti generali:\nCittadinanza italiana, con equiparazione ai cittadini , degli italiani non appartenenti alla\nRepubblica, oppure cittadinanza di uno degli stati membri dell ’Unione Europea, oppure  titolarità del permesso di soggiorno UE per soggiornanti di lungo periodo, oppure titolarità  dello status di rifugiato o dello status di protezione sussidiaria, ai sensi dell ’art. 38, comma\n3-bis, D.Lgs. 30 marzo 2001, n. 165; possono partecipare anche cittadini extracomunitari  purché in possesso di…",
+   "scadenza": "2026-12-07",
+   "pubblicazione": "2026-11-19",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE A RICOPRIRE L’INCARICO DI COMPONENTI ESTERNI DELLA COMMISSIONE ESAMINATRICE PER IL CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO E PARZIALE (18 ORE SETTIMANALI) DI N. 2 POSTI DI \"COLLABORATORE ESPERTO TECNICO\" – AREA DEGLI OPERATORI ESPERTI DA ASSEGNARE AL SERVIZIO DI TRASPORTO SCOLASTICO E SERVIZI ANALOGHI",
+   "mansioni": "",
+   "titoliStudio": "Di possedere il seguente titolo di studio: ______________________________;",
+   "requisiti": "I candidati inoltre devono essere in possesso dei seguenti requisiti:\nNon aver riportato condanne penali, anche se non passate in giudicato e di non aver  procedimenti in corso per i reati contro il patrimonio e la pubblica amministrazione o che  comportino l'interdizione dai pubblici e uffici o che comunque impediscano la cos tituzione  del rapporto di lavoro con la P.A.;\nIl conferimento dei dati anagrafic i e dei dati relativi al possesso dei requisiti è\nDi essere esperto esterno / docente con specifica e comprovata esperienza nel settore:",
    "prove": "Per titoli",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/bb8bcd1e-8504-46d3-9677-145bbbe007f4",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7171a14e33654759be85c5a9ad2024db",
-   "linkEnte": "www.convv.it",
-   "key": "inpa:7171a14e33654759be85c5a9ad2024db",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "AFAM – Conservatorio \"F. Torrefranca\" di Vibo Valentia",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
-   ],
-   "categoria": "istruzione"
-  },
-  {
-   "id": "inpa:30e19f8bbd784bedaa441ec311c268fe",
-   "inpaId": "30e19f8bbd784bedaa441ec311c268fe",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AVVISO PUBBLICO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI FINALIZZATO ALL’ASSUNZIONE A TEMPO PIENO E DETERMINATO PER SEI MESI DI N. 8 ISTRUTTORI DI VIGILANZA_AREA ISTRUTTORI",
-   "ente": "Comune di Lamezia Terme",
-   "profilo": "ISTRUTTORE DI VIGILANZA - AREA DEGLI ISTRUTTORI",
-   "sedi": [
-    "Catanzaro"
-   ],
-   "nazionale": false,
-   "posti": 8,
-   "scadenza": "2026-11-19",
-   "pubblicazione": "2026-11-04",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "AVVISO PUBBLICO PER LO SCORRIMENTO DI GRADUATORIE DI CONCORSI PUBBLICI DI ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI FINALIZZATO ALL’ASSUNZIONE A TEMPO PIENO E DETERMINATO PER SEI MESI DI N. 8 (otto) ISTRUTTORI DI VIGILANZA – AREA ISTRUTTORI PRESSO IL COMUNE DI LAMEZIA TERME.",
-   "mansioni": "",
-   "titoliStudio": "in possesso di titolo di studio non inferiore al diploma di scuola di secondo grado;\nil titolo di studio posseduto, (con indicazione dell’anno scolastico/accademico di conseguimento e dell’Istituto/Ateneo che lo ha rilasciato con relativa sede);",
-   "requisiti": "La procedura di cui al presente avviso è riservata a coloro che sono: \n- interessati all’assunzione a tempo pieno e determinato (mesi sei) presso il Comune di Lamezia Terme, con la qualifica di Istruttore Agente di Vigilanza – Area degli Istruttori; \n- collocati utilmente in graduatorie in corso di validità, approvate da Enti del Comparto Funzioni Locali, in seguito all’espletamento di concorsi pubblici per la copertura di posti a tempo determinato o indeterminato, pieno o parziale, per l'Area e profilo professionale corrispondenti a quelli che questo Ente deve ricoprire (Istruttore Agente…",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/e5f857c0-06eb-41d8-a640-7763415b9b16",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=30e19f8bbd784bedaa441ec311c268fe",
-   "linkEnte": "https://www.comune.lamezia-terme.cz.it/it",
-   "key": "inpa:30e19f8bbd784bedaa441ec311c268fe",
-   "primaVista": "2026-11-13",
+   "linkBando": "https://portale.inpa.gov.it/api/media/01f23f12-aa80-4f07-8f49-2d83ed358386",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3007d4f2fde34920a782791f2224bfc3",
+   "linkEnte": "",
+   "key": "inpa:3007d4f2fde34920a782791f2224bfc3",
+   "primaVista": "2026-11-20",
    "entiMonitorati": [],
    "categoria": "comuni"
-  },
-  {
-   "id": "inpa:80627c4379144fc28c75d6741799e81e",
-   "inpaId": "80627c4379144fc28c75d6741799e81e",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "RIAPERTURA - Agenzia delle Entrate - Selezione pubblica, ai sensi della legge 12 marzo 1999, n. 68 e del decreto-legge 14 marzo 2025, n. 25, convertito con modificazioni dalla legge 9 maggio 2025, n. 69, per l’assunzione a tempo indeterminato di 622 unità per l’area assistenti, famiglia…",
-   "ente": "Agenzia delle Entrate",
-   "profilo": "Assistente gestionale",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 622,
-   "scadenza": "2026-11-19",
-   "pubblicazione": "2026-10-20",
-   "contratto": "tempo indeterminato",
-   "descrizione": "RIAPERTURA - Selezione pubblica, ai sensi della legge 12 marzo 1999, n. 68 e del decreto-legge 14 marzo 2025, n. 25, convertito con modificazioni dalla legge 9 maggio 2025, n. 69, per l’assunzione a tempo indeterminato di 622 unità per l’ area assistenti , famiglia professionale di assistente gestionale (Cod. 622 ASS GEST) .",
-   "mansioni": "Attività: fornisce supporto all’attività amministrativa e a quelle di  competenza dell’ufficio di appartenenza; svolge attività di segreteria, flussi  documentali e protocollo ; elabora prospetti e tabulati e collabora alla  consuntivazione delle attività; gestisce gli archivi cartacei e informatici e il relativo  scarto d'archivio; si occupa dell’aggiornamento dei dati negli applicativi.\nCapacità tecniche :…",
-   "titoliStudio": "",
-   "requisiti": "2 Requisiti di ammissione\n2.1 Alla procedura selettiva possono partecipare coloro che, alla data di scadenza  del termine per la presentazione delle domande, sono in possesso dei requisiti  indicati di seguito:  a) appartenenza a una delle categorie di soggetti indicati dall’articolo 1,  comma 1, lettere a), b), c) e d) della legge 12 marzo 1999, n. 68;\nI requisiti di cui al comma 2.1 devono essere posseduti alla data di scadenza  del termine utile per la presentazione della domanda di partecipazione al  concorso e devono persistere fino alla data di stipula del contratto individuale  di lavoro a tempo indeterminato.\nL’Agenzia delle entrate…",
-   "prove": "Per esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/fec48c49-297d-4a89-9804-6bd205edeabd",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=80627c4379144fc28c75d6741799e81e",
-   "linkEnte": "www.agenziaentrate.gov.it",
-   "key": "inpa:80627c4379144fc28c75d6741799e81e",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "Agenzia delle Entrate"
-   ],
-   "categoria": "aziende"
   },
   {
    "id": "inpa:8bcb59c82a394113a21d8bee927fd546",
@@ -207,39 +109,6 @@
    "primaVista": "2026-11-13",
    "entiMonitorati": [],
    "categoria": "comuni"
-  },
-  {
-   "id": "inpa:f3d010db5f5648cf9ab5cb0393088118",
-   "inpaId": "f3d010db5f5648cf9ab5cb0393088118",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "BORSE DI STUDIO “BONALDO STRINGHER”, “GIORGIO MORTARA”, “DONATO MENICHELLA\"",
-   "ente": "Banca D'Italia",
-   "profilo": "Borsista",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 7,
-   "scadenza": "2026-11-20",
-   "pubblicazione": "2026-10-13",
-   "contratto": "",
-   "descrizione": "BORSE DI STUDIO “BONALDO STRINGHER”, “GIORGIO MORTARA”, “DONATO MENICHELLA\" \nLa Banca d’Italia indice il seguente concorso pubblico per l’assegnazione di:\n• 3 borse di studio “Bonaldo Stringher” destinate al perfezionamento degli studi all’estero nel campo dell’economia politica e della politica economica ;\n• 2 borse di studio “Giorgio Mortara” destinate al perfezionamento degli studi all’estero nei campi dell’economia finanziaria, dell’econometria o dei metodi matematici, statistici o informatici (es. intelligenza artificiale, machine learning, FinTech, cyber security) applicati…",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3d010db5f5648cf9ab5cb0393088118",
-   "linkEnte": "",
-   "key": "inpa:f3d010db5f5648cf9ab5cb0393088118",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "Banca d'Italia"
-   ],
-   "categoria": "aziende"
   },
   {
    "id": "inpa:8d486dec3de54c3eba9d1d2607940306",
@@ -2440,6 +2309,41 @@
     "Polizia di Stato"
    ],
    "categoria": "forze"
+  },
+  {
+   "id": "inpa:036853c3ae4749a094921f3b6919284b",
+   "inpaId": "036853c3ae4749a094921f3b6919284b",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "BANDO PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO, DELLA DURATA DI 6 (SEI) MESI, TRAMITE SELEZIONE PUBBLICA PER TITOLI E COLLOQUIO, NELL’AMBITO DEL PROGETTO DI RICERCA “NOVIXGEN\"- NUOVE PROSPETTIVE DI SVILUPPO PER L’OLIVICOLTURA ITALIANA ATTRAVERSO LA VALORIZZAZIONE DELLA BIODIVERSITÀ E LA…",
+   "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
+   "profilo": "ricercatore",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-21",
+   "pubblicazione": "2026-11-19",
+   "contratto": "tempo determinato",
+   "descrizione": "Conferimento di n. 1 borsa di studio, della durata di 6 (sei) mesi, tramite selezione pubblica per titoli e colloquio, nell’ambito del progetto di ricerca “NOVIXGEN - Nuove prospettive di sviluppo per l’olivicoltura italiana attraverso la valorizzazione della biodiversità e la selezione di materiale genetico d’olivo tollerante/resistente a xylella fastidiosa e azioni mirate a prevenire il possibile impatto sulla viticoltura” – (Decreto MUR n. 0664890 del 29/12/2022) con scadenza fissata al 31/12/2027, per lo svolgimento di attività di ricerca sulla tematica “Selezione di geni candidati…",
+   "mansioni": "ATTIVITÀ DI RICERCA SULLA TEMATICA “SELEZIONE DI GENI CANDIDATI COINVOLTI\nI settori di riferimento nel cui ambito si svolgerà l’attività di ricerca sono: Area 05 - Scienze Biologiche\nLe attività da svolgere saranno le seguenti:",
+   "titoliStudio": "Titolo di studio\nLM-69 Scienze e tecnologie agrarie,\nLM-7 Biotecnologie agrarie,\nScienze Biologiche \nBiotecnologie \nFarmacia",
+   "requisiti": "Titolo di studio\n• LM-6 Biologia,\n• LM-69 Scienze e tecnologie agrarie,\n• LM-7 Biotecnologie agrarie,\n• LM-8 Biotecnologie industriali,\n• LM-60 Scienze della natura,\n• LM-13 Farmacia e farmacia industriale.\nSono altresì ammesse le Lauree Specialistiche (LS) e i Diplomi di Laurea (DL) equiparati, ai sensi del Decreto Interministeriale 9 luglio 2009, alle suddette Lauree di secondo livello (LM), nonché i titoli dichiarati equipollenti ai medesimi ai sensi della normativa vigente.",
+   "prove": "Colloquio.\nLe attività da svolgere saranno le seguenti:\n• Estrazione di acidi nucleici da materiale fogliare di olivo\n• Studi di espressione genica\n• Elaborazione statistica dei dati.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/prot.%20n.%200081692%20del%2019.11.2026%20Bando%20Borsa%20di%20studio%20cod.%20BS_NOVIXGEN_OFA_RENDE_signed.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=036853c3ae4749a094921f3b6919284b",
+   "linkEnte": "https://www.crea.gov.it/borse-di-studio-e-contratti-incarichi-di-ricerca",
+   "altriLink": [
+    "https://www.concorsipubblici.com/consiglio-la-ricerca-agricoltura-e-lanalisi-delleconomia-agraria-borsa-di-studio-ricercatore-1"
+   ],
+   "key": "inpa:036853c3ae4749a094921f3b6919284b",
+   "primaVista": "2026-11-19",
+   "entiMonitorati": [],
+   "categoria": "altro"
   },
   {
    "id": "inpa:57411ee993a54405a13a7ac451447256",
