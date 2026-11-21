@@ -1,9 +1,9 @@
 {
- "aggiornato": "2026-11-20T14:10+00:00",
+ "aggiornato": "2026-11-21T13:35+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
-   "bandi": 69
+   "bandi": 66
   },
   "ConcorsiPubblici": {
    "ok": true,
@@ -14,163 +14,68 @@
    "bandi": 16
   }
  },
- "totale": 72,
+ "totale": 70,
  "nuoviOggi": 1,
  "bandi": [
   {
-   "id": "inpa:3007d4f2fde34920a782791f2224bfc3",
-   "inpaId": "3007d4f2fde34920a782791f2224bfc3",
+   "id": "inpa:41053534fa8849948bef97fa1356bfbc",
+   "inpaId": "41053534fa8849948bef97fa1356bfbc",
    "fonti": [
     "inPA"
    ],
-   "titolo": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE A RICOPRIRE L’INCARICO DI COMPONENTI ESTERNI DELLA COMMISSIONE ESAMINATRICE PER IL CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO E PARZIALE (18 ORE SETTIMANALI) DI N. 2 POSTI DI \"COLLABORATORE ESPERTO TECNICO\" – AREA DEGLI…",
-   "ente": "Comune di Rosarno",
-   "profilo": "COMPONENTE DI CONCORSO",
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - BANDO DI SELEZIONE PER SOLI TITOLI PER L’INCLUSIONE E/O L’AGGIORNAMENTO DELLA GRADUATORIA D’ISTITUTO PERMANENTE PER IL PROFILO DI OPERATORE – AREA DEGLI OPERATORI",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "PROFILO DI OPERATORE – AREA DEGLI OPERATORI - ALLEGATO I AL CCNL AFAM 2019/2021 DEL 18/01/2024 DEL VIGENTE CCNL COMPARTO AFAM",
    "sedi": [
     "Reggio Calabria"
    ],
    "nazionale": false,
-   "posti": 2,
-   "scadenza": "2026-12-07",
-   "pubblicazione": "2026-11-19",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE A RICOPRIRE L’INCARICO DI COMPONENTI ESTERNI DELLA COMMISSIONE ESAMINATRICE PER IL CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO E PARZIALE (18 ORE SETTIMANALI) DI N. 2 POSTI DI \"COLLABORATORE ESPERTO TECNICO\" – AREA DEGLI OPERATORI ESPERTI DA ASSEGNARE AL SERVIZIO DI TRASPORTO SCOLASTICO E SERVIZI ANALOGHI",
+   "posti": 1,
+   "scadenza": "2026-12-05",
+   "pubblicazione": "2026-11-21",
+   "contratto": "tempo indeterminato",
+   "descrizione": "Procedura per la formazione di una graduatoria permanente d’Istituto per soli titoli relativa al profilo professionale di “Operatore” - Area prima, del vigente CCNL comparto AFAM riservato al personale in servizio presso l’Accademia di Belle Arti di Reggio Calabria, con contratto di lavoro a tempo determinato, assunto prima del 1.11.2025 e con almeno 24 mesi di servizio prestato senza demerito ed in relazione alle medesime attività svolte",
    "mansioni": "",
-   "titoliStudio": "Di possedere il seguente titolo di studio: ______________________________;",
-   "requisiti": "I candidati inoltre devono essere in possesso dei seguenti requisiti:\nNon aver riportato condanne penali, anche se non passate in giudicato e di non aver  procedimenti in corso per i reati contro il patrimonio e la pubblica amministrazione o che  comportino l'interdizione dai pubblici e uffici o che comunque impediscano la cos tituzione  del rapporto di lavoro con la P.A.;\nIl conferimento dei dati anagrafic i e dei dati relativi al possesso dei requisiti è\nDi essere esperto esterno / docente con specifica e comprovata esperienza nel settore:",
+   "titoliStudio": "h) Possesso del seguente titolo di studio: diploma di scuola secondaria superiore.",
+   "requisiti": "• Alla procedura è ammesso a partecipare il personale in servizio presso l’Accademia di Belle Arti di Reggio Calabria, con contratto di lavoro a tempo determinato, assunto prima del 1.11.2025 e con almeno 24 mesi di servizio prestato senza demerito ed in relazione alle medesime attività svolte, anche non continuativamente, nelle Istituzioni dell’Alta Formazione Artistica Musicale e coreutica, nel profilo professionale di “Operatore - ex Coadiutore” - Area Prima, alla data della scadenza del presente bando; \n• I candidati di cui sopra, utilmente inclusi in graduatoria, hanno titolo ad essere…",
    "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/01f23f12-aa80-4f07-8f49-2d83ed358386",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3007d4f2fde34920a782791f2224bfc3",
-   "linkEnte": "",
-   "key": "inpa:3007d4f2fde34920a782791f2224bfc3",
-   "primaVista": "2026-11-20",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:8bcb59c82a394113a21d8bee927fd546",
-   "inpaId": "8bcb59c82a394113a21d8bee927fd546",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "BANDO DI INTERPELLO “ELENCO IDONEI” Per Enti sottoscrittori Accordo aggregato ex art.3-bis DL n.80/2021 COMUNE DI TARSIA (CS) FUNZIONARIO AMMINISTRATIVO CONTABILE (AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE) EX PROFILO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE CAT D",
-   "ente": "Comune di Tarsia",
-   "profilo": "FUNZIONARIO AMMINISTRATIVO CONTABILE (AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE) EX PROFILO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE CAT D",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-20",
-   "pubblicazione": "2026-11-05",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "BANDO DI INTERPELLO “ELENCO IDONEI” \nPer Enti sottoscrittori Accordo aggregato ex art.3-bis DL n.80/2021 \nCOMUNE DI TARSIA (CS) \nFUNZIONARIO AMMINISTRATIVO CONTABILE (AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE) EX PROFILO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE CAT D",
-   "mansioni": "con verbale del 01.03.2024 della Conferenza degli enti sottoscrittori è stato istituito, tra  l'altro, un Comitato Esecutivo con compiti operativi di supporto all'ente capofila;",
-   "titoliStudio": "",
-   "requisiti": "Con la domanda di adesione all’interpello il candidato autorizza l’Amministrazione alla pubblicazione, nell’ambito della procedura, del proprio nominativo sul sito Internet della Comune di Tarsia nel rispetto dei criteri di minimizzazione di legge. Con la sottoscrizione della domanda di adesione il candidato autorizza l’Amministrazione a operazioni di trattamento informatico e manuale dei dati per la gestione della Selezione nonché a operazioni di trasferimento degli stessi ad altre pubbliche amministrazioni per la gestione dell’interpello ai sensi della normativa vigente. I dati saranno…",
-   "prove": "Per colloquio",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/eb38792b-ba09-4675-9fc1-0043dfe233be",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8bcb59c82a394113a21d8bee927fd546",
-   "linkEnte": "",
-   "key": "inpa:8bcb59c82a394113a21d8bee927fd546",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
+   "linkBando": "https://portale.inpa.gov.it/api/media/74db247d-636e-4fb5-a98b-f3f3e42d6f61",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=41053534fa8849948bef97fa1356bfbc",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/2026/0013_Documenti_1795249729257/",
+   "key": "inpa:41053534fa8849948bef97fa1356bfbc",
+   "primaVista": "2026-11-21",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
   },
   {
-   "id": "inpa:02622680f9514374adde3fe03a1e597a",
-   "inpaId": "02622680f9514374adde3fe03a1e597a",
+   "id": "cp:accademia-di-belle-arti-di-catanzaro-concorso-docente-catanzaro-2026-3",
    "fonti": [
-    "inPA"
+    "ConcorsiPubblici"
    ],
-   "titolo": "BANDO DI INTERPELLO “ELENCO IDONEI” Per Enti sottoscrittori Accordo aggregato ex art.3-bis DL n.80/2021 ISTRUTTORE AMMINISTRATIVO CONTABILE (AREA DEGLI ISTRUTTORI) EX PROFILO DI ISTRUTTORE AMMINISTRATIVO CONTABILE CAT.C1 - COMUNE DI TARSIA (CS)",
-   "ente": "Comune di Tarsia",
-   "profilo": "ISTRUTTORE AMMINISTRATIVO CONTABILE (AREA DEGLI ISTRUTTORI) EX PROFILO DI ISTRUTTORE AMMINISTRATIVO CONTABILE CAT.C1",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-20",
-   "pubblicazione": "2026-11-05",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "BANDO DI INTERPELLO “ELENCO IDONEI” \nPer Enti sottoscrittori Accordo aggregato ex art.3-bis DL n.80/2021 \nCOMUNE DI TARSIA (CS) \nISTRUTTORE AMMINISTRATIVO CONTABILE (AREA DEGLI ISTRUTTORI) EX PROFILO DI ISTRUTTORE AMMINISTRATIVO CONTABILE CAT.C1",
-   "mansioni": "con verbale del 01.03.2024 della Conferenza degli enti sottoscrittori è stato istituito, tra  l'altro, un Comitato Esecutivo con compiti operativi di supporto all'ente capofila;",
-   "titoliStudio": "",
-   "requisiti": "Con la domanda di adesione all’interpello il candidato autorizza l’Amministrazione alla pubblicazione, nell’ambito della procedura, del proprio nominativo sul sito Internet della Comune di Tarsia nel rispetto dei criteri di minimizzazione di legge. Con la sottoscrizione della domanda di adesione il candidato autorizza l’Amministrazione a operazioni di trattamento informatico e manuale dei dati per la gestione della Selezione nonché a operazioni di trasferimento degli stessi ad altre pubbliche amministrazioni per la gestione dell’interpello ai sensi della normativa vigente. I dati saranno…",
-   "prove": "Per colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/f17a08a5-537e-4086-b34a-7d6edecc1d66",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=02622680f9514374adde3fe03a1e597a",
-   "linkEnte": "",
-   "key": "inpa:02622680f9514374adde3fe03a1e597a",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:8d486dec3de54c3eba9d1d2607940306",
-   "inpaId": "8d486dec3de54c3eba9d1d2607940306",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AVVISO PUBBLICO per la stabilizzazione, ai sensi dell’art. 3, comma 5, del D.L. 22 aprile 2023, n. 44, convertito con modificazioni dalla Legge 74/2023, di n. 1 unità di personale non dirigenziale, già assunta con contratto di lavoro subordinato a tempo determinato nell’ambito delle misure di…",
-   "ente": "Comune di Falerna",
-   "profilo": "Istruttore Amministrativo Contabile",
-   "sedi": [
-    "Calabria"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-21",
-   "pubblicazione": "2026-11-06",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "AVVISO PUBBLICO per la stabilizzazione, ai sensi dell’art. 3, comma 5, del D.L. 22 aprile 2023, n. 44, convertito con modificazioni dalla Legge 21 giugno 2023, n. 74, di n. 1 unità di personale non dirigenziale, già assunta con contratto di lavoro subordinato a tempo determinato nell’ambito delle misure di rafforzamento della capacità amministrativa degli enti locali finalizzate all’attuazione degli interventi del Piano Nazionale di Ripresa e Resilienza (PNRR) ai sensi dell’art. 31-bis del D.L. 6 novembre 2021, n. 152, convertito con modificazioni dalla Legge 29 dicembre 2021, n. 233, da…",
-   "mansioni": "",
-   "titoliStudio": "del diploma di scuola superiore o titolo superiore, comunque equipollente anche se  conseguito all’estero.\nPer i candidati in possesso di titolo di studio conseguito all’estero,  l’assunzione è subordinata al rilascio, da parte delle competenti autorità, del provvedimento  di equivalenza del titolo posseduto a quello richiesto, ai sensi dell’art. 38 del D.lgs. 30  marzo 2001, n. 165.",
-   "requisiti": "REQUISITI GENERALI\nI candidati devono essere in possesso dei requisiti generali previsti dalla normativa vigente per  l’accesso al pubblico impiego e precisamente:\ni cittadini degli Stati membri dell’Unione Europea e i loro familiari non aventi la  cittadinanza di uno Stato membro che siano titolari del diritto di soggiorno o del diritto di  soggiorno permanente;\nil godimento dei diritti civili e politici anche nello Stato di appartenenza o provenienza;\nun’adeguata conoscenza della lingua italiana.",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/9871c94a-65a7-4ce3-8335-abadcc874423",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8d486dec3de54c3eba9d1d2607940306",
-   "linkEnte": "https://comune.falerna.cz.it/",
-   "key": "inpa:8d486dec3de54c3eba9d1d2607940306",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:14a8864e8b514f0a9b45a62bfc70269b",
-   "inpaId": "14a8864e8b514f0a9b45a62bfc70269b",
-   "fonti": [
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI DOCENTE A TEMPO INDETERMINATO SETTORE ARTISTICO DISCIPLINARE AFAM070 – REGIA",
+   "titolo": "Accademia di Belle Arti di Catanzaro, 1 docente",
    "ente": "Accademia di Belle Arti di Catanzaro",
-   "profilo": "Docente",
+   "profilo": "docente",
    "sedi": [
     "Catanzaro"
    ],
    "nazionale": false,
-   "posti": 1,
+   "posti": null,
    "scadenza": "2026-11-21",
-   "pubblicazione": "2026-10-22",
-   "contratto": "tempo indeterminato, tempo pieno",
-   "descrizione": "È indetta una selezione pubblica per titoli ed esami, per la copertura di n. 1 posto di personale docente a tempo\nindeterminato con regime di impegno a tempo pieno per l'insegnamento di “AFAM070 – REGIA”. Il settore\ndisciplinare di riferimento ai sensi del D.M. 128/2025",
+   "pubblicazione": "",
+   "descrizione": "Bando di concorso pubblico per titoli ed esami per la copertura di n. 1 posto di docente a tempo indeterminato settore artistico disciplinare afam070 – regia",
+   "link": "https://www.concorsipubblici.com/accademia-di-belle-arti-di-catanzaro-concorso-docente-catanzaro-2026-3",
+   "inpaId": "14a8864e8b514f0a9b45a62bfc70269b",
+   "contratto": "tempo indeterminato",
    "mansioni": "L’attività didattica potrà svolgersi nell’ambito dei corsi triennali, biennali, master, workshop, laboratori e progetti di",
    "titoliStudio": "Laurea di secondo livello in Arti applicate ABA, ISIA o DAMS, oppure tre anni accademici di insegnamento (a tempo determinato) nel medesimo settore.\nAccademia Belle Arti",
    "requisiti": "Laurea di secondo livello in Arti applicate ABA, ISIA o DAMS, oppure tre anni accademici di insegnamento (a tempo determinato) nel medesimo settore.",
    "prove": "La prova è unica e si articolerà in due parti distinte: una prova pratica e una prova didattica.\nProva pratica:\nLa prova pratica è volta ad accertare le competenze tecniche del candidato in riferimento al SAD oggetto del concorso (AFAM070).\nDurata complessiva della prova: massimo 4 ore.\nPunteggio…",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
    "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando-AFAM070-Regia-signed.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=14a8864e8b514f0a9b45a62bfc70269b",
-   "linkEnte": "www.abacatanzaro.it ",
-   "altriLink": [
-    "https://www.concorsipubblici.com/accademia-di-belle-arti-di-catanzaro-concorso-docente-catanzaro-2026-3"
-   ],
    "key": "inpa:14a8864e8b514f0a9b45a62bfc70269b",
    "primaVista": "2026-11-13",
    "entiMonitorati": [
@@ -1339,6 +1244,37 @@
    "linkEnte": "https://decollatura.trasparenza-valutazione-merito.it/web/trasparenza/papca-g/-/papca/display/1813200",
    "key": "inpa:67cdd6d4f2f24922ada35fc99c7ff246",
    "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:3007d4f2fde34920a782791f2224bfc3",
+   "inpaId": "3007d4f2fde34920a782791f2224bfc3",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE A RICOPRIRE L’INCARICO DI COMPONENTI ESTERNI DELLA COMMISSIONE ESAMINATRICE PER IL CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO E PARZIALE (18 ORE SETTIMANALI) DI N. 2 POSTI DI \"COLLABORATORE ESPERTO TECNICO\" – AREA DEGLI…",
+   "ente": "Comune di Rosarno",
+   "profilo": "COMPONENTE DI CONCORSO",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-12-07",
+   "pubblicazione": "2026-11-19",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE A RICOPRIRE L’INCARICO DI COMPONENTI ESTERNI DELLA COMMISSIONE ESAMINATRICE PER IL CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO E PARZIALE (18 ORE SETTIMANALI) DI N. 2 POSTI DI \"COLLABORATORE ESPERTO TECNICO\" – AREA DEGLI OPERATORI ESPERTI DA ASSEGNARE AL SERVIZIO DI TRASPORTO SCOLASTICO E SERVIZI ANALOGHI",
+   "mansioni": "",
+   "titoliStudio": "Di possedere il seguente titolo di studio: ______________________________;",
+   "requisiti": "I candidati inoltre devono essere in possesso dei seguenti requisiti:\nNon aver riportato condanne penali, anche se non passate in giudicato e di non aver  procedimenti in corso per i reati contro il patrimonio e la pubblica amministrazione o che  comportino l'interdizione dai pubblici e uffici o che comunque impediscano la cos tituzione  del rapporto di lavoro con la P.A.;\nIl conferimento dei dati anagrafic i e dei dati relativi al possesso dei requisiti è\nDi essere esperto esterno / docente con specifica e comprovata esperienza nel settore:",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/01f23f12-aa80-4f07-8f49-2d83ed358386",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3007d4f2fde34920a782791f2224bfc3",
+   "linkEnte": "",
+   "key": "inpa:3007d4f2fde34920a782791f2224bfc3",
+   "primaVista": "2026-11-20",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
