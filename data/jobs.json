@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-21T13:35+00:00",
+ "aggiornato": "2026-11-22T13:27+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "ConcorsiPubblici": {
    "ok": true,
-   "bandi": 41
+   "bandi": 40
   },
   "Concorsando": {
    "ok": true,
@@ -18,68 +18,68 @@
  "nuoviOggi": 1,
  "bandi": [
   {
-   "id": "inpa:41053534fa8849948bef97fa1356bfbc",
-   "inpaId": "41053534fa8849948bef97fa1356bfbc",
+   "id": "inpa:44132e4801074b099d48c879e80009d3",
+   "inpaId": "44132e4801074b099d48c879e80009d3",
    "fonti": [
     "inPA"
    ],
-   "titolo": "Accademia di Belle Arti di Reggio Calabria - BANDO DI SELEZIONE PER SOLI TITOLI PER L’INCLUSIONE E/O L’AGGIORNAMENTO DELLA GRADUATORIA D’ISTITUTO PERMANENTE PER IL PROFILO DI OPERATORE – AREA DEGLI OPERATORI",
-   "ente": "Accademia di Belle Arti Reggio Calabria",
-   "profilo": "PROFILO DI OPERATORE – AREA DEGLI OPERATORI - ALLEGATO I AL CCNL AFAM 2019/2021 DEL 18/01/2024 DEL VIGENTE CCNL COMPARTO AFAM",
+   "titolo": "Concorsi docenza propedeutico Corigliano Rossano",
+   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+   "profilo": "Docente Propedeutico Batteria e percussioni pop rock",
    "sedi": [
-    "Reggio Calabria"
+    "Cosenza"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-12-05",
-   "pubblicazione": "2026-11-21",
-   "contratto": "tempo indeterminato",
-   "descrizione": "Procedura per la formazione di una graduatoria permanente d’Istituto per soli titoli relativa al profilo professionale di “Operatore” - Area prima, del vigente CCNL comparto AFAM riservato al personale in servizio presso l’Accademia di Belle Arti di Reggio Calabria, con contratto di lavoro a tempo determinato, assunto prima del 1.11.2025 e con almeno 24 mesi di servizio prestato senza demerito ed in relazione alle medesime attività svolte",
+   "scadenza": "2026-11-28",
+   "pubblicazione": "2026-10-20",
+   "contratto": "",
+   "descrizione": "Concorsi docenza propedeutico",
    "mansioni": "",
-   "titoliStudio": "h) Possesso del seguente titolo di studio: diploma di scuola secondaria superiore.",
-   "requisiti": "• Alla procedura è ammesso a partecipare il personale in servizio presso l’Accademia di Belle Arti di Reggio Calabria, con contratto di lavoro a tempo determinato, assunto prima del 1.11.2025 e con almeno 24 mesi di servizio prestato senza demerito ed in relazione alle medesime attività svolte, anche non continuativamente, nelle Istituzioni dell’Alta Formazione Artistica Musicale e coreutica, nel profilo professionale di “Operatore - ex Coadiutore” - Area Prima, alla data della scadenza del presente bando; \n• I candidati di cui sopra, utilmente inclusi in graduatoria, hanno titolo ad essere…",
+   "titoliStudio": "",
+   "requisiti": "",
    "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/74db247d-636e-4fb5-a98b-f3f3e42d6f61",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=41053534fa8849948bef97fa1356bfbc",
-   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/2026/0013_Documenti_1795249729257/",
-   "key": "inpa:41053534fa8849948bef97fa1356bfbc",
-   "primaVista": "2026-11-21",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=44132e4801074b099d48c879e80009d3",
+   "linkEnte": "",
+   "key": "inpa:44132e4801074b099d48c879e80009d3",
+   "primaVista": "2026-11-22",
    "entiMonitorati": [
-    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
     "AFAM – Altri Conservatori e Accademie in Calabria"
    ],
    "categoria": "istruzione"
   },
   {
-   "id": "cp:accademia-di-belle-arti-di-catanzaro-concorso-docente-catanzaro-2026-3",
+   "id": "cp:conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-docente-cosenza-2026-1",
    "fonti": [
     "ConcorsiPubblici"
    ],
-   "titolo": "Accademia di Belle Arti di Catanzaro, 1 docente",
-   "ente": "Accademia di Belle Arti di Catanzaro",
+   "titolo": "Conservatorio di Musica ‘Stanislao Giacomantonio’ di Cosenza, 23 posti di docente",
+   "ente": "Conservatorio di musica «Stanislao Giacomantonio» di Cosenza",
    "profilo": "docente",
    "sedi": [
-    "Catanzaro"
+    "Cosenza"
    ],
    "nazionale": false,
    "posti": null,
-   "scadenza": "2026-11-21",
+   "scadenza": "2026-11-22",
    "pubblicazione": "",
-   "descrizione": "Bando di concorso pubblico per titoli ed esami per la copertura di n. 1 posto di docente a tempo indeterminato settore artistico disciplinare afam070 – regia",
-   "link": "https://www.concorsipubblici.com/accademia-di-belle-arti-di-catanzaro-concorso-docente-catanzaro-2026-3",
-   "inpaId": "14a8864e8b514f0a9b45a62bfc70269b",
-   "contratto": "tempo indeterminato",
-   "mansioni": "L’attività didattica potrà svolgersi nell’ambito dei corsi triennali, biennali, master, workshop, laboratori e progetti di",
-   "titoliStudio": "Laurea di secondo livello in Arti applicate ABA, ISIA o DAMS, oppure tre anni accademici di insegnamento (a tempo determinato) nel medesimo settore.\nAccademia Belle Arti",
-   "requisiti": "Laurea di secondo livello in Arti applicate ABA, ISIA o DAMS, oppure tre anni accademici di insegnamento (a tempo determinato) nel medesimo settore.",
-   "prove": "La prova è unica e si articolerà in due parti distinte: una prova pratica e una prova didattica.\nProva pratica:\nLa prova pratica è volta ad accertare le competenze tecniche del candidato in riferimento al SAD oggetto del concorso (AFAM070).\nDurata complessiva della prova: massimo 4 ore.\nPunteggio…",
+   "descrizione": "Concorsi docenza propedeutico Corigliano Rossano",
+   "link": "https://www.concorsipubblici.com/conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-docente-cosenza-2026-1",
+   "inpaId": "185707173c264876ae6ab5be5da510f9",
+   "contratto": "tempo determinato",
+   "mansioni": "",
+   "titoliStudio": "Diploma di conservatorio",
+   "requisiti": "",
+   "prove": "Per titoli.",
    "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando-AFAM070-Regia-signed.pdf",
-   "key": "inpa:14a8864e8b514f0a9b45a62bfc70269b",
+   "linkBando": "",
+   "key": "inpa:185707173c264876ae6ab5be5da510f9",
    "primaVista": "2026-11-13",
    "entiMonitorati": [
-    "AFAM – Accademia di Belle Arti di Catanzaro",
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
     "AFAM – Altri Conservatori e Accademie in Calabria"
    ],
    "categoria": "istruzione"
@@ -222,7 +222,6 @@
    "id": "inpa:2115ed9b7c3f4620afc6cfb22a2f6781",
    "inpaId": "2115ed9b7c3f4620afc6cfb22a2f6781",
    "fonti": [
-    "ConcorsiPubblici",
     "inPA"
    ],
    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO INSEGNANTE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI. RIAPERTURA TERMINI DALLE ORE 00.00 DEL 10/11/2026…",
@@ -236,18 +235,15 @@
    "scadenza": "2026-11-24",
    "pubblicazione": "2026-10-08",
    "contratto": "tempo indeterminato, tempo pieno",
-   "descrizione": "Comune di Catanzaro – concorso pubblico per esami per l’assunzione a tempo indeterminato e pieno di n. 1 funzionario insegnante – area dei funzionari e delle elevate qualificazioni del nuovo ordinamento del ccnl di comparto delle funzioni locali.",
+   "descrizione": "È indetto pubblico concorso, per soli esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale non dirigente “Funzionario Insegnante”",
    "mansioni": "Le mansioni esigibili, nel rispetto de lla declaratoria di cui all’allegato A) del CCNL del personale  del comparto Funzioni Locali sottoscritto in data 16/11/2022 , riguarderanno lo svolgimento di  attività pedagogico-didattiche finalizzate al raggiungimento degli obiettivi educativi e degli stessi  standard qualitativi, pedagogici e normativi programmati per le scuole dell’infanzia statali.\nIl “Funzionario…",
-   "titoliStudio": "La mancanza del titolo di specializzazione non è causa di esclusione dal presente concorso finalizzato alla copertura di n. 1 posto di “Funzionario Insegnate”.\nScienze della formazione \nliceo socio-psicopedagogico",
-   "requisiti": "Possesso della Laurea Magistrale appartenente ad una delle seguenti classi: Laurea in Scienze della formazione primaria titolo abilitante all’insegnamento, nuovo ordinamento - classe LM 85 bis - (art. 6 Decreto ministeriale 249/2010) ovvero Laurea in Scienze della formazione primaria titolo abilitante all’insegnamento, vecchio ordinamento - indirizzo scuola dell’infanzia (art. 6 Legge 169/2008) ovvero diploma di Istituto Magistrale o di scuola magistrale (solo scuola dell’infanzia) o Diploma di Liceo Socio - Psico - Pedagogico conseguiti entro l’anno scolastico 2001 - 2002 (Decreto…",
-   "prove": "Conoscenze nelle seguenti materie:\nPedagogia: fondamenti teorici e storici dell'educazione infantile.\nPsicopedagogia e Inclusione: psicologia dello sviluppo, dinamiche dell'apprendimento e bisogni educativi speciali (BES/DSA).\nMetodologia didattica e Valutazione: strategie di insegnamento,…",
+   "titoliStudio": "la Legge n. 62 del 10.03.2000 “Norme per la parità scolastica e disposizioni sul diritto allo  studio e all'istruzione.” ed in particolare l’art. 1 comma 4 -bis, in materia di requisito del  titolo di abilitazione per i docenti di scuole materne paritarie;\nParità Scolastica, in merito al titolo di studio richiesto per l’insegnamento nelle Scuole\nil Decreto Ministero dell'Istruzione, dell'Università e della Ricerca…",
+   "requisiti": "la Legge n. 62 del 10.03.2000 “Norme per la parità scolastica e disposizioni sul diritto allo  studio e all'istruzione.” ed in particolare l’art. 1 comma 4 -bis, in materia di requisito del  titolo di abilitazione per i docenti di scuole materne paritarie;\nc) Competenza linguistica: adeguata conoscenza della lingua inglese;  d) Competenza digitale, informatica: padronanza di software comuni (pacchetti applicativi come\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\n2) età non inferiore ad anni 18 e non superiore ai limiti massimi ordinamentali previsti per il  pensionamento nel…",
+   "prove": "Per esami",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/BANDO%20funzionario%20insegnante_2026_num.firmato_signed.pdf",
+   "linkBando": "https://portale.inpa.gov.it/api/media/05cc0f07-228b-44ca-9351-7e971710e4a1",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2115ed9b7c3f4620afc6cfb22a2f6781",
    "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
-   "altriLink": [
-    "https://www.concorsipubblici.com/comune-di-catanzaro-concorso-insegnante-catanzaro-2026"
-   ],
    "key": "inpa:2115ed9b7c3f4620afc6cfb22a2f6781",
    "primaVista": "2026-11-13",
    "entiMonitorati": [
@@ -668,44 +664,6 @@
     "Esercito Italiano"
    ],
    "categoria": "forze"
-  },
-  {
-   "id": "inpa:185707173c264876ae6ab5be5da510f9",
-   "inpaId": "185707173c264876ae6ab5be5da510f9",
-   "fonti": [
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "Concorsi docenza propedeutico Corigliano Rossano",
-   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
-   "profilo": "Docente Propedeutico Violoncello",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-28",
-   "pubblicazione": "2026-10-20",
-   "contratto": "tempo determinato",
-   "descrizione": "Concorsi docenza propedeutico Corigliano Rossano",
-   "mansioni": "",
-   "titoliStudio": "Diploma di conservatorio",
-   "requisiti": "",
-   "prove": "Per titoli.",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=185707173c264876ae6ab5be5da510f9",
-   "linkEnte": "",
-   "altriLink": [
-    "https://www.concorsipubblici.com/conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-docente-cosenza-2026-1"
-   ],
-   "key": "inpa:185707173c264876ae6ab5be5da510f9",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "AFAM – Altri Conservatori e Accademie in Calabria",
-    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza"
-   ],
-   "categoria": "istruzione"
   },
   {
    "id": "inpa:be5fd579fadb4c77b8664591ee50c3d5",
@@ -1212,6 +1170,40 @@
    "primaVista": "2026-11-13",
    "entiMonitorati": [
     "AFAM – Accademia di Belle Arti di Catanzaro",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:41053534fa8849948bef97fa1356bfbc",
+   "inpaId": "41053534fa8849948bef97fa1356bfbc",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - BANDO DI SELEZIONE PER SOLI TITOLI PER L’INCLUSIONE E/O L’AGGIORNAMENTO DELLA GRADUATORIA D’ISTITUTO PERMANENTE PER IL PROFILO DI OPERATORE – AREA DEGLI OPERATORI",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "PROFILO DI OPERATORE – AREA DEGLI OPERATORI - ALLEGATO I AL CCNL AFAM 2019/2021 DEL 18/01/2024 DEL VIGENTE CCNL COMPARTO AFAM",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-05",
+   "pubblicazione": "2026-11-21",
+   "contratto": "tempo indeterminato",
+   "descrizione": "Procedura per la formazione di una graduatoria permanente d’Istituto per soli titoli relativa al profilo professionale di “Operatore” - Area prima, del vigente CCNL comparto AFAM riservato al personale in servizio presso l’Accademia di Belle Arti di Reggio Calabria, con contratto di lavoro a tempo determinato, assunto prima del 1.11.2025 e con almeno 24 mesi di servizio prestato senza demerito ed in relazione alle medesime attività svolte",
+   "mansioni": "",
+   "titoliStudio": "h) Possesso del seguente titolo di studio: diploma di scuola secondaria superiore.",
+   "requisiti": "• Alla procedura è ammesso a partecipare il personale in servizio presso l’Accademia di Belle Arti di Reggio Calabria, con contratto di lavoro a tempo determinato, assunto prima del 1.11.2025 e con almeno 24 mesi di servizio prestato senza demerito ed in relazione alle medesime attività svolte, anche non continuativamente, nelle Istituzioni dell’Alta Formazione Artistica Musicale e coreutica, nel profilo professionale di “Operatore - ex Coadiutore” - Area Prima, alla data della scadenza del presente bando; \n• I candidati di cui sopra, utilmente inclusi in graduatoria, hanno titolo ad essere…",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/74db247d-636e-4fb5-a98b-f3f3e42d6f61",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=41053534fa8849948bef97fa1356bfbc",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/2026/0013_Documenti_1795249729257/",
+   "key": "inpa:41053534fa8849948bef97fa1356bfbc",
+   "primaVista": "2026-11-21",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
     "AFAM – Altri Conservatori e Accademie in Calabria"
    ],
    "categoria": "istruzione"
