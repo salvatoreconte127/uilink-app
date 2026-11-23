@@ -1,88 +1,87 @@
 {
- "aggiornato": "2026-11-22T13:27+00:00",
+ "aggiornato": "2026-11-23T16:13+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
-   "bandi": 66
+   "bandi": 67
   },
   "ConcorsiPubblici": {
    "ok": true,
-   "bandi": 40
+   "bandi": 41
   },
   "Concorsando": {
    "ok": true,
    "bandi": 16
   }
  },
- "totale": 70,
- "nuoviOggi": 1,
+ "totale": 71,
+ "nuoviOggi": 2,
  "bandi": [
   {
-   "id": "inpa:44132e4801074b099d48c879e80009d3",
-   "inpaId": "44132e4801074b099d48c879e80009d3",
+   "id": "cp:universita-mediterranea-di-reggio-calabria-concorso-professore-di-prima-fascia-reggio-calabria-3",
    "fonti": [
-    "inPA"
+    "ConcorsiPubblici"
    ],
-   "titolo": "Concorsi docenza propedeutico Corigliano Rossano",
-   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
-   "profilo": "Docente Propedeutico Batteria e percussioni pop rock",
+   "titolo": "Università «Mediterranea» di Reggio Calabria, 2 professori di prima fascia (annullamento concorso)",
+   "ente": "Università «Mediterranea» di Reggio Calabria",
+   "profilo": "professore di prima fascia",
    "sedi": [
-    "Cosenza"
+    "Reggio Calabria"
    ],
    "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-28",
-   "pubblicazione": "2026-10-20",
-   "contratto": "",
-   "descrizione": "Concorsi docenza propedeutico",
+   "posti": null,
+   "scadenza": "2026-12-20",
+   "pubblicazione": "",
+   "descrizione": "Annullamento dell'avviso di valutazione comparativa, per titoli e discussione pubblica, per la copertura di quattro posti di ricercatore a tempo determinato in tenure track, vari GSD. (GU n.90 del 20-11-2026)",
+   "link": "https://www.concorsipubblici.com/universita-mediterranea-di-reggio-calabria-concorso-professore-di-prima-fascia-reggio-calabria-3",
+   "inpaId": null,
+   "contratto": "tempo indeterminato",
    "mansioni": "",
-   "titoliStudio": "",
+   "titoliStudio": "Dottorato di ricerca",
    "requisiti": "",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "prove": "",
+   "candidatura": "",
    "linkBando": "",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=44132e4801074b099d48c879e80009d3",
-   "linkEnte": "",
-   "key": "inpa:44132e4801074b099d48c879e80009d3",
-   "primaVista": "2026-11-22",
+   "altriLink": [
+    "https://www.concorsipubblici.com/universita-mediterranea-di-reggio-calabria-concorso-ricercatore-reggio-calabria-2026-0"
+   ],
+   "key": "t:universita mediterranea di reggio calabr|2026-12-20|",
+   "primaVista": "2026-11-23",
    "entiMonitorati": [
-    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
+    "Università Mediterranea di Reggio Calabria"
    ],
    "categoria": "istruzione"
   },
   {
-   "id": "cp:conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-docente-cosenza-2026-1",
+   "id": "inpa:bc0d9e2806884b66938b5532fe767e83",
+   "inpaId": "bc0d9e2806884b66938b5532fe767e83",
    "fonti": [
-    "ConcorsiPubblici"
+    "inPA"
    ],
-   "titolo": "Conservatorio di Musica ‘Stanislao Giacomantonio’ di Cosenza, 23 posti di docente",
-   "ente": "Conservatorio di musica «Stanislao Giacomantonio» di Cosenza",
-   "profilo": "docente",
+   "titolo": "SELEZIONE FUNZIONARIO TECNICO E.Q.",
+   "ente": "Comune di Calopezzati",
+   "profilo": "FUNZIONARIO E.Q.",
    "sedi": [
-    "Cosenza"
+    "Calabria"
    ],
    "nazionale": false,
-   "posti": null,
-   "scadenza": "2026-11-22",
-   "pubblicazione": "",
-   "descrizione": "Concorsi docenza propedeutico Corigliano Rossano",
-   "link": "https://www.concorsipubblici.com/conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-docente-cosenza-2026-1",
-   "inpaId": "185707173c264876ae6ab5be5da510f9",
-   "contratto": "tempo determinato",
-   "mansioni": "",
-   "titoliStudio": "Diploma di conservatorio",
-   "requisiti": "",
-   "prove": "Per titoli.",
-   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
-   "linkBando": "",
-   "key": "inpa:185707173c264876ae6ab5be5da510f9",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
-   ],
-   "categoria": "istruzione"
+   "posti": 1,
+   "scadenza": "2026-12-23",
+   "pubblicazione": "2026-11-23",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO INDETERMINATO E\nPARZIALE 91,67% PARZIALE 33 ORE SETTIMANALI DI N. 1 FUNZIONARIO TECNICO.",
+   "mansioni": "Le date e il luogo dove si svolgeranno le prove d’esame verrà pubbli cato almeno quindici giorni prima  dello svolgimento delle stesse, mediante apposito avviso sul portale I NPA e sul sito  www.comune.calopezzati.cs.it nella sezione “Amministrazione Tra sparente” – sottosezione “Bandi di  concorso”; tale avviso ha valore di notifica a tutti gli effetti e non seguirà pertanto nessun’altra  comunicazione al riguardo.",
+   "titoliStudio": "Diploma di Laurea secondo il vecchio ordinamento un iversitario ante D.M. 509/1999 in\nLaurea Specialistica ex D.M. 509/1999 nelle seguent i classi: 3/S Architettura del paesaggio, 4/S  (classi lauree specialistiche in Architettura e Ing egneria Edile), 28/S (classi lauree specialistiche\nLaurea Magistrale ex D.M. 270/2004 nelle seguenti classi: LM-3 Architettura del Paesaggio, LM",
+   "requisiti": "Per essere ammessi al concorso gli aspiranti - a pena di esclusione - devono essere in possesso dei seguenti  requisiti:\nEtà non inferiore agli anni 18;\nCittadinanza italiana (sono equiparati gli italiani non residenti nella Repubblica e iscritti all’Aire)  o cittadinanza di uno dei Paesi appartenenti all'Unione Europea ai sensi dell’art. 38 del D. Lgs\nI cittadini dell’Unione Europea e di Paesi terzi devono peraltr o possedere, oltre ai requisiti in  elencazione nel presente bando, i seguenti ulteriori requisiti:\nessere in possesso, fatta eccezione per la titolarità della cittadinanza italiana, di tutti gli altri  requisiti previsti per i…",
+   "prove": "Per esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/f5ca1e26-8ae3-4eda-82b5-c5fbc89a8b40",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bc0d9e2806884b66938b5532fe767e83",
+   "linkEnte": "https://portale.inpa.gov.it/",
+   "key": "inpa:bc0d9e2806884b66938b5532fe767e83",
+   "primaVista": "2026-11-23",
+   "entiMonitorati": [],
+   "categoria": "comuni"
   },
   {
    "id": "inpa:d51d2aeeb3b3425db3b0cc4b48ea25fd",
@@ -122,39 +121,6 @@
     "Azienda Ospedaliera di Cosenza"
    ],
    "categoria": "sanita"
-  },
-  {
-   "id": "inpa:abde7f2c715e477c8cacded1451c411a",
-   "inpaId": "abde7f2c715e477c8cacded1451c411a",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Avviso pubblico per la costituzione di un elenco di candidati idonei alla nomina di componente della commissione esaminatrice del concorso per l’assunzione di n. 10 dirigenti amministrativi.",
-   "ente": "Ministero dell'Istruzione e del Merito",
-   "profilo": "Componente commissione",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 9,
-   "scadenza": "2026-11-23",
-   "pubblicazione": "2026-11-06",
-   "contratto": "",
-   "descrizione": "Avviso pubblico per la costituzione di un elenco di candidati idonei alla nomina di componente della commissione esaminatrice del concorso per l’assunzione di n. 10 dirigenti amministrativi.",
-   "mansioni": "L'avviso di convocazione per la prova scritta contenente il diario con l'indicazione della  sede, del giorno e dell'ora in cui si svolgerà e con eventuali indicazioni di dettaglio in merito  al suo svolgimento è pubblicato sul portale «inPA» e sul sito is tituzionale del Ministero ,  almeno quindici giorni prima del suo svolgimento.\nL'avviso di convocazione per la prova orale contenente gli elenchi degli ammessi…",
-   "titoliStudio": "media pari o inferiore a 90 e superiore a 87 (o altro punteggio riparametrato): 3 punti;  b) Valutazione dei titoli professionali, di studio o di specializzazione ulteriori rispetto a  quelli previsti per l’accesso alla qualifica dirigenziale (massimo punti 10):\n1) 0,50 punti per ciascuno dei seguenti titoli, fino ad un massimo di 1 punto: laurea  triennale ulteriore rispetto a quella costituente il presupposto per…",
-   "requisiti": "n. 1 membro aggiuntivo per la valutazione della conoscenza della lingua inglese;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua spagnola;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua francese;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua tedesca;",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/335efea7-10a6-4369-81f1-94a6575defb7",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=abde7f2c715e477c8cacded1451c411a",
-   "linkEnte": " https://www.mim.gov.it/",
-   "key": "inpa:abde7f2c715e477c8cacded1451c411a",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "Ministero dell'Istruzione e del Merito"
-   ],
-   "categoria": "istruzione"
   },
   {
    "id": "inpa:f56af62fc1bb46d2990b5fde51cd0c78",
@@ -250,6 +216,39 @@
     "Comuni capoluogo, Province e Città Metropolitana RC"
    ],
    "categoria": "calabria"
+  },
+  {
+   "id": "inpa:abde7f2c715e477c8cacded1451c411a",
+   "inpaId": "abde7f2c715e477c8cacded1451c411a",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Avviso pubblico per la costituzione di un elenco di candidati idonei alla nomina di componente della commissione esaminatrice del concorso per l’assunzione di n. 10 dirigenti amministrativi.",
+   "ente": "Ministero dell'Istruzione e del Merito",
+   "profilo": "Componente commissione",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 9,
+   "scadenza": "2026-11-25",
+   "pubblicazione": "2026-11-06",
+   "contratto": "",
+   "descrizione": "Avviso pubblico per la costituzione di un elenco di candidati idonei alla nomina di componente della commissione esaminatrice del concorso per l’assunzione di n. 10 dirigenti amministrativi.",
+   "mansioni": "L'avviso di convocazione per la prova scritta contenente il diario con l'indicazione della  sede, del giorno e dell'ora in cui si svolgerà e con eventuali indicazioni di dettaglio in merito  al suo svolgimento è pubblicato sul portale «inPA» e sul sito is tituzionale del Ministero ,  almeno quindici giorni prima del suo svolgimento.\nL'avviso di convocazione per la prova orale contenente gli elenchi degli ammessi…",
+   "titoliStudio": "media pari o inferiore a 90 e superiore a 87 (o altro punteggio riparametrato): 3 punti;  b) Valutazione dei titoli professionali, di studio o di specializzazione ulteriori rispetto a  quelli previsti per l’accesso alla qualifica dirigenziale (massimo punti 10):\n1) 0,50 punti per ciascuno dei seguenti titoli, fino ad un massimo di 1 punto: laurea  triennale ulteriore rispetto a quella costituente il presupposto per…",
+   "requisiti": "n. 1 membro aggiuntivo per la valutazione della conoscenza della lingua inglese;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua spagnola;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua francese;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua tedesca;",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/335efea7-10a6-4369-81f1-94a6575defb7",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=abde7f2c715e477c8cacded1451c411a",
+   "linkEnte": " https://www.mim.gov.it/",
+   "key": "inpa:abde7f2c715e477c8cacded1451c411a",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Ministero dell'Istruzione e del Merito"
+   ],
+   "categoria": "istruzione"
   },
   {
    "id": "inpa:ffd54f7082164ffd955d3ce9d033aeb3",
@@ -664,6 +663,40 @@
     "Esercito Italiano"
    ],
    "categoria": "forze"
+  },
+  {
+   "id": "inpa:44132e4801074b099d48c879e80009d3",
+   "inpaId": "44132e4801074b099d48c879e80009d3",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Concorsi docenza propedeutico Corigliano Rossano",
+   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+   "profilo": "Docente Propedeutico Batteria e percussioni pop rock",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-11-28",
+   "pubblicazione": "2026-10-20",
+   "contratto": "",
+   "descrizione": "Concorsi docenza propedeutico",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=44132e4801074b099d48c879e80009d3",
+   "linkEnte": "",
+   "key": "inpa:44132e4801074b099d48c879e80009d3",
+   "primaVista": "2026-11-22",
+   "entiMonitorati": [
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
   },
   {
    "id": "inpa:be5fd579fadb4c77b8664591ee50c3d5",
