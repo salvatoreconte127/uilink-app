@@ -1,186 +1,143 @@
 {
- "aggiornato": "2026-11-23T16:13+00:00",
+ "aggiornato": "2026-11-24T16:00+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
-   "bandi": 67
+   "bandi": 68
   },
   "ConcorsiPubblici": {
    "ok": true,
-   "bandi": 41
+   "bandi": 40
   },
   "Concorsando": {
    "ok": true,
-   "bandi": 16
+   "bandi": 17
   }
  },
- "totale": 71,
- "nuoviOggi": 2,
+ "totale": 72,
+ "nuoviOggi": 4,
  "bandi": [
   {
-   "id": "cp:universita-mediterranea-di-reggio-calabria-concorso-professore-di-prima-fascia-reggio-calabria-3",
-   "fonti": [
-    "ConcorsiPubblici"
-   ],
-   "titolo": "Università «Mediterranea» di Reggio Calabria, 2 professori di prima fascia (annullamento concorso)",
-   "ente": "Università «Mediterranea» di Reggio Calabria",
-   "profilo": "professore di prima fascia",
-   "sedi": [
-    "Reggio Calabria"
-   ],
-   "nazionale": false,
-   "posti": null,
-   "scadenza": "2026-12-20",
-   "pubblicazione": "",
-   "descrizione": "Annullamento dell'avviso di valutazione comparativa, per titoli e discussione pubblica, per la copertura di quattro posti di ricercatore a tempo determinato in tenure track, vari GSD. (GU n.90 del 20-11-2026)",
-   "link": "https://www.concorsipubblici.com/universita-mediterranea-di-reggio-calabria-concorso-professore-di-prima-fascia-reggio-calabria-3",
-   "inpaId": null,
-   "contratto": "tempo indeterminato",
-   "mansioni": "",
-   "titoliStudio": "Dottorato di ricerca",
-   "requisiti": "",
-   "prove": "",
-   "candidatura": "",
-   "linkBando": "",
-   "altriLink": [
-    "https://www.concorsipubblici.com/universita-mediterranea-di-reggio-calabria-concorso-ricercatore-reggio-calabria-2026-0"
-   ],
-   "key": "t:universita mediterranea di reggio calabr|2026-12-20|",
-   "primaVista": "2026-11-23",
-   "entiMonitorati": [
-    "Università Mediterranea di Reggio Calabria"
-   ],
-   "categoria": "istruzione"
-  },
-  {
-   "id": "inpa:bc0d9e2806884b66938b5532fe767e83",
-   "inpaId": "bc0d9e2806884b66938b5532fe767e83",
+   "id": "inpa:ac3cc0931a414b4ab3111bc27756415e",
+   "inpaId": "ac3cc0931a414b4ab3111bc27756415e",
    "fonti": [
     "inPA"
    ],
-   "titolo": "SELEZIONE FUNZIONARIO TECNICO E.Q.",
-   "ente": "Comune di Calopezzati",
-   "profilo": "FUNZIONARIO E.Q.",
+   "titolo": "AVVISO DI SELEZIONE PUBBLICA,  FINALIZZATO ALLA STABILIZZAZIONE DI N. 1 UNITÀ CON PROFILO PROFESSIONALE DI \"ISTRUTTORE DI VIGILANZA\" (AREA DEGLI ISTRUTTORI - EX CAT. C), A TEMPO PARZIALE 50% E INDETERMINATO, AI SENSI DELL'ART. 3, COMMA 5, DEL D.L. 22 APRILE 2023, N. 44, CONVERTITO CON…",
+   "ente": "Comune di Vallefiorita",
+   "profilo": "ISTRUTTORE DI VIGILANZA (AREA DEGLI ISTRUTTORI - EX CAT. C)",
    "sedi": [
-    "Calabria"
+    "Catanzaro"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-12-23",
-   "pubblicazione": "2026-11-23",
+   "scadenza": "2026-12-04",
+   "pubblicazione": "2026-11-24",
    "contratto": "tempo indeterminato, part time",
-   "descrizione": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO INDETERMINATO E\nPARZIALE 91,67% PARZIALE 33 ORE SETTIMANALI DI N. 1 FUNZIONARIO TECNICO.",
-   "mansioni": "Le date e il luogo dove si svolgeranno le prove d’esame verrà pubbli cato almeno quindici giorni prima  dello svolgimento delle stesse, mediante apposito avviso sul portale I NPA e sul sito  www.comune.calopezzati.cs.it nella sezione “Amministrazione Tra sparente” – sottosezione “Bandi di  concorso”; tale avviso ha valore di notifica a tutti gli effetti e non seguirà pertanto nessun’altra  comunicazione al riguardo.",
-   "titoliStudio": "Diploma di Laurea secondo il vecchio ordinamento un iversitario ante D.M. 509/1999 in\nLaurea Specialistica ex D.M. 509/1999 nelle seguent i classi: 3/S Architettura del paesaggio, 4/S  (classi lauree specialistiche in Architettura e Ing egneria Edile), 28/S (classi lauree specialistiche\nLaurea Magistrale ex D.M. 270/2004 nelle seguenti classi: LM-3 Architettura del Paesaggio, LM",
-   "requisiti": "Per essere ammessi al concorso gli aspiranti - a pena di esclusione - devono essere in possesso dei seguenti  requisiti:\nEtà non inferiore agli anni 18;\nCittadinanza italiana (sono equiparati gli italiani non residenti nella Repubblica e iscritti all’Aire)  o cittadinanza di uno dei Paesi appartenenti all'Unione Europea ai sensi dell’art. 38 del D. Lgs\nI cittadini dell’Unione Europea e di Paesi terzi devono peraltr o possedere, oltre ai requisiti in  elencazione nel presente bando, i seguenti ulteriori requisiti:\nessere in possesso, fatta eccezione per la titolarità della cittadinanza italiana, di tutti gli altri  requisiti previsti per i…",
+   "descrizione": "AVVISO DI SELEZIONE PUBBLICA, FINALIZZATO ALLA STABILIZZAZIONE DI N. 1 UNITÀ CON PROFILO PROFESSIONALE DI \"ISTRUTTORE DI VIGILANZA\" (AREA DEGLI ISTRUTTORI - EX CAT. C), A TEMPO PARZIALE 50% E INDETERMINATO, AI SENSI DELL'ART. 3, COMMA 5, DEL D.L. 22 APRILE 2023, N. 44, CONVERTITO CON MODIFICAZIONI DALLA LEGGE 21 GIUGNO 2023, N. 74.",
+   "mansioni": "",
+   "titoliStudio": "8. possesso del titolo di studio richiesto per l'accesso all'Area degli Istruttori (Diploma di istru- zione secondaria di secondo grado di durata quinquennale);",
+   "requisiti": "Per l'ammissione alla selezione è richiesto il possesso, alla data di scadenza del termine per la presenta- zione della domanda, dei seguenti requisiti specifici e generali:\nA) Requisiti specifici previsti dall'art. 3, comma 5, D.L. 44/2023:\nB) Requisiti generali per l'accesso al pubblico impiego e per il profilo di Istruttore di Vigi- lanza:\n1. cittadinanza italiana (sono equiparati ai cittadini gli italiani non appartenenti alla Repubblica);\n2. età non inferiore ad anni 18 e non superiore a quella prevista dalle norme vigenti per il colloca- mento a riposo;",
+   "prove": "Per colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/8a2d2fd8-65d1-4244-a6c5-19d736c62986",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac3cc0931a414b4ab3111bc27756415e",
+   "linkEnte": "https://comune.vallefiorita.cz.it/",
+   "key": "inpa:ac3cc0931a414b4ab3111bc27756415e",
+   "primaVista": "2026-11-24",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:d92eb68960e847eaa521ccddf25f8409",
+   "inpaId": "d92eb68960e847eaa521ccddf25f8409",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "CONCORSO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% DI N. 1 AUTISTA (PATENTE C CON CQC MERCI) AREA DEGLI OPERATORI ESPERTI DEL CCNL FUNZIONI LOCALI . COMUNE DI LUZZI.",
+   "ente": "Comune di Luzzi",
+   "profilo": "OPERAIO SPECIALIZZATO AUTISTA PATENTE C CON CQC MERCI",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-24",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% -18 ORE - DI N. 1 UNITÀ DI PERSONALE CON IL PROFILO DI OPERAIO SPECIALIZZATO AUTISTA (PATENTE C CON CQC MERCI) DELL'AREA DEGLI OPERATORI ESPERTI (EX CATEGORIA B) DEL CCNL FUNZIONI LOCALI . COMUNE DI LUZZI.",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% -18 ORE - DI N. 1 UNITÀ DI PERSONALE CON IL PROFILO DI OPERAIO SPECIALIZZATO AUTISTA (PATENTE C CON CQC MERCI) DELL'AREA DEGLI OPERATORI ESPERTI (EX CATEGORIA B) DEL CCNL FUNZIONI LOCALI .",
    "prove": "Per esami",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/f5ca1e26-8ae3-4eda-82b5-c5fbc89a8b40",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bc0d9e2806884b66938b5532fe767e83",
-   "linkEnte": "https://portale.inpa.gov.it/",
-   "key": "inpa:bc0d9e2806884b66938b5532fe767e83",
-   "primaVista": "2026-11-23",
+   "linkBando": "https://portale.inpa.gov.it/api/media/53d6bdd9-b43c-4777-822a-376c40fba38a",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d92eb68960e847eaa521ccddf25f8409",
+   "linkEnte": "https://www.comunediluzzi.it/it",
+   "key": "inpa:d92eb68960e847eaa521ccddf25f8409",
+   "primaVista": "2026-11-24",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
   {
-   "id": "inpa:d51d2aeeb3b3425db3b0cc4b48ea25fd",
-   "inpaId": "d51d2aeeb3b3425db3b0cc4b48ea25fd",
-   "fonti": [
-    "Concorsando",
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "AVVISO DI SELEZIONE PUBBLICA, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E DETERMINATO PER N. 12 MESI DI N. 8 UNITÀ DI TECNICO SANITARIO DI RADIOLOGIA MEDICA PER L'AZIENDA OSPEDALIERA DI COSENZA",
-   "ente": "Azienda Ospedaliera di Cosenza",
-   "profilo": "TECNICO SANITARIO DI RADIOLOGIA MEDICA - Personale del Comparto-CCNL Comparto sanità",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 8,
-   "scadenza": "2026-11-23",
-   "pubblicazione": "2026-11-09",
-   "contratto": "tempo determinato, tempo pieno",
-   "descrizione": "Con Deliberazione n. 573 del 30.10.2026 è indetto “AVVISO DI SELEZIONE PUBBLICA, PER TITOLI E\nCOLLOQUIO, PER LA COPERTURA A TEMPO PIENO E DETERMINATO PER N. 12 MESI DI N. 8 UNITÀ DI\nTECNICO SANITARIO DI RADIOLOGIA MEDICA PER L'AZIENDA OSPEDALIERA DI COSENZA.”\nL’Avviso pubblico è indetto ed espletato ai sensi della normativa di cui al DPR n. 220 del 27/03/2001, ai\nDecreti Legislativi n. 502/1992 e ss.mm.ii. e n. 165/2001 e ss.mm.ii., al DPR n. 445/2000 e ss.mm.ii. e alla\nLegge n. 127/1997.",
-   "mansioni": "",
-   "titoliStudio": "Iscrizione all’Albo Professionale.\nL’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione all’avviso, fermo restando l’obbligo di iscrizione all’Albo in Italia prima dell’assunzione in servizio.\nProfessioni sanitarie",
-   "requisiti": "Requisiti generali\n1) cittadinanza italiana, salve le equiparazioni stabilite dalle leggi vigenti, o cittadinanza di uno dei Paesi dell’Unione Europea; possono partecipare anche i cittadini degli Stati membri dell’Unione Europea e i loro familiari non aventi la cittadinanza di uno Stato Membro che siano titolari del diritto di soggiorno o del diritto di soggiorno permanente nonché i cittadini di Paesi terzi in possesso del permesso di soggiorno CE per soggiornanti di lungo periodo o essere titolari dello status di rifugiato ovvero dello status di protezione sussidiaria (art. 38 del D. Lgs n.…",
-   "prove": "L’Azienda Ospedaliera di Cosenza indice una selezione pubblica per titoli e colloquio per la copertura a tempo pieno e determinato di 12 mesi di 8 posti di tecnico sanitario di radiologia medica.\nLa selezione prevede la valutazione dei titoli e un colloquio.",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/BANDO%20AVVISO%208%20TSRM_signed.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d51d2aeeb3b3425db3b0cc4b48ea25fd",
-   "linkEnte": "https://www.aocosenza.it/",
-   "altriLink": [
-    "https://www.concorsipubblici.com/azienda-ospedaliera-di-cosenza-concorso-tecnico-di-radiologia-cosenza-2026",
-    "https://www.concorsando.it/blog/concorsi/8-posti-di-tecnico-sanitario-di-radiologia-medica-presso-azienda-ospedaliera-di-cosenza/"
-   ],
-   "key": "inpa:d51d2aeeb3b3425db3b0cc4b48ea25fd",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "Azienda Ospedaliera di Cosenza"
-   ],
-   "categoria": "sanita"
-  },
-  {
-   "id": "inpa:f56af62fc1bb46d2990b5fde51cd0c78",
-   "inpaId": "f56af62fc1bb46d2990b5fde51cd0c78",
+   "id": "inpa:cffe343d924144dd895e917ff8c753fd",
+   "inpaId": "cffe343d924144dd895e917ff8c753fd",
    "fonti": [
     "inPA"
    ],
-   "titolo": "AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA AI SENSI DELL’ART. 30 D.LGS. 165/2001 PER IL PASSAGGIO DIRETTO DI PERSONALE TRA AMMINISTRAZIONI DIVERSE PER LA COPERTURA DI N. 1 (UNO) POSTO DI FUNZIONARIO AMMINISTRATIVO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, A TEMPO PARZIALE (18 ORE…",
-   "ente": "Comune di Corigliano-Rossano",
-   "profilo": "Funzionario Amministrativo Part-time",
+   "titolo": "CONCORSO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% DI N. 1 AUTISTA (PATENTE D CON CQC PERSONE) AREA DEGLI OPERATORI ESPERTI DEL CCNL FUNZIONI LOCALI . COMUNE DI LUZZI.",
+   "ente": "Comune di Luzzi",
+   "profilo": "OPERAIO SPECIALIZZATO AUTISTA PATENTE D CON CQC PERSONE",
    "sedi": [
     "Cosenza"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-11-23",
-   "pubblicazione": "2026-10-23",
-   "contratto": "tempo indeterminato, part time, mobilità",
-   "descrizione": "AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA AI SENSI DELL’ART. 30 D.LGS. 165/2001 PER IL PASSAGGIO DIRETTO DI PERSONALE TRA AMMINISTRAZIONI DIVERSE PER LA COPERTURA DI N. 1 (UNO) POSTO DI FUNZIONARIO AMMINISTRATIVO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, A TEMPO PARZIALE (18 ORE SETTIMANALI) E INDETERMINATO.",
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-24",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% -18 ORE - DI N. 1 UNITÀ DI PERSONALE CON IL PROFILO DI OPERAIO SPECIALIZZATO AUTISTA (PATENTE D CON CQC PERSONE) DELL'AREA DEGLI OPERATORI ESPERTI (EX CATEGORIA B) DEL CCNL FUNZIONI LOCALI . COMUNE DI LUZZI.",
    "mansioni": "",
-   "titoliStudio": "In particolare il candidato dovrà inserire in maniera dettagliata il possesso dei requisiti richiesti dal  bando di mobilità, i titoli di studio posseduti, i titoli di servizio, attinenti al profilo professionale da  ricoprire (incarichi di responsabilità, partecipazioni a commissioni ect), formazione professionale  (corsi di specializzazione, di formazione, di perfezionamento), le esperienze professionali…",
-   "requisiti": "I requisiti per partecipare alla presente procedura di mobilità sono i seguenti:  a) essere dipendente con contratto di lavoro a tempo indeterminato , parziale o pieno, di altra\nTutti i requisiti dovranno essere posseduti alla data di scadenza del termine per la presentazione  della domanda di partecipazione e dichiarati nella specifica istanza online ai sensi degli artt. 46 e 47  del DPR 445/2000, con consapevolezza delle sanzioni penali ed amministrative previste dagli artt.\nIn particolare il candidato dovrà inserire in maniera dettagliata il possesso dei requisiti richiesti dal  bando di mobilità, i titoli di studio posseduti, i titoli…",
-   "prove": "Per titoli e colloquio",
+   "titoliStudio": "",
+   "requisiti": "CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% -18 ORE - DI N. 1 UNITÀ DI PERSONALE CON IL PROFILO DI OPERAIO SPECIALIZZATO AUTISTA (PATENTE D CON CQC PERSONE) DELL'AREA DEGLI OPERATORI ESPERTI (EX CATEGORIA B) DEL CCNL FUNZIONI LOCALI .",
+   "prove": "Per esami",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/e85f46bd-464a-4a77-b892-4dd40b4cd6f1",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f56af62fc1bb46d2990b5fde51cd0c78",
-   "linkEnte": "",
-   "key": "inpa:f56af62fc1bb46d2990b5fde51cd0c78",
-   "primaVista": "2026-11-13",
+   "linkBando": "https://portale.inpa.gov.it/api/media/71e2d2e7-07fa-4758-a722-947129ef2592",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cffe343d924144dd895e917ff8c753fd",
+   "linkEnte": "https://www.comunediluzzi.it/it",
+   "key": "inpa:cffe343d924144dd895e917ff8c753fd",
+   "primaVista": "2026-11-24",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
   {
-   "id": "inpa:8c1852b6819841b2b315526dcdcd094b",
-   "inpaId": "8c1852b6819841b2b315526dcdcd094b",
+   "id": "inpa:46bb60d29d3f486e893434ec6554e7b9",
+   "inpaId": "46bb60d29d3f486e893434ec6554e7b9",
    "fonti": [
     "inPA"
    ],
-   "titolo": "AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA AI SENSI DELL’ART. 30 D.LGS. 165/2001 PER IL PASSAGGIO DIRETTO DI PERSONALE TRA AMMINISTRAZIONI DIVERSE PER LA COPERTURA DI N. 1 (UNO) POSTO DI FUNZIONARIO AMMINISTRATIVO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, A TEMPO PIENO E INDETERMINATO.",
-   "ente": "Comune di Corigliano-Rossano",
-   "profilo": "Funzionario Amministrativo",
+   "titolo": "CONCORSO PUBBLICO, PER SOLI ESAMI, PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% DI N 1 UNITA’- PROFILO ISTRUTTORE DIRETTIVO CONTABILE (EX CAT. D) C.C.N.L. FUNZIONI LOCALI - COMUNE DI LUZZI",
+   "ente": "Comune di Luzzi",
+   "profilo": "ISTRUTTORE DIRETTIVO CONTABILE",
    "sedi": [
     "Cosenza"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-11-23",
-   "pubblicazione": "2026-10-23",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA AI SENSI DELL’ART. 30 D.LGS. 165/2001 PER IL PASSAGGIO DIRETTO DI PERSONALE TRA AMMINISTRAZIONI DIVERSE PER LA COPERTURA DI N. 1 (UNO) POSTO DI FUNZIONARIO AMMINISTRATIVO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE, A TEMPO PIENO E INDETERMINATO.",
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-24",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% (18 ORE) DI N.1 UNITA’ DI PERSONALE NELL'AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE - PROFILO PROFESSIONALE ISTRUTTORE DIRETTIVO CONTABILE (EX CAT. D) C.C.N.L. FUNZIONI LOCALI DA ASSEGNARE AL SETTORE BILANCIO E PROGRAMMAZIONE FINANZIARIA. COMUNE DI LUZZI.",
    "mansioni": "",
-   "titoliStudio": "Titolo di studio superiori a quello richiesto per l’accesso dall’esterno al profilo da  ricoprire – max punti 2;\nFormazione professionale (corsi di specializzazione, corsi di formazione, perfezionamento,  aggiornamento in materie attinenti alla professionalità del posto messo a bando) – max punti 5;",
-   "requisiti": "d) avere espletato lavoro subordinato a tempo indeterminato alle dipendenze di una stessa e/o  più pubbliche amministrazioni per un minimo di tre anni;  e) non essere stati destinata ri nel biennio precedente di sanzioni disciplinari superiori alla  censura;  f) non aver riportato condanne con sentenza passata in giudicato per reati che costituiscono un  impedimento all’assunzione presso una PA ai sensi dell’art. 4 co.\nTutti i requisiti dovranno essere posseduti alla data di scadenza del termine per la presentazione  della domanda di partecipazione e dichiarati nella specifica istanza online ai sensi degli artt. 46 e 47  del DPR 445/2000,…",
-   "prove": "Per titoli e colloquio",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per esami",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/1594390c-dea7-42c0-bef7-dd2d64e49ee8",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8c1852b6819841b2b315526dcdcd094b",
-   "linkEnte": "",
-   "key": "inpa:8c1852b6819841b2b315526dcdcd094b",
-   "primaVista": "2026-11-13",
+   "linkBando": "https://portale.inpa.gov.it/api/media/3cb8eb8e-8ba6-4e9f-8c5a-e7e7d437c51c",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=46bb60d29d3f486e893434ec6554e7b9",
+   "linkEnte": "https://www.comunediluzzi.it/it",
+   "key": "inpa:46bb60d29d3f486e893434ec6554e7b9",
+   "primaVista": "2026-11-24",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
@@ -384,43 +341,6 @@
     "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-amministrativo-presso-il-comune-di-san-sosti/"
    ],
    "key": "inpa:2245aa2fcfa245d1992d71b8493e59e3",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:4685c692cf904e9b8e037186ef41cccb",
-   "inpaId": "4685c692cf904e9b8e037186ef41cccb",
-   "fonti": [
-    "Concorsando",
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "Concorso pubblico, per esami, per l’assunzione part time 50% a tempo indeterminato di n. 1 Funzionario Tecnico – Area dei Funzionari e dell’Elevata Qualificazione – CCNL Funzioni Locali – del Comune di San Sosti",
-   "ente": "Comune di San Sosti",
-   "profilo": "funzionario tecnico",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-25",
-   "pubblicazione": "2026-10-26",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "Il Comune di San Sosti, in provincia di Cosenza, indice un concorso pubblico per esami per l'assunzione a tempo parziale al 50% e indeterminato di 1 funzionario tecnico, Area dei Funzionari e dell'Elevata Qualificazione.\nPer partecipare serve una laurea magistrale, specialistica o del vecchio ordinamento nelle classi previste dal bando in architettura, ingegneria civile e ambientale e pianificazione territoriale, insieme all'abilitazione all'esercizio della professione di architetto o di ingegnere. Servono inoltre la conoscenza della lingua inglese e dell'informatica. La tassa di ammissione…",
-   "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
-   "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale (D.M. 270/04) appartenente a una delle seguenti classi: LM-3 Architettura del paesaggio;\nLM-4 Architettura e ingegneria edile-architettura;\nLM-23 Ingegneria civile;\narchitettura \nIngegneria civile \nIngegneria…",
-   "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale (D.M. 270/04) appartenente a una delle seguenti classi: LM-3 Architettura del paesaggio; LM-4 Architettura e ingegneria edile-architettura; LM-23 Ingegneria civile; LM-24 Ingegneria dei sistemi edilizi; LM-26 Ingegneria della sicurezza; LM-35 Ingegneria per l'ambiente e il territorio; LM-48 Pianificazione territoriale urbanistica e ambientale; ovvero laurea specialistica (D.M. 509/99) o…",
-   "prove": "Materie:\nConoscenze generali su enti locali, lavori e contratti pubblici, sicurezza, sostenibilità;\nOrdinamento degli enti locali (D.Lgs. 267/2000 e s.m.i.);\nNormativa in materia di urbanistica ed edilizia privata;\nD.Lgs. 36/2023 e s.m.i. - Codice dei contratti pubblici;\nD.P.R. 207/2010 (parti…",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concorso%20funzionario%20tecnico.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4685c692cf904e9b8e037186ef41cccb",
-   "linkEnte": "",
-   "altriLink": [
-    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-tecnico-cosenza-2026",
-    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-tecnico-presso-il-comune-di-san-sosti/"
-   ],
-   "key": "inpa:4685c692cf904e9b8e037186ef41cccb",
    "primaVista": "2026-11-13",
    "entiMonitorati": [],
    "categoria": "comuni"
@@ -1211,6 +1131,7 @@
    "id": "inpa:41053534fa8849948bef97fa1356bfbc",
    "inpaId": "41053534fa8849948bef97fa1356bfbc",
    "fonti": [
+    "Concorsando",
     "inPA"
    ],
    "titolo": "Accademia di Belle Arti di Reggio Calabria - BANDO DI SELEZIONE PER SOLI TITOLI PER L’INCLUSIONE E/O L’AGGIORNAMENTO DELLA GRADUATORIA D’ISTITUTO PERMANENTE PER IL PROFILO DI OPERATORE – AREA DEGLI OPERATORI",
@@ -1224,15 +1145,18 @@
    "scadenza": "2026-12-05",
    "pubblicazione": "2026-11-21",
    "contratto": "tempo indeterminato",
-   "descrizione": "Procedura per la formazione di una graduatoria permanente d’Istituto per soli titoli relativa al profilo professionale di “Operatore” - Area prima, del vigente CCNL comparto AFAM riservato al personale in servizio presso l’Accademia di Belle Arti di Reggio Calabria, con contratto di lavoro a tempo determinato, assunto prima del 1.11.2025 e con almeno 24 mesi di servizio prestato senza demerito ed in relazione alle medesime attività svolte",
+   "descrizione": "L'Accademia di Belle Arti di Reggio Calabria indice una procedura per soli titoli per formare la graduatoria permanente d'Istituto del profilo di operatore (Area degli Operatori, CCNL AFAM), finalizzata all'assunzione a tempo indeterminato di 1 unità.\nLa procedura è riservata al personale in servizio presso l'Accademia con contratto a tempo determinato, assunto prima del 1° novembre 2025 e con almeno 24 mesi di servizio nel profilo. Serve il diploma di istruzione secondaria di secondo grado. Non sono previste prove: si valutano solo i titoli.",
    "mansioni": "",
-   "titoliStudio": "h) Possesso del seguente titolo di studio: diploma di scuola secondaria superiore.",
+   "titoliStudio": "Serve il diploma di istruzione secondaria di secondo grado.",
    "requisiti": "• Alla procedura è ammesso a partecipare il personale in servizio presso l’Accademia di Belle Arti di Reggio Calabria, con contratto di lavoro a tempo determinato, assunto prima del 1.11.2025 e con almeno 24 mesi di servizio prestato senza demerito ed in relazione alle medesime attività svolte, anche non continuativamente, nelle Istituzioni dell’Alta Formazione Artistica Musicale e coreutica, nel profilo professionale di “Operatore - ex Coadiutore” - Area Prima, alla data della scadenza del presente bando; \n• I candidati di cui sopra, utilmente inclusi in graduatoria, hanno titolo ad essere…",
-   "prove": "Per titoli",
+   "prove": "Non sono previste prove: si valutano solo i titoli.",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
    "linkBando": "https://portale.inpa.gov.it/api/media/74db247d-636e-4fb5-a98b-f3f3e42d6f61",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=41053534fa8849948bef97fa1356bfbc",
    "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/2026/0013_Documenti_1795249729257/",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-operatore-presso-laccademia-di-belle-arti-di-reggio-calabria/"
+   ],
    "key": "inpa:41053534fa8849948bef97fa1356bfbc",
    "primaVista": "2026-11-21",
    "entiMonitorati": [
@@ -1446,6 +1370,43 @@
     "Regione Calabria – Bandi e avvisi"
    ],
    "categoria": "sanita"
+  },
+  {
+   "id": "inpa:4685c692cf904e9b8e037186ef41cccb",
+   "inpaId": "4685c692cf904e9b8e037186ef41cccb",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per esami, per l’assunzione part time 50% a tempo indeterminato di n. 1 Funzionario Tecnico – Area dei Funzionari e dell’Elevata Qualificazione – CCNL Funzioni Locali – del Comune di San Sosti",
+   "ente": "Comune di San Sosti",
+   "profilo": "funzionario tecnico",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-10-26",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il Comune di San Sosti, in provincia di Cosenza, indice un concorso pubblico per esami per l'assunzione a tempo parziale al 50% e indeterminato di 1 funzionario tecnico, Area dei Funzionari e dell'Elevata Qualificazione.\nPer partecipare serve una laurea magistrale, specialistica o del vecchio ordinamento nelle classi previste dal bando in architettura, ingegneria civile e ambientale e pianificazione territoriale, insieme all'abilitazione all'esercizio della professione di architetto o di ingegnere. Servono inoltre la conoscenza della lingua inglese e dell'informatica. La tassa di ammissione…",
+   "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
+   "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale (D.M. 270/04) appartenente a una delle seguenti classi: LM-3 Architettura del paesaggio;\nLM-4 Architettura e ingegneria edile-architettura;\nLM-23 Ingegneria civile;\narchitettura \nIngegneria civile \nIngegneria…",
+   "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale (D.M. 270/04) appartenente a una delle seguenti classi: LM-3 Architettura del paesaggio; LM-4 Architettura e ingegneria edile-architettura; LM-23 Ingegneria civile; LM-24 Ingegneria dei sistemi edilizi; LM-26 Ingegneria della sicurezza; LM-35 Ingegneria per l'ambiente e il territorio; LM-48 Pianificazione territoriale urbanistica e ambientale; ovvero laurea specialistica (D.M. 509/99) o…",
+   "prove": "Materie:\nConoscenze generali su enti locali, lavori e contratti pubblici, sicurezza, sostenibilità;\nOrdinamento degli enti locali (D.Lgs. 267/2000 e s.m.i.);\nNormativa in materia di urbanistica ed edilizia privata;\nD.Lgs. 36/2023 e s.m.i. - Codice dei contratti pubblici;\nD.P.R. 207/2010 (parti…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concorso%20funzionario%20tecnico.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4685c692cf904e9b8e037186ef41cccb",
+   "linkEnte": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-tecnico-cosenza-2026",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-tecnico-presso-il-comune-di-san-sosti/"
+   ],
+   "key": "inpa:4685c692cf904e9b8e037186ef41cccb",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
   },
   {
    "id": "cp:universita-mediterranea-di-reggio-calabria-concorso-professore-di-prima-fascia-reggio-calabria-2",
@@ -2272,6 +2233,41 @@
    "categoria": "forze"
   },
   {
+   "id": "cp:universita-mediterranea-di-reggio-calabria-concorso-professore-di-prima-fascia-reggio-calabria-3",
+   "fonti": [
+    "ConcorsiPubblici"
+   ],
+   "titolo": "Università «Mediterranea» di Reggio Calabria, 2 professori di prima fascia (annullamento concorso)",
+   "ente": "Università «Mediterranea» di Reggio Calabria",
+   "profilo": "professore di prima fascia",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": null,
+   "scadenza": "2026-12-20",
+   "pubblicazione": "",
+   "descrizione": "Annullamento dell'avviso di valutazione comparativa, per titoli e discussione pubblica, per la copertura di quattro posti di ricercatore a tempo determinato in tenure track, vari GSD. (GU n.90 del 20-11-2026)",
+   "link": "https://www.concorsipubblici.com/universita-mediterranea-di-reggio-calabria-concorso-professore-di-prima-fascia-reggio-calabria-3",
+   "inpaId": null,
+   "contratto": "tempo indeterminato",
+   "mansioni": "",
+   "titoliStudio": "Dottorato di ricerca",
+   "requisiti": "",
+   "prove": "",
+   "candidatura": "",
+   "linkBando": "",
+   "altriLink": [
+    "https://www.concorsipubblici.com/universita-mediterranea-di-reggio-calabria-concorso-ricercatore-reggio-calabria-2026-0"
+   ],
+   "key": "t:universita mediterranea di reggio calabr|2026-12-20|",
+   "primaVista": "2026-11-23",
+   "entiMonitorati": [
+    "Università Mediterranea di Reggio Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
    "id": "inpa:036853c3ae4749a094921f3b6919284b",
    "inpaId": "036853c3ae4749a094921f3b6919284b",
    "fonti": [
@@ -2305,6 +2301,41 @@
    "primaVista": "2026-11-19",
    "entiMonitorati": [],
    "categoria": "altro"
+  },
+  {
+   "id": "inpa:bc0d9e2806884b66938b5532fe767e83",
+   "inpaId": "bc0d9e2806884b66938b5532fe767e83",
+   "fonti": [
+    "Concorsando",
+    "inPA"
+   ],
+   "titolo": "SELEZIONE FUNZIONARIO TECNICO E.Q.",
+   "ente": "Comune di Calopezzati",
+   "profilo": "FUNZIONARIO E.Q.",
+   "sedi": [
+    "Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-23",
+   "pubblicazione": "2026-11-23",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il Comune di Calopezzati (CS) indice un concorso pubblico per esami per assumere a tempo indeterminato e parziale (91,67%, 33 ore settimanali) 1 funzionario tecnico (Area dei Funzionari e dell'Elevata Qualificazione, CCNL Funzioni Locali) da assegnare all'Area Tecnica.\nServe una laurea nelle classi indicate dal bando (architettura, ingegneria civile ed edile, ingegneria ambientale, pianificazione territoriale). Sono previste un'eventuale preselezione a risposta multipla, una prova scritta e una prova orale. La tassa di concorso è di 10 euro.",
+   "mansioni": "Le date e il luogo dove si svolgeranno le prove d’esame verrà pubbli cato almeno quindici giorni prima  dello svolgimento delle stesse, mediante apposito avviso sul portale I NPA e sul sito  www.comune.calopezzati.cs.it nella sezione “Amministrazione Tra sparente” – sottosezione “Bandi di  concorso”; tale avviso ha valore di notifica a tutti gli effetti e non seguirà pertanto nessun’altra  comunicazione al riguardo.",
+   "titoliStudio": "Serve una laurea nelle classi indicate dal bando (architettura, ingegneria civile ed edile, ingegneria ambientale, pianificazione territoriale).",
+   "requisiti": "Per essere ammessi al concorso gli aspiranti - a pena di esclusione - devono essere in possesso dei seguenti  requisiti:\nEtà non inferiore agli anni 18;\nCittadinanza italiana (sono equiparati gli italiani non residenti nella Repubblica e iscritti all’Aire)  o cittadinanza di uno dei Paesi appartenenti all'Unione Europea ai sensi dell’art. 38 del D. Lgs\nI cittadini dell’Unione Europea e di Paesi terzi devono peraltr o possedere, oltre ai requisiti in  elencazione nel presente bando, i seguenti ulteriori requisiti:\nessere in possesso, fatta eccezione per la titolarità della cittadinanza italiana, di tutti gli altri  requisiti previsti per i…",
+   "prove": "Sono previste un'eventuale preselezione a risposta multipla, una prova scritta e una prova orale.",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/f5ca1e26-8ae3-4eda-82b5-c5fbc89a8b40",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bc0d9e2806884b66938b5532fe767e83",
+   "linkEnte": "https://portale.inpa.gov.it/",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-tecnico-presso-il-comune-di-calopezzati/"
+   ],
+   "key": "inpa:bc0d9e2806884b66938b5532fe767e83",
+   "primaVista": "2026-11-23",
+   "entiMonitorati": [],
+   "categoria": "comuni"
   },
   {
    "id": "inpa:57411ee993a54405a13a7ac451447256",
