@@ -1,178 +1,493 @@
 {
- "aggiornato": "2026-11-24T16:00+00:00",
+ "aggiornato": "2026-11-25T15:49+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
-   "bandi": 68
+   "bandi": 76
   },
   "ConcorsiPubblici": {
    "ok": true,
-   "bandi": 40
+   "bandi": 47
   },
   "Concorsando": {
    "ok": true,
-   "bandi": 17
+   "bandi": 20
   }
  },
- "totale": 72,
- "nuoviOggi": 4,
+ "totale": 84,
+ "nuoviOggi": 13,
  "bandi": [
   {
-   "id": "inpa:ac3cc0931a414b4ab3111bc27756415e",
-   "inpaId": "ac3cc0931a414b4ab3111bc27756415e",
+   "id": "inpa:dd481ab9cd1845ef90986254cbcc4a44",
+   "inpaId": "dd481ab9cd1845ef90986254cbcc4a44",
    "fonti": [
     "inPA"
    ],
-   "titolo": "AVVISO DI SELEZIONE PUBBLICA,  FINALIZZATO ALLA STABILIZZAZIONE DI N. 1 UNITÀ CON PROFILO PROFESSIONALE DI \"ISTRUTTORE DI VIGILANZA\" (AREA DEGLI ISTRUTTORI - EX CAT. C), A TEMPO PARZIALE 50% E INDETERMINATO, AI SENSI DELL'ART. 3, COMMA 5, DEL D.L. 22 APRILE 2023, N. 44, CONVERTITO CON…",
-   "ente": "Comune di Vallefiorita",
-   "profilo": "ISTRUTTORE DI VIGILANZA (AREA DEGLI ISTRUTTORI - EX CAT. C)",
+   "titolo": "MANIFESTAZIONE DI INTERESSE, PER L'UTILIZZO DI GRADUATORIE DI ALTRI ENTI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO CON PROFILO DI AGENTE DI POLIZIA MUNICIPALE - AREA DEGLI ISTRUTTORI - EX CAT C",
+   "ente": "Comune di Cropani",
+   "profilo": "Agente di Polizia Municipale",
    "sedi": [
     "Catanzaro"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-12-04",
-   "pubblicazione": "2026-11-24",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "AVVISO DI SELEZIONE PUBBLICA, FINALIZZATO ALLA STABILIZZAZIONE DI N. 1 UNITÀ CON PROFILO PROFESSIONALE DI \"ISTRUTTORE DI VIGILANZA\" (AREA DEGLI ISTRUTTORI - EX CAT. C), A TEMPO PARZIALE 50% E INDETERMINATO, AI SENSI DELL'ART. 3, COMMA 5, DEL D.L. 22 APRILE 2023, N. 44, CONVERTITO CON MODIFICAZIONI DALLA LEGGE 21 GIUGNO 2023, N. 74.",
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "MANIFESTAZIONE DI INTERESSE, PER L'UTILIZZO DI GRADUATORIE DI ALTRI ENTI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO CON PROFILO DI AGENTE DI POLIZIA MUNICIPALE - AREA DEGLI ISTRUTTORI - EX CAT C",
    "mansioni": "",
-   "titoliStudio": "8. possesso del titolo di studio richiesto per l'accesso all'Area degli Istruttori (Diploma di istru- zione secondaria di secondo grado di durata quinquennale);",
-   "requisiti": "Per l'ammissione alla selezione è richiesto il possesso, alla data di scadenza del termine per la presenta- zione della domanda, dei seguenti requisiti specifici e generali:\nA) Requisiti specifici previsti dall'art. 3, comma 5, D.L. 44/2023:\nB) Requisiti generali per l'accesso al pubblico impiego e per il profilo di Istruttore di Vigi- lanza:\n1. cittadinanza italiana (sono equiparati ai cittadini gli italiani non appartenenti alla Repubblica);\n2. età non inferiore ad anni 18 e non superiore a quella prevista dalle norme vigenti per il colloca- mento a riposo;",
-   "prove": "Per colloquio",
+   "titoliStudio": "titolo di studio posseduto.",
+   "requisiti": "",
+   "prove": "Per titoli",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/8a2d2fd8-65d1-4244-a6c5-19d736c62986",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac3cc0931a414b4ab3111bc27756415e",
-   "linkEnte": "https://comune.vallefiorita.cz.it/",
-   "key": "inpa:ac3cc0931a414b4ab3111bc27756415e",
-   "primaVista": "2026-11-24",
+   "linkBando": "https://portale.inpa.gov.it/api/media/371b2389-0b5d-4c91-923f-bb15563387da",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dd481ab9cd1845ef90986254cbcc4a44",
+   "linkEnte": "",
+   "key": "inpa:dd481ab9cd1845ef90986254cbcc4a44",
+   "primaVista": "2026-11-25",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
   {
-   "id": "inpa:d92eb68960e847eaa521ccddf25f8409",
-   "inpaId": "d92eb68960e847eaa521ccddf25f8409",
+   "id": "inpa:239d82ed13094c56884164b6f0fb7294",
+   "inpaId": "239d82ed13094c56884164b6f0fb7294",
    "fonti": [
     "inPA"
    ],
-   "titolo": "CONCORSO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% DI N. 1 AUTISTA (PATENTE C CON CQC MERCI) AREA DEGLI OPERATORI ESPERTI DEL CCNL FUNZIONI LOCALI . COMUNE DI LUZZI.",
-   "ente": "Comune di Luzzi",
-   "profilo": "OPERAIO SPECIALIZZATO AUTISTA PATENTE C CON CQC MERCI",
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Architettura degli interni a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di ARCHITETTURA DEGLI INTERNI",
    "sedi": [
-    "Cosenza"
+    "Reggio Calabria"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-12-24",
-   "pubblicazione": "2026-11-24",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% -18 ORE - DI N. 1 UNITÀ DI PERSONALE CON IL PROFILO DI OPERAIO SPECIALIZZATO AUTISTA (PATENTE C CON CQC MERCI) DELL'AREA DEGLI OPERATORI ESPERTI (EX CATEGORIA B) DEL CCNL FUNZIONI LOCALI . COMUNE DI LUZZI.",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% -18 ORE - DI N. 1 UNITÀ DI PERSONALE CON IL PROFILO DI OPERAIO SPECIALIZZATO AUTISTA (PATENTE C CON CQC MERCI) DELL'AREA DEGLI OPERATORI ESPERTI (EX CATEGORIA B) DEL CCNL FUNZIONI LOCALI .",
-   "prove": "Per esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/53d6bdd9-b43c-4777-822a-376c40fba38a",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d92eb68960e847eaa521ccddf25f8409",
-   "linkEnte": "https://www.comunediluzzi.it/it",
-   "key": "inpa:d92eb68960e847eaa521ccddf25f8409",
-   "primaVista": "2026-11-24",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:cffe343d924144dd895e917ff8c753fd",
-   "inpaId": "cffe343d924144dd895e917ff8c753fd",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "CONCORSO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% DI N. 1 AUTISTA (PATENTE D CON CQC PERSONE) AREA DEGLI OPERATORI ESPERTI DEL CCNL FUNZIONI LOCALI . COMUNE DI LUZZI.",
-   "ente": "Comune di Luzzi",
-   "profilo": "OPERAIO SPECIALIZZATO AUTISTA PATENTE D CON CQC PERSONE",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-24",
-   "pubblicazione": "2026-11-24",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% -18 ORE - DI N. 1 UNITÀ DI PERSONALE CON IL PROFILO DI OPERAIO SPECIALIZZATO AUTISTA (PATENTE D CON CQC PERSONE) DELL'AREA DEGLI OPERATORI ESPERTI (EX CATEGORIA B) DEL CCNL FUNZIONI LOCALI . COMUNE DI LUZZI.",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% -18 ORE - DI N. 1 UNITÀ DI PERSONALE CON IL PROFILO DI OPERAIO SPECIALIZZATO AUTISTA (PATENTE D CON CQC PERSONE) DELL'AREA DEGLI OPERATORI ESPERTI (EX CATEGORIA B) DEL CCNL FUNZIONI LOCALI .",
-   "prove": "Per esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/71e2d2e7-07fa-4758-a722-947129ef2592",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cffe343d924144dd895e917ff8c753fd",
-   "linkEnte": "https://www.comunediluzzi.it/it",
-   "key": "inpa:cffe343d924144dd895e917ff8c753fd",
-   "primaVista": "2026-11-24",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:46bb60d29d3f486e893434ec6554e7b9",
-   "inpaId": "46bb60d29d3f486e893434ec6554e7b9",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "CONCORSO PUBBLICO, PER SOLI ESAMI, PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% DI N 1 UNITA’- PROFILO ISTRUTTORE DIRETTIVO CONTABILE (EX CAT. D) C.C.N.L. FUNZIONI LOCALI - COMUNE DI LUZZI",
-   "ente": "Comune di Luzzi",
-   "profilo": "ISTRUTTORE DIRETTIVO CONTABILE",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-24",
-   "pubblicazione": "2026-11-24",
-   "contratto": "tempo indeterminato, part time",
-   "descrizione": "BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% (18 ORE) DI N.1 UNITA’ DI PERSONALE NELL'AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE - PROFILO PROFESSIONALE ISTRUTTORE DIRETTIVO CONTABILE (EX CAT. D) C.C.N.L. FUNZIONI LOCALI DA ASSEGNARE AL SETTORE BILANCIO E PROGRAMMAZIONE FINANZIARIA. COMUNE DI LUZZI.",
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-25",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di ARCHITETTURA DEGLI INTERNI",
    "mansioni": "",
    "titoliStudio": "",
    "requisiti": "",
-   "prove": "Per esami",
+   "prove": "Per titoli",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/3cb8eb8e-8ba6-4e9f-8c5a-e7e7d437c51c",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=46bb60d29d3f486e893434ec6554e7b9",
-   "linkEnte": "https://www.comunediluzzi.it/it",
-   "key": "inpa:46bb60d29d3f486e893434ec6554e7b9",
-   "primaVista": "2026-11-24",
-   "entiMonitorati": [],
-   "categoria": "comuni"
+   "linkBando": "https://portale.inpa.gov.it/api/media/fa0b5dd3-d128-4bbd-a2ca-eb538f660085",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=239d82ed13094c56884164b6f0fb7294",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:239d82ed13094c56884164b6f0fb7294",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
   },
   {
-   "id": "inpa:2115ed9b7c3f4620afc6cfb22a2f6781",
-   "inpaId": "2115ed9b7c3f4620afc6cfb22a2f6781",
+   "id": "inpa:4d3b8912fa8c4be3948e81a1f0247181",
+   "inpaId": "4d3b8912fa8c4be3948e81a1f0247181",
    "fonti": [
     "inPA"
    ],
-   "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO INSEGNANTE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI. RIAPERTURA TERMINI DALLE ORE 00.00 DEL 10/11/2026…",
-   "ente": "Comune di Catanzaro",
-   "profilo": "FUNZIONARIO INSEGNANTE",
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Fondamenti di Disegno Informatico a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno di FONDAMENTI DI DISEGNO INFORMATICO",
    "sedi": [
-    "Catanzaro"
+    "Reggio Calabria"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-11-24",
-   "pubblicazione": "2026-10-08",
-   "contratto": "tempo indeterminato, tempo pieno",
-   "descrizione": "È indetto pubblico concorso, per soli esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale non dirigente “Funzionario Insegnante”",
-   "mansioni": "Le mansioni esigibili, nel rispetto de lla declaratoria di cui all’allegato A) del CCNL del personale  del comparto Funzioni Locali sottoscritto in data 16/11/2022 , riguarderanno lo svolgimento di  attività pedagogico-didattiche finalizzate al raggiungimento degli obiettivi educativi e degli stessi  standard qualitativi, pedagogici e normativi programmati per le scuole dell’infanzia statali.\nIl “Funzionario…",
-   "titoliStudio": "la Legge n. 62 del 10.03.2000 “Norme per la parità scolastica e disposizioni sul diritto allo  studio e all'istruzione.” ed in particolare l’art. 1 comma 4 -bis, in materia di requisito del  titolo di abilitazione per i docenti di scuole materne paritarie;\nParità Scolastica, in merito al titolo di studio richiesto per l’insegnamento nelle Scuole\nil Decreto Ministero dell'Istruzione, dell'Università e della Ricerca…",
-   "requisiti": "la Legge n. 62 del 10.03.2000 “Norme per la parità scolastica e disposizioni sul diritto allo  studio e all'istruzione.” ed in particolare l’art. 1 comma 4 -bis, in materia di requisito del  titolo di abilitazione per i docenti di scuole materne paritarie;\nc) Competenza linguistica: adeguata conoscenza della lingua inglese;  d) Competenza digitale, informatica: padronanza di software comuni (pacchetti applicativi come\nPer essere ammessi al concorso gli aspiranti devono possedere i seguenti requisiti.\nRequisiti generali:\n2) età non inferiore ad anni 18 e non superiore ai limiti massimi ordinamentali previsti per il  pensionamento nel…",
-   "prove": "Per esami",
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-25",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di FONDAMENTI DI DISEGNO INFORMATICO",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/05cc0f07-228b-44ca-9351-7e971710e4a1",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2115ed9b7c3f4620afc6cfb22a2f6781",
-   "linkEnte": "https://old.comune.catanzaro.it/amm-trasparente/bandi-di-concorso/concorsi-attivi/",
-   "key": "inpa:2115ed9b7c3f4620afc6cfb22a2f6781",
-   "primaVista": "2026-11-13",
+   "linkBando": "https://portale.inpa.gov.it/api/media/455ef22e-a115-4265-bc29-71df1c4e17b4",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4d3b8912fa8c4be3948e81a1f0247181",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:4d3b8912fa8c4be3948e81a1f0247181",
+   "primaVista": "2026-11-25",
    "entiMonitorati": [
-    "Comuni capoluogo, Province e Città Metropolitana RC"
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
    ],
-   "categoria": "calabria"
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:19b5afd0049a460ca4d1f7fdcc7c1ecf",
+   "inpaId": "19b5afd0049a460ca4d1f7fdcc7c1ecf",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Restauro materiali digitali per il cinema a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di RESSTAURO DI MATERIALI DIGITALI PER IL CINEMA",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-25",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di Restauro materiali digitali per il cinema",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/9cf2ee43-2bef-42a4-b47d-455180ff9b59",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=19b5afd0049a460ca4d1f7fdcc7c1ecf",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:19b5afd0049a460ca4d1f7fdcc7c1ecf",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:8b2ba4fa52d64f02a1c0c4cd098bf89f",
+   "inpaId": "8b2ba4fa52d64f02a1c0c4cd098bf89f",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Tecniche dei procedimenti Stampa a.a. 2026-2027 a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di TECNICHE DEI PROCEDIMENTI A STAMPA",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-25",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di TECNICHE DEI PROCEDIMENTI A STAMPA",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/39831882-69b7-4e28-b70c-77edb5bce128",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8b2ba4fa52d64f02a1c0c4cd098bf89f",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:8b2ba4fa52d64f02a1c0c4cd098bf89f",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "cp:consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-borsa-di-studio-borsa-di-6",
+   "fonti": [
+    "ConcorsiPubblici"
+   ],
+   "titolo": "Istituto per la tecnologia delle membrane «Enrico Drioli» del CNR, una borsa di ricerca annuale",
+   "ente": "Consiglio Nazionale delle Ricerche - Istituto per la Tecnologia delle Membrane",
+   "profilo": "Borsa di studio",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": null,
+   "scadenza": "2026-12-14",
+   "pubblicazione": "",
+   "descrizione": "Conferimento di una borsa di ricerca annuale \n(GU n.91 del 24-11-2026)",
+   "link": "https://www.concorsipubblici.com/consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-borsa-di-studio-borsa-di-6",
+   "inpaId": null,
+   "contratto": "tempo determinato",
+   "mansioni": "(+39) 0498275644 | Fax (+39) 049 8275239 e-mail: giacomo.saielli@cnr.it  e) attività di lavoro autonomo, anche parasubordinato, fatta salva l’ipotesi di cui al comma seguente.\nI borsisti possono svolgere attività di lavoro autonomo non esercitato abitualmente, previa comunicazione scritta ai Responsabili scientifici (d’ora in poi Tutor) e a condizione che non comporti conflitto di interessi con la specifica…",
+   "titoliStudio": "aver conseguito la Laurea Specialistica/Magistrale in DM 5/05/2004: 62/S Chimica o 27/S Ingegneria Chimica o 61/S Scienza e Ingegneria dei Materiali o 14/S Chimica e Tecnologie Farmaceutiche.\nDM 9/07/2009: LM-54 Chimica o LM-22 Ingegneria Chimica o LM-53 Scienza e Ingegneria dei Materiali o LM-13 Chimica e Tecnologie Farmaceutiche.\nChimica \nIngegneria chimica",
+   "requisiti": "aver conseguito la Laurea Specialistica/Magistrale in DM 5/05/2004: 62/S Chimica o 27/S Ingegneria Chimica o 61/S Scienza e Ingegneria dei Materiali o 14/S Chimica e Tecnologie Farmaceutiche. DM 9/07/2009: LM-54 Chimica o LM-22 Ingegneria Chimica o LM-53 Scienza e Ingegneria dei Materiali o LM-13 Chimica e Tecnologie Farmaceutiche.",
+   "prove": "La Commissione disporrà complessivamente di 30 punti di cui: 10 punti per i titoli e 20 punti per l’esame colloquio",
+   "candidatura": "https://selezionionline.cnr.it",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando%20borsa%20di%20ricerca%20BS.ITM_.007.2026.CS_signed.pdf",
+   "key": "t:consiglio nazionale delle ricerche istit|2026-12-14|",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "CNR"
+   ],
+   "categoria": "aziende"
+  },
+  {
+   "id": "inpa:e94a7bd6da614a19ae286ac976b2a9e6",
+   "inpaId": "e94a7bd6da614a19ae286ac976b2a9e6",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 13 POSTI DI DIRIGENTE MEDICO - AREA DELLA MEDICINA DIAGNOSTICA E DEI SERVIZI…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Crotone",
+    "Catanzaro",
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 13,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 13 POSTI DI DIRIGENTE MEDICO - AREA DELLA MEDICINA DIAGNOSTICA E DEI SERVIZI – DISCIPLINA DI PATOLOGIA CLINICA DA DESTINARE ALLE AZIENDE DEL SERVIZIO SANITARIO REGIONALE",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/5f1d019c-5a9c-410f-aebb-2c415dc5cae1",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e94a7bd6da614a19ae286ac976b2a9e6",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22223",
+   "key": "inpa:e94a7bd6da614a19ae286ac976b2a9e6",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:9de9fed71d9744b3aab69dfc9492cf59",
+   "inpaId": "9de9fed71d9744b3aab69dfc9492cf59",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 26 POSTI DI DIRIGENTE MEDICO – AREA DI SANITÀ PUBBLICA – DISCIPLINA DI IGIENE…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Catanzaro",
+    "Vibo Valentia",
+    "Cosenza",
+    "Reggio Calabria",
+    "Crotone"
+   ],
+   "nazionale": false,
+   "posti": 26,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 26 POSTI DI DIRIGENTE MEDICO – AREA DI SANITÀ PUBBLICA – DISCIPLINA DI IGIENE E MEDICINA PREVENTIVA, DA DESTINARE ALLE AZIENDE DEL SERVIZIO SANITARIO REGIONALE",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/c01d55e8-3d91-4949-ae7b-e62313afc3fb",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9de9fed71d9744b3aab69dfc9492cf59",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22291",
+   "key": "inpa:9de9fed71d9744b3aab69dfc9492cf59",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:e50f8f2b294c4c0890deb20c10236d5a",
+   "inpaId": "e50f8f2b294c4c0890deb20c10236d5a",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 13 POSTI DI DIRIGENTE MEDICO – AREA DELLA MEDICINA DIAGNOSTICA E DEI SERVIZI – DISCIPLINA DI PATOLOGIA CLINICA, NON COPERTI CON…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Cosenza",
+    "Crotone",
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 13,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "Azienda per il governo della sanità della regione calabria – azienda zero – concorso pubblico, per titoli ed esami, per la copertura a tempo pieno e indeterminato di n. 13 posti di dirigente medico – area della medicina diagnostica e dei servizi – disciplina di patologia clinica, non coperti con contestuale avviso di mobilità da destinare alle seguenti aziende del servizio sanitario regionale",
+   "mansioni": "3) prova orale (max 20 punti) : sulle materie inerenti alla disciplina a concorso nonché sui  compiti connessi alla funzione da conferire.\nLa data e la sede in cui si svolgeranno le prove d’esame saranno notificate ai candidati  mediante avviso pubblicato su “inPA” almeno 15 giorni prima dell’inizio delle prove scritta  e pratica ed almeno 20 giorni prima della prova orale.",
+   "titoliStudio": "Titolo di studio: Laurea in Medicina e Chirurgia;\nIscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro).\nL’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia…",
+   "requisiti": "• Titolo di studio: Laurea in Medicina e Chirurgia; \n• Iscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro). L’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia prima dell’assunzione in servizio; \n• Specializzazione in Patologia Clinica e/o discipline equipollenti e/o affini o in alternativa: \n▪ iscrizione a partire dal secondo anno del Corso di…",
+   "prove": "Le prove di esame, per le quali la Commissione dispone di 80 punti, sono articolate come previsto dall’art. 26 del D.P.R. del 10 dicembre 1997, n. 483 e s.m.i. in: \n1) prova scritta (max 30 punti): relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso o…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Allegato_2_Bando_di_Concorso_di_Patologia%20Clinica.pdf.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e50f8f2b294c4c0890deb20c10236d5a",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22238",
+   "altriLink": [
+    "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-medico-patologo"
+   ],
+   "key": "inpa:e50f8f2b294c4c0890deb20c10236d5a",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Azienda Zero Calabria",
+    "Regione Calabria – Bandi e avvisi"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:ba9a29c868e742af89bea94e931dd593",
+   "inpaId": "ba9a29c868e742af89bea94e931dd593",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 POSTI DI DIRIGENTE MEDICO - AREA CHIRURGICA E DELLE SPECIALITA' CHIRURGICHE - DISCIPLINA DI CHIRURGIA MAXILLO - FACCIALE, NON…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "chirurgo maxillo facciale",
+   "sedi": [
+    "Reggio Calabria",
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "Azienda per il governo della sanità della regione calabria – azienda zero – concorso pubblico, per titoli ed esami, per la copertura a tempo pieno e indeterminato di n. 2 posti di dirigente medico – area chirurgica e delle specialita’ chirurgiche – disciplina di chirurgia maxillo – facciale, non coperti con contestuale avviso di mobilità,da destinare alle aziende del servizio sanitario regionale",
+   "mansioni": "3) prova orale (max 20 punti) : sulle materie inerenti alla disciplina a concorso nonché sui  compiti connessi alla funzione da conferire.\nLa data e la sede in cui si svolgeranno le prove d’esame saranno notificate ai candidati  mediante avviso pubblicato su “inPA” almeno 15 giorni prima dell’inizio delle prove scritta  e pratica ed almeno 20 giorni prima della prova orale.",
+   "titoliStudio": "Titolo di studio: Laurea in Medicina e Chirurgia;\nIscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro).\nL’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia…",
+   "requisiti": "• Titolo di studio: Laurea in Medicina e Chirurgia; \n• Iscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro). L’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia prima dell’assunzione in servizio; \n• Specializzazione in Chirurgia Maxillo-Facciale e/o discipline equipollenti e/o affini o in alternativa: \n▪ iscrizione a partire dal secondo anno del…",
+   "prove": "Le prove di esame: \n1) prova scritta (max 30 punti): relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso o soluzione di una serie di quesiti a risposta sintetica inerenti alla disciplina stessa; \n2) prova pratica (max 30 punti): su tecniche e manualità…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Allegato_2_Bando_di_Concorso_di_Chirurgia%20Maxillo-Facciale.pdf.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ba9a29c868e742af89bea94e931dd593",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22254",
+   "altriLink": [
+    "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-chirurgo-maxillo"
+   ],
+   "key": "inpa:ba9a29c868e742af89bea94e931dd593",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Azienda Zero Calabria",
+    "Regione Calabria – Bandi e avvisi"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:63fa494919a54a5f85220b5eb1c98e48",
+   "inpaId": "63fa494919a54a5f85220b5eb1c98e48",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 26 POSTI DI DIRIGENTE MEDICO – AREA DI SANITÀ PUBBLICA – DISCIPLINA DI IGIENE E MEDICINA PREVENTIVA, NON COPERTI CON CONTESTUALE…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Crotone",
+    "Cosenza",
+    "Catanzaro",
+    "Vibo Valentia",
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 26,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "Azienda per il governo della sanità della regione calabria – azienda zero – concorso pubblico, per titoli ed esami, per la copertura a tempo pieno e indeterminato di n. 26 posti di dirigente medico – area di sanità pubblica – disciplina di igiene e medicina preventiva, non coperti con contestuale avviso di mobilità da destinare alle aziende del servizio sanitario regionale",
+   "mansioni": "3) prova orale (max 20 punti) : sulle materie inerenti alla disciplina a concorso nonché sui  compiti connessi alla funzione da conferire.\nLa data e la sede in cui si svolgeranno le prove d’esame saranno notificate ai candidati  mediante avviso pubblicato su “inPA” almeno 15 giorni prima dell’inizio delle prove scritta  e pratica ed almeno 20 giorni prima della prova orale.",
+   "titoliStudio": "Titolo di studio: Laurea in Medicina e Chirurgia;\nIscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro).\nSpecializzazione in Igiene e Medicina Preventiva e/o discipline equipollenti e/o affini o in alternativa:\nmedicina e chirurgia",
+   "requisiti": "• Titolo di studio: Laurea in Medicina e Chirurgia; \n• Iscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro). \n• Specializzazione in Igiene e Medicina Preventiva e/o discipline equipollenti e/o affini o in alternativa: \n▪ iscrizione a partire dal secondo anno del Corso di specializzazione in Igiene e Medicina Preventiva o discipline equipollenti o affini, ai sensi dell’art. 1, commi 547, 548 e 548 bis, della Legge 145/2018 e s.m.i., della nota del Ministero della Salute prot. n. 40367…",
+   "prove": "Le prove di esame, per le quali la Commissione dispone di 80 punti, sono articolate come previsto dall’art. 26 del D.P.R. del 10 dicembre 1997, n. 483 e s.m.i. in: \n1) prova scritta (max 30 punti): relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso o…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Allegato_2_Bando_di_Concorso_di_Igiene%20e%20Medicina%20Preventiva.pdf.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=63fa494919a54a5f85220b5eb1c98e48",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22306",
+   "altriLink": [
+    "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-medico-igiene-cosenza"
+   ],
+   "key": "inpa:63fa494919a54a5f85220b5eb1c98e48",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Azienda Zero Calabria",
+    "Regione Calabria – Bandi e avvisi"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:42a0e8b04a664f338df663dfdae19cad",
+   "inpaId": "42a0e8b04a664f338df663dfdae19cad",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO -  AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 POSTI DI DIRIGENTE MEDICO - AREA CHIRURGICA E DELLE SPECIALITA'…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Reggio Calabria",
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 POSTI DI DIRIGENTE MEDICO - AREA CHIRURGICA E DELLE SPECIALITA' CHIRURGICHE - DISCIPLINA DI CHIRURGIA MAXILLO - FACCIALE DA DESTINARE ALLE AZIENDE DEL SERVIZIO SANITARIO REGIONALE",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/2dde7edf-b989-4e2d-b7e2-00dec5ed5c25",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=42a0e8b04a664f338df663dfdae19cad",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22269",
+   "key": "inpa:42a0e8b04a664f338df663dfdae19cad",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:53bb89a2abc1453382b6df96218a8436",
+   "inpaId": "53bb89a2abc1453382b6df96218a8436",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "CONCORSO “EPCDC - INTERNI” - N. 30 UNITA’ DI PERSONALE NON DIRIGENZIALE APPARTENENTE ALL’AREA DELLE ELEVATE PROFESSIONALITA’ DELLA CORTE DEI CONTI",
+   "ente": "Corte dei Conti",
+   "profilo": "Elevate Professionalità - Area Amministrativo-Giuridico - Legale - Lavoro - Contabilità e Bilancio - Negoziazione e Contratti Pubblici",
+   "sedi": [
+    "Lazio",
+    "Lombardia",
+    "Abruzzo",
+    "Umbria",
+    "Marche",
+    "Sicilia",
+    "Liguria",
+    "Veneto",
+    "Campania",
+    "Emilia Romagna",
+    "Toscana",
+    "Piemonte",
+    "Sardegna"
+   ],
+   "nazionale": false,
+   "posti": 30,
+   "scadenza": "2026-12-28",
+   "pubblicazione": "2026-11-25",
+   "contratto": "",
+   "descrizione": "CONCORSO “EPCDC - INTERNI” - N. 30 UNITA’ DI PERSONALE NON DIRIGENZIALE APPARTENENTE ALL’AREA DELLE ELEVATE PROFESSIONALITA’ DELLA CORTE DEI CONTI",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=53bb89a2abc1453382b6df96218a8436",
+   "linkEnte": "",
+   "key": "inpa:53bb89a2abc1453382b6df96218a8436",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [],
+   "categoria": "altro"
   },
   {
    "id": "inpa:abde7f2c715e477c8cacded1451c411a",
@@ -272,72 +587,32 @@
    "categoria": "forze"
   },
   {
-   "id": "inpa:77f85f1d4e124692954b8994fe50c3a2",
-   "inpaId": "77f85f1d4e124692954b8994fe50c3a2",
+   "id": "cp:comune-di-san-sosti-concorso-funzionario-amministrativo-cosenza-2026",
    "fonti": [
     "Concorsando",
-    "ConcorsiPubblici",
-    "inPA"
+    "ConcorsiPubblici"
    ],
-   "titolo": "Concorso pubblico, per esami, per l’assunzione full time 100% a tempo indeterminato di n. 1 Funzionario Contabile – Area dei Funzionari e dell’Elevata Qualificazione",
+   "titolo": "Comune di San Sosti, 1 funzionario amministrativo",
    "ente": "Comune di San Sosti",
-   "profilo": "funzionario contabile",
+   "profilo": "funzionario amministrativo",
    "sedi": [
     "Cosenza"
    ],
    "nazionale": false,
-   "posti": 1,
+   "posti": null,
    "scadenza": "2026-11-25",
-   "pubblicazione": "2026-10-26",
-   "contratto": "tempo indeterminato, tempo pieno",
-   "descrizione": "Il profilo di Funzionario contabile individuato attraverso la presente procedura sarà ascritto all’Area \ndei Funzionari e dell’Elevata Qualificazione, di cui al vigente sistema di classificazione professionale \ndel CCNL Funzioni Locali (CCNL 2022-2024). \nAppartengono a quest’area i lavoratori strutturalmente inseriti nei processi amministrativi-contabili \ne tecnici e nei sistemi di erogazione dei servizi che nel quadro di indirizzi generali, assicurano il \npresidio di importanti e diversi processi, concorrendo al raggiungimento degli obiettivi stabiliti, \nassicurando la qualità dei servizi e…",
-   "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
-   "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LM-16 Finanza;\nLM-56 Scienze dell'economia;\nLM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 64/S Scienze dell'economia;\nScienze…",
-   "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LM-16 Finanza; LM-56 Scienze dell'economia; LM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 64/S Scienze dell'economia; Finanza; 84/S Scienze economico-aziendali; 19/S diploma di laurea (DL) conseguito secondo il vecchio ordinamento universitario ante D.M. 509/99 in Economia e commercio, Economia…",
-   "prove": "Materie:\nOrdinamento finanziario e contabile degli enti locali (D. Lgs. 267/2000 e s.m.i.) e principi contabili generali e applicati;\nNorme generali sulla contabilità delle Autonomie Locali ed in materia di armonizzazione dei sistemi contabili (D.lgs. n. 118/2011);\nNozioni di diritto tributario e…",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concorso%20funzionario%20contabile.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=77f85f1d4e124692954b8994fe50c3a2",
-   "linkEnte": "",
-   "altriLink": [
-    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-contabile-cosenza-2026",
-    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-contabile-presso-il-comune-di-san-sosti/"
-   ],
-   "key": "inpa:77f85f1d4e124692954b8994fe50c3a2",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:2245aa2fcfa245d1992d71b8493e59e3",
+   "pubblicazione": "",
+   "descrizione": "Il Comune di San Sosti, in provincia di Cosenza, indice un concorso pubblico per esami per l'assunzione a tempo parziale al 50% e indeterminato di 1 funzionario amministrativo, Area dei Funzionari e dell'Elevata Qualificazione.\nPer partecipare serve una laurea magistrale, specialistica o del vecchio ordinamento nelle classi previste dal bando in ambito giuridico, economico e politico-amministrativo, oltre alla conoscenza della lingua inglese e dell'informatica. La tassa di ammissione è di 10,33 euro.",
+   "link": "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-amministrativo-cosenza-2026",
    "inpaId": "2245aa2fcfa245d1992d71b8493e59e3",
-   "fonti": [
-    "Concorsando",
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "Concorso pubblico, per esami, per l’assunzione part time 50% a tempo indeterminato di n. 1 Funzionario Amministrativo – Area dei Funzionari e dell’Elevata Qualificazione – CCNL Funzioni Locali – del Comune di San Sosti",
-   "ente": "Comune di San Sosti",
-   "profilo": "FUNZIONARIO AMMINISTRATIVO",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-25",
-   "pubblicazione": "2026-10-26",
    "contratto": "tempo indeterminato, part time",
-   "descrizione": "Il profilo di Funzionario amministrativo individuato attraverso la presente procedura sarà ascritto \nall’Area dei Funzionari e dell’Elevata Qualificazione, di cui al vigente sistema di classificazione \nprofessionale del CCNL Funzioni Locali (CCNL 2022-2024). \nAppartengono a quest’area i lavoratori strutturalmente inseriti nei processi amministrativi-contabili \ne tecnici e nei sistemi di erogazione dei servizi che nel quadro di indirizzi generali, assicurano il \npresidio di importanti e diversi processi, concorrendo al raggiungimento degli obiettivi stabiliti, \nassicurando la qualità dei…",
    "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
    "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LMG/01 Giurisprudenza;\nLM-52 Relazioni internazionali;\nLM-56 Scienze dell'economia;\nGiurisprudenza \nScienze politiche \nScienze Economico Aziendali",
    "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LMG/01 Giurisprudenza; LM-16 Finanza; LM-52 Relazioni internazionali; LM-56 Scienze dell'economia; LM-62 Scienze della politica; LM-63 Scienze delle pubbliche amministrazioni; LM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 22/S Giurisprudenza; 19/S Finanza; 60/S Relazioni internazionali; 64/S Scienze…",
    "prove": "Materie:\nNozioni di Diritto Costituzionale e Diritto Amministrativo, con particolare riferimento al diritto di accesso agli atti ed al procedimento amministrativo (Legge 241/1990 e s.m.i.);\nOrdinamento degli Enti Locali (D.Lgs. 267/2000);\nOrdinamento finanziario e contabile degli Enti…",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
    "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concorso%20funzionario%20amministrativo.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2245aa2fcfa245d1992d71b8493e59e3",
-   "linkEnte": "",
    "altriLink": [
-    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-amministrativo-cosenza-2026",
     "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-amministrativo-presso-il-comune-di-san-sosti/"
    ],
    "key": "inpa:2245aa2fcfa245d1992d71b8493e59e3",
@@ -346,38 +621,69 @@
    "categoria": "comuni"
   },
   {
-   "id": "inpa:f1bc11e4abb8455db5442efa320283cb",
-   "inpaId": "f1bc11e4abb8455db5442efa320283cb",
+   "id": "cp:comune-di-san-sosti-concorso-istruttore-tecnico-cosenza-2026",
    "fonti": [
     "Concorsando",
-    "ConcorsiPubblici",
-    "inPA"
+    "ConcorsiPubblici"
    ],
-   "titolo": "Concorso pubblico, per esami, per l’assunzione part time 50% a tempo indeterminato di n. 1 Istruttore Tecnico – Area degli Istruttori (ex Cat. C)",
+   "titolo": "Comune di San Sosti, 1 istruttore tecnico",
    "ente": "Comune di San Sosti",
    "profilo": "istruttore tecnico",
    "sedi": [
     "Cosenza"
    ],
    "nazionale": false,
-   "posti": 1,
+   "posti": null,
    "scadenza": "2026-11-25",
-   "pubblicazione": "2026-10-26",
+   "pubblicazione": "",
+   "descrizione": "Il Comune di San Sosti, in provincia di Cosenza, indice un concorso pubblico per esami per l'assunzione a tempo parziale al 50% e indeterminato di 1 istruttore tecnico, Area degli Istruttori.\nPer partecipare serve il diploma di geometra o un diploma di istruzione tecnica quinquennale equipollente, compreso Costruzioni, ambiente e territorio. In alternativa è ammesso qualsiasi diploma quinquennale insieme a una laurea nelle classi previste dal bando in ambito edilizio, urbanistico e ingegneristico. La tassa di ammissione è di 10,33 euro.",
+   "link": "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-istruttore-tecnico-cosenza-2026",
+   "inpaId": "f1bc11e4abb8455db5442efa320283cb",
    "contratto": "tempo indeterminato, part time",
-   "descrizione": "Il profilo di Istruttore Tecnico individuato attraverso la presente procedura sarà ascritto all’Area degli \nIstruttori (ex Cat. C), di cui al vigente sistema di classificazione professionale del CCNL Funzioni \nLocali (CCNL 2022-2024). \nIl lavoratore sarà strutturalmente inserito nei processi amministrativi-contabili e tecnici e nei sistemi \ndi erogazione dei servizi e ne svolgerà fasi di processo e/o processi, con responsabilità diretta di \nrisultato su prodotti specifici, nell’ambito di direttive di massima e di procedure predeterminate, \nanche attraverso la gestione di strumentazioni…",
    "mansioni": "di erogazione dei servizi e ne svolgerà fasi di processo e/o processi, con responsabilità diretta di",
    "titoliStudio": "Per partecipare alla procedura concorsuale è richiesto il possesso del seguente titolo di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: diploma di Geometra o diploma equipollente di durata quinquennale (compreso il diploma di istruzione tecnica del settore tecnologico, indirizzo «Costruzioni, ambiente e territorio», di cui al D.P.R. 15 marzo 2010, n. 88).\nistituto tecnico…",
    "requisiti": "Per partecipare alla procedura concorsuale è richiesto il possesso del seguente titolo di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: diploma di Geometra o diploma equipollente di durata quinquennale (compreso il diploma di istruzione tecnica del settore tecnologico, indirizzo «Costruzioni, ambiente e territorio», di cui al D.P.R. 15 marzo 2010, n. 88). \nIn alternativa al diploma di Geometra, è ammesso il possesso di qualsiasi diploma di istruzione secondaria superiore di durata quinquennale purché accompagnato da uno dei seguenti titoli di studio…",
    "prove": "Le prove d'esame consisteranno, in coerenza con l'art. 35-quater del D. Lgs. 165/2001, in una prova scritta e in una prova orale, tendenti ad accertare la maturità e la professionalità dei candidati e il possesso delle competenze, intese come insieme delle conoscenze e delle capacità…",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
    "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concrso%20istruttore%20tecnico.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f1bc11e4abb8455db5442efa320283cb",
-   "linkEnte": "",
    "altriLink": [
-    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-istruttore-tecnico-cosenza-2026",
     "https://www.concorsando.it/blog/concorsi/1-posto-di-istruttore-tecnico-presso-il-comune-di-san-sosti/"
    ],
    "key": "inpa:f1bc11e4abb8455db5442efa320283cb",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "cp:comune-di-san-sosti-concorso-funzionario-contabile-cosenza-2026",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici"
+   ],
+   "titolo": "Comune di San Sosti, 1 funzionario contabile",
+   "ente": "Comune di San Sosti",
+   "profilo": "funzionario contabile",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": null,
+   "scadenza": "2026-11-25",
+   "pubblicazione": "",
+   "descrizione": "Il Comune di San Sosti, in provincia di Cosenza, indice un concorso pubblico per esami per l'assunzione a tempo pieno e indeterminato di 1 funzionario contabile, Area dei Funzionari e dell'Elevata Qualificazione.\nPer partecipare serve una laurea magistrale, specialistica o del vecchio ordinamento nelle classi previste dal bando in ambito economico e finanziario, oltre alla conoscenza della lingua inglese e dell'informatica. La tassa di ammissione è di 10,33 euro.",
+   "link": "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-contabile-cosenza-2026",
+   "inpaId": "77f85f1d4e124692954b8994fe50c3a2",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
+   "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LM-16 Finanza;\nLM-56 Scienze dell'economia;\nLM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 64/S Scienze dell'economia;\nScienze…",
+   "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LM-16 Finanza; LM-56 Scienze dell'economia; LM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 64/S Scienze dell'economia; Finanza; 84/S Scienze economico-aziendali; 19/S diploma di laurea (DL) conseguito secondo il vecchio ordinamento universitario ante D.M. 509/99 in Economia e commercio, Economia…",
+   "prove": "Materie:\nOrdinamento finanziario e contabile degli enti locali (D. Lgs. 267/2000 e s.m.i.) e principi contabili generali e applicati;\nNorme generali sulla contabilità delle Autonomie Locali ed in materia di armonizzazione dei sistemi contabili (D.lgs. n. 118/2011);\nNozioni di diritto tributario e…",
+   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concorso%20funzionario%20contabile.pdf",
+   "altriLink": [
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-contabile-presso-il-comune-di-san-sosti/"
+   ],
+   "key": "inpa:77f85f1d4e124692954b8994fe50c3a2",
    "primaVista": "2026-11-13",
    "entiMonitorati": [],
    "categoria": "comuni"
@@ -1058,6 +1364,37 @@
     "AFAM – Conservatorio \"F. Torrefranca\" di Vibo Valentia"
    ],
    "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:ac3cc0931a414b4ab3111bc27756415e",
+   "inpaId": "ac3cc0931a414b4ab3111bc27756415e",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI SELEZIONE PUBBLICA,  FINALIZZATO ALLA STABILIZZAZIONE DI N. 1 UNITÀ CON PROFILO PROFESSIONALE DI \"ISTRUTTORE DI VIGILANZA\" (AREA DEGLI ISTRUTTORI - EX CAT. C), A TEMPO PARZIALE 50% E INDETERMINATO, AI SENSI DELL'ART. 3, COMMA 5, DEL D.L. 22 APRILE 2023, N. 44, CONVERTITO CON…",
+   "ente": "Comune di Vallefiorita",
+   "profilo": "ISTRUTTORE DI VIGILANZA (AREA DEGLI ISTRUTTORI - EX CAT. C)",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-04",
+   "pubblicazione": "2026-11-24",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "AVVISO DI SELEZIONE PUBBLICA, FINALIZZATO ALLA STABILIZZAZIONE DI N. 1 UNITÀ CON PROFILO PROFESSIONALE DI \"ISTRUTTORE DI VIGILANZA\" (AREA DEGLI ISTRUTTORI - EX CAT. C), A TEMPO PARZIALE 50% E INDETERMINATO, AI SENSI DELL'ART. 3, COMMA 5, DEL D.L. 22 APRILE 2023, N. 44, CONVERTITO CON MODIFICAZIONI DALLA LEGGE 21 GIUGNO 2023, N. 74.",
+   "mansioni": "",
+   "titoliStudio": "8. possesso del titolo di studio richiesto per l'accesso all'Area degli Istruttori (Diploma di istru- zione secondaria di secondo grado di durata quinquennale);",
+   "requisiti": "Per l'ammissione alla selezione è richiesto il possesso, alla data di scadenza del termine per la presenta- zione della domanda, dei seguenti requisiti specifici e generali:\nA) Requisiti specifici previsti dall'art. 3, comma 5, D.L. 44/2023:\nB) Requisiti generali per l'accesso al pubblico impiego e per il profilo di Istruttore di Vigi- lanza:\n1. cittadinanza italiana (sono equiparati ai cittadini gli italiani non appartenenti alla Repubblica);\n2. età non inferiore ad anni 18 e non superiore a quella prevista dalle norme vigenti per il colloca- mento a riposo;",
+   "prove": "Per colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/8a2d2fd8-65d1-4244-a6c5-19d736c62986",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac3cc0931a414b4ab3111bc27756415e",
+   "linkEnte": "https://comune.vallefiorita.cz.it/",
+   "key": "inpa:ac3cc0931a414b4ab3111bc27756415e",
+   "primaVista": "2026-11-24",
+   "entiMonitorati": [],
+   "categoria": "comuni"
   },
   {
    "id": "inpa:3e80cc25bad2406d8f2ec946e1f6c21f",
@@ -2334,6 +2671,117 @@
    ],
    "key": "inpa:bc0d9e2806884b66938b5532fe767e83",
    "primaVista": "2026-11-23",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:d92eb68960e847eaa521ccddf25f8409",
+   "inpaId": "d92eb68960e847eaa521ccddf25f8409",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "CONCORSO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% DI N. 1 AUTISTA (PATENTE C CON CQC MERCI) AREA DEGLI OPERATORI ESPERTI DEL CCNL FUNZIONI LOCALI . COMUNE DI LUZZI.",
+   "ente": "Comune di Luzzi",
+   "profilo": "OPERAIO SPECIALIZZATO AUTISTA PATENTE C CON CQC MERCI",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-24",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il Comune di Luzzi (Cosenza) indice un concorso pubblico, per esami, per assumere a tempo indeterminato e part-time al 50% (18 ore settimanali) 1 operaio specializzato autista con patente C e CQC (merci), area degli operatori esperti (ex categoria B).\nIl titolo richiesto è un attestato di qualifica professionale tecnica biennale, un diploma di istruzione tecnica o una laurea; in alternativa bastano l'obbligo scolastico e due anni di esperienza lavorativa pertinente negli ultimi cinque anni. Sono previste una prova pratico-attitudinale e una prova orale.",
+   "mansioni": "I lavoratori in possesso del profilo professionale di Operatore tecnico esperto svolgono, a titolo non esaustivo  e nel rispetto delle istruzioni di massima ricevute, i seguenti compiti ed attività:\nassolvimento dell’obbligo scolastico unitamente a due anni di esperienza professionale (attività  lavorativa retribuita) maturati negli ultimi cinque anni, inerente le mansioni del posto messo a concorso  in pubbliche…",
+   "titoliStudio": "Titolo di studio:\nattestato o diploma di qualifica professionale, avente durata almeno biennale ad indirizzo tecnico, (post Scuola Secondaria di Primo Grado) rilasciato da scuole o Istituti Professionali di Stato, dalla Regione o da centri di formazione professionale legalmente riconosciuti od eventualmente titolo superiore;\nin alternativa - diploma di istruzione tecnica (scuola secondaria di secondo grado) o…",
+   "requisiti": "Titolo di studio: \n- attestato o diploma di qualifica professionale, avente durata almeno biennale ad indirizzo tecnico, (post Scuola Secondaria di Primo Grado) rilasciato da scuole o Istituti Professionali di Stato, dalla Regione o da centri di formazione professionale legalmente riconosciuti od eventualmente titolo superiore; \nin alternativa - diploma di istruzione tecnica (scuola secondaria di secondo grado) o una laurea; \nin alternativa - assolvimento dell’obbligo scolastico unitamente a due anni di esperienza professionale (attività lavorativa retribuita) maturati negli ultimi cinque…",
+   "prove": "Il programma d'esame prevede una prova pratica-attitudinale e una prova orale come di seguito descritte:\n• prova pratica-attitudinale: la prova potrà consistere nell’utilizzo di una macchina operatrice complessa e/o nella conduzione di un autocarro e/o nella soluzione di uno o più casi pratici…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando%20Concorso%20Autista%20C.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d92eb68960e847eaa521ccddf25f8409",
+   "linkEnte": "https://www.comunediluzzi.it/it",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-luzzi-concorso-autista-cosenza-2026-0",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-operaio-specializzato-autista-con-patente-c-presso-il-comune-di-luzzi/"
+   ],
+   "key": "inpa:d92eb68960e847eaa521ccddf25f8409",
+   "primaVista": "2026-11-24",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:cffe343d924144dd895e917ff8c753fd",
+   "inpaId": "cffe343d924144dd895e917ff8c753fd",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "CONCORSO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% DI N. 1 AUTISTA (PATENTE D CON CQC PERSONE) AREA DEGLI OPERATORI ESPERTI DEL CCNL FUNZIONI LOCALI . COMUNE DI LUZZI.",
+   "ente": "Comune di Luzzi",
+   "profilo": "OPERAIO SPECIALIZZATO AUTISTA PATENTE D CON CQC PERSONE",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-24",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il Comune di Luzzi (Cosenza) indice un concorso pubblico, per esami, per assumere a tempo indeterminato e part-time al 50% (18 ore settimanali) 1 operaio specializzato autista con patente D e CQC (persone), area degli operatori esperti (ex categoria B).\nIl titolo richiesto è un attestato di qualifica professionale tecnica biennale, un diploma di istruzione tecnica o una laurea; in alternativa bastano l'obbligo scolastico e due anni di esperienza lavorativa pertinente negli ultimi cinque anni. Sono previste una prova pratico-attitudinale e una prova orale.",
+   "mansioni": "I lavoratori in possesso del profilo professionale di Operatore tecnico esperto svolgono, a titolo non esaustivo  e nel rispetto delle istruzioni di massima ricevute, i seguenti compiti ed attività:\nassolvimento dell’obbligo scolastico unitamente a due anni di esperienza professionale (attività  lavorativa retribuita) maturati negli ultimi cinque anni, inerente le mansioni del posto messo a concorso  in pubbliche…",
+   "titoliStudio": "Titolo di studio:\nattestato o diploma di qualifica professionale, avente durata almeno biennale ad indirizzo tecnico, (post Scuola Secondaria di Primo Grado) rilasciato da scuole o Istituti Professionali di Stato, dalla Regione o da centri di formazione professionale legalmente riconosciuti od eventualmente titolo superiore;\ndiploma di istruzione tecnica (scuola secondaria di secondo grado) o una laurea;\nQualifica…",
+   "requisiti": "Titolo di studio: \n- attestato o diploma di qualifica professionale, avente durata almeno biennale ad indirizzo tecnico, (post Scuola Secondaria di Primo Grado) rilasciato da scuole o Istituti Professionali di Stato, dalla Regione o da centri di formazione professionale legalmente riconosciuti od eventualmente titolo superiore; \nin alternativa \n- diploma di istruzione tecnica (scuola secondaria di secondo grado) o una laurea; \nin alternativa \n- assolvimento dell’obbligo scolastico unitamente a due anni di esperienza professionale (attività lavorativa retribuita) maturati negli ultimi cinque…",
+   "prove": "Il programma d'esame prevede una prova pratica-attitudinale e una prova orale come di seguito descritte:\n• prova pratica-attitudinale: la prova potrà riguardare:\n- Guida operativa del mezzo: Conduzione di un veicolo di categoria D, affrontando manovre specifiche, percorsi urbani/extraurbani e…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando%20Concorso%20Autista%20D.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cffe343d924144dd895e917ff8c753fd",
+   "linkEnte": "https://www.comunediluzzi.it/it",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-luzzi-concorso-autista-cosenza-2026",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-operaio-specializzato-autista-con-patente-d-presso-il-comune-di-luzzi/"
+   ],
+   "key": "inpa:cffe343d924144dd895e917ff8c753fd",
+   "primaVista": "2026-11-24",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:46bb60d29d3f486e893434ec6554e7b9",
+   "inpaId": "46bb60d29d3f486e893434ec6554e7b9",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "CONCORSO PUBBLICO, PER SOLI ESAMI, PER L’ASSUNZIONE A TEMPO INDETERMINATO E PART TIME 50% DI N 1 UNITA’- PROFILO ISTRUTTORE DIRETTIVO CONTABILE (EX CAT. D) C.C.N.L. FUNZIONI LOCALI - COMUNE DI LUZZI",
+   "ente": "Comune di Luzzi",
+   "profilo": "ISTRUTTORE DIRETTIVO CONTABILE",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-24",
+   "contratto": "tempo indeterminato, part time",
+   "descrizione": "Il Comune di Luzzi (Cosenza) indice un concorso pubblico, per soli esami, per assumere a tempo indeterminato e part-time al 50% (18 ore settimanali) 1 istruttore direttivo contabile, area dei funzionari e dell'elevata qualificazione, da assegnare al settore Bilancio e programmazione finanziaria.\nServe una laurea in economia, giurisprudenza o scienze politiche (vecchio ordinamento, triennale, specialistica o magistrale nelle classi equiparate) e la patente B. Sono previste una prova scritta e una prova orale, con conoscenza della lingua inglese e dell'informatica.",
+   "mansioni": "Le mansioni del profilo sono quelle previste nelle declaratorie del C.C.N.L. del Comparto Funzioni Locali  del 23.02.2026 e nella delibera di Giunta Comunale n. 38 del 24/03/2023 di identificazione dei nuovi profili  professionali e collocazione degli stessi nelle corrispondenti Aree.\nIn particolare, la figura professionale da selezionare dovrà svolgere tutte le funzioni afferenti all’Area dei\ncapacità di lavoro in…",
+   "titoliStudio": "di diploma di laurea vecchio ordinamento (DL) in Economia e Commercio, Economia Aziendale, Giurisprudenza o Scienze Politiche, oppure Laurea Specialistica (LS – DM 509/1999) o Laurea Magistrale (LM – DM 270/2004) equiparata ad uno dei Diplomi di Laurea specificati o equipollenti;\nEconomia e Commercio \nGiurisprudenza \nScienze politiche",
+   "requisiti": "Il candidato dovrà essere in possesso:\n• di diploma di laurea vecchio ordinamento (DL) in Economia e Commercio, Economia Aziendale, Giurisprudenza o Scienze Politiche, oppure Laurea Specialistica (LS – DM 509/1999) o Laurea Magistrale (LM – DM 270/2004) equiparata ad uno dei Diplomi di Laurea specificati o equipollenti;\n• lauree universitarie rientranti nelle classi 2 (Scienze dei Servizi Giuridici), 31 (Scienze Giuridiche), 15 (Scienze Politiche e delle relazioni internazionali), 17 (Scienze dell’economia e della gestione aziendale), 19 (Scienze dell’amministrazione), 28 (Scienze…",
+   "prove": "Le prove d’esame consisteranno in una prova scritta e una orale e avranno ad oggetto la verifica di competenze tecnico-specialistiche ed eventualmente di competenze comportamentali.\nPer le verifiche delle competenze tecnico-specialistiche sarà richiesto una conoscenza nelle seguenti materie:\n➢…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando%20Concorso%20Contabile%20Luzzi.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=46bb60d29d3f486e893434ec6554e7b9",
+   "linkEnte": "https://www.comunediluzzi.it/it",
+   "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-luzzi-concorso-istruttore-direttivo-contabile-cosenza-2026",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-istruttore-direttivo-contabile-presso-il-comune-di-luzzi/"
+   ],
+   "key": "inpa:46bb60d29d3f486e893434ec6554e7b9",
+   "primaVista": "2026-11-24",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
