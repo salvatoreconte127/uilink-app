@@ -1,690 +1,213 @@
 {
- "aggiornato": "2026-11-25T15:49+00:00",
+ "aggiornato": "2026-11-26T15:29+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
-   "bandi": 76
+   "bandi": 79
   },
   "ConcorsiPubblici": {
    "ok": true,
-   "bandi": 47
+   "bandi": 45
   },
   "Concorsando": {
    "ok": true,
-   "bandi": 20
+   "bandi": 16
   }
  },
  "totale": 84,
- "nuoviOggi": 13,
+ "nuoviOggi": 6,
  "bandi": [
   {
-   "id": "inpa:dd481ab9cd1845ef90986254cbcc4a44",
-   "inpaId": "dd481ab9cd1845ef90986254cbcc4a44",
+   "id": "inpa:bd3aa5f64bfa48e98facfc2150d7fc3a",
+   "inpaId": "bd3aa5f64bfa48e98facfc2150d7fc3a",
    "fonti": [
     "inPA"
    ],
-   "titolo": "MANIFESTAZIONE DI INTERESSE, PER L'UTILIZZO DI GRADUATORIE DI ALTRI ENTI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO CON PROFILO DI AGENTE DI POLIZIA MUNICIPALE - AREA DEGLI ISTRUTTORI - EX CAT C",
-   "ente": "Comune di Cropani",
-   "profilo": "Agente di Polizia Municipale",
+   "titolo": "AVVISO PUBBLICO per la stabilizzazione, ai sensi dell’art. 3, comma 5, del D.L. 22 aprile 2023, n. 44, convertito con modificazioni dalla Legge 21 giugno 2023, n. 74, di n. 1 unità già assunta ai sensi dell’art. 31-bis del D.L. 6 novembre 2021, n. 152, convertito con modificazioni dalla Legge 29…",
+   "ente": "Comune di Longobardi",
+   "profilo": "Funzionario Tecnico",
    "sedi": [
-    "Catanzaro"
+    "Cosenza"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-12-10",
-   "pubblicazione": "2026-11-25",
-   "contratto": "tempo indeterminato, tempo pieno",
-   "descrizione": "MANIFESTAZIONE DI INTERESSE, PER L'UTILIZZO DI GRADUATORIE DI ALTRI ENTI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO CON PROFILO DI AGENTE DI POLIZIA MUNICIPALE - AREA DEGLI ISTRUTTORI - EX CAT C",
+   "scadenza": "2026-12-06",
+   "pubblicazione": "2026-11-26",
+   "contratto": "",
+   "descrizione": "Stabilizzazione PNRR",
    "mansioni": "",
-   "titoliStudio": "titolo di studio posseduto.",
-   "requisiti": "",
-   "prove": "Per titoli",
+   "titoliStudio": "possesso di laurea in Ingegneria Edile- Architettura o titolo equipollente secondo la  normativa vigente.\nPer i candidati in possesso di titolo di studio conseguito all’estero, l’assunzione è subordinata al  rilascio, da parte delle competenti autorità, del provvedimento di equivalenza del titolo posseduto  a quello richiesto, ai sensi dell’art. 38 del D.lgs. 30 marzo 2001, n. 165.\ndisciplinari ai sensi della…",
+   "requisiti": "il suddetto dipendente, entro il termine previsto dalla normativa vigente, ha maturato i  requisiti temporali e professionali prescritti dall’art. 3, comma 5, del D.L. n. 44/2023 ai fini  della stabilizzazione nel profilo professionale rivestito;\nRequisiti generali\nI candidati devono essere in possesso dei requisiti generali previsti dalla normativa vigente per  l’accesso al pubblico impiego e precisamente:\ni cittadini degli Stati membri dell’Unione Europea e i loro familiari non aventi la  cittadinanza di uno Stato membro che siano titolari del diritto di soggiorno o del diritto di  soggiorno permanente;\nil godimento dei diritti civili e…",
+   "prove": "Per colloquio",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/371b2389-0b5d-4c91-923f-bb15563387da",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dd481ab9cd1845ef90986254cbcc4a44",
+   "linkBando": "https://portale.inpa.gov.it/api/media/ae44026e-8a5d-4d8c-b625-18291a00197b",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bd3aa5f64bfa48e98facfc2150d7fc3a",
    "linkEnte": "",
-   "key": "inpa:dd481ab9cd1845ef90986254cbcc4a44",
-   "primaVista": "2026-11-25",
+   "key": "inpa:bd3aa5f64bfa48e98facfc2150d7fc3a",
+   "primaVista": "2026-11-26",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
   {
-   "id": "inpa:239d82ed13094c56884164b6f0fb7294",
-   "inpaId": "239d82ed13094c56884164b6f0fb7294",
+   "id": "inpa:67880034686f4175bdb54c274eabb1fe",
+   "inpaId": "67880034686f4175bdb54c274eabb1fe",
    "fonti": [
     "inPA"
    ],
-   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Architettura degli interni a.a. 2026-2027",
-   "ente": "Accademia di Belle Arti Reggio Calabria",
-   "profilo": "Esperto Esterno disciplina di ARCHITETTURA DEGLI INTERNI",
-   "sedi": [
-    "Reggio Calabria"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-10",
-   "pubblicazione": "2026-11-25",
-   "contratto": "",
-   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di ARCHITETTURA DEGLI INTERNI",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/fa0b5dd3-d128-4bbd-a2ca-eb538f660085",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=239d82ed13094c56884164b6f0fb7294",
-   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
-   "key": "inpa:239d82ed13094c56884164b6f0fb7294",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "AFAM – Accademia di Belle Arti di Reggio Calabria",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
-   ],
-   "categoria": "istruzione"
-  },
-  {
-   "id": "inpa:4d3b8912fa8c4be3948e81a1f0247181",
-   "inpaId": "4d3b8912fa8c4be3948e81a1f0247181",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Fondamenti di Disegno Informatico a.a. 2026-2027",
-   "ente": "Accademia di Belle Arti Reggio Calabria",
-   "profilo": "Esperto Esterno di FONDAMENTI DI DISEGNO INFORMATICO",
-   "sedi": [
-    "Reggio Calabria"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-10",
-   "pubblicazione": "2026-11-25",
-   "contratto": "",
-   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di FONDAMENTI DI DISEGNO INFORMATICO",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/455ef22e-a115-4265-bc29-71df1c4e17b4",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4d3b8912fa8c4be3948e81a1f0247181",
-   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
-   "key": "inpa:4d3b8912fa8c4be3948e81a1f0247181",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "AFAM – Accademia di Belle Arti di Reggio Calabria",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
-   ],
-   "categoria": "istruzione"
-  },
-  {
-   "id": "inpa:19b5afd0049a460ca4d1f7fdcc7c1ecf",
-   "inpaId": "19b5afd0049a460ca4d1f7fdcc7c1ecf",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Restauro materiali digitali per il cinema a.a. 2026-2027",
-   "ente": "Accademia di Belle Arti Reggio Calabria",
-   "profilo": "Esperto Esterno disciplina di RESSTAURO DI MATERIALI DIGITALI PER IL CINEMA",
-   "sedi": [
-    "Reggio Calabria"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-10",
-   "pubblicazione": "2026-11-25",
-   "contratto": "",
-   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di Restauro materiali digitali per il cinema",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/9cf2ee43-2bef-42a4-b47d-455180ff9b59",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=19b5afd0049a460ca4d1f7fdcc7c1ecf",
-   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
-   "key": "inpa:19b5afd0049a460ca4d1f7fdcc7c1ecf",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "AFAM – Accademia di Belle Arti di Reggio Calabria",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
-   ],
-   "categoria": "istruzione"
-  },
-  {
-   "id": "inpa:8b2ba4fa52d64f02a1c0c4cd098bf89f",
-   "inpaId": "8b2ba4fa52d64f02a1c0c4cd098bf89f",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Tecniche dei procedimenti Stampa a.a. 2026-2027 a.a. 2026-2027",
-   "ente": "Accademia di Belle Arti Reggio Calabria",
-   "profilo": "Esperto Esterno disciplina di TECNICHE DEI PROCEDIMENTI A STAMPA",
-   "sedi": [
-    "Reggio Calabria"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-12-10",
-   "pubblicazione": "2026-11-25",
-   "contratto": "",
-   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di TECNICHE DEI PROCEDIMENTI A STAMPA",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/39831882-69b7-4e28-b70c-77edb5bce128",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8b2ba4fa52d64f02a1c0c4cd098bf89f",
-   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
-   "key": "inpa:8b2ba4fa52d64f02a1c0c4cd098bf89f",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "AFAM – Accademia di Belle Arti di Reggio Calabria",
-    "AFAM – Altri Conservatori e Accademie in Calabria"
-   ],
-   "categoria": "istruzione"
-  },
-  {
-   "id": "cp:consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-borsa-di-studio-borsa-di-6",
-   "fonti": [
-    "ConcorsiPubblici"
-   ],
-   "titolo": "Istituto per la tecnologia delle membrane «Enrico Drioli» del CNR, una borsa di ricerca annuale",
-   "ente": "Consiglio Nazionale delle Ricerche - Istituto per la Tecnologia delle Membrane",
-   "profilo": "Borsa di studio",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": null,
-   "scadenza": "2026-12-14",
-   "pubblicazione": "",
-   "descrizione": "Conferimento di una borsa di ricerca annuale \n(GU n.91 del 24-11-2026)",
-   "link": "https://www.concorsipubblici.com/consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-borsa-di-studio-borsa-di-6",
-   "inpaId": null,
-   "contratto": "tempo determinato",
-   "mansioni": "(+39) 0498275644 | Fax (+39) 049 8275239 e-mail: giacomo.saielli@cnr.it  e) attività di lavoro autonomo, anche parasubordinato, fatta salva l’ipotesi di cui al comma seguente.\nI borsisti possono svolgere attività di lavoro autonomo non esercitato abitualmente, previa comunicazione scritta ai Responsabili scientifici (d’ora in poi Tutor) e a condizione che non comporti conflitto di interessi con la specifica…",
-   "titoliStudio": "aver conseguito la Laurea Specialistica/Magistrale in DM 5/05/2004: 62/S Chimica o 27/S Ingegneria Chimica o 61/S Scienza e Ingegneria dei Materiali o 14/S Chimica e Tecnologie Farmaceutiche.\nDM 9/07/2009: LM-54 Chimica o LM-22 Ingegneria Chimica o LM-53 Scienza e Ingegneria dei Materiali o LM-13 Chimica e Tecnologie Farmaceutiche.\nChimica \nIngegneria chimica",
-   "requisiti": "aver conseguito la Laurea Specialistica/Magistrale in DM 5/05/2004: 62/S Chimica o 27/S Ingegneria Chimica o 61/S Scienza e Ingegneria dei Materiali o 14/S Chimica e Tecnologie Farmaceutiche. DM 9/07/2009: LM-54 Chimica o LM-22 Ingegneria Chimica o LM-53 Scienza e Ingegneria dei Materiali o LM-13 Chimica e Tecnologie Farmaceutiche.",
-   "prove": "La Commissione disporrà complessivamente di 30 punti di cui: 10 punti per i titoli e 20 punti per l’esame colloquio",
-   "candidatura": "https://selezionionline.cnr.it",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando%20borsa%20di%20ricerca%20BS.ITM_.007.2026.CS_signed.pdf",
-   "key": "t:consiglio nazionale delle ricerche istit|2026-12-14|",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "CNR"
-   ],
-   "categoria": "aziende"
-  },
-  {
-   "id": "inpa:e94a7bd6da614a19ae286ac976b2a9e6",
-   "inpaId": "e94a7bd6da614a19ae286ac976b2a9e6",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 13 POSTI DI DIRIGENTE MEDICO - AREA DELLA MEDICINA DIAGNOSTICA E DEI SERVIZI…",
-   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
-   "profilo": "DIRIGENTE MEDICO",
-   "sedi": [
-    "Crotone",
-    "Catanzaro",
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 13,
-   "scadenza": "2026-12-24",
-   "pubblicazione": "2026-11-25",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 13 POSTI DI DIRIGENTE MEDICO - AREA DELLA MEDICINA DIAGNOSTICA E DEI SERVIZI – DISCIPLINA DI PATOLOGIA CLINICA DA DESTINARE ALLE AZIENDE DEL SERVIZIO SANITARIO REGIONALE",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/5f1d019c-5a9c-410f-aebb-2c415dc5cae1",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e94a7bd6da614a19ae286ac976b2a9e6",
-   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22223",
-   "key": "inpa:e94a7bd6da614a19ae286ac976b2a9e6",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "Regione Calabria – Bandi e avvisi",
-    "Azienda Zero Calabria"
-   ],
-   "categoria": "sanita"
-  },
-  {
-   "id": "inpa:9de9fed71d9744b3aab69dfc9492cf59",
-   "inpaId": "9de9fed71d9744b3aab69dfc9492cf59",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 26 POSTI DI DIRIGENTE MEDICO – AREA DI SANITÀ PUBBLICA – DISCIPLINA DI IGIENE…",
-   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
-   "profilo": "DIRIGENTE MEDICO",
-   "sedi": [
-    "Catanzaro",
-    "Vibo Valentia",
-    "Cosenza",
-    "Reggio Calabria",
-    "Crotone"
-   ],
-   "nazionale": false,
-   "posti": 26,
-   "scadenza": "2026-12-24",
-   "pubblicazione": "2026-11-25",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 26 POSTI DI DIRIGENTE MEDICO – AREA DI SANITÀ PUBBLICA – DISCIPLINA DI IGIENE E MEDICINA PREVENTIVA, DA DESTINARE ALLE AZIENDE DEL SERVIZIO SANITARIO REGIONALE",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/c01d55e8-3d91-4949-ae7b-e62313afc3fb",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9de9fed71d9744b3aab69dfc9492cf59",
-   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22291",
-   "key": "inpa:9de9fed71d9744b3aab69dfc9492cf59",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "Regione Calabria – Bandi e avvisi",
-    "Azienda Zero Calabria"
-   ],
-   "categoria": "sanita"
-  },
-  {
-   "id": "inpa:e50f8f2b294c4c0890deb20c10236d5a",
-   "inpaId": "e50f8f2b294c4c0890deb20c10236d5a",
-   "fonti": [
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 13 POSTI DI DIRIGENTE MEDICO – AREA DELLA MEDICINA DIAGNOSTICA E DEI SERVIZI – DISCIPLINA DI PATOLOGIA CLINICA, NON COPERTI CON…",
-   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
-   "profilo": "DIRIGENTE MEDICO",
-   "sedi": [
-    "Cosenza",
-    "Crotone",
-    "Catanzaro"
-   ],
-   "nazionale": false,
-   "posti": 13,
-   "scadenza": "2026-12-24",
-   "pubblicazione": "2026-11-25",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "Azienda per il governo della sanità della regione calabria – azienda zero – concorso pubblico, per titoli ed esami, per la copertura a tempo pieno e indeterminato di n. 13 posti di dirigente medico – area della medicina diagnostica e dei servizi – disciplina di patologia clinica, non coperti con contestuale avviso di mobilità da destinare alle seguenti aziende del servizio sanitario regionale",
-   "mansioni": "3) prova orale (max 20 punti) : sulle materie inerenti alla disciplina a concorso nonché sui  compiti connessi alla funzione da conferire.\nLa data e la sede in cui si svolgeranno le prove d’esame saranno notificate ai candidati  mediante avviso pubblicato su “inPA” almeno 15 giorni prima dell’inizio delle prove scritta  e pratica ed almeno 20 giorni prima della prova orale.",
-   "titoliStudio": "Titolo di studio: Laurea in Medicina e Chirurgia;\nIscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro).\nL’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia…",
-   "requisiti": "• Titolo di studio: Laurea in Medicina e Chirurgia; \n• Iscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro). L’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia prima dell’assunzione in servizio; \n• Specializzazione in Patologia Clinica e/o discipline equipollenti e/o affini o in alternativa: \n▪ iscrizione a partire dal secondo anno del Corso di…",
-   "prove": "Le prove di esame, per le quali la Commissione dispone di 80 punti, sono articolate come previsto dall’art. 26 del D.P.R. del 10 dicembre 1997, n. 483 e s.m.i. in: \n1) prova scritta (max 30 punti): relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso o…",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Allegato_2_Bando_di_Concorso_di_Patologia%20Clinica.pdf.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e50f8f2b294c4c0890deb20c10236d5a",
-   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22238",
-   "altriLink": [
-    "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-medico-patologo"
-   ],
-   "key": "inpa:e50f8f2b294c4c0890deb20c10236d5a",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "Azienda Zero Calabria",
-    "Regione Calabria – Bandi e avvisi"
-   ],
-   "categoria": "sanita"
-  },
-  {
-   "id": "inpa:ba9a29c868e742af89bea94e931dd593",
-   "inpaId": "ba9a29c868e742af89bea94e931dd593",
-   "fonti": [
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 POSTI DI DIRIGENTE MEDICO - AREA CHIRURGICA E DELLE SPECIALITA' CHIRURGICHE - DISCIPLINA DI CHIRURGIA MAXILLO - FACCIALE, NON…",
-   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
-   "profilo": "chirurgo maxillo facciale",
-   "sedi": [
-    "Reggio Calabria",
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 2,
-   "scadenza": "2026-12-24",
-   "pubblicazione": "2026-11-25",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "Azienda per il governo della sanità della regione calabria – azienda zero – concorso pubblico, per titoli ed esami, per la copertura a tempo pieno e indeterminato di n. 2 posti di dirigente medico – area chirurgica e delle specialita’ chirurgiche – disciplina di chirurgia maxillo – facciale, non coperti con contestuale avviso di mobilità,da destinare alle aziende del servizio sanitario regionale",
-   "mansioni": "3) prova orale (max 20 punti) : sulle materie inerenti alla disciplina a concorso nonché sui  compiti connessi alla funzione da conferire.\nLa data e la sede in cui si svolgeranno le prove d’esame saranno notificate ai candidati  mediante avviso pubblicato su “inPA” almeno 15 giorni prima dell’inizio delle prove scritta  e pratica ed almeno 20 giorni prima della prova orale.",
-   "titoliStudio": "Titolo di studio: Laurea in Medicina e Chirurgia;\nIscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro).\nL’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia…",
-   "requisiti": "• Titolo di studio: Laurea in Medicina e Chirurgia; \n• Iscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro). L’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia prima dell’assunzione in servizio; \n• Specializzazione in Chirurgia Maxillo-Facciale e/o discipline equipollenti e/o affini o in alternativa: \n▪ iscrizione a partire dal secondo anno del…",
-   "prove": "Le prove di esame: \n1) prova scritta (max 30 punti): relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso o soluzione di una serie di quesiti a risposta sintetica inerenti alla disciplina stessa; \n2) prova pratica (max 30 punti): su tecniche e manualità…",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Allegato_2_Bando_di_Concorso_di_Chirurgia%20Maxillo-Facciale.pdf.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ba9a29c868e742af89bea94e931dd593",
-   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22254",
-   "altriLink": [
-    "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-chirurgo-maxillo"
-   ],
-   "key": "inpa:ba9a29c868e742af89bea94e931dd593",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "Azienda Zero Calabria",
-    "Regione Calabria – Bandi e avvisi"
-   ],
-   "categoria": "sanita"
-  },
-  {
-   "id": "inpa:63fa494919a54a5f85220b5eb1c98e48",
-   "inpaId": "63fa494919a54a5f85220b5eb1c98e48",
-   "fonti": [
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 26 POSTI DI DIRIGENTE MEDICO – AREA DI SANITÀ PUBBLICA – DISCIPLINA DI IGIENE E MEDICINA PREVENTIVA, NON COPERTI CON CONTESTUALE…",
-   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
-   "profilo": "DIRIGENTE MEDICO",
-   "sedi": [
-    "Crotone",
-    "Cosenza",
-    "Catanzaro",
-    "Vibo Valentia",
-    "Reggio Calabria"
-   ],
-   "nazionale": false,
-   "posti": 26,
-   "scadenza": "2026-12-24",
-   "pubblicazione": "2026-11-25",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "Azienda per il governo della sanità della regione calabria – azienda zero – concorso pubblico, per titoli ed esami, per la copertura a tempo pieno e indeterminato di n. 26 posti di dirigente medico – area di sanità pubblica – disciplina di igiene e medicina preventiva, non coperti con contestuale avviso di mobilità da destinare alle aziende del servizio sanitario regionale",
-   "mansioni": "3) prova orale (max 20 punti) : sulle materie inerenti alla disciplina a concorso nonché sui  compiti connessi alla funzione da conferire.\nLa data e la sede in cui si svolgeranno le prove d’esame saranno notificate ai candidati  mediante avviso pubblicato su “inPA” almeno 15 giorni prima dell’inizio delle prove scritta  e pratica ed almeno 20 giorni prima della prova orale.",
-   "titoliStudio": "Titolo di studio: Laurea in Medicina e Chirurgia;\nIscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro).\nSpecializzazione in Igiene e Medicina Preventiva e/o discipline equipollenti e/o affini o in alternativa:\nmedicina e chirurgia",
-   "requisiti": "• Titolo di studio: Laurea in Medicina e Chirurgia; \n• Iscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro). \n• Specializzazione in Igiene e Medicina Preventiva e/o discipline equipollenti e/o affini o in alternativa: \n▪ iscrizione a partire dal secondo anno del Corso di specializzazione in Igiene e Medicina Preventiva o discipline equipollenti o affini, ai sensi dell’art. 1, commi 547, 548 e 548 bis, della Legge 145/2018 e s.m.i., della nota del Ministero della Salute prot. n. 40367…",
-   "prove": "Le prove di esame, per le quali la Commissione dispone di 80 punti, sono articolate come previsto dall’art. 26 del D.P.R. del 10 dicembre 1997, n. 483 e s.m.i. in: \n1) prova scritta (max 30 punti): relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso o…",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Allegato_2_Bando_di_Concorso_di_Igiene%20e%20Medicina%20Preventiva.pdf.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=63fa494919a54a5f85220b5eb1c98e48",
-   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22306",
-   "altriLink": [
-    "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-medico-igiene-cosenza"
-   ],
-   "key": "inpa:63fa494919a54a5f85220b5eb1c98e48",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "Azienda Zero Calabria",
-    "Regione Calabria – Bandi e avvisi"
-   ],
-   "categoria": "sanita"
-  },
-  {
-   "id": "inpa:42a0e8b04a664f338df663dfdae19cad",
-   "inpaId": "42a0e8b04a664f338df663dfdae19cad",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO -  AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 POSTI DI DIRIGENTE MEDICO - AREA CHIRURGICA E DELLE SPECIALITA'…",
-   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
-   "profilo": "DIRIGENTE MEDICO",
-   "sedi": [
-    "Reggio Calabria",
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 2,
-   "scadenza": "2026-12-24",
-   "pubblicazione": "2026-11-25",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 POSTI DI DIRIGENTE MEDICO - AREA CHIRURGICA E DELLE SPECIALITA' CHIRURGICHE - DISCIPLINA DI CHIRURGIA MAXILLO - FACCIALE DA DESTINARE ALLE AZIENDE DEL SERVIZIO SANITARIO REGIONALE",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/2dde7edf-b989-4e2d-b7e2-00dec5ed5c25",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=42a0e8b04a664f338df663dfdae19cad",
-   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22269",
-   "key": "inpa:42a0e8b04a664f338df663dfdae19cad",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [
-    "Regione Calabria – Bandi e avvisi",
-    "Azienda Zero Calabria"
-   ],
-   "categoria": "sanita"
-  },
-  {
-   "id": "inpa:53bb89a2abc1453382b6df96218a8436",
-   "inpaId": "53bb89a2abc1453382b6df96218a8436",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "CONCORSO “EPCDC - INTERNI” - N. 30 UNITA’ DI PERSONALE NON DIRIGENZIALE APPARTENENTE ALL’AREA DELLE ELEVATE PROFESSIONALITA’ DELLA CORTE DEI CONTI",
-   "ente": "Corte dei Conti",
-   "profilo": "Elevate Professionalità - Area Amministrativo-Giuridico - Legale - Lavoro - Contabilità e Bilancio - Negoziazione e Contratti Pubblici",
-   "sedi": [
-    "Lazio",
-    "Lombardia",
-    "Abruzzo",
-    "Umbria",
-    "Marche",
-    "Sicilia",
-    "Liguria",
-    "Veneto",
-    "Campania",
-    "Emilia Romagna",
-    "Toscana",
-    "Piemonte",
-    "Sardegna"
-   ],
-   "nazionale": false,
-   "posti": 30,
-   "scadenza": "2026-12-28",
-   "pubblicazione": "2026-11-25",
-   "contratto": "",
-   "descrizione": "CONCORSO “EPCDC - INTERNI” - N. 30 UNITA’ DI PERSONALE NON DIRIGENZIALE APPARTENENTE ALL’AREA DELLE ELEVATE PROFESSIONALITA’ DELLA CORTE DEI CONTI",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=53bb89a2abc1453382b6df96218a8436",
-   "linkEnte": "",
-   "key": "inpa:53bb89a2abc1453382b6df96218a8436",
-   "primaVista": "2026-11-25",
-   "entiMonitorati": [],
-   "categoria": "altro"
-  },
-  {
-   "id": "inpa:abde7f2c715e477c8cacded1451c411a",
-   "inpaId": "abde7f2c715e477c8cacded1451c411a",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Avviso pubblico per la costituzione di un elenco di candidati idonei alla nomina di componente della commissione esaminatrice del concorso per l’assunzione di n. 10 dirigenti amministrativi.",
-   "ente": "Ministero dell'Istruzione e del Merito",
-   "profilo": "Componente commissione",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 9,
-   "scadenza": "2026-11-25",
-   "pubblicazione": "2026-11-06",
-   "contratto": "",
-   "descrizione": "Avviso pubblico per la costituzione di un elenco di candidati idonei alla nomina di componente della commissione esaminatrice del concorso per l’assunzione di n. 10 dirigenti amministrativi.",
-   "mansioni": "L'avviso di convocazione per la prova scritta contenente il diario con l'indicazione della  sede, del giorno e dell'ora in cui si svolgerà e con eventuali indicazioni di dettaglio in merito  al suo svolgimento è pubblicato sul portale «inPA» e sul sito is tituzionale del Ministero ,  almeno quindici giorni prima del suo svolgimento.\nL'avviso di convocazione per la prova orale contenente gli elenchi degli ammessi…",
-   "titoliStudio": "media pari o inferiore a 90 e superiore a 87 (o altro punteggio riparametrato): 3 punti;  b) Valutazione dei titoli professionali, di studio o di specializzazione ulteriori rispetto a  quelli previsti per l’accesso alla qualifica dirigenziale (massimo punti 10):\n1) 0,50 punti per ciascuno dei seguenti titoli, fino ad un massimo di 1 punto: laurea  triennale ulteriore rispetto a quella costituente il presupposto per…",
-   "requisiti": "n. 1 membro aggiuntivo per la valutazione della conoscenza della lingua inglese;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua spagnola;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua francese;\nn. 1 membro aggiuntivo per la valutazione della conoscenza della lingua tedesca;",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/335efea7-10a6-4369-81f1-94a6575defb7",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=abde7f2c715e477c8cacded1451c411a",
-   "linkEnte": " https://www.mim.gov.it/",
-   "key": "inpa:abde7f2c715e477c8cacded1451c411a",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "Ministero dell'Istruzione e del Merito"
-   ],
-   "categoria": "istruzione"
-  },
-  {
-   "id": "inpa:ffd54f7082164ffd955d3ce9d033aeb3",
-   "inpaId": "ffd54f7082164ffd955d3ce9d033aeb3",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AVVISO DI SELEZIONE COMPARATIVA PER LA PROGRESSIONE VERTICALE IN DEROGA TRA AREE DIVERSE, RISERVATA AL PERSONALE DIPENDENTE DEL COMUNE DI GERACE CON RAPPORTO DI LAVORO A TEMPO INDETERMINATO DELL’AREA DEGLI ISTRUTTORI (CATEGORIA C DEL PRECEDENTE SISTEMA DI CLASSIFICAZIONE) PER N. 1 POSTO NELL’AREA…",
-   "ente": "Comune di Gerace",
+   "titolo": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA ESTERNA, AI SENSI DELL’ART. 30, C. 1, DEL D.LGS. N. 165/2001, MEDIANTE SELEZIONE PER COLLOQUIO, PER LA COPERTURA, A TEMPO PIENO E INDETERMINATO, DI N. 1 POSTO DI FUNZIONARIO TECNICO, AREA DEI FUNZIONARI E E.Q., CCNL COMPARTO FUNZIONI LOCALI",
+   "ente": "Comune di Condofuri",
    "profilo": "FUNZIONARIO TECNICO",
    "sedi": [
-    "Calabria"
+    "Reggio Calabria"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-11-25",
-   "pubblicazione": "2026-10-26",
-   "contratto": "tempo indeterminato",
-   "descrizione": "AVVISO DI SELEZIONE COMPARATIVA PER LA PROGRESSIONE VERTICALE IN DEROGA TRA AREE DIVERSE, RISERVATA AL PERSONALE DIPENDENTE DEL COMUNE DI GERACE CON RAPPORTO DI LAVORO A TEMPO INDETERMINATO DELL’AREA DEGLI ISTRUTTORI (CATEGORIA C DEL PRECEDENTE SISTEMA DI CLASSIFICAZIONE) PER N. 1 POSTO NELL’AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE (CATEGORIA D1 DEL PRECEDENTE SISTEMA DI CLASSIFICAZIONE) - PROFILO DI FUNZIONARIO TECNICO",
-   "mansioni": "Al personale da assumere nell’Area dei funzionari e dell’elevata qualificazione di cui alla  presente selezione comparativa è richiesto lo svolgimento di compiti e funzioni  caratterizzati da:",
-   "titoliStudio": "Laurea (triennale o magistrale) in ingegneria o architettura e almeno 5 anni di  esperienza maturata nell’area degli istruttori e/o nella corrispondente categoria del  precedente sistema di classificazione\nDiploma di scuola media secondaria di secondo grado (diploma di Geometra ) e  almeno 10 anni di esperienza maturata nell’area degli istruttori e/o nella corrispondente  categoria del precedente sistema di…",
-   "requisiti": "Per l’ammissione alla presente procedura di selezione per la progressione tra le Aree è richiesto il possesso dei seguenti requisiti alla data di scadenza del termine stabilito nel presente avviso:\nLaurea (triennale o magistrale) in ingegneria o architettura e almeno 5 anni di  esperienza maturata nell’area degli istruttori e/o nella corrispondente categoria del  precedente sistema di classificazione\nDiploma di scuola media secondaria di secondo grado (diploma di Geometra ) e  almeno 10 anni di esperienza maturata nell’area degli istruttori e/o nella corrispondente  categoria del precedente sistema di classificazione.\nL’esperienza…",
-   "prove": "Per titoli",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/18b29999-a522-4b11-921f-e9275aecf9aa",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ffd54f7082164ffd955d3ce9d033aeb3",
-   "linkEnte": "https://www.comune.gerace.rc.it/",
-   "key": "inpa:ffd54f7082164ffd955d3ce9d033aeb3",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:6f16a79ab3a147b0b470841173f32902",
-   "inpaId": "6f16a79ab3a147b0b470841173f32902",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Concorso pubblico, per titoli, per l’assunzione di 42 atleti da assegnare ai gruppi sportivi “Polizia di Stato – Fiamme Oro”, che saranno inquadrati nel ruolo degli agenti e assistenti della Polizia di Stato, indetto con decreto del Capo della Polizia – Direttore generale della pubblica sicurezza…",
-   "ente": "Ministero dell'Interno - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio Concorsi",
-   "profilo": "Atleti da assegnare ai gruppi sportivi “Polizia di Stato – Fiamme Oro”, che saranno inquadrati nel ruolo degli agenti e assistenti della Polizia di Stato",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 42,
-   "scadenza": "2026-11-25",
-   "pubblicazione": "2026-10-26",
-   "contratto": "",
-   "descrizione": "Concorso pubblico, per titoli, per l’assunzione di 42 atleti da assegnare ai gruppi sportivi “Polizia di Stato – Fiamme Oro”, che saranno inquadrati nel ruolo degli agenti e assistenti della Polizia di Stato, indetto con decreto del Capo della Polizia – Direttore generale della pubblica sicurezza del 22 ottobre 2026.",
+   "scadenza": "2026-12-18",
+   "pubblicazione": "2026-11-26",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA ESTERNA, AI SENSI DELL’ART. 30, C. 1, DEL D.LGS. N. 165/2001, MEDIANTE SELEZIONE PER COLLOQUIO, PER LA COPERTURA, A TEMPO PIENO E INDETERMINATO, DI N. 1 POSTO DI FUNZIONARIO TECNICO, AREA DEI FUNZIONARI E E.Q., CCNL COMPARTO FUNZIONI LOCALI",
    "mansioni": "",
    "titoliStudio": "",
    "requisiti": "",
-   "prove": "Per titoli",
+   "prove": "Per colloquio",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/2933dadf-5c20-4ef1-a0b8-1ed4943d906b",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6f16a79ab3a147b0b470841173f32902",
-   "linkEnte": "https://www.poliziadistato.it/articolo/30616adf17407e0e1297831388",
-   "key": "inpa:6f16a79ab3a147b0b470841173f32902",
-   "primaVista": "2026-11-13",
+   "linkBando": "https://portale.inpa.gov.it/api/media/8ed05e04-3b66-4fa5-929c-e5d2632f358c",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67880034686f4175bdb54c274eabb1fe",
+   "linkEnte": "",
+   "key": "inpa:67880034686f4175bdb54c274eabb1fe",
+   "primaVista": "2026-11-26",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:33a24167c39f427fa81502d663d274be",
+   "inpaId": "33a24167c39f427fa81502d663d274be",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE –…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Cosenza",
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 4,
+   "scadenza": "2026-12-25",
+   "pubblicazione": "2026-11-26",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE – DISCIPLINA DI SCIENZE DELL’ ALIMENTAZIONE – DA ASSEGNARE ALLE AZIENDE SANITARIE REGIONALI",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/7f16e181-d719-49d9-8aa3-6c0ce3160b84",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=33a24167c39f427fa81502d663d274be",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22367",
+   "key": "inpa:33a24167c39f427fa81502d663d274be",
+   "primaVista": "2026-11-26",
    "entiMonitorati": [
-    "Polizia di Stato"
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
    ],
-   "categoria": "forze"
+   "categoria": "sanita"
   },
   {
-   "id": "cp:comune-di-san-sosti-concorso-funzionario-amministrativo-cosenza-2026",
+   "id": "inpa:3eb73f1b6b9f4c2fa03c3b0916c3028a",
+   "inpaId": "3eb73f1b6b9f4c2fa03c3b0916c3028a",
    "fonti": [
-    "Concorsando",
-    "ConcorsiPubblici"
+    "inPA"
    ],
-   "titolo": "Comune di San Sosti, 1 funzionario amministrativo",
-   "ente": "Comune di San Sosti",
-   "profilo": "funzionario amministrativo",
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE – DISCIPLINA DI SCIENZE DELL’ ALIMENTAZIONE DA ASSEGNARE…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Cosenza",
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 4,
+   "scadenza": "2026-12-25",
+   "pubblicazione": "2026-11-26",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO -CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE – DISCIPLINA DI SCIENZE DELL’ ALIMENTAZIONE DA ASSEGNARE ALLE AZIENDE SANITARIE REGIONALI",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/5a74b540-bc4a-460f-a579-6866bfd149e6",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3eb73f1b6b9f4c2fa03c3b0916c3028a",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22382",
+   "key": "inpa:3eb73f1b6b9f4c2fa03c3b0916c3028a",
+   "primaVista": "2026-11-26",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:7bf80516bac543c0bda3405b4fdbe858",
+   "inpaId": "7bf80516bac543c0bda3405b4fdbe858",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI MOBILITA' ART.30 DEL D.LGS. N.165/2001, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO ED INDETERMINATO, NEL PROFILO DI “FUNZIONARIO TECNICO- AREA TECNICA MANUTENTIVA” - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE (EX CAT. D), CCNL COMPARTO FUNZIONI LOCALI, DA ASSEGNARE ALL’AREA…",
+   "ente": "Comune di Malito",
+   "profilo": "FUNZIONARIO EQ TECNICO",
    "sedi": [
     "Cosenza"
    ],
    "nazionale": false,
-   "posti": null,
-   "scadenza": "2026-11-25",
-   "pubblicazione": "",
-   "descrizione": "Il Comune di San Sosti, in provincia di Cosenza, indice un concorso pubblico per esami per l'assunzione a tempo parziale al 50% e indeterminato di 1 funzionario amministrativo, Area dei Funzionari e dell'Elevata Qualificazione.\nPer partecipare serve una laurea magistrale, specialistica o del vecchio ordinamento nelle classi previste dal bando in ambito giuridico, economico e politico-amministrativo, oltre alla conoscenza della lingua inglese e dell'informatica. La tassa di ammissione è di 10,33 euro.",
-   "link": "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-amministrativo-cosenza-2026",
-   "inpaId": "2245aa2fcfa245d1992d71b8493e59e3",
-   "contratto": "tempo indeterminato, part time",
-   "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
-   "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LMG/01 Giurisprudenza;\nLM-52 Relazioni internazionali;\nLM-56 Scienze dell'economia;\nGiurisprudenza \nScienze politiche \nScienze Economico Aziendali",
-   "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LMG/01 Giurisprudenza; LM-16 Finanza; LM-52 Relazioni internazionali; LM-56 Scienze dell'economia; LM-62 Scienze della politica; LM-63 Scienze delle pubbliche amministrazioni; LM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 22/S Giurisprudenza; 19/S Finanza; 60/S Relazioni internazionali; 64/S Scienze…",
-   "prove": "Materie:\nNozioni di Diritto Costituzionale e Diritto Amministrativo, con particolare riferimento al diritto di accesso agli atti ed al procedimento amministrativo (Legge 241/1990 e s.m.i.);\nOrdinamento degli Enti Locali (D.Lgs. 267/2000);\nOrdinamento finanziario e contabile degli Enti…",
-   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concorso%20funzionario%20amministrativo.pdf",
-   "altriLink": [
-    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-amministrativo-presso-il-comune-di-san-sosti/"
-   ],
-   "key": "inpa:2245aa2fcfa245d1992d71b8493e59e3",
-   "primaVista": "2026-11-13",
+   "posti": 1,
+   "scadenza": "2026-12-26",
+   "pubblicazione": "2026-11-26",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO MOBILITA' FUNZIONARIO TECNICO COPERTURA N. 1 POSTO TEMPO PIENO",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/e9db23c7-dd57-47c1-8335-e98389191374",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7bf80516bac543c0bda3405b4fdbe858",
+   "linkEnte": "https://www.comune.malito.cs.it/",
+   "key": "inpa:7bf80516bac543c0bda3405b4fdbe858",
+   "primaVista": "2026-11-26",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
   {
-   "id": "cp:comune-di-san-sosti-concorso-istruttore-tecnico-cosenza-2026",
+   "id": "inpa:2968eb59f36943fa97fe891f62abfeb8",
+   "inpaId": "2968eb59f36943fa97fe891f62abfeb8",
    "fonti": [
-    "Concorsando",
-    "ConcorsiPubblici"
+    "inPA"
    ],
-   "titolo": "Comune di San Sosti, 1 istruttore tecnico",
-   "ente": "Comune di San Sosti",
-   "profilo": "istruttore tecnico",
+   "titolo": "CONCORSO PUBBLICO PER ESAMI PER N. 1 POSTO DI FUNZIONARIO SPECIALISTA IN ATTIVITÀ TECNICHE - A TEMPO PIENO E INDETERMINATO, DA INQUADRARE NELL’AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE - AI SENSI DEL CCNL FUNZIONI LOCALI VIGENTE, DA ASSEGNARE ALL’AREA TECNICA DELL’ENTE",
+   "ente": "Comune di Grotteria",
+   "profilo": "FUNZIONARIO SPECIALISTA IN ATTIVITÀ TECNICHE",
    "sedi": [
-    "Cosenza"
+    "Reggio Calabria"
    ],
    "nazionale": false,
-   "posti": null,
-   "scadenza": "2026-11-25",
-   "pubblicazione": "",
-   "descrizione": "Il Comune di San Sosti, in provincia di Cosenza, indice un concorso pubblico per esami per l'assunzione a tempo parziale al 50% e indeterminato di 1 istruttore tecnico, Area degli Istruttori.\nPer partecipare serve il diploma di geometra o un diploma di istruzione tecnica quinquennale equipollente, compreso Costruzioni, ambiente e territorio. In alternativa è ammesso qualsiasi diploma quinquennale insieme a una laurea nelle classi previste dal bando in ambito edilizio, urbanistico e ingegneristico. La tassa di ammissione è di 10,33 euro.",
-   "link": "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-istruttore-tecnico-cosenza-2026",
-   "inpaId": "f1bc11e4abb8455db5442efa320283cb",
-   "contratto": "tempo indeterminato, part time",
-   "mansioni": "di erogazione dei servizi e ne svolgerà fasi di processo e/o processi, con responsabilità diretta di",
-   "titoliStudio": "Per partecipare alla procedura concorsuale è richiesto il possesso del seguente titolo di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: diploma di Geometra o diploma equipollente di durata quinquennale (compreso il diploma di istruzione tecnica del settore tecnologico, indirizzo «Costruzioni, ambiente e territorio», di cui al D.P.R. 15 marzo 2010, n. 88).\nistituto tecnico…",
-   "requisiti": "Per partecipare alla procedura concorsuale è richiesto il possesso del seguente titolo di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: diploma di Geometra o diploma equipollente di durata quinquennale (compreso il diploma di istruzione tecnica del settore tecnologico, indirizzo «Costruzioni, ambiente e territorio», di cui al D.P.R. 15 marzo 2010, n. 88). \nIn alternativa al diploma di Geometra, è ammesso il possesso di qualsiasi diploma di istruzione secondaria superiore di durata quinquennale purché accompagnato da uno dei seguenti titoli di studio…",
-   "prove": "Le prove d'esame consisteranno, in coerenza con l'art. 35-quater del D. Lgs. 165/2001, in una prova scritta e in una prova orale, tendenti ad accertare la maturità e la professionalità dei candidati e il possesso delle competenze, intese come insieme delle conoscenze e delle capacità…",
-   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concrso%20istruttore%20tecnico.pdf",
-   "altriLink": [
-    "https://www.concorsando.it/blog/concorsi/1-posto-di-istruttore-tecnico-presso-il-comune-di-san-sosti/"
-   ],
-   "key": "inpa:f1bc11e4abb8455db5442efa320283cb",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "cp:comune-di-san-sosti-concorso-funzionario-contabile-cosenza-2026",
-   "fonti": [
-    "Concorsando",
-    "ConcorsiPubblici"
-   ],
-   "titolo": "Comune di San Sosti, 1 funzionario contabile",
-   "ente": "Comune di San Sosti",
-   "profilo": "funzionario contabile",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": null,
-   "scadenza": "2026-11-25",
-   "pubblicazione": "",
-   "descrizione": "Il Comune di San Sosti, in provincia di Cosenza, indice un concorso pubblico per esami per l'assunzione a tempo pieno e indeterminato di 1 funzionario contabile, Area dei Funzionari e dell'Elevata Qualificazione.\nPer partecipare serve una laurea magistrale, specialistica o del vecchio ordinamento nelle classi previste dal bando in ambito economico e finanziario, oltre alla conoscenza della lingua inglese e dell'informatica. La tassa di ammissione è di 10,33 euro.",
-   "link": "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-contabile-cosenza-2026",
-   "inpaId": "77f85f1d4e124692954b8994fe50c3a2",
+   "posti": 1,
+   "scadenza": "2026-12-28",
+   "pubblicazione": "2026-11-26",
    "contratto": "tempo indeterminato, tempo pieno",
-   "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
-   "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LM-16 Finanza;\nLM-56 Scienze dell'economia;\nLM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 64/S Scienze dell'economia;\nScienze…",
-   "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale ex D.M. 270/04 nelle seguenti classi: LM-16 Finanza; LM-56 Scienze dell'economia; LM-77 Scienze economico-aziendali; laurea specialistica ex D.M. 509/99 nelle seguenti classi: 64/S Scienze dell'economia; Finanza; 84/S Scienze economico-aziendali; 19/S diploma di laurea (DL) conseguito secondo il vecchio ordinamento universitario ante D.M. 509/99 in Economia e commercio, Economia…",
-   "prove": "Materie:\nOrdinamento finanziario e contabile degli enti locali (D. Lgs. 267/2000 e s.m.i.) e principi contabili generali e applicati;\nNorme generali sulla contabilità delle Autonomie Locali ed in materia di armonizzazione dei sistemi contabili (D.lgs. n. 118/2011);\nNozioni di diritto tributario e…",
-   "candidatura": "Domanda online sul portale inPA (SPID, CIE o CNS).",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-10/bando%20concorso%20funzionario%20contabile.pdf",
-   "altriLink": [
-    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-contabile-presso-il-comune-di-san-sosti/"
-   ],
-   "key": "inpa:77f85f1d4e124692954b8994fe50c3a2",
-   "primaVista": "2026-11-13",
+   "descrizione": "CONCORSO PUBBLICO PER ESAMI PER N. 1 POSTO DI FUNZIONARIO SPECIALISTA IN ATTIVITÀ TECNICHE - A TEMPO PIENO E INDETERMINATO, DA INQUADRARE NELL’AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE - AI SENSI DEL CCNL FUNZIONI LOCALI VIGENTE, DA ASSEGNARE ALL’AREA TECNICA DELL’ENTE",
+   "mansioni": "Evidenziato che, in considerazione della specific ità delle mansioni richieste, per l ’accesso alla procedura  selettiva di cui trattasi si ritiene opportuno prevedere, quali requisiti specifici di partecipazione, tra gli altri,",
+   "titoliStudio": "il possesso del titolo di studio della Laurea magistrale (ovvero uno dei titoli di studio alla stessa Laurea  magistrale equiparato secondo le corrispondenze indicate nel Decreto del Ministro dell’istruzione e della  ricerca, di concerto con il Ministro per la pubblica amministrazione e l’innovazione del 9 luglio 2009 , di  cui all’ordinamento introdotto con Decreto del Ministro dell’istruzione dell’università e…",
+   "requisiti": "Evidenziato che, in considerazione della specific ità delle mansioni richieste, per l ’accesso alla procedura  selettiva di cui trattasi si ritiene opportuno prevedere, quali requisiti specifici di partecipazione, tra gli altri,",
+   "prove": "Per esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/1fed7272-752c-4ee4-8413-f92e8c36049c",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2968eb59f36943fa97fe891f62abfeb8",
+   "linkEnte": "http://www.comune.grotteria.rc.it/",
+   "key": "inpa:2968eb59f36943fa97fe891f62abfeb8",
+   "primaVista": "2026-11-26",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
@@ -790,105 +313,6 @@
     "CNR"
    ],
    "categoria": "aziende"
-  },
-  {
-   "id": "inpa:af6765fb6d5a470eacf6582848f08771",
-   "inpaId": "af6765fb6d5a470eacf6582848f08771",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Marescialli nomina diretta AM 2026",
-   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
-   "profilo": "Sottufficiali",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 60,
-   "scadenza": "2026-11-28",
-   "pubblicazione": "2026-10-30",
-   "contratto": "",
-   "descrizione": "concorso pubblico, per titoli ed esami, per il reclutamento, a nomina diretta, di 60 Marescialli di 3^ Cl. da immettere nel Ruolo dei Marescialli dell’Aeronautica Militare in s.p. per la Categoria Supporto, Specialità Sanità/Servizi Tecnici",
-   "mansioni": "Sul po rtale del reclutamento (da ora in poi portale inPA), raggiungibile all’indirizzo  www.inpa.gov.it, verr anno pubblicati il presente bando d i concorso, i termini per la  presentazione delle domande, il reindirizzamento al portal e per le attività di cui ai precedenti  commi 2 e 3; nel portale inPA, inoltre, potranno essere inserite ulteriori informazioni, comprese  quelle relative all’avvenuta pubblicazione…",
-   "titoliStudio": "singole Forze armate, possano essere banditi, nei limiti delle risorse finanziarie  disponibili, concorsi per titoli ed esami per trarre, con il gr ado di maresciallo e  corrispondenti, giovani d i età non superiore a 32 anni alla data indicata nel bando di  concorso e in possesso di laurea definita con Decreto del Ministro della difesa, di  concerto con il Ministro delle infrastrutture e dei trasporti pe r i…",
-   "requisiti": "agli articoli 645 e 681 del c itato Decreto Le gislativo 15 marzo 2010, n. 66, in possesso dei  prescritti requisiti , che abbiano ripor tato il punteggio più alto nell’ordine della relativa  graduatoria di merito .\nI vincitori saranno ammessi qual i Marescialli di 3^ Classe alla frequenza del corso applicativo  con riserva di accertamento, anche successiva all ’ammissione, dei requisiti prescritti e  subordinatamente all ’autorizzazione a effettuare assunzioni eventualmente previste dalla  normativa vigente.\nRequisiti generali di partecipazione\nPer partecipare al concorso di cui al presente bando i concorrenti devono possedere i seguenti …",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/83bad1e8-d94a-492d-b473-dadf485752c9",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=af6765fb6d5a470eacf6582848f08771",
-   "linkEnte": "https://concorsi.difesa.it",
-   "key": "inpa:af6765fb6d5a470eacf6582848f08771",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "Esercito Italiano"
-   ],
-   "categoria": "forze"
-  },
-  {
-   "id": "inpa:4562979f4dba4d3b80fbe366c436c47d",
-   "inpaId": "4562979f4dba4d3b80fbe366c436c47d",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Marescialli nomina diretta EI 2026",
-   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
-   "profilo": "Sottufficiali",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 51,
-   "scadenza": "2026-11-28",
-   "pubblicazione": "2026-10-30",
-   "contratto": "",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per il reclutamento, a nomina diretta, di 62 Marescialli da immettere nel Ruolo dei Marescialli dell’Esercito in servizio permanente",
-   "mansioni": "I concorrenti in s ervizio potranno fruire d ella licenza s traordinaria per esami limitatamente ai  giorni di svolgimento delle fasi concorsuali , nonché al te mpo strettamente necessario per il  raggiungimento della sede ove si svolgeranno tali fasi e per il rientro nella sede di servizio.",
-   "titoliStudio": "corrispondenti, giovani d i età non superiore a 32 anni alla data indicata nel bando di  concorso e in possesso di laurea definita con Decreto del Ministro della difesa, di  concerto con il Ministro delle infras trutture e dei trasporti per i concorsi relativi al\nSpecializzazione Sa nità e co n la Spec ializzazione Comando .\nSono altresì previsti i seguenti requisiti speciali per l ’accesso al ruolo de i…",
-   "requisiti": "645 e 681 del citato D ecreto Legislati vo 1 5 marzo 2010, n. 66, in possesso dei prescritti  requisiti, che abbiano riportato il punteggio più alto nell’ordine della relativa graduatoria finale\nRequisiti generali di partecipazione\nPer partecipare al concorso di cui al presente bando i concorrenti devono possedere i seguenti  requisiti generali:  a) essere cittadini italiani;  b) essere in pos sesso del tito lo di studio indicato tra i re quisiti s peciali di cui al successivo  comma 3 .\nIl requisito di cui al comma 1, lettera d), non è nuovamente accertato nei confronti del personale  militare in servi zio in posse sso dell’idoneità…",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/3fb30d19-7a1a-4c04-aca6-f6e71a20c158",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4562979f4dba4d3b80fbe366c436c47d",
-   "linkEnte": "https://concorsi.difesa.it",
-   "key": "inpa:4562979f4dba4d3b80fbe366c436c47d",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "Esercito Italiano"
-   ],
-   "categoria": "forze"
-  },
-  {
-   "id": "inpa:4677f52ce26b479ba14ab21da6869c07",
-   "inpaId": "4677f52ce26b479ba14ab21da6869c07",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "Marescialli nomina diretta MM 2026",
-   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
-   "profilo": "Sottufficiali",
-   "sedi": [
-    "Nazionale"
-   ],
-   "nazionale": true,
-   "posti": 33,
-   "scadenza": "2026-11-28",
-   "pubblicazione": "2026-10-30",
-   "contratto": "",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per il reclutamento, a nomina diretta, di 33 capi di 3^ cl. da immettere nel Ruolo Marescialli della Marina Militare",
-   "mansioni": "Sul portale del reclutamento (da ora in poi portale inPA), raggiun gibile all’indirizzo  www.inpa.gov.it, verranno pubblicati il presente bando di concorso, i termini per la presentazione  delle domande, il reindirizzamento al portale per le attività di cui ai precedenti commi 2 e 3; nel  portale i nPA, inoltre, potranno essere inser ite ulteriori informazioni, comprese quelle relative  all’avvenuta pubblicazione…",
-   "titoliStudio": "Per partecipare al concorso di cui al presente bando i concorrenti devono possedere i seguenti  requisiti generali:  a) essere cittadini italiani;  b) essere in possesso del titolo di studio indicato tra i requisiti speciali di c ui al succ essivo  comma 3.\nMarina ai sensi dell’art. 682 del Decreto Legislativo 15 marzo 2010, n. 66:  a) essere in possesso di uno dei titoli di studio indicati nell’appendice al…",
-   "requisiti": "Marina Militare, dall’ Opera nazionale per i figli degli a viatori e dall’ Opera nazionale di  assistenza per gli orfani dei m ilitari dell’Arma dei carabinieri di cui agli articoli 645 e 681 del  citato Decreto Legislativo 15 marz o 2010, n. 66, in pos sesso dei prescritti requisiti, che abbiano\nI vincitori saranno ammessi quali Capi di 3^cl. alla frequenza del corso applicativo con riserva di  accertamento, anche successiva all’ammissione, dei requisiti prescritti e subordinatamente  all’autorizzazione a effettuare assunzioni eventualmente previste dalla normativa vigente.\nRequisiti generali di partecipazione\nPer partecipare al concorso…",
-   "prove": "Per titoli e esami",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/810db08e-2d9f-4501-97c7-3f2d17a75d05",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4677f52ce26b479ba14ab21da6869c07",
-   "linkEnte": "https://concorsi.difesa.it",
-   "key": "inpa:4677f52ce26b479ba14ab21da6869c07",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "Esercito Italiano"
-   ],
-   "categoria": "forze"
   },
   {
    "id": "inpa:44132e4801074b099d48c879e80009d3",
@@ -1469,6 +893,7 @@
    "inpaId": "41053534fa8849948bef97fa1356bfbc",
    "fonti": [
     "Concorsando",
+    "ConcorsiPubblici",
     "inPA"
    ],
    "titolo": "Accademia di Belle Arti di Reggio Calabria - BANDO DI SELEZIONE PER SOLI TITOLI PER L’INCLUSIONE E/O L’AGGIORNAMENTO DELLA GRADUATORIA D’ISTITUTO PERMANENTE PER IL PROFILO DI OPERATORE – AREA DEGLI OPERATORI",
@@ -1484,14 +909,15 @@
    "contratto": "tempo indeterminato",
    "descrizione": "L'Accademia di Belle Arti di Reggio Calabria indice una procedura per soli titoli per formare la graduatoria permanente d'Istituto del profilo di operatore (Area degli Operatori, CCNL AFAM), finalizzata all'assunzione a tempo indeterminato di 1 unità.\nLa procedura è riservata al personale in servizio presso l'Accademia con contratto a tempo determinato, assunto prima del 1° novembre 2025 e con almeno 24 mesi di servizio nel profilo. Serve il diploma di istruzione secondaria di secondo grado. Non sono previste prove: si valutano solo i titoli.",
    "mansioni": "",
-   "titoliStudio": "Serve il diploma di istruzione secondaria di secondo grado.",
+   "titoliStudio": "h) Possesso del seguente titolo di studio: diploma di scuola secondaria superiore.\nPer qualsiasi diploma",
    "requisiti": "• Alla procedura è ammesso a partecipare il personale in servizio presso l’Accademia di Belle Arti di Reggio Calabria, con contratto di lavoro a tempo determinato, assunto prima del 1.11.2025 e con almeno 24 mesi di servizio prestato senza demerito ed in relazione alle medesime attività svolte, anche non continuativamente, nelle Istituzioni dell’Alta Formazione Artistica Musicale e coreutica, nel profilo professionale di “Operatore - ex Coadiutore” - Area Prima, alla data della scadenza del presente bando; \n• I candidati di cui sopra, utilmente inclusi in graduatoria, hanno titolo ad essere…",
    "prove": "Non sono previste prove: si valutano solo i titoli.",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
-   "linkBando": "https://portale.inpa.gov.it/api/media/74db247d-636e-4fb5-a98b-f3f3e42d6f61",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando%20formazione%20graduatoria%20permanente%20per%20soli%20titoli%20Operatore_signed.pdf",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=41053534fa8849948bef97fa1356bfbc",
    "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/2026/0013_Documenti_1795249729257/",
    "altriLink": [
+    "https://www.concorsipubblici.com/accademia-di-belle-arti-reggio-calabria-concorso-operatore-reggio-calabria-2026",
     "https://www.concorsando.it/blog/concorsi/1-posto-di-operatore-presso-laccademia-di-belle-arti-di-reggio-calabria/"
    ],
    "key": "inpa:41053534fa8849948bef97fa1356bfbc",
@@ -1633,6 +1059,105 @@
    "categoria": "comuni"
   },
   {
+   "id": "inpa:af6765fb6d5a470eacf6582848f08771",
+   "inpaId": "af6765fb6d5a470eacf6582848f08771",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Marescialli nomina diretta AM 2026",
+   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+   "profilo": "Sottufficiali",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 60,
+   "scadenza": "2026-12-07",
+   "pubblicazione": "2026-10-30",
+   "contratto": "",
+   "descrizione": "concorso pubblico, per titoli ed esami, per il reclutamento, a nomina diretta, di 60 Marescialli di 3^ Cl. da immettere nel Ruolo dei Marescialli dell’Aeronautica Militare in s.p. per la Categoria Supporto, Specialità Sanità/Servizi Tecnici",
+   "mansioni": "Sul po rtale del reclutamento (da ora in poi portale inPA), raggiungibile all’indirizzo  www.inpa.gov.it, verr anno pubblicati il presente bando d i concorso, i termini per la  presentazione delle domande, il reindirizzamento al portal e per le attività di cui ai precedenti  commi 2 e 3; nel portale inPA, inoltre, potranno essere inserite ulteriori informazioni, comprese  quelle relative all’avvenuta pubblicazione…",
+   "titoliStudio": "singole Forze armate, possano essere banditi, nei limiti delle risorse finanziarie  disponibili, concorsi per titoli ed esami per trarre, con il gr ado di maresciallo e  corrispondenti, giovani d i età non superiore a 32 anni alla data indicata nel bando di  concorso e in possesso di laurea definita con Decreto del Ministro della difesa, di  concerto con il Ministro delle infrastrutture e dei trasporti pe r i…",
+   "requisiti": "agli articoli 645 e 681 del c itato Decreto Le gislativo 15 marzo 2010, n. 66, in possesso dei  prescritti requisiti , che abbiano ripor tato il punteggio più alto nell’ordine della relativa  graduatoria di merito .\nI vincitori saranno ammessi qual i Marescialli di 3^ Classe alla frequenza del corso applicativo  con riserva di accertamento, anche successiva all ’ammissione, dei requisiti prescritti e  subordinatamente all ’autorizzazione a effettuare assunzioni eventualmente previste dalla  normativa vigente.\nRequisiti generali di partecipazione\nPer partecipare al concorso di cui al presente bando i concorrenti devono possedere i seguenti …",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/83bad1e8-d94a-492d-b473-dadf485752c9",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=af6765fb6d5a470eacf6582848f08771",
+   "linkEnte": "https://concorsi.difesa.it",
+   "key": "inpa:af6765fb6d5a470eacf6582848f08771",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Esercito Italiano"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:4562979f4dba4d3b80fbe366c436c47d",
+   "inpaId": "4562979f4dba4d3b80fbe366c436c47d",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Marescialli nomina diretta EI 2026",
+   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+   "profilo": "Sottufficiali",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 51,
+   "scadenza": "2026-12-07",
+   "pubblicazione": "2026-10-30",
+   "contratto": "",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per il reclutamento, a nomina diretta, di 62 Marescialli da immettere nel Ruolo dei Marescialli dell’Esercito in servizio permanente",
+   "mansioni": "I concorrenti in s ervizio potranno fruire d ella licenza s traordinaria per esami limitatamente ai  giorni di svolgimento delle fasi concorsuali , nonché al te mpo strettamente necessario per il  raggiungimento della sede ove si svolgeranno tali fasi e per il rientro nella sede di servizio.",
+   "titoliStudio": "corrispondenti, giovani d i età non superiore a 32 anni alla data indicata nel bando di  concorso e in possesso di laurea definita con Decreto del Ministro della difesa, di  concerto con il Ministro delle infras trutture e dei trasporti per i concorsi relativi al\nSpecializzazione Sa nità e co n la Spec ializzazione Comando .\nSono altresì previsti i seguenti requisiti speciali per l ’accesso al ruolo de i…",
+   "requisiti": "645 e 681 del citato D ecreto Legislati vo 1 5 marzo 2010, n. 66, in possesso dei prescritti  requisiti, che abbiano riportato il punteggio più alto nell’ordine della relativa graduatoria finale\nRequisiti generali di partecipazione\nPer partecipare al concorso di cui al presente bando i concorrenti devono possedere i seguenti  requisiti generali:  a) essere cittadini italiani;  b) essere in pos sesso del tito lo di studio indicato tra i re quisiti s peciali di cui al successivo  comma 3 .\nIl requisito di cui al comma 1, lettera d), non è nuovamente accertato nei confronti del personale  militare in servi zio in posse sso dell’idoneità…",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/3fb30d19-7a1a-4c04-aca6-f6e71a20c158",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4562979f4dba4d3b80fbe366c436c47d",
+   "linkEnte": "https://concorsi.difesa.it",
+   "key": "inpa:4562979f4dba4d3b80fbe366c436c47d",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Esercito Italiano"
+   ],
+   "categoria": "forze"
+  },
+  {
+   "id": "inpa:4677f52ce26b479ba14ab21da6869c07",
+   "inpaId": "4677f52ce26b479ba14ab21da6869c07",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Marescialli nomina diretta MM 2026",
+   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+   "profilo": "Sottufficiali",
+   "sedi": [
+    "Nazionale"
+   ],
+   "nazionale": true,
+   "posti": 33,
+   "scadenza": "2026-12-07",
+   "pubblicazione": "2026-10-30",
+   "contratto": "",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per il reclutamento, a nomina diretta, di 33 capi di 3^ cl. da immettere nel Ruolo Marescialli della Marina Militare",
+   "mansioni": "Sul portale del reclutamento (da ora in poi portale inPA), raggiun gibile all’indirizzo  www.inpa.gov.it, verranno pubblicati il presente bando di concorso, i termini per la presentazione  delle domande, il reindirizzamento al portale per le attività di cui ai precedenti commi 2 e 3; nel  portale i nPA, inoltre, potranno essere inser ite ulteriori informazioni, comprese quelle relative  all’avvenuta pubblicazione…",
+   "titoliStudio": "Per partecipare al concorso di cui al presente bando i concorrenti devono possedere i seguenti  requisiti generali:  a) essere cittadini italiani;  b) essere in possesso del titolo di studio indicato tra i requisiti speciali di c ui al succ essivo  comma 3.\nMarina ai sensi dell’art. 682 del Decreto Legislativo 15 marzo 2010, n. 66:  a) essere in possesso di uno dei titoli di studio indicati nell’appendice al…",
+   "requisiti": "Marina Militare, dall’ Opera nazionale per i figli degli a viatori e dall’ Opera nazionale di  assistenza per gli orfani dei m ilitari dell’Arma dei carabinieri di cui agli articoli 645 e 681 del  citato Decreto Legislativo 15 marz o 2010, n. 66, in pos sesso dei prescritti requisiti, che abbiano\nI vincitori saranno ammessi quali Capi di 3^cl. alla frequenza del corso applicativo con riserva di  accertamento, anche successiva all’ammissione, dei requisiti prescritti e subordinatamente  all’autorizzazione a effettuare assunzioni eventualmente previste dalla normativa vigente.\nRequisiti generali di partecipazione\nPer partecipare al concorso…",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/810db08e-2d9f-4501-97c7-3f2d17a75d05",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4677f52ce26b479ba14ab21da6869c07",
+   "linkEnte": "https://concorsi.difesa.it",
+   "key": "inpa:4677f52ce26b479ba14ab21da6869c07",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "Esercito Italiano"
+   ],
+   "categoria": "forze"
+  },
+  {
    "id": "inpa:fd91ac92bd40467d93b48d23ca07f90e",
    "inpaId": "fd91ac92bd40467d93b48d23ca07f90e",
    "fonti": [
@@ -1668,6 +1193,173 @@
    "primaVista": "2026-11-13",
    "entiMonitorati": [],
    "categoria": "comuni"
+  },
+  {
+   "id": "inpa:dd481ab9cd1845ef90986254cbcc4a44",
+   "inpaId": "dd481ab9cd1845ef90986254cbcc4a44",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "MANIFESTAZIONE DI INTERESSE, PER L'UTILIZZO DI GRADUATORIE DI ALTRI ENTI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO CON PROFILO DI AGENTE DI POLIZIA MUNICIPALE - AREA DEGLI ISTRUTTORI - EX CAT C",
+   "ente": "Comune di Cropani",
+   "profilo": "Agente di Polizia Municipale",
+   "sedi": [
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "MANIFESTAZIONE DI INTERESSE, PER L'UTILIZZO DI GRADUATORIE DI ALTRI ENTI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO CON PROFILO DI AGENTE DI POLIZIA MUNICIPALE - AREA DEGLI ISTRUTTORI - EX CAT C",
+   "mansioni": "",
+   "titoliStudio": "titolo di studio posseduto.",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/371b2389-0b5d-4c91-923f-bb15563387da",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dd481ab9cd1845ef90986254cbcc4a44",
+   "linkEnte": "",
+   "key": "inpa:dd481ab9cd1845ef90986254cbcc4a44",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:239d82ed13094c56884164b6f0fb7294",
+   "inpaId": "239d82ed13094c56884164b6f0fb7294",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Architettura degli interni a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di ARCHITETTURA DEGLI INTERNI",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-25",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di ARCHITETTURA DEGLI INTERNI",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/fa0b5dd3-d128-4bbd-a2ca-eb538f660085",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=239d82ed13094c56884164b6f0fb7294",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:239d82ed13094c56884164b6f0fb7294",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:4d3b8912fa8c4be3948e81a1f0247181",
+   "inpaId": "4d3b8912fa8c4be3948e81a1f0247181",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Fondamenti di Disegno Informatico a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno di FONDAMENTI DI DISEGNO INFORMATICO",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-25",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di FONDAMENTI DI DISEGNO INFORMATICO",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/455ef22e-a115-4265-bc29-71df1c4e17b4",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4d3b8912fa8c4be3948e81a1f0247181",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:4d3b8912fa8c4be3948e81a1f0247181",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:19b5afd0049a460ca4d1f7fdcc7c1ecf",
+   "inpaId": "19b5afd0049a460ca4d1f7fdcc7c1ecf",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Restauro materiali digitali per il cinema a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di RESSTAURO DI MATERIALI DIGITALI PER IL CINEMA",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-25",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di Restauro materiali digitali per il cinema",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/9cf2ee43-2bef-42a4-b47d-455180ff9b59",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=19b5afd0049a460ca4d1f7fdcc7c1ecf",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:19b5afd0049a460ca4d1f7fdcc7c1ecf",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:8b2ba4fa52d64f02a1c0c4cd098bf89f",
+   "inpaId": "8b2ba4fa52d64f02a1c0c4cd098bf89f",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Tecniche dei procedimenti Stampa a.a. 2026-2027 a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di TECNICHE DEI PROCEDIMENTI A STAMPA",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-10",
+   "pubblicazione": "2026-11-25",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di TECNICHE DEI PROCEDIMENTI A STAMPA",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/39831882-69b7-4e28-b70c-77edb5bce128",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8b2ba4fa52d64f02a1c0c4cd098bf89f",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:8b2ba4fa52d64f02a1c0c4cd098bf89f",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
   },
   {
    "id": "inpa:aa056c7307894eccb200a32cadd69c11",
@@ -1712,7 +1404,6 @@
    "id": "inpa:4685c692cf904e9b8e037186ef41cccb",
    "inpaId": "4685c692cf904e9b8e037186ef41cccb",
    "fonti": [
-    "Concorsando",
     "ConcorsiPubblici",
     "inPA"
    ],
@@ -1727,7 +1418,7 @@
    "scadenza": "2026-12-10",
    "pubblicazione": "2026-10-26",
    "contratto": "tempo indeterminato, part time",
-   "descrizione": "Il Comune di San Sosti, in provincia di Cosenza, indice un concorso pubblico per esami per l'assunzione a tempo parziale al 50% e indeterminato di 1 funzionario tecnico, Area dei Funzionari e dell'Elevata Qualificazione.\nPer partecipare serve una laurea magistrale, specialistica o del vecchio ordinamento nelle classi previste dal bando in architettura, ingegneria civile e ambientale e pianificazione territoriale, insieme all'abilitazione all'esercizio della professione di architetto o di ingegnere. Servono inoltre la conoscenza della lingua inglese e dell'informatica. La tassa di ammissione…",
+   "descrizione": "Il profilo di Funzionario tecnico individuato attraverso la presente procedura sarà ascritto all’Area \ndei Funzionari e dell’Elevata Qualificazione, di cui al vigente sistema di classificazione professionale \ndel CCNL Funzioni Locali (CCNL 2022-2024). \nAppartengono a quest’area i lavoratori strutturalmente inseriti nei processi amministrativi-contabili \ne tecnici e nei sistemi di erogazione dei servizi che nel quadro di indirizzi generali, assicurano il \npresidio di importanti e diversi processi, concorrendo al raggiungimento degli obiettivi stabiliti, \nassicurando la qualità dei servizi e…",
    "mansioni": "organizzativa, professionale atta a consentire lo svolgimento di attività di conduzione,",
    "titoliStudio": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale (D.M. 270/04) appartenente a una delle seguenti classi: LM-3 Architettura del paesaggio;\nLM-4 Architettura e ingegneria edile-architettura;\nLM-23 Ingegneria civile;\narchitettura \nIngegneria civile \nIngegneria…",
    "requisiti": "a) Per partecipare alla procedura concorsuale è richiesto il possesso di uno dei seguenti titoli di studio, ovvero di titolo riconosciuto equipollente o equiparato dalla normativa vigente: laurea magistrale (D.M. 270/04) appartenente a una delle seguenti classi: LM-3 Architettura del paesaggio; LM-4 Architettura e ingegneria edile-architettura; LM-23 Ingegneria civile; LM-24 Ingegneria dei sistemi edilizi; LM-26 Ingegneria della sicurezza; LM-35 Ingegneria per l'ambiente e il territorio; LM-48 Pianificazione territoriale urbanistica e ambientale; ovvero laurea specialistica (D.M. 509/99) o…",
@@ -1737,8 +1428,7 @@
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4685c692cf904e9b8e037186ef41cccb",
    "linkEnte": "",
    "altriLink": [
-    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-tecnico-cosenza-2026",
-    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-tecnico-presso-il-comune-di-san-sosti/"
+    "https://www.concorsipubblici.com/comune-di-san-sosti-concorso-funzionario-tecnico-cosenza-2026"
    ],
    "key": "inpa:4685c692cf904e9b8e037186ef41cccb",
    "primaVista": "2026-11-13",
@@ -2030,6 +1720,38 @@
     "Comuni capoluogo, Province e Città Metropolitana RC"
    ],
    "categoria": "calabria"
+  },
+  {
+   "id": "cp:consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-borsa-di-studio-borsa-di-6",
+   "fonti": [
+    "ConcorsiPubblici"
+   ],
+   "titolo": "Istituto per la tecnologia delle membrane «Enrico Drioli» del CNR, una borsa di ricerca annuale",
+   "ente": "Consiglio Nazionale delle Ricerche - Istituto per la Tecnologia delle Membrane",
+   "profilo": "Borsa di studio",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": null,
+   "scadenza": "2026-12-14",
+   "pubblicazione": "",
+   "descrizione": "Conferimento di una borsa di ricerca annuale \n(GU n.91 del 24-11-2026)",
+   "link": "https://www.concorsipubblici.com/consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-borsa-di-studio-borsa-di-6",
+   "inpaId": null,
+   "contratto": "tempo determinato",
+   "mansioni": "(+39) 0498275644 | Fax (+39) 049 8275239 e-mail: giacomo.saielli@cnr.it  e) attività di lavoro autonomo, anche parasubordinato, fatta salva l’ipotesi di cui al comma seguente.\nI borsisti possono svolgere attività di lavoro autonomo non esercitato abitualmente, previa comunicazione scritta ai Responsabili scientifici (d’ora in poi Tutor) e a condizione che non comporti conflitto di interessi con la specifica…",
+   "titoliStudio": "aver conseguito la Laurea Specialistica/Magistrale in DM 5/05/2004: 62/S Chimica o 27/S Ingegneria Chimica o 61/S Scienza e Ingegneria dei Materiali o 14/S Chimica e Tecnologie Farmaceutiche.\nDM 9/07/2009: LM-54 Chimica o LM-22 Ingegneria Chimica o LM-53 Scienza e Ingegneria dei Materiali o LM-13 Chimica e Tecnologie Farmaceutiche.\nChimica \nIngegneria chimica",
+   "requisiti": "aver conseguito la Laurea Specialistica/Magistrale in DM 5/05/2004: 62/S Chimica o 27/S Ingegneria Chimica o 61/S Scienza e Ingegneria dei Materiali o 14/S Chimica e Tecnologie Farmaceutiche. DM 9/07/2009: LM-54 Chimica o LM-22 Ingegneria Chimica o LM-53 Scienza e Ingegneria dei Materiali o LM-13 Chimica e Tecnologie Farmaceutiche.",
+   "prove": "La Commissione disporrà complessivamente di 30 punti di cui: 10 punti per i titoli e 20 punti per l’esame colloquio",
+   "candidatura": "https://selezionionline.cnr.it",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando%20borsa%20di%20ricerca%20BS.ITM_.007.2026.CS_signed.pdf",
+   "key": "t:consiglio nazionale delle ricerche istit|2026-12-14|",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "CNR"
+   ],
+   "categoria": "aziende"
   },
   {
    "id": "inpa:44db8f62413647f58343278827bb4530",
@@ -2644,13 +2366,14 @@
    "inpaId": "bc0d9e2806884b66938b5532fe767e83",
    "fonti": [
     "Concorsando",
+    "ConcorsiPubblici",
     "inPA"
    ],
    "titolo": "SELEZIONE FUNZIONARIO TECNICO E.Q.",
    "ente": "Comune di Calopezzati",
-   "profilo": "FUNZIONARIO E.Q.",
+   "profilo": "funzionario tecnico",
    "sedi": [
-    "Calabria"
+    "Cosenza"
    ],
    "nazionale": false,
    "posti": 1,
@@ -2660,19 +2383,250 @@
    "descrizione": "Il Comune di Calopezzati (CS) indice un concorso pubblico per esami per assumere a tempo indeterminato e parziale (91,67%, 33 ore settimanali) 1 funzionario tecnico (Area dei Funzionari e dell'Elevata Qualificazione, CCNL Funzioni Locali) da assegnare all'Area Tecnica.\nServe una laurea nelle classi indicate dal bando (architettura, ingegneria civile ed edile, ingegneria ambientale, pianificazione territoriale). Sono previste un'eventuale preselezione a risposta multipla, una prova scritta e una prova orale. La tassa di concorso è di 10 euro.",
    "mansioni": "Le date e il luogo dove si svolgeranno le prove d’esame verrà pubbli cato almeno quindici giorni prima  dello svolgimento delle stesse, mediante apposito avviso sul portale I NPA e sul sito  www.comune.calopezzati.cs.it nella sezione “Amministrazione Tra sparente” – sottosezione “Bandi di  concorso”; tale avviso ha valore di notifica a tutti gli effetti e non seguirà pertanto nessun’altra  comunicazione al riguardo.",
    "titoliStudio": "Serve una laurea nelle classi indicate dal bando (architettura, ingegneria civile ed edile, ingegneria ambientale, pianificazione territoriale).",
-   "requisiti": "Per essere ammessi al concorso gli aspiranti - a pena di esclusione - devono essere in possesso dei seguenti  requisiti:\nEtà non inferiore agli anni 18;\nCittadinanza italiana (sono equiparati gli italiani non residenti nella Repubblica e iscritti all’Aire)  o cittadinanza di uno dei Paesi appartenenti all'Unione Europea ai sensi dell’art. 38 del D. Lgs\nI cittadini dell’Unione Europea e di Paesi terzi devono peraltr o possedere, oltre ai requisiti in  elencazione nel presente bando, i seguenti ulteriori requisiti:\nessere in possesso, fatta eccezione per la titolarità della cittadinanza italiana, di tutti gli altri  requisiti previsti per i…",
-   "prove": "Sono previste un'eventuale preselezione a risposta multipla, una prova scritta e una prova orale.",
+   "requisiti": "Possesso di uno dei seguenti titoli di studio: - Diploma di Laurea secondo il vecchio ordinamento universitario ante D.M. 509/1999 in Architettura, Urbanistica, Pianificazione Territoriale, Urbanistica ed Ambientale, Ingegneria Edile, Ingegneria Civile, Ingegneria Edile-Architettura, Ingegneria per l’Ambiente e il Territorio, Pianificazione Territoriale e Urbanistica, Politica del Territorio ed equipollenti; oppure - Laurea Specialistica ex D.M. 509/1999 nelle seguenti classi: 3/S Architettura del paesaggio, 4/S (classi lauree specialistiche in Architettura e Ingegneria Edile), 28/S (classi…",
+   "prove": "PRESELEZIONE \nLa Commissione Esaminatrice si riserva di sottoporre i candidati ad una prova preselettiva a risposta multipla sulle stesse materie oggetto delle prove d’esame, qualora a seguito di insindacabile giudizio della medesima il numero delle domande pervenute dovesse essere ritenuto…",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/f5ca1e26-8ae3-4eda-82b5-c5fbc89a8b40",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando-Concorso_TECNICO-23-11-2026_signed.pdf",
    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bc0d9e2806884b66938b5532fe767e83",
    "linkEnte": "https://portale.inpa.gov.it/",
    "altriLink": [
+    "https://www.concorsipubblici.com/comune-di-calopezzati-concorso-funzionario-tecnico-cosenza-2026",
     "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-tecnico-presso-il-comune-di-calopezzati/"
    ],
    "key": "inpa:bc0d9e2806884b66938b5532fe767e83",
    "primaVista": "2026-11-23",
    "entiMonitorati": [],
    "categoria": "comuni"
+  },
+  {
+   "id": "inpa:e94a7bd6da614a19ae286ac976b2a9e6",
+   "inpaId": "e94a7bd6da614a19ae286ac976b2a9e6",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 13 POSTI DI DIRIGENTE MEDICO - AREA DELLA MEDICINA DIAGNOSTICA E DEI SERVIZI…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Crotone",
+    "Catanzaro",
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 13,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 13 POSTI DI DIRIGENTE MEDICO - AREA DELLA MEDICINA DIAGNOSTICA E DEI SERVIZI – DISCIPLINA DI PATOLOGIA CLINICA DA DESTINARE ALLE AZIENDE DEL SERVIZIO SANITARIO REGIONALE",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/5f1d019c-5a9c-410f-aebb-2c415dc5cae1",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e94a7bd6da614a19ae286ac976b2a9e6",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22223",
+   "key": "inpa:e94a7bd6da614a19ae286ac976b2a9e6",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:9de9fed71d9744b3aab69dfc9492cf59",
+   "inpaId": "9de9fed71d9744b3aab69dfc9492cf59",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 26 POSTI DI DIRIGENTE MEDICO – AREA DI SANITÀ PUBBLICA – DISCIPLINA DI IGIENE…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Catanzaro",
+    "Vibo Valentia",
+    "Cosenza",
+    "Reggio Calabria",
+    "Crotone"
+   ],
+   "nazionale": false,
+   "posti": 26,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 26 POSTI DI DIRIGENTE MEDICO – AREA DI SANITÀ PUBBLICA – DISCIPLINA DI IGIENE E MEDICINA PREVENTIVA, DA DESTINARE ALLE AZIENDE DEL SERVIZIO SANITARIO REGIONALE",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/c01d55e8-3d91-4949-ae7b-e62313afc3fb",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9de9fed71d9744b3aab69dfc9492cf59",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22291",
+   "key": "inpa:9de9fed71d9744b3aab69dfc9492cf59",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:e50f8f2b294c4c0890deb20c10236d5a",
+   "inpaId": "e50f8f2b294c4c0890deb20c10236d5a",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 13 POSTI DI DIRIGENTE MEDICO – AREA DELLA MEDICINA DIAGNOSTICA E DEI SERVIZI – DISCIPLINA DI PATOLOGIA CLINICA, NON COPERTI CON…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Cosenza",
+    "Crotone",
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 13,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "Azienda per il governo della sanità della regione calabria – azienda zero – concorso pubblico, per titoli ed esami, per la copertura a tempo pieno e indeterminato di n. 13 posti di dirigente medico – area della medicina diagnostica e dei servizi – disciplina di patologia clinica, non coperti con contestuale avviso di mobilità da destinare alle seguenti aziende del servizio sanitario regionale",
+   "mansioni": "3) prova orale (max 20 punti) : sulle materie inerenti alla disciplina a concorso nonché sui  compiti connessi alla funzione da conferire.\nLa data e la sede in cui si svolgeranno le prove d’esame saranno notificate ai candidati  mediante avviso pubblicato su “inPA” almeno 15 giorni prima dell’inizio delle prove scritta  e pratica ed almeno 20 giorni prima della prova orale.",
+   "titoliStudio": "Titolo di studio: Laurea in Medicina e Chirurgia;\nIscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro).\nL’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia…",
+   "requisiti": "• Titolo di studio: Laurea in Medicina e Chirurgia; \n• Iscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro). L’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia prima dell’assunzione in servizio; \n• Specializzazione in Patologia Clinica e/o discipline equipollenti e/o affini o in alternativa: \n▪ iscrizione a partire dal secondo anno del Corso di…",
+   "prove": "Le prove di esame, per le quali la Commissione dispone di 80 punti, sono articolate come previsto dall’art. 26 del D.P.R. del 10 dicembre 1997, n. 483 e s.m.i. in: \n1) prova scritta (max 30 punti): relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso o…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Allegato_2_Bando_di_Concorso_di_Patologia%20Clinica.pdf.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e50f8f2b294c4c0890deb20c10236d5a",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22238",
+   "altriLink": [
+    "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-medico-patologo"
+   ],
+   "key": "inpa:e50f8f2b294c4c0890deb20c10236d5a",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Azienda Zero Calabria",
+    "Regione Calabria – Bandi e avvisi"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:ba9a29c868e742af89bea94e931dd593",
+   "inpaId": "ba9a29c868e742af89bea94e931dd593",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 POSTI DI DIRIGENTE MEDICO - AREA CHIRURGICA E DELLE SPECIALITA' CHIRURGICHE - DISCIPLINA DI CHIRURGIA MAXILLO - FACCIALE, NON…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "chirurgo maxillo facciale",
+   "sedi": [
+    "Reggio Calabria",
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "Azienda per il governo della sanità della regione calabria – azienda zero – concorso pubblico, per titoli ed esami, per la copertura a tempo pieno e indeterminato di n. 2 posti di dirigente medico – area chirurgica e delle specialita’ chirurgiche – disciplina di chirurgia maxillo – facciale, non coperti con contestuale avviso di mobilità,da destinare alle aziende del servizio sanitario regionale",
+   "mansioni": "3) prova orale (max 20 punti) : sulle materie inerenti alla disciplina a concorso nonché sui  compiti connessi alla funzione da conferire.\nLa data e la sede in cui si svolgeranno le prove d’esame saranno notificate ai candidati  mediante avviso pubblicato su “inPA” almeno 15 giorni prima dell’inizio delle prove scritta  e pratica ed almeno 20 giorni prima della prova orale.",
+   "titoliStudio": "Titolo di studio: Laurea in Medicina e Chirurgia;\nIscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro).\nL’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia…",
+   "requisiti": "• Titolo di studio: Laurea in Medicina e Chirurgia; \n• Iscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro). L’iscrizione al corrispondente Albo Professionale di uno dei Paesi dell’Unione Europea consente la partecipazione al concorso pubblico, fermo restando l’obbligo dell’iscrizione all’Albo in Italia prima dell’assunzione in servizio; \n• Specializzazione in Chirurgia Maxillo-Facciale e/o discipline equipollenti e/o affini o in alternativa: \n▪ iscrizione a partire dal secondo anno del…",
+   "prove": "Le prove di esame: \n1) prova scritta (max 30 punti): relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso o soluzione di una serie di quesiti a risposta sintetica inerenti alla disciplina stessa; \n2) prova pratica (max 30 punti): su tecniche e manualità…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Allegato_2_Bando_di_Concorso_di_Chirurgia%20Maxillo-Facciale.pdf.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ba9a29c868e742af89bea94e931dd593",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22254",
+   "altriLink": [
+    "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-chirurgo-maxillo"
+   ],
+   "key": "inpa:ba9a29c868e742af89bea94e931dd593",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Azienda Zero Calabria",
+    "Regione Calabria – Bandi e avvisi"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:63fa494919a54a5f85220b5eb1c98e48",
+   "inpaId": "63fa494919a54a5f85220b5eb1c98e48",
+   "fonti": [
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 26 POSTI DI DIRIGENTE MEDICO – AREA DI SANITÀ PUBBLICA – DISCIPLINA DI IGIENE E MEDICINA PREVENTIVA, NON COPERTI CON CONTESTUALE…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Crotone",
+    "Cosenza",
+    "Catanzaro",
+    "Vibo Valentia",
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 26,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "Azienda per il governo della sanità della regione calabria – azienda zero – concorso pubblico, per titoli ed esami, per la copertura a tempo pieno e indeterminato di n. 26 posti di dirigente medico – area di sanità pubblica – disciplina di igiene e medicina preventiva, non coperti con contestuale avviso di mobilità da destinare alle aziende del servizio sanitario regionale",
+   "mansioni": "3) prova orale (max 20 punti) : sulle materie inerenti alla disciplina a concorso nonché sui  compiti connessi alla funzione da conferire.\nLa data e la sede in cui si svolgeranno le prove d’esame saranno notificate ai candidati  mediante avviso pubblicato su “inPA” almeno 15 giorni prima dell’inizio delle prove scritta  e pratica ed almeno 20 giorni prima della prova orale.",
+   "titoliStudio": "Titolo di studio: Laurea in Medicina e Chirurgia;\nIscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro).\nSpecializzazione in Igiene e Medicina Preventiva e/o discipline equipollenti e/o affini o in alternativa:\nmedicina e chirurgia",
+   "requisiti": "• Titolo di studio: Laurea in Medicina e Chirurgia; \n• Iscrizione all’Albo dell’Ordine dei Medici Chirurghi (che dovrà essere in ogni caso posseduta all’atto di sottoscrizione del contratto individuale di lavoro). \n• Specializzazione in Igiene e Medicina Preventiva e/o discipline equipollenti e/o affini o in alternativa: \n▪ iscrizione a partire dal secondo anno del Corso di specializzazione in Igiene e Medicina Preventiva o discipline equipollenti o affini, ai sensi dell’art. 1, commi 547, 548 e 548 bis, della Legge 145/2018 e s.m.i., della nota del Ministero della Salute prot. n. 40367…",
+   "prove": "Le prove di esame, per le quali la Commissione dispone di 80 punti, sono articolate come previsto dall’art. 26 del D.P.R. del 10 dicembre 1997, n. 483 e s.m.i. in: \n1) prova scritta (max 30 punti): relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso o…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Allegato_2_Bando_di_Concorso_di_Igiene%20e%20Medicina%20Preventiva.pdf.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=63fa494919a54a5f85220b5eb1c98e48",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22306",
+   "altriLink": [
+    "https://www.concorsipubblici.com/azienda-il-governo-della-sanita-della-regione-calabria-azienda-zero-concorso-medico-igiene-cosenza"
+   ],
+   "key": "inpa:63fa494919a54a5f85220b5eb1c98e48",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Azienda Zero Calabria",
+    "Regione Calabria – Bandi e avvisi"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:42a0e8b04a664f338df663dfdae19cad",
+   "inpaId": "42a0e8b04a664f338df663dfdae19cad",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO -  AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 POSTI DI DIRIGENTE MEDICO - AREA CHIRURGICA E DELLE SPECIALITA'…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Reggio Calabria",
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 2,
+   "scadenza": "2026-12-24",
+   "pubblicazione": "2026-11-25",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 POSTI DI DIRIGENTE MEDICO - AREA CHIRURGICA E DELLE SPECIALITA' CHIRURGICHE - DISCIPLINA DI CHIRURGIA MAXILLO - FACCIALE DA DESTINARE ALLE AZIENDE DEL SERVIZIO SANITARIO REGIONALE",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/2dde7edf-b989-4e2d-b7e2-00dec5ed5c25",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=42a0e8b04a664f338df663dfdae19cad",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22269",
+   "key": "inpa:42a0e8b04a664f338df663dfdae19cad",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
   },
   {
    "id": "inpa:d92eb68960e847eaa521ccddf25f8409",
@@ -2784,6 +2738,49 @@
    "primaVista": "2026-11-24",
    "entiMonitorati": [],
    "categoria": "comuni"
+  },
+  {
+   "id": "inpa:53bb89a2abc1453382b6df96218a8436",
+   "inpaId": "53bb89a2abc1453382b6df96218a8436",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "CONCORSO “EPCDC - INTERNI” - N. 30 UNITA’ DI PERSONALE NON DIRIGENZIALE APPARTENENTE ALL’AREA DELLE ELEVATE PROFESSIONALITA’ DELLA CORTE DEI CONTI",
+   "ente": "Corte dei Conti",
+   "profilo": "Elevate Professionalità - Area Amministrativo-Giuridico - Legale - Lavoro - Contabilità e Bilancio - Negoziazione e Contratti Pubblici",
+   "sedi": [
+    "Lazio",
+    "Lombardia",
+    "Abruzzo",
+    "Umbria",
+    "Marche",
+    "Sicilia",
+    "Liguria",
+    "Veneto",
+    "Campania",
+    "Emilia Romagna",
+    "Toscana",
+    "Piemonte",
+    "Sardegna"
+   ],
+   "nazionale": false,
+   "posti": 30,
+   "scadenza": "2026-12-28",
+   "pubblicazione": "2026-11-25",
+   "contratto": "",
+   "descrizione": "CONCORSO “EPCDC - INTERNI” - N. 30 UNITA’ DI PERSONALE NON DIRIGENZIALE APPARTENENTE ALL’AREA DELLE ELEVATE PROFESSIONALITA’ DELLA CORTE DEI CONTI",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=53bb89a2abc1453382b6df96218a8436",
+   "linkEnte": "",
+   "key": "inpa:53bb89a2abc1453382b6df96218a8436",
+   "primaVista": "2026-11-25",
+   "entiMonitorati": [],
+   "categoria": "altro"
   },
   {
    "id": "inpa:57411ee993a54405a13a7ac451447256",
