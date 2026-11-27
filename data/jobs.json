@@ -1,318 +1,453 @@
 {
- "aggiornato": "2026-11-26T15:29+00:00",
+ "aggiornato": "2026-11-27T15:21+00:00",
  "fonti": {
   "inPA": {
    "ok": true,
-   "bandi": 79
+   "bandi": 90
   },
   "ConcorsiPubblici": {
    "ok": true,
-   "bandi": 45
+   "bandi": 43
   },
   "Concorsando": {
    "ok": true,
    "bandi": 16
   }
  },
- "totale": 84,
- "nuoviOggi": 6,
+ "totale": 94,
+ "nuoviOggi": 13,
  "bandi": [
   {
-   "id": "inpa:bd3aa5f64bfa48e98facfc2150d7fc3a",
-   "inpaId": "bd3aa5f64bfa48e98facfc2150d7fc3a",
+   "id": "inpa:0b32e86ec10e40f994648b27f08a851d",
+   "inpaId": "0b32e86ec10e40f994648b27f08a851d",
    "fonti": [
     "inPA"
    ],
-   "titolo": "AVVISO PUBBLICO per la stabilizzazione, ai sensi dell’art. 3, comma 5, del D.L. 22 aprile 2023, n. 44, convertito con modificazioni dalla Legge 21 giugno 2023, n. 74, di n. 1 unità già assunta ai sensi dell’art. 31-bis del D.L. 6 novembre 2021, n. 152, convertito con modificazioni dalla Legge 29…",
-   "ente": "Comune di Longobardi",
-   "profilo": "Funzionario Tecnico",
+   "titolo": "Bando di Selezione Pubblica per il conferimento di n. 1 (uno) incarico di collaborazione individuale a un/una Esperto/a per lo svolgimento delle attività relative ai Work Package WP1 nell’ambito del progetto “STAR X”.",
+   "ente": "UNIVERSITA' DELLA CALABRIA",
+   "profilo": "Esperto/a in controllo di macchina e data management per le linee sperimentali STAR",
    "sedi": [
     "Cosenza"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-12-06",
-   "pubblicazione": "2026-11-26",
+   "scadenza": "2026-12-07",
+   "pubblicazione": "2026-11-27",
    "contratto": "",
-   "descrizione": "Stabilizzazione PNRR",
+   "descrizione": "Bando di Selezione Pubblica per il conferimento di n. 1 (uno) incarico di collaborazione individuale a un/una Esperto/a per lo svolgimento delle attività relative ai Work Package WP1 nell’ambito del progetto “STAR X”.",
+   "mansioni": "che la materia oggetto della selezione è connessa/non è connessa all’attività di lavoro  autonomo esercitata abitualmente.\nI/Le candidati/e dichiarati/e vincitori/trici saranno invitati/e a stipulare un contratto di prestazione d’opera  di diritto privato con il quale sar anno obbligati/e a fornire l’attività di cui al presente bando.\nProfilo  professionale e  attività da svolgere",
+   "titoliStudio": "di essere in possesso del titolo di studio richiesto dal bando, indicando lo stesso, nonché la data, il  luogo del conseguimento ed il voto.\nQualora il titolo di studio sia stato conseguito all’estero, si dovrà  specificare l’autorità competente che ha riconosciuto tale titolo equipollente al titolo italiano  richiesto nonché gli estremi del provvedimento della dichiarazione di equipollenza;\n● Diploma di laurea…",
+   "requisiti": "Per l’ammissione alla selezione, oltre a quelli riportati per il profilo nella Scheda Profilo Professionale, sono  richiesti i seguenti ulteriori requisiti:\ncittadinanza italiana, ovvero quella di uno degli Stati membri dell’Unione Europea.\nPossono  partecipare alla selezione, inoltre:  o i familiari dei/delle cittadini/e degli Stati memb ri dell'Unione Europea non aventi la  cittadinanza di uno Stato membro che siano titolari del diritto di soggiorno o del diritto di  soggiorno permanente;  o i/le cittadini/e di paesi terzi che siano titolari del permesso di soggiorno CE per soggiornanti di  lungo periodo, o che siano titolari dello status…",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/119c35bb-143b-4190-9d35-2072bdd62d46",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0b32e86ec10e40f994648b27f08a851d",
+   "linkEnte": "https://www.unical.it/",
+   "key": "inpa:0b32e86ec10e40f994648b27f08a851d",
+   "primaVista": "2026-11-27",
+   "entiMonitorati": [
+    "Università della Calabria (UniCal)"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:72ccba8bdd264147ba3c6b6d8bf1778d",
+   "inpaId": "72ccba8bdd264147ba3c6b6d8bf1778d",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI MANIFESTAZIONE DI INTERESSE PER IDONEI IN GRADUATORIA DI CONCORSI PUBBLICI ESPLETATI DA ALTRI ENTI, PER LA COPERTURA DI N. 4 (QUATTRO) POSTI DI FUNZIONARIO ASSISTENTE SOCIALE – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE - A TEMPO INDETERMINATO E PIENO DA ASSEGNARE AL SERVIZIO…",
+   "ente": "Comune di Corigliano-Rossano",
+   "profilo": "Funzionario Assistente Sociale",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 4,
+   "scadenza": "2026-12-12",
+   "pubblicazione": "2026-11-27",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "AVVISO DI MANIFESTAZIONE DI INTERESSE PER IDONEI IN GRADUATORIA DI CONCORSI PUBBLICI ESPLETATI DA ALTRI ENTI, PER LA COPERTURA DI N. 4 (QUATTRO) POSTI DI FUNZIONARIO ASSISTENTE SOCIALE – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE - A TEMPO INDETERMINATO E PIENO DA ASSEGNARE AL SERVIZIO SOCIALE DEI COMUNI DELL’AMBITO TERRITORIALE SOCIALE PER IL POTENZIAMENTO DEL SISTEMA DEI SERVIZI SOCIALI COMUNALI.",
    "mansioni": "",
-   "titoliStudio": "possesso di laurea in Ingegneria Edile- Architettura o titolo equipollente secondo la  normativa vigente.\nPer i candidati in possesso di titolo di studio conseguito all’estero, l’assunzione è subordinata al  rilascio, da parte delle competenti autorità, del provvedimento di equivalenza del titolo posseduto  a quello richiesto, ai sensi dell’art. 38 del D.lgs. 30 marzo 2001, n. 165.\ndisciplinari ai sensi della…",
-   "requisiti": "il suddetto dipendente, entro il termine previsto dalla normativa vigente, ha maturato i  requisiti temporali e professionali prescritti dall’art. 3, comma 5, del D.L. n. 44/2023 ai fini  della stabilizzazione nel profilo professionale rivestito;\nRequisiti generali\nI candidati devono essere in possesso dei requisiti generali previsti dalla normativa vigente per  l’accesso al pubblico impiego e precisamente:\ni cittadini degli Stati membri dell’Unione Europea e i loro familiari non aventi la  cittadinanza di uno Stato membro che siano titolari del diritto di soggiorno o del diritto di  soggiorno permanente;\nil godimento dei diritti civili e…",
-   "prove": "Per colloquio",
+   "titoliStudio": "La corrispondenza tra i profili professionali previsti dalle graduatorie di riferimento dei suddetti soggetti  interessati e quelli richiesti ai fini della presente procedura, sarà verificata – altresì- con riferimento al  titolo di studio posseduto.\n➢ il titolo di studio posseduto tra quelli elencati nell’articolo successivo:\nLaurea triennale DM 509/1999",
+   "requisiti": "Per richieste di assistenza di tipo informatico legate alla procedura di iscrizione on line, i candidati  devono utilizzare esclusivamente l’apposito modulo di assistenza presente sul Portale “inPA”.\n➢ di essere in possesso della patente di tipo B.\nA corredo della domanda di ammissione alla procedura i candidati dovranno allegare nella specifica  sezione “ALLEGATI” della domanda di partecipazione on line la seguente documentazione:  a) copia provvedimento di approvazione della graduatoria e annessa graduatoria finale nella quale  si è utilmente collocati;  b) copia titolo di studio richiesto;  c) patente di tipo B.\nLe assunzioni dei…",
+   "prove": "Per titoli",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/ae44026e-8a5d-4d8c-b625-18291a00197b",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bd3aa5f64bfa48e98facfc2150d7fc3a",
+   "linkBando": "https://portale.inpa.gov.it/api/media/e5b9a9dd-0fa7-4a2a-90b4-82cb227b54e7",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=72ccba8bdd264147ba3c6b6d8bf1778d",
    "linkEnte": "",
-   "key": "inpa:bd3aa5f64bfa48e98facfc2150d7fc3a",
-   "primaVista": "2026-11-26",
+   "key": "inpa:72ccba8bdd264147ba3c6b6d8bf1778d",
+   "primaVista": "2026-11-27",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
   {
-   "id": "inpa:67880034686f4175bdb54c274eabb1fe",
-   "inpaId": "67880034686f4175bdb54c274eabb1fe",
+   "id": "inpa:afddc6d530ea4d8e9a0e33a11165dd25",
+   "inpaId": "afddc6d530ea4d8e9a0e33a11165dd25",
    "fonti": [
     "inPA"
    ],
-   "titolo": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA ESTERNA, AI SENSI DELL’ART. 30, C. 1, DEL D.LGS. N. 165/2001, MEDIANTE SELEZIONE PER COLLOQUIO, PER LA COPERTURA, A TEMPO PIENO E INDETERMINATO, DI N. 1 POSTO DI FUNZIONARIO TECNICO, AREA DEI FUNZIONARI E E.Q., CCNL COMPARTO FUNZIONI LOCALI",
-   "ente": "Comune di Condofuri",
-   "profilo": "FUNZIONARIO TECNICO",
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Tecniche di animazione digitale Biennio a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di TECNICHE DI ANIMAZIONE DIGITALE (BIENNIO)",
    "sedi": [
     "Reggio Calabria"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-12-18",
-   "pubblicazione": "2026-11-26",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA ESTERNA, AI SENSI DELL’ART. 30, C. 1, DEL D.LGS. N. 165/2001, MEDIANTE SELEZIONE PER COLLOQUIO, PER LA COPERTURA, A TEMPO PIENO E INDETERMINATO, DI N. 1 POSTO DI FUNZIONARIO TECNICO, AREA DEI FUNZIONARI E E.Q., CCNL COMPARTO FUNZIONI LOCALI",
-   "mansioni": "",
+   "scadenza": "2026-12-12",
+   "pubblicazione": "2026-11-27",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di TECNICHE DI ANIMAZIONE DIGITALE (BIENNIO)",
+   "mansioni": "Direzione generale per l'alta formazione artistica, musicale e coreutica n. 89 del 3 luglio 2009 di cui si riporta la declaratoria:",
    "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per colloquio",
+   "requisiti": "L'esperienza laboratoriale costituirà un momento essenziale dell'esperienza formativa in rapporto alle diverse forme di rappresentazione ed ai differenti strumenti.",
+   "prove": "Per titoli",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/8ed05e04-3b66-4fa5-929c-e5d2632f358c",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67880034686f4175bdb54c274eabb1fe",
-   "linkEnte": "",
-   "key": "inpa:67880034686f4175bdb54c274eabb1fe",
-   "primaVista": "2026-11-26",
-   "entiMonitorati": [],
-   "categoria": "comuni"
-  },
-  {
-   "id": "inpa:33a24167c39f427fa81502d663d274be",
-   "inpaId": "33a24167c39f427fa81502d663d274be",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE –…",
-   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
-   "profilo": "DIRIGENTE MEDICO",
-   "sedi": [
-    "Cosenza",
-    "Catanzaro"
-   ],
-   "nazionale": false,
-   "posti": 4,
-   "scadenza": "2026-12-25",
-   "pubblicazione": "2026-11-26",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE – DISCIPLINA DI SCIENZE DELL’ ALIMENTAZIONE – DA ASSEGNARE ALLE AZIENDE SANITARIE REGIONALI",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/7f16e181-d719-49d9-8aa3-6c0ce3160b84",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=33a24167c39f427fa81502d663d274be",
-   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22367",
-   "key": "inpa:33a24167c39f427fa81502d663d274be",
-   "primaVista": "2026-11-26",
+   "linkBando": "https://portale.inpa.gov.it/api/media/dd353357-da14-494f-b78e-73ffb1824b71",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=afddc6d530ea4d8e9a0e33a11165dd25",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:afddc6d530ea4d8e9a0e33a11165dd25",
+   "primaVista": "2026-11-27",
    "entiMonitorati": [
-    "Regione Calabria – Bandi e avvisi",
-    "Azienda Zero Calabria"
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
    ],
-   "categoria": "sanita"
+   "categoria": "istruzione"
   },
   {
-   "id": "inpa:3eb73f1b6b9f4c2fa03c3b0916c3028a",
-   "inpaId": "3eb73f1b6b9f4c2fa03c3b0916c3028a",
+   "id": "inpa:a168f07170a3490dbb90146b74404b3a",
+   "inpaId": "a168f07170a3490dbb90146b74404b3a",
    "fonti": [
     "inPA"
    ],
-   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE – DISCIPLINA DI SCIENZE DELL’ ALIMENTAZIONE DA ASSEGNARE…",
-   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
-   "profilo": "DIRIGENTE MEDICO",
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Tecniche di animazione digitale Triennio a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di TECNICHE DI ANIMAZIONE DIGITALE (TRIENNIO)",
    "sedi": [
-    "Cosenza",
-    "Catanzaro"
-   ],
-   "nazionale": false,
-   "posti": 4,
-   "scadenza": "2026-12-25",
-   "pubblicazione": "2026-11-26",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO -CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE – DISCIPLINA DI SCIENZE DELL’ ALIMENTAZIONE DA ASSEGNARE ALLE AZIENDE SANITARIE REGIONALI",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/5a74b540-bc4a-460f-a579-6866bfd149e6",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3eb73f1b6b9f4c2fa03c3b0916c3028a",
-   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22382",
-   "key": "inpa:3eb73f1b6b9f4c2fa03c3b0916c3028a",
-   "primaVista": "2026-11-26",
-   "entiMonitorati": [
-    "Regione Calabria – Bandi e avvisi",
-    "Azienda Zero Calabria"
-   ],
-   "categoria": "sanita"
-  },
-  {
-   "id": "inpa:7bf80516bac543c0bda3405b4fdbe858",
-   "inpaId": "7bf80516bac543c0bda3405b4fdbe858",
-   "fonti": [
-    "inPA"
-   ],
-   "titolo": "AVVISO DI MOBILITA' ART.30 DEL D.LGS. N.165/2001, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO ED INDETERMINATO, NEL PROFILO DI “FUNZIONARIO TECNICO- AREA TECNICA MANUTENTIVA” - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE (EX CAT. D), CCNL COMPARTO FUNZIONI LOCALI, DA ASSEGNARE ALL’AREA…",
-   "ente": "Comune di Malito",
-   "profilo": "FUNZIONARIO EQ TECNICO",
-   "sedi": [
-    "Cosenza"
+    "Reggio Calabria"
    ],
    "nazionale": false,
    "posti": 1,
-   "scadenza": "2026-12-26",
-   "pubblicazione": "2026-11-26",
-   "contratto": "tempo indeterminato, tempo pieno, mobilità",
-   "descrizione": "AVVISO MOBILITA' FUNZIONARIO TECNICO COPERTURA N. 1 POSTO TEMPO PIENO",
-   "mansioni": "",
+   "scadenza": "2026-12-12",
+   "pubblicazione": "2026-11-27",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di TECNICHE DI ANIMAZIONE DIGITALE (TRIENNIO)",
+   "mansioni": "Direzione generale per l'alta formazione artistica, musicale e coreutica n. 89 del 3 luglio 2009 di cui si riporta la declaratoria:",
    "titoliStudio": "",
-   "requisiti": "",
-   "prove": "Per titoli e colloquio",
+   "requisiti": "L'esperienza laboratoriale costituirà un momento essenziale dell'esperienza formativa in rapporto alle diverse forme di rappresentazione ed ai differenti strumenti.",
+   "prove": "Per titoli",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/e9db23c7-dd57-47c1-8335-e98389191374",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7bf80516bac543c0bda3405b4fdbe858",
-   "linkEnte": "https://www.comune.malito.cs.it/",
-   "key": "inpa:7bf80516bac543c0bda3405b4fdbe858",
-   "primaVista": "2026-11-26",
-   "entiMonitorati": [],
-   "categoria": "comuni"
+   "linkBando": "https://portale.inpa.gov.it/api/media/f40eee71-ee87-4d43-bf50-b24ce658cfce",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a168f07170a3490dbb90146b74404b3a",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:a168f07170a3490dbb90146b74404b3a",
+   "primaVista": "2026-11-27",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
   },
   {
-   "id": "inpa:2968eb59f36943fa97fe891f62abfeb8",
-   "inpaId": "2968eb59f36943fa97fe891f62abfeb8",
+   "id": "inpa:03ae4384fd8b42b99b85e07bb25f6604",
+   "inpaId": "03ae4384fd8b42b99b85e07bb25f6604",
    "fonti": [
     "inPA"
    ],
-   "titolo": "CONCORSO PUBBLICO PER ESAMI PER N. 1 POSTO DI FUNZIONARIO SPECIALISTA IN ATTIVITÀ TECNICHE - A TEMPO PIENO E INDETERMINATO, DA INQUADRARE NELL’AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE - AI SENSI DEL CCNL FUNZIONI LOCALI VIGENTE, DA ASSEGNARE ALL’AREA TECNICA DELL’ENTE",
-   "ente": "Comune di Grotteria",
-   "profilo": "FUNZIONARIO SPECIALISTA IN ATTIVITÀ TECNICHE",
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Tecniche e Tecnologie per la Stampa Digitale a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di AMBINTAZIONE DELLA MODA",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-12",
+   "pubblicazione": "2026-11-27",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di TECNICHE E TECNOLOGIE PER LA STAMPA DIGITALE",
+   "mansioni": "formazione artistica, musicale e coreutica n. 89 del 3 luglio 2009 di cui si riporta la declaratoria:",
+   "titoliStudio": "",
+   "requisiti": "laboratoriale costituirà un momento essenziale dell'esperienza formativa in rapporto alle diverse forme di rappresentazione ed ai differenti strumenti.",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/7c300878-3fc4-4f77-a743-feb8e998e7b8",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=03ae4384fd8b42b99b85e07bb25f6604",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:03ae4384fd8b42b99b85e07bb25f6604",
+   "primaVista": "2026-11-27",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:acb585a4b5844b0f9e0824c1dd7a9198",
+   "inpaId": "acb585a4b5844b0f9e0824c1dd7a9198",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Ambientazione della Moda a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di AMBINTAZIONE DELLA MODA",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-12",
+   "pubblicazione": "2026-11-27",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di AMBIENTAZIONE DELLA MODA",
+   "mansioni": "formazione artistica, musicale e coreutica n. 89 del 3 luglio 2009, di cui si riporta la declaratoria:",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/cb6e325a-991f-4fb6-8b76-bcffcfe07ba8",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=acb585a4b5844b0f9e0824c1dd7a9198",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:acb585a4b5844b0f9e0824c1dd7a9198",
+   "primaVista": "2026-11-27",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:aa97f30749104971b672ba1876d6b79d",
+   "inpaId": "aa97f30749104971b672ba1876d6b79d",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Design del Tessuto a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di DESIGN DEL TESSUTO",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-12",
+   "pubblicazione": "2026-11-27",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di DESIGN DEL TESSUTO",
+   "mansioni": "struttura sartoriale-artigianale, nonché la comunicazione, attraverso lo studio e la progettazione sia di concept comunicabili attraverso la rete, sia di un sito inteso come media-vetrina e nuovo canale distributivo per proporre le proprie idee o avviare un’attività di diffusione delle creazioni.",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/f4beaaf4-e94a-43e1-ab47-210671c95022",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aa97f30749104971b672ba1876d6b79d",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:aa97f30749104971b672ba1876d6b79d",
+   "primaVista": "2026-11-27",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:713879ce0a3d43e49a2620c41ab0acc3",
+   "inpaId": "713879ce0a3d43e49a2620c41ab0acc3",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Design dell'Accessorio Biennio a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di DESIGN DELL'ACCESSORIO",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-12",
+   "pubblicazione": "2026-11-27",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di DESIGN DELL'ACCESSORIO (BIENNIO)",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/89b0deb2-3279-4f4b-8303-035bd74f4737",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=713879ce0a3d43e49a2620c41ab0acc3",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:713879ce0a3d43e49a2620c41ab0acc3",
+   "primaVista": "2026-11-27",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:2e39773c6b2643e2a515d27f3ff7042b",
+   "inpaId": "2e39773c6b2643e2a515d27f3ff7042b",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "Accademia di Belle Arti di Reggio Calabria - Bando docenza esterna a contratto per la disciplina di Design dell'Accessorio Triennio a.a. 2026-2027",
+   "ente": "Accademia di Belle Arti Reggio Calabria",
+   "profilo": "Esperto Esterno disciplina di DESIGN DELL'ACCESSORIO",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-12",
+   "pubblicazione": "2026-11-27",
+   "contratto": "",
+   "descrizione": "Bando di selezione per il conferimento di un contratto di diritto privato per l’insegnamento della disciplina di DESIGN DELL'ACCESSORIO (TRIENNIO)",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/6d625312-ad7c-46f9-a980-406d60560aee",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2e39773c6b2643e2a515d27f3ff7042b",
+   "linkEnte": "https://ww2.gazzettaamministrativa.it/opencms/opencms/_gazzetta_amministrativa/amministrazione_trasparente/_calabria/_accademia_di_belle_arti_di_reggio_calabria/050_ban_con/",
+   "key": "inpa:2e39773c6b2643e2a515d27f3ff7042b",
+   "primaVista": "2026-11-27",
+   "entiMonitorati": [
+    "AFAM – Accademia di Belle Arti di Reggio Calabria",
+    "AFAM – Altri Conservatori e Accademie in Calabria"
+   ],
+   "categoria": "istruzione"
+  },
+  {
+   "id": "inpa:a28e9ca6f4bd4ed9a6f2faf0306031f7",
+   "inpaId": "a28e9ca6f4bd4ed9a6f2faf0306031f7",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CROTONE - BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI N. 1 POSTO DI DIRIGENTE AREA TECNICA A TEMPO INDETERMINATO, RECLUTAMENTO CORRELATO A CONCORSO EX ART.28 C.1 BIS DEL D.L. 75/2023",
+   "ente": "Comune di Crotone",
+   "profilo": "Dirigente Area Tecnica",
+   "sedi": [
+    "Crotone"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-17",
+   "pubblicazione": "2026-11-27",
+   "contratto": "tempo indeterminato",
+   "descrizione": "COMUNE DI CROTONE - BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI N. 1 POSTO DI DIRIGENTE AREA TECNICA A TEMPO INDETERMINATO, RECLUTAMENTO CORRELATO A CONCORSO EX ART.28 C.1 BIS DEL D.L. 75/2023",
+   "mansioni": "tuĴi i compiti, compresa l'adozione degli aĴi e provvedimenti amministrativi che impegnano l'amministrazione verso l'esterno, non ricompresi espressamente dalla legge o dallo statuto tra le funzioni di indirizzo e controllo politico-amministrativo degli organi di governo dell'ente o non rientranti tra le funzioni del segretario o del direĴore generale;\ntuĴi i compiti di aĴuazione degli obieĴivi e dei programmi…",
+   "titoliStudio": "Titolo di studio\n● Diploma di Laurea (DL) conseguito secondo l'ordinamento didaĴico previgente al D.M. 509/1999 in: ArchiteĴura, Ingegneria Civile, Ingegneria Edile, Ingegneria Edile-ArchiteĴura, Ingegneria per l’Ambiente e il Territorio, Pianiﬁcazione territoriale e urbanistica;\n● Oppure Laurea Specialistica (LS - D.M. 509/1999) o Laurea Magistrale (LM - D.M. 270/2004) equiparata ad uno dei diplomi di laurea sopra…",
+   "requisiti": "REQUISITI PER L’AMMISSIONE\nREQUISITI GENERALI\nSono ammessi al concorso solo i soggeĴi in possesso dei seguenti requisiti obbligatori:\na) CiĴadinanza italiana, salve le equiparazioni stabilite dalle leggi vigenti, o ciĴadinanza di uno dei paesi dell’Unione Europea o possesso di uno dei requisiti di cui all’art. 38, commi 1 e 3 bis del\nD.Lgs 165/2001 e s.m.i. I ciĴadini dell’Unione Europea e di Paesi terzi devono peraltro godere dei diriĴi civili e politici negli Stati di appartenenza o di provenienza, avere adeguata conoscenza della lingua italiana, essere in possesso, faĴa eccezione della titolarità della ciĴadinanza italiana, di tuĴi gli…",
+   "prove": "Per esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/4f2a44b9-c2d2-460b-9c38-72d7bbf094a2",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a28e9ca6f4bd4ed9a6f2faf0306031f7",
+   "linkEnte": "https://www.comune.crotone.it/",
+   "key": "inpa:a28e9ca6f4bd4ed9a6f2faf0306031f7",
+   "primaVista": "2026-11-27",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:eeb81cd86b4f4cf781260cd1547dad2d",
+   "inpaId": "eeb81cd86b4f4cf781260cd1547dad2d",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "COMUNE DI CROTONE -  BANDO DI CONCORSO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI DIRIGENTE CONTABILE, RISERVATO AL PERSONALE DIPENDENTE DEL COMUNE DI CROTONE, AI SENSI DELL’ART. 28, COMMA 1-BIS, D.L. N. 75/2023, CONVERTITO IN LEGGE N. 112/2023, CORRELATO A PROCEDURA CON ACCESSO…",
+   "ente": "Comune di Crotone",
+   "profilo": "Dirigente Contabile",
+   "sedi": [
+    "Crotone"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-17",
+   "pubblicazione": "2026-11-27",
+   "contratto": "",
+   "descrizione": "COMUNE DI CROTONE - BANDO DI CONCORSO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI DIRIGENTE CONTABILE, RISERVATO AL PERSONALE DIPENDENTE DEL COMUNE DI CROTONE, AI SENSI DELL’ART. 28, COMMA 1-BIS, D.L. N. 75/2023, CONVERTITO IN LEGGE N. 112/2023, CORRELATO A PROCEDURA CON ACCESSO DALL’ESTERNO",
+   "mansioni": "tuĴi i compiti, compresa l'adozione degli aĴi e provvedimenti amministrativi che impegnano l'amministrazione verso l'esterno, non ricompresi espressamente dalla legge o dallo statuto tra le funzioni di indirizzo e controllo politico-amministrativo degli organi di governo dell'ente o non rientranti tra le funzioni del segretario o del direĴore generale;\ntuĴi i compiti di aĴuazione degli obieĴivi e dei programmi…",
+   "titoliStudio": "Titolo di studio\n● Diploma di Laurea (DL) conseguito secondo l'ordinamento didaĴico previgente al D.M. 509/1999 in Economia e Commercio o titolo accademico del vecchio ordinamento equipollente;\n● Oppure Laurea Specialistica (LS - D.M. 509/1999) o Laurea Magistrale (LM - D.M. 270/2004) equiparata al diploma di laurea sopra indicato, ai sensi del Decreto Interministeriale 9 luglio 2009.",
+   "requisiti": "REQUISITI PER L’AMMISSIONE\nREQUISITI GENERALI\nSono ammessi al concorso solo i soggeĴi in possesso dei seguenti requisiti obbligatori:\na) CiĴadinanza italiana, salve le equiparazioni stabilite dalle leggi vigenti, o ciĴadinanza di uno dei paesi dell’Unione Europea o possesso di uno dei requisiti di cui all’art. 38, commi 1 e 3 bis del\nD.Lgs 165/2001 e s.m.i. I ciĴadini dell’Unione Europea e di Paesi terzi devono peraltro godere dei diriĴi civili e politici negli Stati di appartenenza o di provenienza, avere adeguata conoscenza della lingua italiana, essere in possesso, faĴa eccezione della titolarità della ciĴadinanza italiana, di tuĴi gli…",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/e2c7a589-2157-44dd-a719-fb3849da1241",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=eeb81cd86b4f4cf781260cd1547dad2d",
+   "linkEnte": "https://www.comune.crotone.it/",
+   "key": "inpa:eeb81cd86b4f4cf781260cd1547dad2d",
+   "primaVista": "2026-11-27",
+   "entiMonitorati": [
+    "Comuni capoluogo, Province e Città Metropolitana RC"
+   ],
+   "categoria": "calabria"
+  },
+  {
+   "id": "inpa:211cde6a663b4dfbab88b9ed5f694240",
+   "inpaId": "211cde6a663b4dfbab88b9ed5f694240",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "BANDO DI CONCORSO PUBBLICO, PER ESAMI, PER L’ASSUNZIONE DI UNA UNITA’ DI PERSONALE A TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTRUTTORI (EX CAT. C) - PROFILO DI \"ISTRUTTORE AMMINISTRATIVO\" CON RISERVA PRIORITARIA DEL POSTO IN FAVORE DEI VOLONTARI DELLE FORZE ARMATE.",
+   "ente": "Comune di Rosarno",
+   "profilo": "ISTRUTTORE AMMINISTRATIVO",
    "sedi": [
     "Reggio Calabria"
    ],
    "nazionale": false,
    "posti": 1,
    "scadenza": "2026-12-28",
-   "pubblicazione": "2026-11-26",
+   "pubblicazione": "2026-11-27",
    "contratto": "tempo indeterminato, tempo pieno",
-   "descrizione": "CONCORSO PUBBLICO PER ESAMI PER N. 1 POSTO DI FUNZIONARIO SPECIALISTA IN ATTIVITÀ TECNICHE - A TEMPO PIENO E INDETERMINATO, DA INQUADRARE NELL’AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE - AI SENSI DEL CCNL FUNZIONI LOCALI VIGENTE, DA ASSEGNARE ALL’AREA TECNICA DELL’ENTE",
-   "mansioni": "Evidenziato che, in considerazione della specific ità delle mansioni richieste, per l ’accesso alla procedura  selettiva di cui trattasi si ritiene opportuno prevedere, quali requisiti specifici di partecipazione, tra gli altri,",
-   "titoliStudio": "il possesso del titolo di studio della Laurea magistrale (ovvero uno dei titoli di studio alla stessa Laurea  magistrale equiparato secondo le corrispondenze indicate nel Decreto del Ministro dell’istruzione e della  ricerca, di concerto con il Ministro per la pubblica amministrazione e l’innovazione del 9 luglio 2009 , di  cui all’ordinamento introdotto con Decreto del Ministro dell’istruzione dell’università e…",
-   "requisiti": "Evidenziato che, in considerazione della specific ità delle mansioni richieste, per l ’accesso alla procedura  selettiva di cui trattasi si ritiene opportuno prevedere, quali requisiti specifici di partecipazione, tra gli altri,",
+   "descrizione": "BANDO DI CONCORSO PUBBLICO, PER ESAMI, PER L’ASSUNZIONE DI UNA UNITA’ DI PERSONALE A TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTRUTTORI (EX CAT. C) - PROFILO DI \"ISTRUTTORE AMMINISTRATIVO\" CON RISERVA PRIORITARIA DEL POSTO IN FAVORE DEI VOLONTARI DELLE FORZE ARMATE.",
+   "mansioni": "− Funzione PAGA ON LIN E: la procedura si svolgerà direttamente on -line accedendo al  circuito PagoPa;",
+   "titoliStudio": "Titolo di studio: possesso del Diploma di istruzione secondaria di secondo grado.\nI candidati che hanno conseguito il titolo di studio all’estero devono aver ottenuto il  riconoscimento da parte dell’autorità italiana competente, producendo in copia il provvedimento\nNella sezione “titoli di studio, abilitazioni professionali, attestazioni e certificazioni” del portale",
+   "requisiti": "Per l'ammissione al concorso è richiesto il possesso dei seguenti requisiti alla data di scadenza  del termine per la presentazione delle domande:\nRequisiti Generali\nCittadinanza italiana o possesso dei requisiti previsti dall'articolo 38, commi 1, 2 e 3-bis, del\nEtà non inferiore agli anni 18 e non superiore all'età ordinamentale per il collocamento a riposo  d'ufficio.\nGodimento dei diritti civili e politici e regolare iscrizione nelle liste elettorali.",
    "prove": "Per esami",
    "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/1fed7272-752c-4ee4-8413-f92e8c36049c",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2968eb59f36943fa97fe891f62abfeb8",
-   "linkEnte": "http://www.comune.grotteria.rc.it/",
-   "key": "inpa:2968eb59f36943fa97fe891f62abfeb8",
-   "primaVista": "2026-11-26",
+   "linkBando": "https://portale.inpa.gov.it/api/media/4f1c3f49-b3d4-4293-8804-56be6c0ca228",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=211cde6a663b4dfbab88b9ed5f694240",
+   "linkEnte": "",
+   "key": "inpa:211cde6a663b4dfbab88b9ed5f694240",
+   "primaVista": "2026-11-27",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
   {
-   "id": "inpa:610e09d07d104209933663e27fc150a4",
-   "inpaId": "610e09d07d104209933663e27fc150a4",
-   "fonti": [
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "AVVISO PUBBLICO, PER SOLI TITOLI, PER COPERTURA A TEMPO DETERMINATO PER MESI SEI DI N. 1 POSTO DI TERAPISTA DELLA RIABILITAZIONE PSICHIATRICA NELL’AMBITO DEL PROGETTO PNES – PIANO NAZIONALE EQUITA’ E SALUTE",
-   "ente": "Azienda Sanitaria Provinciale Crotone",
-   "profilo": "TERAPISTA DELLA RIABILITAZIONE PSICHIATRICA",
-   "sedi": [
-    "Crotone"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-26",
-   "pubblicazione": "2026-11-11",
-   "contratto": "tempo determinato",
-   "descrizione": "Si porta a conoscenza che questa Azienda, con atto di delibera n. 569 del 26.10.2026, ha approvato l’indizione del presente Avviso Pubblico per soli Titoli, per procedere all’assunzione a tempo determinato per mesi sei di n. 1 unità con profilo professionale di Terapista della Riabilitazione, nell’ambito del Progetto PNES – Piano Nazionale Equità e Salute. \nLa selezione avverrà per titoli da valutarsi secondo le norme stabilite per i Concorsi e contenute nel D.P.R. n. 220/2001. La data, l’ora e la sede di svolgimento del colloquio verranno comunicate agli interessati, esclusivamente,…",
-   "mansioni": "",
-   "titoliStudio": "Si porta a conoscenza che questa Azienda, con atto di delibera n. 569 del 26.10.2026, ha approvato l’indizione del presente Avviso Pubblico per soli Titoli, per procedere all’assunzione a tempo determinato per mesi sei di n. 1 unità con profilo professionale di Terapista della Riabilitazione, nell’ambito del Progetto PNES – Piano Nazionale Equità e Salute.\na) Diploma di laurea in Professioni Sanitarie della…",
-   "requisiti": "a) Diploma di laurea in Professioni Sanitarie della Riabilitazione o in disciplina equipollente o affine ai sensi di legge;\nb) Iscrizione all’Ordine.",
-   "prove": "Per titoli.",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/PNES_signed.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=610e09d07d104209933663e27fc150a4",
-   "linkEnte": "www.asp.crotone.it",
-   "altriLink": [
-    "https://www.concorsipubblici.com/azienda-sanitaria-provinciale-di-crotone-concorso-terapista-della-riabilitazione-crotone-2026-0"
-   ],
-   "key": "inpa:610e09d07d104209933663e27fc150a4",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "ASP Crotone"
-   ],
-   "categoria": "sanita"
-  },
-  {
-   "id": "inpa:4d9428873d8a48209bc884d262893f58",
-   "inpaId": "4d9428873d8a48209bc884d262893f58",
+   "id": "inpa:3eed4c89f1334204a45f9066d568d840",
+   "inpaId": "3eed4c89f1334204a45f9066d568d840",
    "fonti": [
     "inPA"
    ],
-   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO PER IL CONFERIMENTO DI UN INCARICO QUINQUENNALE DI DIREZIONE DELLA STRUTTURA COMPLESSA DI TUTELA ANZIANI E DISABILI PRESSO L’AZIENDA SANITARIA PROVINCIALE DI COSENZA",
-   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
-   "profilo": "Direttore Struttura Complessa",
+   "titolo": "Ruolo speciale str. Sanitario AM 2026",
+   "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+   "profilo": "UFFICIALI",
    "sedi": [
-    "Cosenza"
+    "Nazionale"
    ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-26",
-   "pubblicazione": "2026-06-20",
+   "nazionale": true,
+   "posti": 6,
+   "scadenza": "2026-12-28",
+   "pubblicazione": "2026-11-27",
    "contratto": "",
-   "descrizione": "AZIENDA PER IL GOVERNO DELLA SANITA' DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO PER IL CONFERIMENTO DI UN INCARICO QUINQUENNALE DI DIREZIONE DELLA STRUTTURA COMPLESSA DI TUTELA ANZIANI E DISABILI PRESSO L’AZIENDA SANITARIA PROVINCIALE DI COSENZA",
-   "mansioni": "",
-   "titoliStudio": "",
-   "requisiti": "L’affidamento dell’incarico di Direttore della Unità Operativa Complessa, tenuto conto delle peculiarità organizzative proprie della realtà in cui dovrà operare, comporta il possesso dell’esperienza e delle capacità di esercitare le competenze professionali e manageriali ritenute necessarie a ricoprire il ruolo oggetto dell’avviso.",
-   "prove": "Per titoli e colloquio",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://portale.inpa.gov.it/api/media/9631af8d-0090-4df4-af7a-50303d26c705",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4d9428873d8a48209bc884d262893f58",
-   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/13211",
-   "key": "inpa:4d9428873d8a48209bc884d262893f58",
-   "primaVista": "2026-11-13",
+   "descrizione": "Concorso straordinario, per titoli ed esami, per il reclutamento di 6 (sei) Sottotenenti in servizio permanente nel ruolo speciale del Corpo Sanitario Aeronautico",
+   "mansioni": "6 -  reindirizzamento al portale dei concorsi on-line del Ministero della Difesa per le attività di cui ai  precedenti commi 2 e 3.\nI concorrenti che avranno superato le prove scritte saranno sottoposti ad acc ertamenti psico -  fisici presso l'Istituto di Medicina Aerospaziale dell'Aeronautica Militare di Roma, ubicato in via  dei Frentani n. 5, mentre quelli attitudinali si svolgeranno presso il Centro di…",
+   "titoliStudio": "2007, concernenti le determinazioni delle classi di laurea mag istrale e delle classi  delle lauree universitarie;\n2 -  annualmente concorsi straordinari per titoli ed esami per il reclutamento di  ufficiali nei citati ruoli da trarre dai giovani che non hanno superato il 35° anno di  età alla data indicata dal bando di concorso e sono in possesso di uno dei diplomi  di laurea previsti ai sensi dell'articolo 647,…",
+   "requisiti": "Requisiti di partecipazione\nlaurea in Scienze Biolog iche ( LM-06) ed equipollenti, con il relativo diploma di  abilitazione all’esercizio della professione ed iscrizione al relativo Ordine professionale  nella Sezione A e con una delle seguenti specializzazioni: Genetica medica, Microbiologia  e virologia, Patologia clinica e Biochimica\nlaurea magistrale in psicologia (LM -51), dell’iscrizione all’Albo degli psicologi e  abilitazione all’esercizio della professione per i partecipanti al concorso di cui al comma 1,  lettera b), del precedente articolo;\nI requisiti di parte cipazione al concorso d i cui al precedente comma 1, ad eccezione di…",
+   "prove": "Per titoli e esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS).",
+   "linkBando": "https://portale.inpa.gov.it/api/media/88cc362e-2cc2-4151-88ee-a5ff790f7dc4",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3eed4c89f1334204a45f9066d568d840",
+   "linkEnte": "https://concorsi.difesa.it",
+   "key": "inpa:3eed4c89f1334204a45f9066d568d840",
+   "primaVista": "2026-11-27",
    "entiMonitorati": [
-    "Regione Calabria – Bandi e avvisi",
-    "Azienda Zero Calabria"
+    "Esercito Italiano"
    ],
-   "categoria": "sanita"
-  },
-  {
-   "id": "cp:consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-concorso-ricercatore-0",
-   "fonti": [
-    "ConcorsiPubblici"
-   ],
-   "titolo": "Consiglio Nazionale delle Ricerche - Istituto per la Tecnologia delle Membrane, 1 ricercatore",
-   "ente": "Consiglio Nazionale delle Ricerche - Istituto per la Tecnologia delle Membrane",
-   "profilo": "ricercatore",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": null,
-   "scadenza": "2026-11-26",
-   "pubblicazione": "",
-   "descrizione": "Conferimento di una borsa di ricerca annuale (GU n.86 del 06-11-2026)",
-   "link": "https://www.concorsipubblici.com/consiglio-nazionale-delle-ricerche-istituto-la-tecnologia-delle-membrane-concorso-ricercatore-0",
-   "inpaId": null,
-   "contratto": "tempo determinato",
-   "mansioni": "I borsisti possono svolgere attività di lavoro autonomo non esercitato abitualmente, previa comunicazione scritta ai Responsabili scientifici (d’ora in poi Tutor) e a condizione che non comporti conflitto di interessi con la specifica attività svolta dal borsista e non rechi pregiudizio al CNR in relazione alle attività svolte.\nTali fattispecie non comporteranno la perdita del diritto a completare l’attività di…",
-   "titoliStudio": "a) aver conseguito la laurea specialistica/magistrale in: DM 5/05/2004: 62/S Chimica o 14/S Chimica e Tecnologie Farmaceutiche DM 9/07/2009: LM-54 Chimica o LM-13 Chimica e Tecnologie Farmaceutiche Sono altresì ammessi con riserva i candidati in possesso di un titolo di studio conseguito presso una Università straniera.\nChimica \nScienze chimiche",
-   "requisiti": "La partecipazione alla selezione è libera senza limitazioni in ordine alla cittadinanza. \nPer l’ammissione alla selezione i candidati debbono possedere i seguenti requisiti: \na) aver conseguito la laurea specialistica/magistrale in: DM 5/05/2004: 62/S Chimica o 14/S Chimica e Tecnologie Farmaceutiche DM 9/07/2009: LM-54 Chimica o LM-13 Chimica e Tecnologie Farmaceutiche Sono altresì ammessi con riserva i candidati in possesso di un titolo di studio conseguito presso una Università straniera. \nb) non aver compiuto il trentacinquesimo anno di età alla data di scadenza del termine per la…",
-   "prove": "Colloquio.",
-   "candidatura": "https://selezionionline.cnr.it/\nQualora il termine di presentazione delle domande venga a cadere in un giorno festivo, detto termine si intende protratto al primo giorno non festivo immediatamente seguente.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/files%20%281%29.pdf",
-   "key": "t:consiglio nazionale delle ricerche istit|2026-11-26|",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "CNR"
-   ],
-   "categoria": "aziende"
+   "categoria": "forze"
   },
   {
    "id": "inpa:44132e4801074b099d48c879e80009d3",
@@ -413,46 +548,6 @@
     "Comuni capoluogo, Province e Città Metropolitana RC"
    ],
    "categoria": "calabria"
-  },
-  {
-   "id": "inpa:388cf25d4b854fc6bc87e3e5f8c9893f",
-   "inpaId": "388cf25d4b854fc6bc87e3e5f8c9893f",
-   "fonti": [
-    "Concorsando",
-    "ConcorsiPubblici",
-    "inPA"
-   ],
-   "titolo": "Concorso pubblico, per esami e titoli , per l'assunzione di n. 1 unità a tempo indeterminato e pieno di personale del profilo di Funzionario amministrativo - gestionale di cui al CCNL Istruzione e Ricerca - comparto AFAM del 18/01/2024",
-   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
-   "profilo": "Funzionario amministrativo/gestionale - Area dei Funzionari CCNL Istruzione e Ricerca - sezione AFAM",
-   "sedi": [
-    "Cosenza"
-   ],
-   "nazionale": false,
-   "posti": 1,
-   "scadenza": "2026-11-30",
-   "pubblicazione": "2026-10-31",
-   "contratto": "tempo indeterminato, tempo pieno",
-   "descrizione": "Il Conservatorio di Musica Stanislao Giacomantonio di Cosenza indice un concorso pubblico, per esami e titoli, per la formazione di una graduatoria di istituto finalizzata alla copertura di 1 posto a tempo pieno e indeterminato di funzionario, settore amministrativo-gestionale, Area dei Funzionari.\nPer partecipare serve una laurea, almeno triennale, in ambito economico-aziendale o economia e commercio, nelle classi previste dal bando. L'esame prevede una prova scritta tecnica, un questionario comportamentale a risposta multipla e prove orali.",
-   "mansioni": "Per come previsto nell’Allegato I - “Declaratoria delle aree del sistema di classificazione del personale  tecnico e amministrativo dell’AFAM” del CCNL del comparto AFAM sottoscritto il 18 gennaio 2024, sono  indicate le relative specifiche professionali:\nLa prova scritta di carattere tecnico e la prova comportamentale scritta si svolgerà in modalità digitale,  utilizzando la strumentazione messa a disposizione…",
-   "titoliStudio": "Titolo di studio: Laurea almeno Triennale ovvero diploma di laurea conseguito secondo il previgente ordinamento (ante D.M. 509/1999), in una delle seguenti discipline:\nLaurea equiparata, specialistica o magistrale: Scienze economico-aziendali (84/S – LM/77) - Economia e commercio\nLaurea equiparata, specialistica o magistrale: Scienze dell’economia (64/S – LM-56) – Scienze economico-aziendali (84/S – LM-77)\nEconomia…",
-   "requisiti": "Titolo di studio: Laurea almeno Triennale ovvero diploma di laurea conseguito secondo il previgente ordinamento (ante D.M. 509/1999), in una delle seguenti discipline:\n- Economia aziendale\nLaurea equiparata, specialistica o magistrale: Scienze economico-aziendali (84/S – LM/77) - Economia e commercio\nLaurea equiparata, specialistica o magistrale: Scienze dell’economia (64/S – LM-56) – Scienze economico-aziendali (84/S – LM-77)",
-   "prove": "La prova volta a testare il profilo comportamentale verifica una, più, o tutte le seguenti Aree/competenze trasversali:\nArea: Capire il contesto pubblico, competenza trasversale: soluzione di problemi;\nArea: Interagire nel contesto Pubblico, competenza trasversale: collaborazione, orientamento al…",
-   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
-   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando%20di%20concorso%20per%20il%20reclutamento%20di%20funzionario%20amministrativo-gestionale%202026-1.pdf",
-   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=388cf25d4b854fc6bc87e3e5f8c9893f",
-   "linkEnte": "https://www.conservatoriocosenza.it/amministrazione-trasparente/concorsi/",
-   "altriLink": [
-    "https://www.concorsipubblici.com/conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-funzionario-amministrativo",
-    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-presso-il-conservatorio-di-musica-stanislao-giacomantonio-di-cosenza/"
-   ],
-   "key": "inpa:388cf25d4b854fc6bc87e3e5f8c9893f",
-   "primaVista": "2026-11-13",
-   "entiMonitorati": [
-    "AFAM – Altri Conservatori e Accademie in Calabria",
-    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza"
-   ],
-   "categoria": "istruzione"
   },
   {
    "id": "inpa:a47c9fc6b1a749e989ea04170ce4f52b",
@@ -956,6 +1051,37 @@
    "linkEnte": "https://decollatura.trasparenza-valutazione-merito.it/web/trasparenza/papca-g/-/papca/display/1813200",
    "key": "inpa:67cdd6d4f2f24922ada35fc99c7ff246",
    "primaVista": "2026-11-13",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:bd3aa5f64bfa48e98facfc2150d7fc3a",
+   "inpaId": "bd3aa5f64bfa48e98facfc2150d7fc3a",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO per la stabilizzazione, ai sensi dell’art. 3, comma 5, del D.L. 22 aprile 2023, n. 44, convertito con modificazioni dalla Legge 21 giugno 2023, n. 74, di n. 1 unità già assunta ai sensi dell’art. 31-bis del D.L. 6 novembre 2021, n. 152, convertito con modificazioni dalla Legge 29…",
+   "ente": "Comune di Longobardi",
+   "profilo": "Funzionario Tecnico",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-06",
+   "pubblicazione": "2026-11-26",
+   "contratto": "",
+   "descrizione": "Stabilizzazione PNRR",
+   "mansioni": "",
+   "titoliStudio": "possesso di laurea in Ingegneria Edile- Architettura o titolo equipollente secondo la  normativa vigente.\nPer i candidati in possesso di titolo di studio conseguito all’estero, l’assunzione è subordinata al  rilascio, da parte delle competenti autorità, del provvedimento di equivalenza del titolo posseduto  a quello richiesto, ai sensi dell’art. 38 del D.lgs. 30 marzo 2001, n. 165.\ndisciplinari ai sensi della…",
+   "requisiti": "il suddetto dipendente, entro il termine previsto dalla normativa vigente, ha maturato i  requisiti temporali e professionali prescritti dall’art. 3, comma 5, del D.L. n. 44/2023 ai fini  della stabilizzazione nel profilo professionale rivestito;\nRequisiti generali\nI candidati devono essere in possesso dei requisiti generali previsti dalla normativa vigente per  l’accesso al pubblico impiego e precisamente:\ni cittadini degli Stati membri dell’Unione Europea e i loro familiari non aventi la  cittadinanza di uno Stato membro che siano titolari del diritto di soggiorno o del diritto di  soggiorno permanente;\nil godimento dei diritti civili e…",
+   "prove": "Per colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/ae44026e-8a5d-4d8c-b625-18291a00197b",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bd3aa5f64bfa48e98facfc2150d7fc3a",
+   "linkEnte": "",
+   "key": "inpa:bd3aa5f64bfa48e98facfc2150d7fc3a",
+   "primaVista": "2026-11-26",
    "entiMonitorati": [],
    "categoria": "comuni"
   },
@@ -2292,6 +2418,37 @@
    "categoria": "forze"
   },
   {
+   "id": "inpa:67880034686f4175bdb54c274eabb1fe",
+   "inpaId": "67880034686f4175bdb54c274eabb1fe",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA ESTERNA, AI SENSI DELL’ART. 30, C. 1, DEL D.LGS. N. 165/2001, MEDIANTE SELEZIONE PER COLLOQUIO, PER LA COPERTURA, A TEMPO PIENO E INDETERMINATO, DI N. 1 POSTO DI FUNZIONARIO TECNICO, AREA DEI FUNZIONARI E E.Q., CCNL COMPARTO FUNZIONI LOCALI",
+   "ente": "Comune di Condofuri",
+   "profilo": "FUNZIONARIO TECNICO",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-18",
+   "pubblicazione": "2026-11-26",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA ESTERNA, AI SENSI DELL’ART. 30, C. 1, DEL D.LGS. N. 165/2001, MEDIANTE SELEZIONE PER COLLOQUIO, PER LA COPERTURA, A TEMPO PIENO E INDETERMINATO, DI N. 1 POSTO DI FUNZIONARIO TECNICO, AREA DEI FUNZIONARI E E.Q., CCNL COMPARTO FUNZIONI LOCALI",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/8ed05e04-3b66-4fa5-929c-e5d2632f358c",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67880034686f4175bdb54c274eabb1fe",
+   "linkEnte": "",
+   "key": "inpa:67880034686f4175bdb54c274eabb1fe",
+   "primaVista": "2026-11-26",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
    "id": "cp:universita-mediterranea-di-reggio-calabria-concorso-professore-di-prima-fascia-reggio-calabria-3",
    "fonti": [
     "ConcorsiPubblici"
@@ -2740,6 +2897,138 @@
    "categoria": "comuni"
   },
   {
+   "id": "inpa:33a24167c39f427fa81502d663d274be",
+   "inpaId": "33a24167c39f427fa81502d663d274be",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE –…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Cosenza",
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 4,
+   "scadenza": "2026-12-25",
+   "pubblicazione": "2026-11-26",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA, REGIONALE E INTERREGIONALE, PER TITOLI E COLLOQUIO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE – DISCIPLINA DI SCIENZE DELL’ ALIMENTAZIONE – DA ASSEGNARE ALLE AZIENDE SANITARIE REGIONALI",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/7f16e181-d719-49d9-8aa3-6c0ce3160b84",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=33a24167c39f427fa81502d663d274be",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22367",
+   "key": "inpa:33a24167c39f427fa81502d663d274be",
+   "primaVista": "2026-11-26",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:3eb73f1b6b9f4c2fa03c3b0916c3028a",
+   "inpaId": "3eb73f1b6b9f4c2fa03c3b0916c3028a",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE – DISCIPLINA DI SCIENZE DELL’ ALIMENTAZIONE DA ASSEGNARE…",
+   "ente": "Azienda per il Governo della Sanità della Regione Calabria - Azienda - Zero",
+   "profilo": "DIRIGENTE MEDICO",
+   "sedi": [
+    "Cosenza",
+    "Catanzaro"
+   ],
+   "nazionale": false,
+   "posti": 4,
+   "scadenza": "2026-12-25",
+   "pubblicazione": "2026-11-26",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AZIENDA PER IL GOVERNO DELLA SANITÀ DELLA REGIONE CALABRIA - AZIENDA ZERO -CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 POSTI DI DIRIGENTE MEDICO – AREA MEDICA E DELLE SPECIALITÀ MEDICHE – DISCIPLINA DI SCIENZE DELL’ ALIMENTAZIONE DA ASSEGNARE ALLE AZIENDE SANITARIE REGIONALI",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "DI PRECISARE CHE i termini per la presentazione delle domande di partecipazione alla  procedura di mobilità in oggetto, nonché per l’iscrizione alla procedura di cui al bando di concorso  (30 giorni), decorreranno dalla pubblicazione dell’Avviso di mobilità e del Bando di concorso sul",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/5a74b540-bc4a-460f-a579-6866bfd149e6",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3eb73f1b6b9f4c2fa03c3b0916c3028a",
+   "linkEnte": "https://online-aziendazero.sisr.regione.calabria.it/L190/sezione/show/22382",
+   "key": "inpa:3eb73f1b6b9f4c2fa03c3b0916c3028a",
+   "primaVista": "2026-11-26",
+   "entiMonitorati": [
+    "Regione Calabria – Bandi e avvisi",
+    "Azienda Zero Calabria"
+   ],
+   "categoria": "sanita"
+  },
+  {
+   "id": "inpa:7bf80516bac543c0bda3405b4fdbe858",
+   "inpaId": "7bf80516bac543c0bda3405b4fdbe858",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "AVVISO DI MOBILITA' ART.30 DEL D.LGS. N.165/2001, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO ED INDETERMINATO, NEL PROFILO DI “FUNZIONARIO TECNICO- AREA TECNICA MANUTENTIVA” - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE (EX CAT. D), CCNL COMPARTO FUNZIONI LOCALI, DA ASSEGNARE ALL’AREA…",
+   "ente": "Comune di Malito",
+   "profilo": "FUNZIONARIO EQ TECNICO",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-26",
+   "pubblicazione": "2026-11-26",
+   "contratto": "tempo indeterminato, tempo pieno, mobilità",
+   "descrizione": "AVVISO MOBILITA' FUNZIONARIO TECNICO COPERTURA N. 1 POSTO TEMPO PIENO",
+   "mansioni": "",
+   "titoliStudio": "",
+   "requisiti": "",
+   "prove": "Per titoli e colloquio",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/e9db23c7-dd57-47c1-8335-e98389191374",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7bf80516bac543c0bda3405b4fdbe858",
+   "linkEnte": "https://www.comune.malito.cs.it/",
+   "key": "inpa:7bf80516bac543c0bda3405b4fdbe858",
+   "primaVista": "2026-11-26",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
+   "id": "inpa:2968eb59f36943fa97fe891f62abfeb8",
+   "inpaId": "2968eb59f36943fa97fe891f62abfeb8",
+   "fonti": [
+    "inPA"
+   ],
+   "titolo": "CONCORSO PUBBLICO PER ESAMI PER N. 1 POSTO DI FUNZIONARIO SPECIALISTA IN ATTIVITÀ TECNICHE - A TEMPO PIENO E INDETERMINATO, DA INQUADRARE NELL’AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE - AI SENSI DEL CCNL FUNZIONI LOCALI VIGENTE, DA ASSEGNARE ALL’AREA TECNICA DELL’ENTE",
+   "ente": "Comune di Grotteria",
+   "profilo": "FUNZIONARIO SPECIALISTA IN ATTIVITÀ TECNICHE",
+   "sedi": [
+    "Reggio Calabria"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-28",
+   "pubblicazione": "2026-11-26",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "CONCORSO PUBBLICO PER ESAMI PER N. 1 POSTO DI FUNZIONARIO SPECIALISTA IN ATTIVITÀ TECNICHE - A TEMPO PIENO E INDETERMINATO, DA INQUADRARE NELL’AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE - AI SENSI DEL CCNL FUNZIONI LOCALI VIGENTE, DA ASSEGNARE ALL’AREA TECNICA DELL’ENTE",
+   "mansioni": "Evidenziato che, in considerazione della specific ità delle mansioni richieste, per l ’accesso alla procedura  selettiva di cui trattasi si ritiene opportuno prevedere, quali requisiti specifici di partecipazione, tra gli altri,",
+   "titoliStudio": "il possesso del titolo di studio della Laurea magistrale (ovvero uno dei titoli di studio alla stessa Laurea  magistrale equiparato secondo le corrispondenze indicate nel Decreto del Ministro dell’istruzione e della  ricerca, di concerto con il Ministro per la pubblica amministrazione e l’innovazione del 9 luglio 2009 , di  cui all’ordinamento introdotto con Decreto del Ministro dell’istruzione dell’università e…",
+   "requisiti": "Evidenziato che, in considerazione della specific ità delle mansioni richieste, per l ’accesso alla procedura  selettiva di cui trattasi si ritiene opportuno prevedere, quali requisiti specifici di partecipazione, tra gli altri,",
+   "prove": "Per esami",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://portale.inpa.gov.it/api/media/1fed7272-752c-4ee4-8413-f92e8c36049c",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2968eb59f36943fa97fe891f62abfeb8",
+   "linkEnte": "http://www.comune.grotteria.rc.it/",
+   "key": "inpa:2968eb59f36943fa97fe891f62abfeb8",
+   "primaVista": "2026-11-26",
+   "entiMonitorati": [],
+   "categoria": "comuni"
+  },
+  {
    "id": "inpa:53bb89a2abc1453382b6df96218a8436",
    "inpaId": "53bb89a2abc1453382b6df96218a8436",
    "fonti": [
@@ -2781,6 +3070,46 @@
    "primaVista": "2026-11-25",
    "entiMonitorati": [],
    "categoria": "altro"
+  },
+  {
+   "id": "inpa:388cf25d4b854fc6bc87e3e5f8c9893f",
+   "inpaId": "388cf25d4b854fc6bc87e3e5f8c9893f",
+   "fonti": [
+    "Concorsando",
+    "ConcorsiPubblici",
+    "inPA"
+   ],
+   "titolo": "Concorso pubblico, per esami e titoli , per l'assunzione di n. 1 unità a tempo indeterminato e pieno di personale del profilo di Funzionario amministrativo - gestionale di cui al CCNL Istruzione e Ricerca - comparto AFAM del 18/01/2024",
+   "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+   "profilo": "Funzionario amministrativo/gestionale - Area dei Funzionari CCNL Istruzione e Ricerca - sezione AFAM",
+   "sedi": [
+    "Cosenza"
+   ],
+   "nazionale": false,
+   "posti": 1,
+   "scadenza": "2026-12-30",
+   "pubblicazione": "2026-10-31",
+   "contratto": "tempo indeterminato, tempo pieno",
+   "descrizione": "Il Conservatorio di Musica Stanislao Giacomantonio di Cosenza indice un concorso pubblico, per esami e titoli, per la formazione di una graduatoria di istituto finalizzata alla copertura di 1 posto a tempo pieno e indeterminato di funzionario, settore amministrativo-gestionale, Area dei Funzionari.\nPer partecipare serve una laurea, almeno triennale, in ambito economico-aziendale o economia e commercio, nelle classi previste dal bando. L'esame prevede una prova scritta tecnica, un questionario comportamentale a risposta multipla e prove orali.",
+   "mansioni": "Per come previsto nell’Allegato I - “Declaratoria delle aree del sistema di classificazione del personale  tecnico e amministrativo dell’AFAM” del CCNL del comparto AFAM sottoscritto il 18 gennaio 2024, sono  indicate le relative specifiche professionali:\nLa prova scritta di carattere tecnico e la prova comportamentale scritta si svolgerà in modalità digitale,  utilizzando la strumentazione messa a disposizione…",
+   "titoliStudio": "Titolo di studio: Laurea almeno Triennale ovvero diploma di laurea conseguito secondo il previgente ordinamento (ante D.M. 509/1999), in una delle seguenti discipline:\nLaurea equiparata, specialistica o magistrale: Scienze economico-aziendali (84/S – LM/77) - Economia e commercio\nLaurea equiparata, specialistica o magistrale: Scienze dell’economia (64/S – LM-56) – Scienze economico-aziendali (84/S – LM-77)\nEconomia…",
+   "requisiti": "Titolo di studio: Laurea almeno Triennale ovvero diploma di laurea conseguito secondo il previgente ordinamento (ante D.M. 509/1999), in una delle seguenti discipline:\n- Economia aziendale\nLaurea equiparata, specialistica o magistrale: Scienze economico-aziendali (84/S – LM/77) - Economia e commercio\nLaurea equiparata, specialistica o magistrale: Scienze dell’economia (64/S – LM-56) – Scienze economico-aziendali (84/S – LM-77)",
+   "prove": "La prova volta a testare il profilo comportamentale verifica una, più, o tutte le seguenti Aree/competenze trasversali:\nArea: Capire il contesto pubblico, competenza trasversale: soluzione di problemi;\nArea: Interagire nel contesto Pubblico, competenza trasversale: collaborazione, orientamento al…",
+   "candidatura": "Domanda esclusivamente online sul portale inPA (accesso con SPID, CIE o CNS), con indirizzo PEC personale.",
+   "linkBando": "https://www.concorsipubblici.com/sites/default/files/contest/2026-11/Bando%20di%20concorso%20per%20il%20reclutamento%20di%20funzionario%20amministrativo-gestionale%202026-1.pdf",
+   "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=388cf25d4b854fc6bc87e3e5f8c9893f",
+   "linkEnte": "https://www.conservatoriocosenza.it/amministrazione-trasparente/concorsi/",
+   "altriLink": [
+    "https://www.concorsipubblici.com/conservatorio-di-musica-stanislao-giacomantonio-di-cosenza-concorso-funzionario-amministrativo",
+    "https://www.concorsando.it/blog/concorsi/1-posto-di-funzionario-presso-il-conservatorio-di-musica-stanislao-giacomantonio-di-cosenza/"
+   ],
+   "key": "inpa:388cf25d4b854fc6bc87e3e5f8c9893f",
+   "primaVista": "2026-11-13",
+   "entiMonitorati": [
+    "AFAM – Altri Conservatori e Accademie in Calabria",
+    "AFAM – Conservatorio \"S. Giacomantonio\" di Cosenza"
+   ],
+   "categoria": "istruzione"
   },
   {
    "id": "inpa:57411ee993a54405a13a7ac451447256",
